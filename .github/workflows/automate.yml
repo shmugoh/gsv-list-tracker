@@ -10,6 +10,7 @@ jobs:
   automate-changes:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout Branch
       - uses: actions/checkout@v2
         with:
           ref: ${{ github.head_ref }}
@@ -23,6 +24,6 @@ jobs:
         run: echo "::set-output name=date::$(date +'%Y-%m-%d %H:%M:%S')"
 
       - name: Push Changes
-      - uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: ${{ steps.date.outputs.date }}
