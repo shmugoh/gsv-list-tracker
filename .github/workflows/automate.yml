@@ -1,0 +1,29 @@
+name: "Automate Changes"
+on:
+  schedule:
+  - cron: "* 23 * * *"
+  push:
+    branches:
+      - main
+
+jobs:
+  automate-changes:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Branch
+    - uses: actions/checkout@v2
+      with:
+        ref: ${{ github.head_ref }}
+
+      - name: Run Script
+        run: python tracking.py
+        shell: sh
+
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d %H:%M:%S')"
+
+      - name: Push Changes
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: ${{ steps.date.outputs.date }}
