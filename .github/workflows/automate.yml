@@ -10,10 +10,10 @@ jobs:
   automate-changes:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout Branch
-    - uses: actions/checkout@v2
-      with:
-        ref: ${{ github.head_ref }}
+      - name: Checkout Branch
+      - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
 
       - name: Run Script
         run: python tracking.py
