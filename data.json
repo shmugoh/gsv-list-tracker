@@ -3191,7 +3191,7 @@
     "districts": "Dundalk, Newbridge, Sheffield Cross, TyrrellSpass, Drogheda",
     "publish": "No",
     "datestart": "2021-03-01T08:00:00.000Z",
-    "dateend": "2021-11-15T08:00:00.000Z"
+    "dateend": "2022-12-31T08:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -3201,7 +3201,7 @@
     "districts": "Galway",
     "publish": "No",
     "datestart": "2021-03-01T08:00:00.000Z",
-    "dateend": "2021-11-15T08:00:00.000Z"
+    "dateend": "2022-12-31T08:00:00.000Z"
   },
   {
     "country": "Israel",
@@ -12117,7 +12117,7 @@
     "districts": "West Coast, Cape Winelands, Overberg, Eden, Central Karoo, City of Cape Town",
     "publish": "Yes",
     "datestart": "2021-12-01T08:00:00.000Z",
-    "dateend": "2022-05-01T07:00:00.000Z"
+    "dateend": "2022-07-31T07:00:00.000Z"
   },
   {
     "country": "South Africa",
@@ -12127,7 +12127,7 @@
     "districts": "Namakwa, Pixley ka Seme, ZF Mgcawu, Frances Baard, John Taolo Gaetsewe",
     "publish": "Yes",
     "datestart": "2021-12-01T08:00:00.000Z",
-    "dateend": "2022-05-01T07:00:00.000Z"
+    "dateend": "2022-07-31T07:00:00.000Z"
   },
   {
     "country": "South Africa",
@@ -12137,7 +12137,7 @@
     "districts": "Sarah Baartman, Amathole, Chris Hani, Joe Gqabi, OR Tambo, Alfred Nzo, Bufallo City, Nelson Mandela Bay",
     "publish": "Yes",
     "datestart": "2021-12-01T08:00:00.000Z",
-    "dateend": "2022-05-01T07:00:00.000Z"
+    "dateend": "2022-07-31T07:00:00.000Z"
   },
   {
     "country": "South Africa",
@@ -12147,7 +12147,7 @@
     "districts": "Xhariep, Lejweleputswa, Thabo Mofutsanyana, Fezile Dabi, Mangaung",
     "publish": "Yes",
     "datestart": "2021-12-01T08:00:00.000Z",
-    "dateend": "2022-05-01T07:00:00.000Z"
+    "dateend": "2022-07-31T07:00:00.000Z"
   },
   {
     "country": "South Africa",
@@ -12157,7 +12157,7 @@
     "districts": "Ugu, Umgungundlovu, Uthukela, Umzinyathi, Amajuba, Zululand, Umkhanyakude, King Cetshwayo, Ilembe, Harry Gwala, Ethekwini",
     "publish": "Yes",
     "datestart": "2021-12-01T08:00:00.000Z",
-    "dateend": "2022-05-01T07:00:00.000Z"
+    "dateend": "2022-07-31T07:00:00.000Z"
   },
   {
     "country": "South Africa",
@@ -12167,7 +12167,7 @@
     "districts": "Gert Sibande, Nkandala, Ehlanzeni",
     "publish": "Yes",
     "datestart": "2021-12-01T08:00:00.000Z",
-    "dateend": "2022-05-01T07:00:00.000Z"
+    "dateend": "2022-07-31T07:00:00.000Z"
   },
   {
     "country": "South Africa",
@@ -12177,7 +12177,7 @@
     "districts": "Mopani, Whembe, Capricorn, Waterberg, Sekhukhune",
     "publish": "Yes",
     "datestart": "2021-12-01T08:00:00.000Z",
-    "dateend": "2022-05-01T07:00:00.000Z"
+    "dateend": "2022-07-31T07:00:00.000Z"
   },
   {
     "country": "South Africa",
@@ -12187,7 +12187,7 @@
     "districts": "Bojanala Platinum, Ngaka Modiri Molema, Dr Ruth Segomotsi Mompati, Dr Kenneth Kaunda",
     "publish": "Yes",
     "datestart": "2021-12-01T08:00:00.000Z",
-    "dateend": "2022-05-01T07:00:00.000Z"
+    "dateend": "2022-07-31T07:00:00.000Z"
   },
   {
     "country": "South Africa",
@@ -12197,7 +12197,7 @@
     "districts": "Sedibeng, West Rand, Ekurhuleni, City of Johannesburg, City of Tshwane",
     "publish": "Yes",
     "datestart": "2021-12-01T08:00:00.000Z",
-    "dateend": "2022-05-01T07:00:00.000Z"
+    "dateend": "2022-07-31T07:00:00.000Z"
   },
   {
     "country": "Sri Lanka",
@@ -13349,7 +13349,7 @@
     "districts": "Poole, Bornemouth, Dorset, Somerset, Torquay, Exeter, Plymouth, Newquay, Weymouth, Poole, Bristol, Bath, Swindon, Gloucester",
     "publish": "Yes",
     "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2021-12-31T08:00:00.000Z"
+    "dateend": "2022-12-31T08:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -13359,7 +13359,7 @@
     "districts": "Winchester, Basingstoke, Isle of Wight, Wiltshire, New Forest NP, Brighton, Eastbourne, Canterbury, Folkestone, Newhaven, Portsmouth, Oxford, Dover, Ramsgate, Crawley, Southampton, Maidstone, Rochester",
     "publish": "Yes",
     "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2021-12-31T08:00:00.000Z"
+    "dateend": "2022-12-31T08:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -13937,8 +13937,8 @@
     "region": "Στερεά Ελλάδα",
     "districts": "Λαμία",
     "publish": "Yes",
-    "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2022-09-01T07:00:00.000Z"
+    "datestart": "2022-04-01T07:00:00.000Z",
+    "dateend": "2022-04-30T07:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
@@ -13947,8 +13947,8 @@
     "region": "Μακεδονία",
     "districts": "Θεσσαλονίκη, Χαλκιδική",
     "publish": "Yes",
-    "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2022-09-01T07:00:00.000Z"
+    "datestart": "2022-07-01T07:00:00.000Z",
+    "dateend": "2022-08-31T07:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
@@ -13957,8 +13957,8 @@
     "region": "Κρήτη",
     "districts": "Ηράκλειο, Χανιά, Ιεράπετρα, Άγιος Νικόλαος, Ρέθυμνο, Παλιόχωρα, Πλακιάς",
     "publish": "Yes",
-    "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2022-09-01T07:00:00.000Z"
+    "datestart": "2022-09-01T07:00:00.000Z",
+    "dateend": "2022-09-30T07:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
@@ -13967,8 +13967,8 @@
     "region": "Ανατολική Μακεδονία και Θράκη",
     "districts": "Κομοτηνή, Αλεξανδρούπολη, Καβάλα, Ξάνθη",
     "publish": "Yes",
-    "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2022-09-01T07:00:00.000Z"
+    "datestart": "2022-05-01T07:00:00.000Z",
+    "dateend": "2022-06-30T07:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
@@ -13977,8 +13977,8 @@
     "region": "Ήπειρος",
     "districts": "Ιωάννινα",
     "publish": "Yes",
-    "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2022-09-01T07:00:00.000Z"
+    "datestart": "2022-07-01T07:00:00.000Z",
+    "dateend": "2022-07-31T07:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
@@ -13987,8 +13987,8 @@
     "region": "Νησιά Ιονίου",
     "districts": "Κέρκυρα, Λευκάδα",
     "publish": "Yes",
-    "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2022-09-01T07:00:00.000Z"
+    "datestart": "2022-05-01T07:00:00.000Z",
+    "dateend": "2022-05-31T07:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
@@ -13997,8 +13997,8 @@
     "region": "Βορείου Αιγαίου",
     "districts": "Λέσβος / Μυτιλήνη",
     "publish": "Yes",
-    "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2022-09-01T07:00:00.000Z"
+    "datestart": "2022-05-01T07:00:00.000Z",
+    "dateend": "2022-06-30T07:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
@@ -14007,8 +14007,8 @@
     "region": "Πελοπόννησος",
     "districts": "Τρίπολη",
     "publish": "Yes",
-    "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2022-09-01T07:00:00.000Z"
+    "datestart": "2022-05-01T07:00:00.000Z",
+    "dateend": "2022-06-30T07:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
@@ -14017,8 +14017,8 @@
     "region": "Νοτίου Αιγαίου / Νησιά Αιγαίου",
     "districts": "Ρόδος",
     "publish": "Yes",
-    "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2022-09-01T07:00:00.000Z"
+    "datestart": "2022-05-01T07:00:00.000Z",
+    "dateend": "2022-06-30T07:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
@@ -14028,7 +14028,7 @@
     "districts": "Λάρισα",
     "publish": "Yes",
     "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2022-09-01T07:00:00.000Z"
+    "dateend": "2022-04-30T07:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
@@ -14038,7 +14038,7 @@
     "districts": "Πάτρα",
     "publish": "Yes",
     "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2022-09-01T07:00:00.000Z"
+    "dateend": "2022-04-30T07:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
@@ -14047,8 +14047,8 @@
     "region": "Δυτική Μακεδονία",
     "districts": "Κοζάνη",
     "publish": "Yes",
-    "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2022-09-01T07:00:00.000Z"
+    "datestart": "2022-05-01T07:00:00.000Z",
+    "dateend": "2022-06-30T07:00:00.000Z"
   },
   {
     "country": "България",
