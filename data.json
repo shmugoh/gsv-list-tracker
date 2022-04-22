@@ -397,7 +397,7 @@
     "districts": "Rio de Janeiro, Araruama, Campos, Duque de Caxias, Macaé, Mage, Sao Gonçalo, Volta Redonda, ",
     "publish": "Yes",
     "datestart": "2021-02-01T08:00:00.000Z",
-    "dateend": "2022-03-31T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Brazil",
@@ -407,7 +407,7 @@
     "districts": "São Paulo, Coronel Macedo, Bauru, Americana, Araras, Itapira, Limeira, Lorena, São Jose dos Campos, Santo André, São Bernardo do Campo,  Bertioga,Juquitiba, Peruibe,  Caraguatatuba, Cotia, Guaruja, Ibiuna, Itapevi, Itu, Jundiai, Rio Claro, Santa Barbara dOeste, Sumare, Botucatu, Guaratingueta, Piracicaba, Campinas, Dracena, Fartura, Itapeva, Bragança Paulista, Manduri, Marília, Pirajuí, Registro, Três Lagoas, Tupã, Ilha Comprida, Assis, Campos do Jordão, Presidente Prudente, Araraquara, Sao Carlos, Araçatuba, Sertãozinho, Barretos, Bebedouro, Catanduva, Franca, Guaira, Ituveraba, Jales, Votuporanga, Monte Aprazivel, Novo Horizonte, Porto Ferreira, São Sebastião, Sorocaba, Suzano, Tatui, Ribeirão Preto and Sao Jose do Rio Preto",
     "publish": "Yes",
     "datestart": "2021-02-01T08:00:00.000Z",
-    "dateend": "2022-03-31T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Brazil",
@@ -417,7 +417,7 @@
     "districts": "Curitiba, Cascável, Paranaguá, Ponta Grossa, São José dos Pinhais, Matinhos, Guarapuava",
     "publish": "Yes",
     "datestart": "2021-05-01T07:00:00.000Z",
-    "dateend": "2022-03-31T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Brazil",
@@ -427,7 +427,7 @@
     "districts": "São Bento do Sul, Joinville, Blumenau, Brusque, Criciuma, Florianópolis, Imbituba, Itajaí, Lages, Rio Sul, Tubarão",
     "publish": "Yes",
     "datestart": "2021-05-01T07:00:00.000Z",
-    "dateend": "2022-03-31T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Brazil",
@@ -437,7 +437,7 @@
     "districts": "Belo Horizonte, Uberlândia, Uberaba, Ipatinga, Patos de Minas, Divinópolis, Viçosa, Juiiz de Fora, Catagases, Manhaçu",
     "publish": "Yes",
     "datestart": "2021-05-01T07:00:00.000Z",
-    "dateend": "2022-03-31T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Brazil",
@@ -447,7 +447,7 @@
     "districts": "Vitória, Vila Velha",
     "publish": "Yes",
     "datestart": "2021-08-01T07:00:00.000Z",
-    "dateend": "2022-03-31T07:00:00.000Z"
+    "dateend": "2022-07-01T07:00:00.000Z"
   },
   {
     "country": "Brazil",
@@ -457,7 +457,7 @@
     "districts": "Brasilia",
     "publish": "Yes",
     "datestart": "2021-07-01T07:00:00.000Z",
-    "dateend": "2022-03-31T07:00:00.000Z"
+    "dateend": "2022-07-01T07:00:00.000Z"
   },
   {
     "country": "Brazil",
@@ -467,7 +467,7 @@
     "districts": "Salvador, Caetite, Feira de Santana, Camaçari, Valença",
     "publish": "Yes",
     "datestart": "2021-05-01T07:00:00.000Z",
-    "dateend": "2022-03-31T07:00:00.000Z"
+    "dateend": "2022-07-01T07:00:00.000Z"
   },
   {
     "country": "Brazil",
@@ -477,7 +477,7 @@
     "districts": "Caucaia, Fortaleza, Jericoacara",
     "publish": "Yes",
     "datestart": "2021-08-01T07:00:00.000Z",
-    "dateend": "2022-03-31T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Brazil",
@@ -487,7 +487,17 @@
     "districts": "Joao Pessoa, Campina Grande, Recife, Caruaru, Jaboatão dos Guararapes, Cabo de Santo Agostinho, Sao Jose do Egito",
     "publish": "Yes",
     "datestart": "2021-08-01T07:00:00.000Z",
-    "dateend": "2022-03-31T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Brazil",
+    "code": "BR",
+    "svspc": "SV",
+    "region": "Tocantins",
+    "districts": "Palmas, Paraíso do Tocantins, Fátima, Miranorte, Dois Irmãos dos Tocantins, Santa Rita do Tocantins, Cangas",
+    "publish": "Yes",
+    "datestart": "2022-03-01T08:00:00.000Z",
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Brazil",
@@ -497,7 +507,17 @@
     "districts": "Goiania, Ceres, Luiziania, Ceres, Uruaçu, Acreuna, Iporá\nItaberaí, Jataí, Rio Verde, Santa Helena de Goiás, Senador Canedo, Piracanjuba, Chapadão do Sul, Paranaíba, Cassilândia",
     "publish": "Yes",
     "datestart": "2021-06-01T07:00:00.000Z",
-    "dateend": "2022-03-31T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Brazil",
+    "code": "BR",
+    "svspc": "SV",
+    "region": "Mato Grosso do Sul",
+    "districts": "Campo Grande, Agua Boa, Caceres, Cuiaba, Mirassol, Nova Mutum, Primavera do Leste, Rondonopolis, Tangara da Serra, Tres Lagoas, Peixoto de Azevedo, Pontes e Lacerda, Sapezal, Sinop,Vilhena, Campo Novo do Parecis, Confresa, Juara, Juina and Alta Floresta",
+    "publish": "Yes",
+    "datestart": "2022-03-01T08:00:00.000Z",
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Brazil",
@@ -513,7 +533,7 @@
     "country": "Brazil",
     "code": "BR",
     "svspc": "SV",
-    "region": "Mato Grosso",
+    "region": "Mato Grosso do Sul",
     "districts": "Campo Grande, Agua Boa, Caceres, Cuiaba, Mirassol, Nova Mutum, Primavera do Leste, Rondonopolis, Tangara da Serra, Tres Lagoas, Peixoto de Azevedo, Pontes e Lacerda, Sapezal, Sinop,Vilhena, Campo Novo do Parecis, Confresa, Juara, Juina and Alta Floresta",
     "publish": "No",
     "datestart": "2020-02-01T08:00:00.000Z",
