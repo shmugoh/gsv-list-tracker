@@ -3639,9 +3639,9 @@
     "svspc": "SV",
     "region": "Hokkaido",
     "districts": "Sapporo, Hakodate",
-    "publish": "No",
-    "datestart": "2021-05-01T07:00:00.000Z",
-    "dateend": "2021-11-30T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2022-04-30T07:00:00.000Z",
+    "dateend": "2022-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -3649,9 +3649,9 @@
     "svspc": "SV",
     "region": "Hokkaido",
     "districts": "Wakkanai, Kushiro",
-    "publish": "No",
-    "datestart": "2021-05-01T07:00:00.000Z",
-    "dateend": "2021-10-31T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2022-05-01T07:00:00.000Z",
+    "dateend": "2022-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -3669,9 +3669,9 @@
     "svspc": "SV",
     "region": "Iwate",
     "districts": "Morioka, Hanamaki, Miyako",
-    "publish": "No",
-    "datestart": "2021-08-31T07:00:00.000Z",
-    "dateend": "2021-09-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2022-05-01T07:00:00.000Z",
+    "dateend": "2022-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -3691,7 +3691,7 @@
     "districts": "Sendai, Osakki",
     "publish": "Yes",
     "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-04-30T07:00:00.000Z"
+    "dateend": "2022-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -3711,7 +3711,7 @@
     "districts": "Maebashi, Isezaki, Takasaki, Tatebayashi",
     "publish": "Yes",
     "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-04-30T07:00:00.000Z"
+    "dateend": "2022-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -3721,7 +3721,7 @@
     "districts": "Yuki, Oyama",
     "publish": "Yes",
     "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-04-30T07:00:00.000Z"
+    "dateend": "2022-05-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -3741,7 +3741,7 @@
     "districts": "Saitama, Kawagoe, Kasukabe, Koshigaya, Toda, Wako",
     "publish": "Yes",
     "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-05-01T07:00:00.000Z"
+    "dateend": "2022-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -3759,7 +3759,7 @@
     "svspc": "SV",
     "region": "Ibaraki",
     "districts": "Mito, Hitachi",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-01-01T08:00:00.000Z",
     "dateend": "2022-04-30T07:00:00.000Z"
   },
@@ -3789,9 +3789,9 @@
     "svspc": "SV",
     "region": "Tokyo",
     "districts": "Hachioji, Fuchu",
-    "publish": "No",
-    "datestart": "2021-02-01T08:00:00.000Z",
-    "dateend": "2021-08-31T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2022-04-30T07:00:00.000Z",
+    "dateend": "2022-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -3821,7 +3821,7 @@
     "districts": "Sagamihara",
     "publish": "Yes",
     "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2022-04-30T07:00:00.000Z"
+    "dateend": "2022-05-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -3829,9 +3829,9 @@
     "svspc": "SV",
     "region": "Ishikawa",
     "districts": "Kanazawa, Komatsu, Nanao",
-    "publish": "No",
-    "datestart": "2021-04-30T07:00:00.000Z",
-    "dateend": "2021-06-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2022-04-30T07:00:00.000Z",
+    "dateend": "2022-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -3839,9 +3839,9 @@
     "svspc": "SV",
     "region": "Toyama",
     "districts": "Toyama, Kurobe",
-    "publish": "No",
-    "datestart": "2021-04-30T07:00:00.000Z",
-    "dateend": "2021-09-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2022-04-30T07:00:00.000Z",
+    "dateend": "2022-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -3901,7 +3901,7 @@
     "districts": "Nagoya, Chita, Kariya, Handa",
     "publish": "Yes",
     "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-05-31T07:00:00.000Z"
+    "dateend": "2022-07-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -3931,7 +3931,7 @@
     "districts": "Kyoto, Yawata",
     "publish": "Yes",
     "datestart": "2022-02-01T08:00:00.000Z",
-    "dateend": "2022-04-30T07:00:00.000Z"
+    "dateend": "2022-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -4009,19 +4009,9 @@
     "svspc": "SV",
     "region": "Ehime",
     "districts": "Matsuyama, Niihama, Shikokuchuo",
-    "publish": "No",
-    "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "2021-10-31T07:00:00.000Z"
-  },
-  {
-    "country": "Japan",
-    "code": "jp",
-    "svspc": "SV",
-    "region": "Ehime",
-    "districts": "Imabari",
-    "publish": "No",
-    "datestart": "2021-05-01T07:00:00.000Z",
-    "dateend": "2021-06-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2022-04-01T07:00:00.000Z",
+    "dateend": "2022-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -4051,7 +4041,7 @@
     "districts": "Tokushima, Anan",
     "publish": "Yes",
     "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-04-30T07:00:00.000Z"
+    "dateend": "2022-05-24T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -9280,7 +9270,7 @@
     "svspc": "SV-SpC",
     "districts": "Daugavpils, Jēkabpils, Jelgava, Jūrmala, Kuldīga, Liepāja, Rēzekne, Riga, Saldus, Sigulda, Talsi, Valmiera, Ventspils",
     "publish": "No",
-    "datestart": "2022-07-01T07:00:00.000Z",
+    "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
@@ -9290,7 +9280,7 @@
     "region": "Riga",
     "districts": "Riga",
     "publish": "No",
-    "datestart": "2022-05-01T07:00:00.000Z",
+    "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-10-01T07:00:00.000Z"
   },
   {
@@ -9300,7 +9290,7 @@
     "region": "Daugavpils",
     "districts": "Daugavpils",
     "publish": "No",
-    "datestart": "2022-05-01T07:00:00.000Z",
+    "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-10-01T07:00:00.000Z"
   },
   {
@@ -9310,7 +9300,7 @@
     "region": "    Aizkraukle",
     "districts": "    Aizkraukle",
     "publish": "No",
-    "datestart": "2022-05-01T07:00:00.000Z",
+    "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-10-01T07:00:00.000Z"
   },
   {
@@ -9320,7 +9310,7 @@
     "region": "    Aizpute",
     "districts": "    Aizpute",
     "publish": "No",
-    "datestart": "2022-05-01T07:00:00.000Z",
+    "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-10-01T07:00:00.000Z"
   },
   {
@@ -9330,7 +9320,7 @@
     "region": "    Dobele",
     "districts": "    Dobele",
     "publish": "No",
-    "datestart": "2022-05-01T07:00:00.000Z",
+    "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-10-01T07:00:00.000Z"
   },
   {
@@ -9340,7 +9330,7 @@
     "region": "    Dundaga",
     "districts": "    Dundaga",
     "publish": "No",
-    "datestart": "2022-05-01T07:00:00.000Z",
+    "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-10-01T07:00:00.000Z"
   },
   {
@@ -9350,7 +9340,7 @@
     "region": "    Gulbene",
     "districts": "    Gulbene",
     "publish": "No",
-    "datestart": "2022-05-01T07:00:00.000Z",
+    "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-10-01T07:00:00.000Z"
   },
   {
@@ -9360,7 +9350,7 @@
     "region": "    Jelgava",
     "districts": "    Jelgava",
     "publish": "No",
-    "datestart": "2022-05-01T07:00:00.000Z",
+    "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-10-01T07:00:00.000Z"
   },
   {
@@ -9370,7 +9360,7 @@
     "region": "    Jēkabpils",
     "districts": "    Jēkabpils",
     "publish": "No",
-    "datestart": "2022-05-01T07:00:00.000Z",
+    "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-10-01T07:00:00.000Z"
   },
   {
@@ -9380,7 +9370,7 @@
     "region": "    Jūrmala",
     "districts": "    Jūrmala",
     "publish": "No",
-    "datestart": "2022-05-01T07:00:00.000Z",
+    "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-10-01T07:00:00.000Z"
   },
   {
@@ -9390,7 +9380,7 @@
     "region": "    Krāslava",
     "districts": "    Krāslava",
     "publish": "No",
-    "datestart": "2022-05-01T07:00:00.000Z",
+    "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-10-01T07:00:00.000Z"
   },
   {
@@ -9400,7 +9390,7 @@
     "region": "    Kuldīga",
     "districts": "    Kuldīga",
     "publish": "No",
-    "datestart": "2022-05-01T07:00:00.000Z",
+    "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-10-01T07:00:00.000Z"
   },
   {
@@ -9410,7 +9400,7 @@
     "region": "    Kārsava",
     "districts": "    Kārsava",
     "publish": "No",
-    "datestart": "2022-05-01T07:00:00.000Z",
+    "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-10-01T07:00:00.000Z"
   },
   {
@@ -9420,7 +9410,7 @@
     "region": "    Liepāja",
     "districts": "    Liepāja",
     "publish": "No",
-    "datestart": "2022-05-01T07:00:00.000Z",
+    "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-10-01T07:00:00.000Z"
   },
   {
@@ -9430,7 +9420,7 @@
     "region": "    Limbaži",
     "districts": "    Limbaži",
     "publish": "No",
-    "datestart": "2022-05-01T07:00:00.000Z",
+    "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-10-01T07:00:00.000Z"
   },
   {
@@ -9440,7 +9430,7 @@
     "region": "    Ludza",
     "districts": "    Ludza",
     "publish": "No",
-    "datestart": "2022-05-01T07:00:00.000Z",
+    "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-10-01T07:00:00.000Z"
   },
   {
@@ -9450,7 +9440,7 @@
     "region": "    Madona",
     "districts": "    Madona",
     "publish": "No",
-    "datestart": "2022-05-01T07:00:00.000Z",
+    "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-10-01T07:00:00.000Z"
   },
   {
@@ -9460,7 +9450,7 @@
     "region": "    Nereta",
     "districts": "    Nereta",
     "publish": "No",
-    "datestart": "2022-05-01T07:00:00.000Z",
+    "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-10-01T07:00:00.000Z"
   },
   {
@@ -9470,7 +9460,7 @@
     "region": "    Ogre",
     "districts": "    Ogre",
     "publish": "No",
-    "datestart": "2022-05-01T07:00:00.000Z",
+    "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-10-01T07:00:00.000Z"
   },
   {
@@ -9480,7 +9470,7 @@
     "region": "    Preili",
     "districts": "    Preili",
     "publish": "No",
-    "datestart": "2022-05-01T07:00:00.000Z",
+    "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-10-01T07:00:00.000Z"
   },
   {
@@ -9490,7 +9480,7 @@
     "region": "    Riga",
     "districts": "    Riga",
     "publish": "No",
-    "datestart": "2022-05-01T07:00:00.000Z",
+    "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-10-01T07:00:00.000Z"
   },
   {
@@ -9500,7 +9490,7 @@
     "region": "    Rēzekne",
     "districts": "    Rēzekne",
     "publish": "No",
-    "datestart": "2022-05-01T07:00:00.000Z",
+    "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-10-01T07:00:00.000Z"
   },
   {
@@ -9510,7 +9500,7 @@
     "region": "    Rūjiena",
     "districts": "    Rūjiena",
     "publish": "No",
-    "datestart": "2022-05-01T07:00:00.000Z",
+    "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-10-01T07:00:00.000Z"
   },
   {
@@ -9520,7 +9510,7 @@
     "region": "    Saldus",
     "districts": "    Saldus",
     "publish": "No",
-    "datestart": "2022-05-01T07:00:00.000Z",
+    "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-10-01T07:00:00.000Z"
   },
   {
@@ -9530,7 +9520,7 @@
     "region": "    Smiltene",
     "districts": "    Smiltene",
     "publish": "No",
-    "datestart": "2022-05-01T07:00:00.000Z",
+    "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-10-01T07:00:00.000Z"
   },
   {
@@ -9540,7 +9530,7 @@
     "region": "    Talsi",
     "districts": "    Talsi",
     "publish": "No",
-    "datestart": "2022-05-01T07:00:00.000Z",
+    "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-10-01T07:00:00.000Z"
   },
   {
@@ -9550,7 +9540,7 @@
     "region": "    Valka",
     "districts": "    Valka",
     "publish": "No",
-    "datestart": "2022-05-01T07:00:00.000Z",
+    "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-10-01T07:00:00.000Z"
   },
   {
@@ -9560,7 +9550,7 @@
     "region": "    Valmiera",
     "districts": "    Valmiera",
     "publish": "No",
-    "datestart": "2022-05-01T07:00:00.000Z",
+    "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-10-01T07:00:00.000Z"
   },
   {
@@ -9570,7 +9560,7 @@
     "region": "    Ventspils",
     "districts": "    Ventspils",
     "publish": "No",
-    "datestart": "2022-05-01T07:00:00.000Z",
+    "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-10-01T07:00:00.000Z"
   },
   {
@@ -9580,7 +9570,7 @@
     "region": "    Ērgļi",
     "districts": "    Ērgļi",
     "publish": "No",
-    "datestart": "2022-05-01T07:00:00.000Z",
+    "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-10-01T07:00:00.000Z"
   },
   {
@@ -9590,7 +9580,7 @@
     "region": "    Dagda",
     "districts": "    Dagda",
     "publish": "No",
-    "datestart": "2022-05-01T07:00:00.000Z",
+    "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-10-01T07:00:00.000Z"
   },
   {
@@ -9600,7 +9590,7 @@
     "region": "    Alūksne",
     "districts": "    Alūksne",
     "publish": "No",
-    "datestart": "2022-05-01T07:00:00.000Z",
+    "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-10-01T07:00:00.000Z"
   },
   {
@@ -9610,7 +9600,7 @@
     "region": "    Balvi",
     "districts": "    Balvi",
     "publish": "No",
-    "datestart": "2022-05-01T07:00:00.000Z",
+    "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-10-01T07:00:00.000Z"
   },
   {
@@ -9620,7 +9610,7 @@
     "region": "    Bauska",
     "districts": "    Bauska",
     "publish": "No",
-    "datestart": "2022-05-01T07:00:00.000Z",
+    "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-10-01T07:00:00.000Z"
   },
   {
@@ -9630,7 +9620,7 @@
     "region": "    Bebrene",
     "districts": "    Bebrene",
     "publish": "No",
-    "datestart": "2022-05-01T07:00:00.000Z",
+    "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-10-01T07:00:00.000Z"
   },
   {
@@ -9640,7 +9630,7 @@
     "region": "    Cēsis",
     "districts": "    Cēsis",
     "publish": "No",
-    "datestart": "2022-05-01T07:00:00.000Z",
+    "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-10-01T07:00:00.000Z"
   },
   {
@@ -9650,7 +9640,7 @@
     "region": "    Cēsis",
     "districts": "    Cēsis",
     "publish": "No",
-    "datestart": "2022-05-01T07:00:00.000Z",
+    "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-10-01T07:00:00.000Z"
   },
   {
@@ -9666,7 +9656,7 @@
     "region": "  Kaunas County ",
     "districts": "Alytus , Elektrėnai, Kaunas,     Kėdainiai,     Raseiniai",
     "publish": "No",
-    "datestart": "2022-07-01T07:00:00.000Z",
+    "datestart": "2022-05-12T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
@@ -9676,7 +9666,7 @@
     "region": "Utena County - ",
     "districts": "Anykščiai",
     "publish": "No",
-    "datestart": "2022-07-01T07:00:00.000Z",
+    "datestart": "2022-05-13T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
@@ -9686,7 +9676,7 @@
     "region": "    Panevėžys County ",
     "districts": "Biržai ",
     "publish": "No",
-    "datestart": "2022-07-01T07:00:00.000Z",
+    "datestart": "2022-05-14T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
@@ -9696,7 +9686,7 @@
     "region": "Vilnius County",
     "districts": "Ignalina,     Vilnius",
     "publish": "No",
-    "datestart": "2022-07-01T07:00:00.000Z",
+    "datestart": "2022-05-15T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
@@ -9706,7 +9696,7 @@
     "region": "Šiauliai ",
     "districts": "Joniškis, Telšiai",
     "publish": "No",
-    "datestart": "2022-07-01T07:00:00.000Z",
+    "datestart": "2022-05-16T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
@@ -9716,7 +9706,7 @@
     "region": "Tauragė County , Marijampolė county",
     "districts": "Jurbarkas",
     "publish": "No",
-    "datestart": "2022-07-01T07:00:00.000Z",
+    "datestart": "2022-05-17T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
@@ -9726,7 +9716,7 @@
     "region": "   Šiauliai County ",
     "districts": "Kelmė",
     "publish": "No",
-    "datestart": "2022-07-01T07:00:00.000Z",
+    "datestart": "2022-05-18T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
@@ -9736,7 +9726,7 @@
     "region": "Klaipėda County",
     "districts": "Klaipėda,     Palanga,     Plungė,     Skuodas,     Šilutė",
     "publish": "No",
-    "datestart": "2022-07-01T07:00:00.000Z",
+    "datestart": "2022-05-19T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
@@ -9746,7 +9736,7 @@
     "region": "    Marijampolė",
     "districts": "    Marijampolė,     Vilkaviškis,     Šakiai",
     "publish": "No",
-    "datestart": "2022-07-01T07:00:00.000Z",
+    "datestart": "2022-05-20T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
@@ -9756,7 +9746,7 @@
     "region": "Telšiai County",
     "districts": "Mažeikiai,     Plungė, Telšiai",
     "publish": "No",
-    "datestart": "2022-07-01T07:00:00.000Z",
+    "datestart": "2022-05-21T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
@@ -9766,7 +9756,7 @@
     "region": "Utena County",
     "districts": "Molėtai,     Švenčionys",
     "publish": "No",
-    "datestart": "2022-07-01T07:00:00.000Z",
+    "datestart": "2022-05-22T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
@@ -9776,7 +9766,7 @@
     "region": "    Panevėžys",
     "districts": "    Panevėžys,     Rokiškis",
     "publish": "No",
-    "datestart": "2022-07-01T07:00:00.000Z",
+    "datestart": "2022-05-23T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
@@ -9786,7 +9776,7 @@
     "region": "Šiauliai County",
     "districts": "Radviliškis-",
     "publish": "No",
-    "datestart": "2022-07-01T07:00:00.000Z",
+    "datestart": "2022-05-24T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
@@ -9796,7 +9786,7 @@
     "region": "    Tauragė",
     "districts": "    Tauragė,     Šilalė",
     "publish": "No",
-    "datestart": "2022-07-01T07:00:00.000Z",
+    "datestart": "2022-05-25T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
@@ -9806,7 +9796,7 @@
     "region": "    Utena",
     "districts": "    Utena,     Visaginas,     Zarasai",
     "publish": "No",
-    "datestart": "2022-07-01T07:00:00.000Z",
+    "datestart": "2022-05-26T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
@@ -12137,7 +12127,7 @@
     "districts": "West Coast, Cape Winelands, Overberg, Eden, Central Karoo, City of Cape Town",
     "publish": "Yes",
     "datestart": "2021-12-01T08:00:00.000Z",
-    "dateend": "2022-07-31T07:00:00.000Z"
+    "dateend": "2022-08-31T07:00:00.000Z"
   },
   {
     "country": "South Africa",
@@ -12147,7 +12137,7 @@
     "districts": "Namakwa, Pixley ka Seme, ZF Mgcawu, Frances Baard, John Taolo Gaetsewe",
     "publish": "Yes",
     "datestart": "2021-12-01T08:00:00.000Z",
-    "dateend": "2022-07-31T07:00:00.000Z"
+    "dateend": "2022-08-31T07:00:00.000Z"
   },
   {
     "country": "South Africa",
@@ -12157,7 +12147,7 @@
     "districts": "Sarah Baartman, Amathole, Chris Hani, Joe Gqabi, OR Tambo, Alfred Nzo, Bufallo City, Nelson Mandela Bay",
     "publish": "Yes",
     "datestart": "2021-12-01T08:00:00.000Z",
-    "dateend": "2022-07-31T07:00:00.000Z"
+    "dateend": "2022-08-31T07:00:00.000Z"
   },
   {
     "country": "South Africa",
@@ -12167,7 +12157,7 @@
     "districts": "Xhariep, Lejweleputswa, Thabo Mofutsanyana, Fezile Dabi, Mangaung",
     "publish": "Yes",
     "datestart": "2021-12-01T08:00:00.000Z",
-    "dateend": "2022-07-31T07:00:00.000Z"
+    "dateend": "2022-08-31T07:00:00.000Z"
   },
   {
     "country": "South Africa",
@@ -12177,7 +12167,7 @@
     "districts": "Ugu, Umgungundlovu, Uthukela, Umzinyathi, Amajuba, Zululand, Umkhanyakude, King Cetshwayo, Ilembe, Harry Gwala, Ethekwini",
     "publish": "Yes",
     "datestart": "2021-12-01T08:00:00.000Z",
-    "dateend": "2022-07-31T07:00:00.000Z"
+    "dateend": "2022-08-31T07:00:00.000Z"
   },
   {
     "country": "South Africa",
@@ -12187,7 +12177,7 @@
     "districts": "Gert Sibande, Nkandala, Ehlanzeni",
     "publish": "Yes",
     "datestart": "2021-12-01T08:00:00.000Z",
-    "dateend": "2022-07-31T07:00:00.000Z"
+    "dateend": "2022-08-31T07:00:00.000Z"
   },
   {
     "country": "South Africa",
@@ -12197,7 +12187,7 @@
     "districts": "Mopani, Whembe, Capricorn, Waterberg, Sekhukhune",
     "publish": "Yes",
     "datestart": "2021-12-01T08:00:00.000Z",
-    "dateend": "2022-07-31T07:00:00.000Z"
+    "dateend": "2022-08-31T07:00:00.000Z"
   },
   {
     "country": "South Africa",
@@ -12207,7 +12197,7 @@
     "districts": "Bojanala Platinum, Ngaka Modiri Molema, Dr Ruth Segomotsi Mompati, Dr Kenneth Kaunda",
     "publish": "Yes",
     "datestart": "2021-12-01T08:00:00.000Z",
-    "dateend": "2022-07-31T07:00:00.000Z"
+    "dateend": "2022-08-31T07:00:00.000Z"
   },
   {
     "country": "South Africa",
@@ -12217,7 +12207,7 @@
     "districts": "Sedibeng, West Rand, Ekurhuleni, City of Johannesburg, City of Tshwane",
     "publish": "Yes",
     "datestart": "2021-12-01T08:00:00.000Z",
-    "dateend": "2022-07-31T07:00:00.000Z"
+    "dateend": "2022-08-31T07:00:00.000Z"
   },
   {
     "country": "Sri Lanka",
@@ -13965,10 +13955,20 @@
     "code": "gr",
     "svspc": "SV",
     "region": "Μακεδονία",
-    "districts": "Θεσσαλονίκη, Χαλκιδική",
+    "districts": "Θεσσαλονίκη",
     "publish": "Yes",
-    "datestart": "2022-07-01T07:00:00.000Z",
-    "dateend": "2022-08-31T07:00:00.000Z"
+    "datestart": "2022-08-01T07:00:00.000Z",
+    "dateend": "2022-09-30T07:00:00.000Z"
+  },
+  {
+    "country": "Ελλάδα",
+    "code": "gr",
+    "svspc": "SV",
+    "region": "Μακεδονία",
+    "districts": "Χαλκιδική",
+    "publish": "Yes",
+    "datestart": "2022-05-01T07:00:00.000Z",
+    "dateend": "2022-05-31T07:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
@@ -13977,8 +13977,8 @@
     "region": "Κρήτη",
     "districts": "Ηράκλειο, Χανιά, Ιεράπετρα, Άγιος Νικόλαος, Ρέθυμνο, Παλιόχωρα, Πλακιάς",
     "publish": "Yes",
-    "datestart": "2022-09-01T07:00:00.000Z",
-    "dateend": "2022-09-30T07:00:00.000Z"
+    "datestart": "2022-07-01T07:00:00.000Z",
+    "dateend": "2022-08-31T07:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
@@ -14006,9 +14006,7 @@
     "svspc": "SV",
     "region": "Νησιά Ιονίου",
     "districts": "Κέρκυρα, Λευκάδα",
-    "publish": "Yes",
-    "datestart": "2022-05-01T07:00:00.000Z",
-    "dateend": "2022-05-31T07:00:00.000Z"
+    "publish": "No"
   },
   {
     "country": "Ελλάδα",
