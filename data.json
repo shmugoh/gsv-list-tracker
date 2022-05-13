@@ -3641,7 +3641,7 @@
     "districts": "Sapporo, Hakodate",
     "publish": "Yes",
     "datestart": "2022-04-30T07:00:00.000Z",
-    "dateend": "2022-06-30T07:00:00.000Z"
+    "dateend": "2022-08-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -3651,7 +3651,7 @@
     "districts": "Wakkanai, Kushiro",
     "publish": "Yes",
     "datestart": "2022-05-01T07:00:00.000Z",
-    "dateend": "2022-06-30T07:00:00.000Z"
+    "dateend": "2022-08-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -9894,7 +9894,7 @@
     "svspc": "SV",
     "region": "Peninsular Malaysia",
     "districts": "Selangor, Malacca, Johor, Kelantan, Perak",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-02-01T08:00:00.000Z",
     "dateend": "2021-05-31T07:00:00.000Z"
   },
@@ -11845,6 +11845,176 @@
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
+    "country": "Taiwan",
+    "code": "tw",
+    "svspc": "SV",
+    "region": "New Taipei",
+    "districts": "San Chang Qu, Lou Zhou Qu",
+    "publish": "Yes",
+    "datestart": "2022-02-07T08:00:00.000Z",
+    "dateend": "2022-08-02T07:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "tw",
+    "svspc": "SV",
+    "region": "Taipei",
+    "districts": "Song Shan Qu, Shi Lin Qu",
+    "publish": "Yes",
+    "datestart": "2022-02-07T08:00:00.000Z",
+    "dateend": "2022-08-02T07:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "tw",
+    "svspc": "SV",
+    "region": "Taoyuan",
+    "districts": "Long Tian Qu",
+    "publish": "Yes",
+    "datestart": "2022-03-03T08:00:00.000Z",
+    "dateend": "2022-07-31T07:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "tw",
+    "svspc": "SV",
+    "region": "Xinzhu",
+    "districts": "Dong Qu, Zhu Bei Shi, Zhu Dong Qu",
+    "publish": "Yes",
+    "datestart": "2022-04-07T07:00:00.000Z",
+    "dateend": "2022-06-30T07:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "tw",
+    "svspc": "SV",
+    "region": "Miao Li",
+    "districts": "Miao Li Shi, Zhu Nan Zhen, ",
+    "publish": "No",
+    "datestart": "2021-03-19T07:00:00.000Z",
+    "dateend": "2021-04-06T07:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "tw",
+    "svspc": "SV",
+    "region": "Taichung",
+    "districts": "Shu Lu Qu, Qiang Shu Qu",
+    "publish": "Yes",
+    "datestart": "2022-02-05T08:00:00.000Z",
+    "dateend": "2022-08-02T07:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "tw",
+    "svspc": "SV",
+    "region": "Zhanghua",
+    "districts": "Zhang Hua Shi, Da Cun Zhen",
+    "publish": "No",
+    "datestart": "2022-05-16T07:00:00.000Z",
+    "dateend": "2022-09-30T07:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "tw",
+    "svspc": "SV",
+    "region": "Nantou",
+    "districts": "Ji Ji Zhen, Zhou Shan Zhen",
+    "publish": "No",
+    "datestart": "2022-05-31T07:00:00.000Z",
+    "dateend": "2022-06-30T07:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "tw",
+    "svspc": "SV",
+    "region": "Jiayi",
+    "districts": "Mai Shan Qiang, ",
+    "publish": "Yes",
+    "datestart": "2022-02-07T08:00:00.000Z",
+    "dateend": "2022-09-30T07:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "tw",
+    "svspc": "SV",
+    "region": "Yunlin",
+    "districts": "Dou Liu Zhen",
+    "publish": "No",
+    "datestart": "2022-09-12T07:00:00.000Z",
+    "dateend": "2022-11-30T08:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "tw",
+    "svspc": "SV",
+    "region": "Tainan",
+    "districts": "Xin Yin Qu, Jia Li Qu, ",
+    "publish": "Yes",
+    "datestart": "2022-04-07T07:00:00.000Z",
+    "dateend": "2022-08-02T07:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "tw",
+    "svspc": "SV",
+    "region": "Yunlin",
+    "districts": "Dou Liu Zhen",
+    "publish": "No",
+    "datestart": "2022-07-17T07:00:00.000Z",
+    "dateend": "2022-10-21T07:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "tw",
+    "svspc": "SV",
+    "region": "Kaohsiung",
+    "districts": "Taoyuan Qu, Zhong Li Qu, Da Yuan Qu",
+    "publish": "Yes",
+    "datestart": "2022-02-07T08:00:00.000Z",
+    "dateend": "2022-09-12T07:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "tw",
+    "svspc": "SV",
+    "region": "Pingdong",
+    "districts": "Ping Dong Shi, ",
+    "publish": "Yes",
+    "datestart": "2022-02-07T08:00:00.000Z",
+    "dateend": "2022-07-31T07:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "tw",
+    "svspc": "SV",
+    "region": "Yilan",
+    "districts": "Touchen Zhen",
+    "publish": "No",
+    "datestart": "2022-08-02T07:00:00.000Z",
+    "dateend": "2022-11-30T08:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "tw",
+    "svspc": "SV",
+    "region": "Hualina",
+    "districts": "Hualian City, Yu Li Zhen",
+    "publish": "No",
+    "datestart": "2022-08-02T07:00:00.000Z",
+    "dateend": "2022-11-30T08:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "tw",
+    "svspc": "SV",
+    "region": "Taidong",
+    "districts": "Tai Ma Li Qiang",
+    "publish": "No",
+    "datestart": "2022-08-02T07:00:00.000Z",
+    "dateend": "2022-11-30T08:00:00.000Z"
+  },
+  {
     "country": "Slovenija",
     "code": "si",
     "region": "Pomurska",
@@ -12979,7 +13149,7 @@
     "svspc": "SV",
     "region": "Taidong",
     "districts": "Tai Ma Li Qiang",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-03-15T07:00:00.000Z",
     "dateend": "2021-09-15T07:00:00.000Z"
   },
@@ -12989,7 +13159,7 @@
     "svspc": "SV",
     "region": "Taoyuan",
     "districts": "Long Tian Qu",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-02-18T08:00:00.000Z",
     "dateend": "2021-10-19T07:00:00.000Z"
   },
@@ -13049,7 +13219,7 @@
     "svspc": "SV",
     "region": "Jiayi",
     "districts": "Mai Shan Qiang, ",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-03-03T08:00:00.000Z",
     "dateend": "2021-09-30T07:00:00.000Z"
   },
@@ -13079,7 +13249,7 @@
     "svspc": "SV",
     "region": "Yunlin",
     "districts": "Dou Liu Zhen",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-07-17T07:00:00.000Z",
     "dateend": "2021-10-21T07:00:00.000Z"
   },
@@ -13089,7 +13259,7 @@
     "svspc": "SV",
     "region": "Kaohsiung",
     "districts": "Taoyuan Qu, Zhong Li Qu, Da Yuan Qu",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-03-03T08:00:00.000Z",
     "dateend": "2021-09-12T07:00:00.000Z"
   },
@@ -13099,7 +13269,7 @@
     "svspc": "SV",
     "region": "Pingdong",
     "districts": "Ping Dong Shi, ",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-07-26T07:00:00.000Z",
     "dateend": "2021-09-30T07:00:00.000Z"
   },
@@ -13109,7 +13279,7 @@
     "svspc": "SV",
     "region": "Yilan",
     "districts": "Touchen Zhen",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-08-02T07:00:00.000Z",
     "dateend": "2021-09-30T07:00:00.000Z"
   },
@@ -13247,11 +13417,11 @@
     "country": "Thailand",
     "code": "th",
     "svspc": "SV",
-    "region": "Central, Northern ",
-    "districts": "Kamphaengphet, Kanchanaburi, Lampang, Chiang Rai, Sakaeo, Phayao, Pattani ",
+    "region": "Central, Northern , Southern, Eastern ",
+    "districts": "Bangkok, Ratchaburi, Nonthaburi, Kanchanaburii, Nakhonsawan, Chiang Mai, Phuket, Chonburi, Samut Songkharm, Chanthaburi, Trang, Lumppang, Hat Yai, Surathani, Ranong, Kamphanphet",
     "publish": "Yes",
-    "datestart": "2021-02-01T08:00:00.000Z",
-    "dateend": "2021-05-31T07:00:00.000Z"
+    "datestart": "2022-01-01T08:00:00.000Z",
+    "dateend": "2022-09-30T07:00:00.000Z"
   },
   {
     "country": "Tunisia",
@@ -13356,7 +13526,7 @@
     "code": "gb",
     "svspc": "SV",
     "region": "South West",
-    "districts": "Poole, Bornemouth, Dorset, Somerset, Torquay, Exeter, Plymouth, Newquay, Weymouth, Poole, Bristol, Bath, Swindon, Gloucester",
+    "districts": "Bangkok, Ratchaburi, Nonthaburi, Kanchanaburii, Nakhonsawan, Chiang Mai, Phuket, Chonburi, Samut Songkharm, Chanthaburi, Trang, Lumppang, Hat Yai, Surathani, Ranong",
     "publish": "Yes",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
