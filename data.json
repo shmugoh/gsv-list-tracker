@@ -13849,6 +13849,26 @@
     "dateend": "2022-06-10T07:00:00.000Z"
   },
   {
+    "country": "United Arab Emirates",
+    "code": "ae",
+    "svspc": "SV",
+    "region": "Sharjah",
+    "districts": "Sharjah",
+    "publish": "Yes",
+    "datestart": "2022-03-01T08:00:00.000Z",
+    "dateend": "2022-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "United Arab Emirates",
+    "code": "ae",
+    "svspc": "SV",
+    "region": "Ajman",
+    "districts": "Ajman",
+    "publish": "Yes",
+    "datestart": "2022-06-01T07:00:00.000Z",
+    "dateend": "2022-07-01T07:00:00.000Z"
+  },
+  {
     "country": "United Kingdom",
     "code": "gb",
     "svspc": "SV",
@@ -14493,7 +14513,7 @@
     "districts": "Χαλκιδική",
     "publish": "Yes",
     "datestart": "2022-05-01T07:00:00.000Z",
-    "dateend": "2022-05-31T07:00:00.000Z"
+    "dateend": "2022-06-30T07:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
