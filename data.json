@@ -7898,11 +7898,151 @@
     "dateend": "Septembre 2022"
   },
   {
+    "country": "Estonia",
+    "code": "EE",
+    "svspc": "SV",
+    "region": "Harju",
+    "districts": "Tallinn",
+    "publish": "Yes",
+    "datestart": "2022-07-01T07:00:00.000Z",
+    "dateend": "2022-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Estonia",
+    "code": "EE",
+    "svspc": "SV",
+    "region": "Hiiu",
+    "districts": "Kärdla",
+    "publish": "Yes",
+    "datestart": "2022-07-01T07:00:00.000Z",
+    "dateend": "2022-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Estonia",
+    "code": "EE",
+    "svspc": "SV",
+    "region": "Ida-Viru",
+    "districts": "Jõhvi",
+    "publish": "Yes",
+    "datestart": "2022-07-01T07:00:00.000Z",
+    "dateend": "2022-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Estonia",
+    "code": "EE",
+    "svspc": "SV",
+    "region": "Järva",
+    "districts": "Paide",
+    "publish": "Yes",
+    "datestart": "2022-07-01T07:00:00.000Z",
+    "dateend": "2022-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Estonia",
+    "code": "EE",
+    "svspc": "SV",
+    "region": "Jõgeva",
+    "districts": "Jõgeva",
+    "publish": "Yes",
+    "datestart": "2022-07-01T07:00:00.000Z",
+    "dateend": "2022-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Estonia",
+    "code": "EE",
+    "svspc": "SV",
+    "region": "Lääne",
+    "districts": "Haapsalu",
+    "publish": "Yes",
+    "datestart": "2022-07-01T07:00:00.000Z",
+    "dateend": "2022-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Estonia",
+    "code": "EE",
+    "svspc": "SV",
+    "region": "Lääne-Viru",
+    "districts": "Rakvere",
+    "publish": "Yes",
+    "datestart": "2022-07-01T07:00:00.000Z",
+    "dateend": "2022-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Estonia",
+    "code": "EE",
+    "svspc": "SV",
+    "region": "Pärnu",
+    "districts": "Pärnu",
+    "publish": "Yes",
+    "datestart": "2022-07-01T07:00:00.000Z",
+    "dateend": "2022-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Estonia",
+    "code": "EE",
+    "svspc": "SV",
+    "region": "Põlva",
+    "districts": "Põlva",
+    "publish": "Yes",
+    "datestart": "2022-07-01T07:00:00.000Z",
+    "dateend": "2022-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Estonia",
+    "code": "EE",
+    "svspc": "SV",
+    "region": "Rapla",
+    "districts": "Rapla",
+    "publish": "Yes",
+    "datestart": "2022-07-01T07:00:00.000Z",
+    "dateend": "2022-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Estonia",
+    "code": "EE",
+    "svspc": "SV",
+    "region": "Saare",
+    "districts": "Kuressaare",
+    "publish": "Yes",
+    "datestart": "2022-07-01T07:00:00.000Z",
+    "dateend": "2022-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Estonia",
+    "code": "EE",
+    "svspc": "SV",
+    "region": "Tartu",
+    "districts": "Tartu",
+    "publish": "Yes",
+    "datestart": "2022-07-01T07:00:00.000Z",
+    "dateend": "2022-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Estonia",
+    "code": "EE",
+    "svspc": "SV",
+    "region": "Valga",
+    "districts": "Valga",
+    "publish": "Yes",
+    "datestart": "2022-07-01T07:00:00.000Z",
+    "dateend": "2022-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Estonia",
+    "code": "EE",
+    "svspc": "SV",
+    "region": "Viljandi",
+    "districts": "Viljandi",
+    "publish": "Yes",
+    "datestart": "2022-07-01T07:00:00.000Z",
+    "dateend": "2022-08-01T07:00:00.000Z"
+  },
+  {
     "country": "Finland",
     "code": "fi",
     "svspc": "SV",
     "region": "Pohjois-Pohjanmaa",
-    "districts": "Oulu, Kuusamo",
+    "districts": "Võru",
     "publish": "Yes",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-12-30T08:00:00.000Z"
@@ -8312,7 +8452,7 @@
     "districts": "Hong Kong",
     "publish": "Yes",
     "datestart": "2022-02-01T08:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "dateend": "2022-09-01T07:00:00.000Z"
   },
   {
     "country": "Iceland",
@@ -8623,9 +8763,9 @@
     "svspc": "SV",
     "region": "Nagasaki",
     "districts": "Nagasaki",
-    "publish": "No",
-    "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-03-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2022-07-01T07:00:00.000Z",
+    "dateend": "2022-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -8635,7 +8775,7 @@
     "districts": "Mishima, Numazu, Fuji",
     "publish": "Yes",
     "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-06-30T07:00:00.000Z"
+    "dateend": "2022-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -8645,7 +8785,7 @@
     "districts": "Okayama, Kurashiki, Kasaoka",
     "publish": "Yes",
     "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-06-30T07:00:00.000Z"
+    "dateend": "2022-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -8655,7 +8795,7 @@
     "districts": "Yokohama, Sagamihara, Fujisawa, Chigasaki, Kamakura",
     "publish": "Yes",
     "datestart": "2022-02-28T08:00:00.000Z",
-    "dateend": "2022-06-30T07:00:00.000Z"
+    "dateend": "2022-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -8665,7 +8805,7 @@
     "districts": "Kusatsu",
     "publish": "Yes",
     "datestart": "2022-02-01T08:00:00.000Z",
-    "dateend": "2022-06-30T07:00:00.000Z"
+    "dateend": "2022-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -8675,7 +8815,7 @@
     "districts": "Akashi, Kakokgawa,Takasago",
     "publish": "Yes",
     "datestart": "2022-02-01T08:00:00.000Z",
-    "dateend": "2022-06-30T07:00:00.000Z"
+    "dateend": "2022-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -8685,7 +8825,7 @@
     "districts": "Hiroshima",
     "publish": "Yes",
     "datestart": "2022-02-01T08:00:00.000Z",
-    "dateend": "2022-06-30T07:00:00.000Z"
+    "dateend": "2022-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -8705,7 +8845,7 @@
     "districts": "Higashi-Omi, Kusatsu",
     "publish": "Yes",
     "datestart": "2022-03-31T07:00:00.000Z",
-    "dateend": "2022-06-30T07:00:00.000Z"
+    "dateend": "2022-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -8715,7 +8855,7 @@
     "districts": "Ono, Himeji, Akashi, Kakogawa",
     "publish": "Yes",
     "datestart": "2022-03-31T07:00:00.000Z",
-    "dateend": "2022-06-30T07:00:00.000Z"
+    "dateend": "2022-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -8725,7 +8865,7 @@
     "districts": "Hiroshima, Kure, Higashi Hiroshima, Mihara",
     "publish": "Yes",
     "datestart": "2022-03-31T07:00:00.000Z",
-    "dateend": "2022-06-30T07:00:00.000Z"
+    "dateend": "2022-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -8735,7 +8875,7 @@
     "districts": "Tokushima, Anan",
     "publish": "Yes",
     "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-06-30T07:00:00.000Z"
+    "dateend": "2022-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -8745,7 +8885,7 @@
     "districts": "Kitakyushu, Fukuoka, Nakama",
     "publish": "Yes",
     "datestart": "2022-03-31T07:00:00.000Z",
-    "dateend": "2022-06-30T07:00:00.000Z"
+    "dateend": "2022-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -8755,7 +8895,7 @@
     "districts": "Kumamoto, Uki",
     "publish": "Yes",
     "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-06-30T07:00:00.000Z"
+    "dateend": "2022-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -8765,7 +8905,7 @@
     "districts": "Kagoshima, Kirishima",
     "publish": "Yes",
     "datestart": "2022-03-31T07:00:00.000Z",
-    "dateend": "2022-06-30T07:00:00.000Z"
+    "dateend": "2022-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -8775,7 +8915,7 @@
     "districts": "Miyazaki, Miyakonojo, Nobeoka",
     "publish": "Yes",
     "datestart": "2022-03-31T07:00:00.000Z",
-    "dateend": "2022-06-30T07:00:00.000Z"
+    "dateend": "2022-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -8785,7 +8925,7 @@
     "districts": "Yuki, Oyama",
     "publish": "Yes",
     "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-06-30T07:00:00.000Z"
+    "dateend": "2022-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -8795,7 +8935,7 @@
     "districts": "Sagamihara",
     "publish": "Yes",
     "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2022-06-30T07:00:00.000Z"
+    "dateend": "2022-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -8805,7 +8945,7 @@
     "districts": "Numazu, Fuji, Gotenba",
     "publish": "Yes",
     "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2022-06-30T07:00:00.000Z"
+    "dateend": "2022-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -8815,7 +8955,7 @@
     "districts": "Naha, Okinawa, Uruma",
     "publish": "Yes",
     "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-06-30T07:00:00.000Z"
+    "dateend": "2022-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -8825,7 +8965,7 @@
     "districts": "Morioka, Hanamaki, Miyako",
     "publish": "Yes",
     "datestart": "2022-05-01T07:00:00.000Z",
-    "dateend": "2022-06-30T07:00:00.000Z"
+    "dateend": "2022-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -8835,7 +8975,7 @@
     "districts": "Sendai, Osakki",
     "publish": "Yes",
     "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-06-30T07:00:00.000Z"
+    "dateend": "2022-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -8845,7 +8985,7 @@
     "districts": "Fukushima, Koriyama",
     "publish": "Yes",
     "datestart": "2022-04-30T07:00:00.000Z",
-    "dateend": "2022-06-30T07:00:00.000Z"
+    "dateend": "2022-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -8855,7 +8995,7 @@
     "districts": "Maebashi, Isezaki, Takasaki, Tatebayashi",
     "publish": "Yes",
     "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-06-30T07:00:00.000Z"
+    "dateend": "2022-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -8865,7 +9005,7 @@
     "districts": "Saitama, Kawagoe, Kasukabe, Koshigaya, Toda, Wako",
     "publish": "Yes",
     "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-06-30T07:00:00.000Z"
+    "dateend": "2022-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -8875,7 +9015,7 @@
     "districts": "Tsukuba, Kasama, Ishioka",
     "publish": "Yes",
     "datestart": "2022-04-30T07:00:00.000Z",
-    "dateend": "2022-06-30T07:00:00.000Z"
+    "dateend": "2022-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -8885,7 +9025,7 @@
     "districts": "Tokyo 23 Wards, Machida, Tama, Hachioji",
     "publish": "Yes",
     "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-06-30T07:00:00.000Z"
+    "dateend": "2022-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -8895,7 +9035,7 @@
     "districts": "Hachioji, Fuchu",
     "publish": "Yes",
     "datestart": "2022-04-30T07:00:00.000Z",
-    "dateend": "2022-06-30T07:00:00.000Z"
+    "dateend": "2022-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -8905,7 +9045,7 @@
     "districts": "Kanazawa, Komatsu, Nanao",
     "publish": "Yes",
     "datestart": "2022-04-30T07:00:00.000Z",
-    "dateend": "2022-06-30T07:00:00.000Z"
+    "dateend": "2022-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -8915,7 +9055,7 @@
     "districts": "Toyama, Kurobe",
     "publish": "Yes",
     "datestart": "2022-04-30T07:00:00.000Z",
-    "dateend": "2022-06-30T07:00:00.000Z"
+    "dateend": "2022-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -8925,7 +9065,7 @@
     "districts": "Kyoto, Yawata",
     "publish": "Yes",
     "datestart": "2022-02-01T08:00:00.000Z",
-    "dateend": "2022-06-30T07:00:00.000Z"
+    "dateend": "2022-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -8935,7 +9075,7 @@
     "districts": "Wakayama, Hashimoto, Arida",
     "publish": "Yes",
     "datestart": "2022-04-01T07:00:00.000Z",
-    "dateend": "2022-06-30T07:00:00.000Z"
+    "dateend": "2022-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -8945,7 +9085,7 @@
     "districts": "Osaka, Sakai, Yao, Takatsuki, Hirakata",
     "publish": "Yes",
     "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-06-30T07:00:00.000Z"
+    "dateend": "2022-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -8955,7 +9095,7 @@
     "districts": "Matsuyama, Niihama, Shikokuchuo",
     "publish": "Yes",
     "datestart": "2022-04-01T07:00:00.000Z",
-    "dateend": "2022-06-30T07:00:00.000Z"
+    "dateend": "2022-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -9004,6 +9144,56 @@
     "code": "ls",
     "districts": "No Driving, All Areas",
     "publish": "No"
+  },
+  {
+    "country": "Latvia",
+    "code": "LV",
+    "svspc": "SV",
+    "region": "Riga",
+    "districts": "Riga",
+    "publish": "Yes",
+    "datestart": "2022-07-01T07:00:00.000Z",
+    "dateend": "2022-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Latvia",
+    "code": "LV",
+    "svspc": "SV",
+    "region": "Kurzeme",
+    "districts": "Liepāja",
+    "publish": "Yes",
+    "datestart": "2022-07-01T07:00:00.000Z",
+    "dateend": "2022-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Latvia",
+    "code": "LV",
+    "svspc": "SV",
+    "region": "Latgale",
+    "districts": "Daugavpils",
+    "publish": "Yes",
+    "datestart": "2022-07-01T07:00:00.000Z",
+    "dateend": "2022-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Latvia",
+    "code": "LV",
+    "svspc": "SV",
+    "region": "Zemgale",
+    "districts": "Jelgava",
+    "publish": "Yes",
+    "datestart": "2022-07-01T07:00:00.000Z",
+    "dateend": "2022-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Latvia",
+    "code": "LV",
+    "svspc": "SV",
+    "region": "Vidzeme",
+    "districts": "Valmiera",
+    "publish": "Yes",
+    "datestart": "2022-07-01T07:00:00.000Z",
+    "dateend": "2022-09-01T07:00:00.000Z"
   },
   {
     "country": "Lithuania",
@@ -13830,7 +14020,7 @@
     "districts": "Bangkok, Ratchaburi, Nonthaburi, Kanchanaburii, Nakhonsawan, Chiang Mai, Phuket, Chonburi, Samut Songkharm, Chanthaburi, Trang, Lumppang, Hat Yai, Surathani, Ranong, Kamphanphet",
     "publish": "Yes",
     "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-09-30T07:00:00.000Z"
+    "dateend": "2022-12-31T08:00:00.000Z"
   },
   {
     "country": "Uganda",
