@@ -6760,9 +6760,9 @@
     "svspc": "SV",
     "region": "Luxembourg",
     "districts": "Luxembourg City, Diekirch, Clervaux, Redange, Echternach, Esch-sur-Alzette, Capellen, Grevenmacher, Remich, Mersch, Vianden, Wiltz",
-    "publish": "No",
-    "datestart": "2021-06-08T07:00:00.000Z",
-    "dateend": "2021-08-31T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2022-07-01T07:00:00.000Z",
+    "dateend": "2022-09-01T07:00:00.000Z"
   },
   {
     "country": "México",
