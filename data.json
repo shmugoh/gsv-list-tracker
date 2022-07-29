@@ -1476,6 +1476,16 @@
     "country": "Japan",
     "code": "jp",
     "svspc": "SV",
+    "region": "Aomori",
+    "districts": "Aomori, Hachinohe",
+    "publish": "Yes",
+    "datestart": "2022-07-01T07:00:00.000Z",
+    "dateend": "2022-09-30T07:00:00.000Z"
+  },
+  {
+    "country": "Japan",
+    "code": "jp",
+    "svspc": "SV",
     "region": "Miyazaki",
     "districts": "Miyazaki, Nichinan, Kushima, Miyakonojo, Kobayashi, Ebino, Takaharu, Saito, Hyuga, Misato, Nobeoka",
     "publish": "No",
@@ -4656,6 +4666,16 @@
     "dateend": "2019-11-15T08:00:00.000Z"
   },
   {
+    "country": "Japan",
+    "code": "jp",
+    "svspc": "SV",
+    "region": "Nagano",
+    "districts": "Nagano, Shiojiri",
+    "publish": "Yes",
+    "datestart": "2022-04-01T07:00:00.000Z",
+    "dateend": "2022-09-30T07:00:00.000Z"
+  },
+  {
     "country": "台灣",
     "code": "tw",
     "svspc": "SV",
@@ -7439,10 +7459,10 @@
     "code": "jp",
     "svspc": "SV",
     "region": "Yamaguchi",
-    "districts": "Yamaguchi, Shminoseki",
-    "publish": "No",
-    "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-03-31T07:00:00.000Z"
+    "districts": "Yamaguchi, Shunan, Hofu",
+    "publish": "Yes",
+    "datestart": "2022-08-01T07:00:00.000Z",
+    "dateend": "2022-10-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -8608,6 +8628,16 @@
     "dateend": "Septembre 2022"
   },
   {
+    "country": "Japan",
+    "code": "jp",
+    "svspc": "SV",
+    "region": "Hokkaido",
+    "districts": "Sapporo, Tomakomai, Otaru, Wakkanai, Kushiro, Obihiro, Asahikawa",
+    "publish": "Yes",
+    "datestart": "2022-04-30T07:00:00.000Z",
+    "dateend": "2022-09-30T07:00:00.000Z"
+  },
+  {
     "country": "Italia",
     "code": "IT",
     "svspc": "SV",
@@ -8792,7 +8822,7 @@
     "code": "jp",
     "svspc": "SV",
     "region": "Nagasaki",
-    "districts": "Nagasaki",
+    "districts": "Nagasaki, Isahaya",
     "publish": "Yes",
     "datestart": "2022-07-01T07:00:00.000Z",
     "dateend": "2022-09-30T07:00:00.000Z"
@@ -8825,14 +8855,14 @@
     "districts": "Yokohama, Sagamihara, Fujisawa, Chigasaki, Kamakura",
     "publish": "Yes",
     "datestart": "2022-02-28T08:00:00.000Z",
-    "dateend": "2022-09-30T07:00:00.000Z"
+    "dateend": "2022-11-30T08:00:00.000Z"
   },
   {
     "country": "Japan",
     "code": "jp",
     "svspc": "SV",
     "region": "Shiga",
-    "districts": "Kusatsu",
+    "districts": "Kusatsu, Higashi-Omi, Kusatsu",
     "publish": "Yes",
     "datestart": "2022-02-01T08:00:00.000Z",
     "dateend": "2022-09-30T07:00:00.000Z"
@@ -8868,14 +8898,14 @@
     "dateend": "2022-03-30T07:00:00.000Z"
   },
   {
-    "country": "Japan",
-    "code": "jp",
+    "country": "Sweden",
+    "code": "SE",
     "svspc": "SV",
-    "region": "Shiga",
-    "districts": "Higashi-Omi, Kusatsu",
+    "region": "    Boden",
+    "districts": "    Boden",
     "publish": "Yes",
-    "datestart": "2022-03-31T07:00:00.000Z",
-    "dateend": "2022-09-30T07:00:00.000Z"
+    "datestart": "2022-05-16T07:00:00.000Z",
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -8912,7 +8942,7 @@
     "code": "jp",
     "svspc": "SV",
     "region": "Fukuoka",
-    "districts": "Kitakyushu, Fukuoka, Nakama",
+    "districts": "Kitakyushu, Fukuoka, Kurume",
     "publish": "Yes",
     "datestart": "2022-03-31T07:00:00.000Z",
     "dateend": "2022-09-30T07:00:00.000Z"
@@ -8962,17 +8992,17 @@
     "code": "jp",
     "svspc": "SV",
     "region": "Kanagawa",
-    "districts": "Sagamihara",
+    "districts": "Kawasaki",
     "publish": "Yes",
-    "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2022-09-30T07:00:00.000Z"
+    "datestart": "2022-07-01T07:00:00.000Z",
+    "dateend": "2022-11-30T08:00:00.000Z"
   },
   {
     "country": "Japan",
     "code": "jp",
     "svspc": "SV",
     "region": "Shizuoka",
-    "districts": "Numazu, Fuji, Gotenba",
+    "districts": "Numazu, Hamamatsu",
     "publish": "Yes",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-09-30T07:00:00.000Z"
@@ -8993,9 +9023,9 @@
     "svspc": "SV",
     "region": "Iwate",
     "districts": "Morioka, Hanamaki, Miyako",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-01T07:00:00.000Z",
-    "dateend": "2022-09-30T07:00:00.000Z"
+    "dateend": "2022-07-01T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -9041,6 +9071,16 @@
     "country": "Japan",
     "code": "jp",
     "svspc": "SV",
+    "region": "Gifu",
+    "districts": "Gifu, Ogaki, Gero, Minokamo",
+    "publish": "Yes",
+    "datestart": "2022-08-01T07:00:00.000Z",
+    "dateend": "2022-11-30T08:00:00.000Z"
+  },
+  {
+    "country": "Japan",
+    "code": "jp",
+    "svspc": "SV",
     "region": "Ibaraki",
     "districts": "Tsukuba, Kasama, Ishioka",
     "publish": "Yes",
@@ -9062,7 +9102,7 @@
     "code": "jp",
     "svspc": "SV",
     "region": "Tokyo",
-    "districts": "Hachioji, Fuchu",
+    "districts": "Hachioji, Fuchu, 23 wards",
     "publish": "Yes",
     "datestart": "2022-04-30T07:00:00.000Z",
     "dateend": "2022-09-30T07:00:00.000Z"
@@ -9125,7 +9165,7 @@
     "districts": "Matsuyama, Niihama, Shikokuchuo",
     "publish": "Yes",
     "datestart": "2022-04-01T07:00:00.000Z",
-    "dateend": "2022-09-30T07:00:00.000Z"
+    "dateend": "2022-08-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -9135,26 +9175,16 @@
     "districts": "Nagoya, Chita, Kariya, Handa",
     "publish": "Yes",
     "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-07-31T07:00:00.000Z"
+    "dateend": "2022-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
     "code": "jp",
     "svspc": "SV",
     "region": "Hokkaido",
-    "districts": "Sapporo, Tomakomai, Otaru",
+    "districts": "Sapporo, Tomakomai, Otaru, Wakkanai, Kushiro, Obihiro, Asahikawa",
     "publish": "Yes",
     "datestart": "2022-04-30T07:00:00.000Z",
-    "dateend": "2022-08-31T07:00:00.000Z"
-  },
-  {
-    "country": "Japan",
-    "code": "jp",
-    "svspc": "SV",
-    "region": "Hokkaido",
-    "districts": "Wakkanai, Kushiro, Obihiro, Asahikawa",
-    "publish": "Yes",
-    "datestart": "2022-05-01T07:00:00.000Z",
     "dateend": "2022-08-31T07:00:00.000Z"
   },
   {
@@ -11679,16 +11709,6 @@
     "country": "Sweden",
     "code": "SE",
     "svspc": "SV",
-    "region": "    Boden",
-    "districts": "    Boden",
-    "publish": "Yes",
-    "datestart": "2022-05-16T07:00:00.000Z",
-    "dateend": "2022-11-01T07:00:00.000Z"
-  },
-  {
-    "country": "Sweden",
-    "code": "SE",
-    "svspc": "SV",
     "region": "    Borlänge",
     "districts": "    Borlänge",
     "publish": "Yes",
@@ -13328,6 +13348,16 @@
     "publish": "No",
     "datestart": "Julliet 2017",
     "dateend": "Novembre 2017"
+  },
+  {
+    "country": "Japan",
+    "code": "jp",
+    "svspc": "SV",
+    "region": "Chiba",
+    "districts": "Chiba, Kisarazu, Funabashi, Matsudo, Kashiwa",
+    "publish": "Yes",
+    "datestart": "2022-07-01T07:00:00.000Z",
+    "dateend": "2022-11-30T08:00:00.000Z"
   },
   {
     "country": "France",
