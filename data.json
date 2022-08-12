@@ -1206,8 +1206,8 @@
     "region": "Senglea",
     "districts": "Senglea",
     "publish": "No",
-    "datestart": "2017-10-20T07:00:00.000Z",
-    "dateend": "2018-03-01T08:00:00.000Z"
+    "datestart": "2022-07-01T07:00:00.000Z",
+    "dateend": "2022-08-01T07:00:00.000Z"
   },
   {
     "country": "Malta",
@@ -1215,8 +1215,8 @@
     "region": "Siġġiewi",
     "districts": "Siġġiewi",
     "publish": "No",
-    "datestart": "2017-10-20T07:00:00.000Z",
-    "dateend": "2018-03-01T08:00:00.000Z"
+    "datestart": "2022-07-01T07:00:00.000Z",
+    "dateend": "2022-08-01T07:00:00.000Z"
   },
   {
     "country": "Malta",
@@ -1224,8 +1224,8 @@
     "region": "Valletta",
     "districts": "Valletta",
     "publish": "No",
-    "datestart": "2017-10-20T07:00:00.000Z",
-    "dateend": "2018-03-01T08:00:00.000Z"
+    "datestart": "2022-07-01T07:00:00.000Z",
+    "dateend": "2022-08-01T07:00:00.000Z"
   },
   {
     "country": "Malta",
@@ -1233,8 +1233,8 @@
     "region": "Birgu",
     "districts": "Birgu",
     "publish": "No",
-    "datestart": "2017-10-20T07:00:00.000Z",
-    "dateend": "2018-03-01T08:00:00.000Z"
+    "datestart": "2022-07-01T07:00:00.000Z",
+    "dateend": "2022-08-01T07:00:00.000Z"
   },
   {
     "country": "Malta",
@@ -1242,8 +1242,8 @@
     "region": "Bormla",
     "districts": "Bormla",
     "publish": "No",
-    "datestart": "2017-10-20T07:00:00.000Z",
-    "dateend": "2018-03-01T08:00:00.000Z"
+    "datestart": "2022-07-01T07:00:00.000Z",
+    "dateend": "2022-08-01T07:00:00.000Z"
   },
   {
     "country": "Malta",
@@ -1251,8 +1251,8 @@
     "region": "Mdina",
     "districts": "Mdina",
     "publish": "No",
-    "datestart": "2017-10-20T07:00:00.000Z",
-    "dateend": "2018-03-01T08:00:00.000Z"
+    "datestart": "2022-07-01T07:00:00.000Z",
+    "dateend": "2022-08-01T07:00:00.000Z"
   },
   {
     "country": "Malta",
@@ -1260,8 +1260,8 @@
     "region": "Qormi",
     "districts": "Qormi",
     "publish": "No",
-    "datestart": "2017-10-20T07:00:00.000Z",
-    "dateend": "2018-03-01T08:00:00.000Z"
+    "datestart": "2022-07-01T07:00:00.000Z",
+    "dateend": "2022-08-01T07:00:00.000Z"
   },
   {
     "country": "Malta",
@@ -1269,8 +1269,8 @@
     "region": "Rabat",
     "districts": "Rabat",
     "publish": "No",
-    "datestart": "2017-10-20T07:00:00.000Z",
-    "dateend": "2018-03-01T08:00:00.000Z"
+    "datestart": "2022-07-01T07:00:00.000Z",
+    "dateend": "2022-08-01T07:00:00.000Z"
   },
   {
     "country": "Malta",
@@ -1278,8 +1278,8 @@
     "region": "Żabbar",
     "districts": "Żabbar",
     "publish": "No",
-    "datestart": "2017-10-20T07:00:00.000Z",
-    "dateend": "2018-03-01T08:00:00.000Z"
+    "datestart": "2022-07-01T07:00:00.000Z",
+    "dateend": "2022-08-01T07:00:00.000Z"
   },
   {
     "country": "Malta",
@@ -1287,8 +1287,8 @@
     "region": "Żebbuġ",
     "districts": "Żebbuġ",
     "publish": "No",
-    "datestart": "2017-10-20T07:00:00.000Z",
-    "dateend": "2018-03-01T08:00:00.000Z"
+    "datestart": "2022-07-01T07:00:00.000Z",
+    "dateend": "2022-08-01T07:00:00.000Z"
   },
   {
     "country": "Malta",
@@ -1296,8 +1296,8 @@
     "region": "Żejtun",
     "districts": "Żejtun",
     "publish": "No",
-    "datestart": "2017-10-20T07:00:00.000Z",
-    "dateend": "2018-03-01T08:00:00.000Z"
+    "datestart": "2022-07-01T07:00:00.000Z",
+    "dateend": "2022-08-01T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6379,9 +6379,9 @@
     "svspc": "SV-SpC",
     "region": "Split-Dalmatia",
     "districts": "Split",
-    "publish": "No",
-    "datestart": "2021-04-01T07:00:00.000Z",
-    "dateend": "2021-05-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2022-08-01T07:00:00.000Z",
+    "dateend": "Septembre 2022"
   },
   {
     "country": "Hrvatska",
@@ -6389,9 +6389,9 @@
     "svspc": "SV-SpC",
     "region": "Zadar",
     "districts": "Zadar",
-    "publish": "No",
-    "datestart": "2021-04-01T07:00:00.000Z",
-    "dateend": "2021-05-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2022-08-01T07:00:00.000Z",
+    "dateend": "Septembre 2022"
   },
   {
     "country": "Hrvatska",
@@ -6399,9 +6399,9 @@
     "svspc": "SV-SpC",
     "region": "Osijek-Baranja",
     "districts": "Osijek",
-    "publish": "No",
-    "datestart": "2021-04-01T07:00:00.000Z",
-    "dateend": "2021-05-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2022-08-01T07:00:00.000Z",
+    "dateend": "Septembre 2022"
   },
   {
     "country": "Hrvatska",
@@ -6409,9 +6409,9 @@
     "svspc": "SV-SpC",
     "region": "Primorje-Gorski Kotar",
     "districts": "Rijeka",
-    "publish": "No",
-    "datestart": "2021-04-01T07:00:00.000Z",
-    "dateend": "2021-05-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2022-08-01T07:00:00.000Z",
+    "dateend": "Septembre 2022"
   },
   {
     "country": "Hrvatska",
@@ -6419,9 +6419,9 @@
     "svspc": "SV-SpC",
     "region": "City of Zagreb",
     "districts": "Zagreb",
-    "publish": "No",
-    "datestart": "2021-04-01T07:00:00.000Z",
-    "dateend": "2021-05-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2022-08-01T07:00:00.000Z",
+    "dateend": "Septembre 2022"
   },
   {
     "country": "Hrvatska",
@@ -6429,9 +6429,9 @@
     "svspc": "SV-SpC",
     "region": "Bjelovar-Bilogora",
     "districts": "Bjelovar",
-    "publish": "No",
-    "datestart": "2021-04-01T07:00:00.000Z",
-    "dateend": "2021-05-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2022-08-01T07:00:00.000Z",
+    "dateend": "Septembre 2022"
   },
   {
     "country": "Hrvatska",
@@ -6439,9 +6439,9 @@
     "svspc": "SV-SpC",
     "region": "Brod-Posavina",
     "districts": "Slavonski Brod",
-    "publish": "No",
-    "datestart": "2021-04-01T07:00:00.000Z",
-    "dateend": "2021-05-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2022-08-01T07:00:00.000Z",
+    "dateend": "Septembre 2022"
   },
   {
     "country": "Hrvatska",
@@ -6449,9 +6449,9 @@
     "svspc": "SV-SpC",
     "region": "Dubrovnik-Neretva",
     "districts": "Dubrovnik",
-    "publish": "No",
-    "datestart": "2021-04-01T07:00:00.000Z",
-    "dateend": "2021-05-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2022-08-01T07:00:00.000Z",
+    "dateend": "Septembre 2022"
   },
   {
     "country": "Hrvatska",
@@ -6459,9 +6459,9 @@
     "svspc": "SV-SpC",
     "region": "Istria",
     "districts": "Pazin",
-    "publish": "No",
-    "datestart": "2021-04-01T07:00:00.000Z",
-    "dateend": "2021-05-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2022-08-01T07:00:00.000Z",
+    "dateend": "Septembre 2022"
   },
   {
     "country": "Hrvatska",
@@ -6469,9 +6469,9 @@
     "svspc": "SV-SpC",
     "region": "Karlovac",
     "districts": "Karlovac",
-    "publish": "No",
-    "datestart": "2021-04-01T07:00:00.000Z",
-    "dateend": "2021-05-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2022-08-01T07:00:00.000Z",
+    "dateend": "Septembre 2022"
   },
   {
     "country": "Hrvatska",
@@ -6479,9 +6479,9 @@
     "svspc": "SV-SpC",
     "region": "Koprivnica-Križevci",
     "districts": "Koprivnica",
-    "publish": "No",
-    "datestart": "2021-04-01T07:00:00.000Z",
-    "dateend": "2021-05-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2022-08-01T07:00:00.000Z",
+    "dateend": "Septembre 2022"
   },
   {
     "country": "Hrvatska",
@@ -6489,9 +6489,9 @@
     "svspc": "SV-SpC",
     "region": "Krapina-Zagorje",
     "districts": "Krapina",
-    "publish": "No",
-    "datestart": "2021-04-01T07:00:00.000Z",
-    "dateend": "2021-05-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2022-08-01T07:00:00.000Z",
+    "dateend": "Septembre 2022"
   },
   {
     "country": "Hrvatska",
@@ -6499,9 +6499,9 @@
     "svspc": "SV-SpC",
     "region": "Lika-Senj",
     "districts": "Gospić",
-    "publish": "No",
-    "datestart": "2021-04-01T07:00:00.000Z",
-    "dateend": "2021-05-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2022-08-01T07:00:00.000Z",
+    "dateend": "Septembre 2022"
   },
   {
     "country": "Hrvatska",
@@ -6509,9 +6509,9 @@
     "svspc": "SV-SpC",
     "region": "Međimurje",
     "districts": "Čakovec",
-    "publish": "No",
-    "datestart": "2021-04-01T07:00:00.000Z",
-    "dateend": "2021-05-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2022-08-01T07:00:00.000Z",
+    "dateend": "Septembre 2022"
   },
   {
     "country": "Hrvatska",
@@ -6519,9 +6519,9 @@
     "svspc": "SV-SpC",
     "region": "Požega-Slavonia",
     "districts": "Požega",
-    "publish": "No",
-    "datestart": "2021-04-01T07:00:00.000Z",
-    "dateend": "2021-05-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2022-08-01T07:00:00.000Z",
+    "dateend": "Septembre 2022"
   },
   {
     "country": "Hrvatska",
@@ -6529,9 +6529,9 @@
     "svspc": "SV-SpC",
     "region": "Šibenik-Knin",
     "districts": "Šibenik",
-    "publish": "No",
-    "datestart": "2021-04-01T07:00:00.000Z",
-    "dateend": "2021-05-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2022-08-01T07:00:00.000Z",
+    "dateend": "Septembre 2022"
   },
   {
     "country": "Hrvatska",
@@ -6539,9 +6539,9 @@
     "svspc": "SV-SpC",
     "region": "Sisak-Moslavina",
     "districts": "Sisak",
-    "publish": "No",
-    "datestart": "2021-04-01T07:00:00.000Z",
-    "dateend": "2021-05-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2022-08-01T07:00:00.000Z",
+    "dateend": "Septembre 2022"
   },
   {
     "country": "Hrvatska",
@@ -6549,9 +6549,9 @@
     "svspc": "SV-SpC",
     "region": "Varaždin",
     "districts": "Varaždin",
-    "publish": "No",
-    "datestart": "2021-04-01T07:00:00.000Z",
-    "dateend": "2021-05-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2022-08-01T07:00:00.000Z",
+    "dateend": "Septembre 2022"
   },
   {
     "country": "Hrvatska",
@@ -6559,9 +6559,9 @@
     "svspc": "SV-SpC",
     "region": "Virovitica-Podravina",
     "districts": "Virovitica",
-    "publish": "No",
-    "datestart": "2021-04-01T07:00:00.000Z",
-    "dateend": "2021-05-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2022-08-01T07:00:00.000Z",
+    "dateend": "Septembre 2022"
   },
   {
     "country": "Hrvatska",
@@ -6569,9 +6569,9 @@
     "svspc": "SV-SpC",
     "region": "Vukovar-Srijem",
     "districts": "Vukovar",
-    "publish": "No",
-    "datestart": "2021-04-01T07:00:00.000Z",
-    "dateend": "2021-05-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2022-08-01T07:00:00.000Z",
+    "dateend": "Septembre 2022"
   },
   {
     "country": "Hrvatska",
@@ -6579,9 +6579,9 @@
     "svspc": "SV-SpC",
     "region": "Zagreb County",
     "districts": "Zagreb",
-    "publish": "No",
-    "datestart": "2021-04-01T07:00:00.000Z",
-    "dateend": "2021-05-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2022-08-01T07:00:00.000Z",
+    "dateend": "Septembre 2022"
   },
   {
     "country": "Taiwan",
@@ -8605,7 +8605,7 @@
     "districts": "Potenza, Matera",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "Septembre 2022"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Italia",
@@ -8615,7 +8615,7 @@
     "districts": "Bergamo, Brescia, Como, Cremona, Lecco, Lodi, Mantova, Milano, Monza, Pavia, Sondrio, Varese, Presolana",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "Septembre 2022"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Italia",
@@ -8625,7 +8625,7 @@
     "districts": "Piacenza, Parma, Reggio Emilia, Modena, Bologna, Ferrara, Ravenna, Forlì-Cesena, Rimini",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "Septembre 2022"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -8645,7 +8645,7 @@
     "districts": "Avellino, Benevento, Caserta, Napoli",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "Septembre 2022"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Italia",
@@ -8655,7 +8655,7 @@
     "districts": "Chieti, L'Aquila, Pescara, Teramo",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "Septembre 2022"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Italia",
@@ -8665,7 +8665,7 @@
     "districts": "Frosinone, Latina, Rieti, Roma, Viterbo",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "Septembre 2022"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Italia",
@@ -8675,7 +8675,7 @@
     "districts": "Roma (con il supporto eccezionale di sistemi aeromobili a pilotaggio remoto)",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "Septembre 2022"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Italia",
@@ -8685,7 +8685,7 @@
     "districts": "Salerno (con il supporto eccezionale di sistemi aeromobili a pilotaggio remoto)",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "Septembre 2022"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Italia",
@@ -8695,7 +8695,7 @@
     "districts": "Ancona, Ascoli Piceno, Fermo, Macerata, Pesaro, Urbino",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "Septembre 2022"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Italia",
@@ -8705,7 +8705,7 @@
     "districts": "Belluno, Padova, Rovigo, Treviso, Venezia, Verona, Vicenza, Dolomites",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "Septembre 2022"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Italia",
@@ -8715,7 +8715,7 @@
     "districts": "Arezzo, Firenze, Grosseto, Livorno, Lucca, Massa-Carrara, Pisa, Pistoia, Pontremoli, Prato, Siena",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "Septembre 2022"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Italia",
@@ -8725,7 +8725,7 @@
     "districts": "Alessandria, Asti, Biella, Cuneo, Novara, Torino, Verbano-Cusio-Ossola, Vercelli",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "Septembre 2022"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Italia",
@@ -8735,7 +8735,7 @@
     "districts": "Agrigento, Caltanissetta, Catania, Enna, Messina, Palermo, Ragusa, Siracusa, Trapani, Gela, Marsala, ",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "Septembre 2022"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Italia",
@@ -8745,7 +8745,7 @@
     "districts": "Bari, Barletta-Andria-Trani, Brindisi, Foggia, Lecce, Taranto",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "Septembre 2022"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Italia",
@@ -8755,7 +8755,7 @@
     "districts": "Bolzano, Trento",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "Septembre 2022"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Italia",
@@ -8765,7 +8765,7 @@
     "districts": "Cagliari, Carbonia-Iglesias, Nuoro, Olbia-Tempio, Oristano, Medio Campidano, Sassari, Ogliastra",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "Septembre 2022"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Italia",
@@ -8775,7 +8775,7 @@
     "districts": "Gorizia, Pordenone, Trieste, Udine",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "Septembre 2022"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Italia",
@@ -8785,7 +8785,7 @@
     "districts": "Catanzaro, Cosenza, Crotone, Reggio Calabria, Vibo Valentia",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "Septembre 2022"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Italia",
@@ -8795,7 +8795,7 @@
     "districts": "Perugia, Terni, Gubbio, Città di Castello, Foligno, Spoleto, Orvieto, Marsciano, Todi",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "Septembre 2022"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Italia",
@@ -8805,7 +8805,7 @@
     "districts": "Parco Naturale Regionale delle Alpi Liguri, Cervo, Parco Naturale del Ciapà",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "Septembre 2022"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -10670,7 +10670,7 @@
     "districts": "Águeda, Albergaria-a-Velha, Anadia, Arouca, Aveiro, Castelo de Paiva, Espinho, Estarreja, Ílhavo, Mealhada, Murtosa, Oliveira de Azeméis, Oliveira do Bairro, Ovar, Santa Maria da Feira, São João da Madeira, Sever do Vouga, Vagos, Vale de Cambra",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "Septembre 2022"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -10680,7 +10680,7 @@
     "districts": "Odemira, Aljustrel, Almodôvar, Alvito, Barrancos, Beja, Castro Verde, Cuba, Ferreira do Alentejo, Mértola, Moura, Ourique, Serpa, Vidigueira",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "Septembre 2022"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -10690,7 +10690,7 @@
     "districts": "Cabeceiras de Basto, Celorico de Basto, Fafe, Guimarães, Póvoa de Lanhoso, Vieira do Minho, Vila Nova de Famalicão, Vizela, Amares, Barcelos, Braga, Esposende, Terras de Bouro, Vila Verde",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "Septembre 2022"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -10700,7 +10700,7 @@
     "districts": "Alfândega da Fé,Bragança,Carrazeda de Ansiães,Freixo de Espada à Cinta,Macedo de Cavaleiros,Miranda do Douro,Mirandela,Mogadouro,Moncorvo,Vila Flor,Vimioso,Vinhais",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "Septembre 2022"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -10710,7 +10710,7 @@
     "districts": "Belmonte, Castelo Branco, Covilhã, Fundão, Idanha-a-Nova, Oleiros, Penamacor, Proença-a-Nova, Sertã, Vila de Rei, Vila Velha de Ródão",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "Septembre 2022"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -10720,7 +10720,7 @@
     "districts": "Arganil,Cantanhede,Coimbra,Condeixa-a-Nova,Figueira da Foz,Góis,Lousã,Mira,Miranda do Corvo,Montemor-o-Velho,Oliveira do Hospital,Pampilhosa da Serra,Penacova,Penela,Soure,Tábua,Vila Nova de Poiares",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "Septembre 2022"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -10730,7 +10730,7 @@
     "districts": "Alandroal,Arraiolos,Borba,Estremoz,Évora,Montemor-o-Novo,Mora,Mourão,Olivença,Portel,Redondo,Reguengos de Monsaraz,Vendas Novas,Viana do Alentejo,Vila Viçosa",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "Septembre 2022"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -10740,7 +10740,7 @@
     "districts": "Albufeira,Faro,Lagoa,Lagos,Loulé,Olhão,Portimão,Quarteira (Loulé),Silves,Tavira,Vila Real de Santo António",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "Septembre 2022"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -10750,7 +10750,7 @@
     "districts": "Gouveia, Guarda, Meda, Pinhel, Sabugal, Trancoso.",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "Septembre 2022"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -10760,7 +10760,7 @@
     "districts": "Alcobaça,Caldas da Rainha,Leiria,Marinha Grande,Nazaré,Óbidos,Peniche,Pombal",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "Septembre 2022"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -10770,7 +10770,7 @@
     "districts": "Alenquer,Amadora,Arruda dos Vinhos,Azambuja,Cadaval,Cascais,Lisbon,Loures,Lourinhã,Mafra,Odivelas,Oeiras,Sintra,Sobral de Monte Agraço,Torres Vedras,Vila Franca de Xira",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "Septembre 2022"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -10780,7 +10780,7 @@
     "districts": "Alter do Chão,Arronches,Avis,Campo Maior,Castelo de Vide,Crato,Elvas,Fronteira,Gavião,Marvão,Monforte,Nisa,Ponte de Sor,Portalegre,Sousel,Summary of vot",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "Septembre 2022"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -10790,7 +10790,7 @@
     "districts": "Amarante,Baião,Felgueiras,Gondomar,Lousada,Maia,Marco de Canaveses,Matosinhos,Paços de Ferreira,Paredes,Penafiel,Porto,Póvoa de Varzim,Santo Tirso,Trofa,Valongo,Vila do Conde,Vila Nova de Gaia ",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "Septembre 2022"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -10800,7 +10800,7 @@
     "districts": "Abrantes,Alcanena,Almeirim,Alpiarça,Benavente,Cartaxo,Chamusca,Constância,Coruche,Entroncamento,Ferreira do Zêzere,Golegã,Mação,Ourém,Rio Maior,Salvaterra de Magos,Santarém,Sardoal,Tomar,Torres Novas,Vila Nova da Barquinha",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "Septembre 2022"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -10810,7 +10810,7 @@
     "districts": "Alcochete,Almada,Barreiro,Moita,Montijo,Palmela,Seixal,Sesimbra,Setúbal,Alcácer do Sal,Grândola,Santiago do Cacém,Sines",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "Septembre 2022"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -10820,7 +10820,7 @@
     "districts": "Arcos de Valdevez,Caminha,Melgaço,Monção,Paredes de Coura,Ponte da Barca,Ponte de Lima,Valença,Viana do Castelo,Vila Nova de Cerveira",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "Septembre 2022"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -10830,7 +10830,7 @@
     "districts": "Alijó,Boticas,Chaves,Mesão Frio,Mondim de Basto,Montalegre,Murça,Peso da Régua,Ribeira de Pena,Sabrosa,Santa Marta de Penaguião,Valpaços,Vila Pouca de Aguiar,\nVila Real",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "Septembre 2022"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -10840,7 +10840,7 @@
     "districts": "Armamar,Carregal do Sal,Castro Daire,Cinfães,Lamego,Mangualde,Moimenta da Beira,Mortágua,Nelas,Oliveira de Frades,Penalva do Castelo,Penedono,Resende,Santa Comba Dão,São João da Pesqueira,São Pedro do Sul,Sátão,Sernancelhe,Tabuaço,Tarouca,Tondela,Vila Nova de Paiva,Viseu,Vouzela",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "Septembre 2022"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Republika Srbija",
@@ -14133,7 +14133,7 @@
     "code": "gb",
     "svspc": "SV",
     "region": "South West",
-    "districts": "Bangkok, Ratchaburi, Nonthaburi, Kanchanaburii, Nakhonsawan, Chiang Mai, Phuket, Chonburi, Samut Songkharm, Chanthaburi, Trang, Lumppang, Hat Yai, Surathani, Ranong",
+    "districts": "Poole, Bornemouth, Dorset, Somerset, Torquay, Exeter, Plymouth, Newquay, Weymouth, Poole, Bristol, Bath, Swindon, Gloucester",
     "publish": "Yes",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
@@ -14163,7 +14163,7 @@
     "code": "gb",
     "svspc": "SV",
     "region": "Cornwall",
-    "districts": "Cornwall, Devon, Truro, St Austell, Redruth, Newquay, Padstow",
+    "districts": "Penzance, Truro, St Austell, Redruth, Newquay, Padstow",
     "publish": "Yes",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
@@ -14173,7 +14173,7 @@
     "code": "gb",
     "svspc": "SV",
     "region": "North East",
-    "districts": "Newcastle, MIddlesborough, Durham, Corbridge, Sunderland",
+    "districts": "Newcastle, Middlesbrough, Durham, Corbridge, Sunderland",
     "publish": "Yes",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
@@ -14223,7 +14223,7 @@
     "code": "gb",
     "svspc": "SV",
     "region": "East Midlands",
-    "districts": "Derbyshire, Nottinghamshire, Leicestershire, Norfolk",
+    "districts": "Derbyshire, Nottinghamshire, Leicestershire",
     "publish": "Yes",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
