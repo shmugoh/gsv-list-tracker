@@ -6997,7 +6997,7 @@
     "districts": "Niigata",
     "publish": "Yes",
     "datestart": "2022-06-30T07:00:00.000Z",
-    "dateend": "2022-08-31T07:00:00.000Z"
+    "dateend": "2022-10-31T07:00:00.000Z"
   },
   {
     "country": "Singapore",
@@ -9165,7 +9165,7 @@
     "districts": "Matsuyama, Niihama, Shikokuchuo",
     "publish": "Yes",
     "datestart": "2022-04-01T07:00:00.000Z",
-    "dateend": "2022-08-31T07:00:00.000Z"
+    "dateend": "2022-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -9185,7 +9185,7 @@
     "districts": "Sapporo, Tomakomai, Otaru, Wakkanai, Kushiro, Obihiro, Asahikawa",
     "publish": "Yes",
     "datestart": "2022-04-30T07:00:00.000Z",
-    "dateend": "2022-08-31T07:00:00.000Z"
+    "dateend": "2022-10-31T07:00:00.000Z"
   },
   {
     "country": "Kyrgyzstan",
@@ -9623,6 +9623,26 @@
     "publish": "No",
     "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Japan",
+    "code": "jp",
+    "svspc": "SV",
+    "region": "Yamagata",
+    "districts": "Yamagata, Tsuruoka",
+    "publish": "Yes",
+    "datestart": "2022-09-30T07:00:00.000Z",
+    "dateend": "2022-10-31T07:00:00.000Z"
+  },
+  {
+    "country": "Japan",
+    "code": "jp",
+    "svspc": "SV",
+    "region": "Akita",
+    "districts": "Akita",
+    "publish": "Yes",
+    "datestart": "2022-09-30T07:00:00.000Z",
+    "dateend": "2022-10-31T07:00:00.000Z"
   },
   {
     "country": "Latvia",
@@ -14077,7 +14097,7 @@
     "code": "th",
     "svspc": "SV",
     "region": "Central, Northern , Southern, Eastern ",
-    "districts": "Bangkok, Ratchaburi, Nonthaburi, Kanchanaburii, Nakhonsawan, Chiang Mai, Phuket, Chonburi, Samut Songkharm, Chanthaburi, Trang, Lumppang, Hat Yai, Surathani, Ranong, Kamphanphet",
+    "districts": "Bangkok, Nonthaburi, Krabi,  Nakhonsawan, Chiang Mai, Chiang Rai,Phang Nga, Chonburi, Samut Songkharm, Satun, Phear, Songkhla, Surathani, Prachoup Kirikun, Chaiyaphum, Surin, Burirum, Angthong, Nakhonratchasima, Sakhon Nakhon, Buengkan, Phisanulok, Loei, Nakhon Si Thammarat, Satun",
     "publish": "Yes",
     "datestart": "2022-01-01T08:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
@@ -15855,7 +15875,7 @@
     "svspc": "SV",
     "region": "Al Wakrah",
     "districts": "Al-Janoub Stadium formerly known as Al-Wakrah Stadium",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2022-09-01T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
@@ -15865,7 +15885,7 @@
     "svspc": "SV",
     "region": "Mesaieed ",
     "districts": "Al Wakrah Municipality ",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2022-09-01T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
@@ -15875,7 +15895,7 @@
     "svspc": "SV",
     "region": "Doha",
     "districts": "Khalifa International Stadium, Education City Stadium, Stadium 974 , Al Thumama Stadium",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2022-09-01T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
@@ -15885,7 +15905,7 @@
     "svspc": "SV",
     "region": "Lusail ",
     "districts": "Lusail Stadium",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2022-09-01T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
@@ -15895,7 +15915,7 @@
     "svspc": "SV",
     "region": "Al Rayyan",
     "districts": "Ahmad Bin Ali Stadium",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2022-09-01T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
@@ -15905,7 +15925,7 @@
     "svspc": "SV",
     "region": "Al Khor ",
     "districts": "Al Bayt Stadium",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2022-09-01T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   }
