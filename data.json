@@ -8422,7 +8422,7 @@
     "districts": "Copenhagen, Roskilde, Frederikssund, Hillerod, ",
     "publish": "Yes",
     "datestart": "2021-04-01T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Denmark",
@@ -8432,7 +8432,7 @@
     "districts": "Viborg, Herning, Silkeborg, Aarhus, Ringkobing, Horsens, Randers, Hostebro",
     "publish": "Yes",
     "datestart": "2021-04-01T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Denmark",
@@ -8442,7 +8442,7 @@
     "districts": "Aalborg, Hobro, Vendsyssel, Hantsholm, Frederikshavn, Horning",
     "publish": "Yes",
     "datestart": "2021-04-01T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Denmark",
@@ -8452,7 +8452,7 @@
     "districts": "Kolding, Esbjerg, Vejle, Sonderberg, Aabenraa, Billund, Assens, Kalundborg, Tønder",
     "publish": "Yes",
     "datestart": "2021-04-01T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Denmark",
@@ -8462,7 +8462,7 @@
     "districts": "Roskilde, Slagelse, Næstved, Haslev, Faxe, Middelfart, Nykobing, Falster, Nakslov, Fjenneslev, Holbæk, Korsor, Vordingborg",
     "publish": "Yes",
     "datestart": "2021-04-01T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Hong Kong",
@@ -8633,7 +8633,7 @@
     "svspc": "SV",
     "region": "Hokkaido",
     "districts": "Sapporo, Tomakomai, Otaru, Wakkanai, Kushiro, Obihiro, Asahikawa",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-04-30T07:00:00.000Z",
     "dateend": "2022-10-31T07:00:00.000Z"
   },
@@ -8822,10 +8822,10 @@
     "code": "jp",
     "svspc": "SV",
     "region": "Nagasaki",
-    "districts": "Nagasaki, Isahaya",
+    "districts": "Sasebo",
     "publish": "Yes",
-    "datestart": "2022-07-01T07:00:00.000Z",
-    "dateend": "2022-10-31T07:00:00.000Z"
+    "datestart": "2022-10-31T07:00:00.000Z",
+    "dateend": "2022-12-31T08:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -8833,7 +8833,7 @@
     "svspc": "SV",
     "region": "Shizuoka",
     "districts": "Mishima, Numazu, Fuji",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-01-01T08:00:00.000Z",
     "dateend": "2022-10-31T07:00:00.000Z"
   },
@@ -8973,7 +8973,7 @@
     "svspc": "SV",
     "region": "Miyazaki",
     "districts": "Miyazaki, Miyakonojo, Nobeoka",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-31T07:00:00.000Z",
     "dateend": "2022-10-31T07:00:00.000Z"
   },
@@ -8982,7 +8982,7 @@
     "code": "jp",
     "svspc": "SV",
     "region": "Tochigi",
-    "districts": "Yuki, Oyama",
+    "districts": "Utsnomiya",
     "publish": "Yes",
     "datestart": "2022-01-01T08:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
@@ -8993,9 +8993,9 @@
     "svspc": "SV",
     "region": "Kanagawa",
     "districts": "Kawasaki",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2022-07-01T07:00:00.000Z",
-    "dateend": "2022-09-30T07:00:00.000Z"
+    "dateend": "2022-12-31T08:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -9183,7 +9183,7 @@
     "svspc": "SV",
     "region": "Hokkaido",
     "districts": "Sapporo, Tomakomai, Otaru, Wakkanai, Kushiro, Obihiro, Asahikawa",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-04-30T07:00:00.000Z",
     "dateend": "2022-10-31T07:00:00.000Z"
   },
@@ -9422,7 +9422,7 @@
     "districts": "Oberfranken, Mittelfranken, Unterfranken, Schwaben, Oberpfalz, Oberbayern, Niederbayern",
     "publish": "Yes",
     "datestart": "2021-03-01T08:00:00.000Z",
-    "dateend": "2023-01-31T08:00:00.000Z"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Germany",
@@ -9432,7 +9432,7 @@
     "districts": "Berlin",
     "publish": "Yes",
     "datestart": "2021-03-02T08:00:00.000Z",
-    "dateend": "2023-01-31T08:00:00.000Z"
+    "dateend": "2022-12-02T08:00:00.000Z"
   },
   {
     "country": "Germany",
@@ -9442,7 +9442,7 @@
     "districts": "Barmin,Dahme-Spreewald, Elbe-Elster, Havelland, Märkisch-Oderland,Oberhavel, Oberspreewald-Lausitz,Oder-Spree,Ostprignitz-Ruppin, Potsdam-Mittelmark,  Prignitz, Spree-Neiße,  Teltow-Fläming,Uckermark",
     "publish": "Yes",
     "datestart": "2021-03-03T08:00:00.000Z",
-    "dateend": "2023-01-31T08:00:00.000Z"
+    "dateend": "2022-12-03T08:00:00.000Z"
   },
   {
     "country": "Germany",
@@ -9452,7 +9452,7 @@
     "districts": "Bremen",
     "publish": "Yes",
     "datestart": "2021-03-04T08:00:00.000Z",
-    "dateend": "2023-01-31T08:00:00.000Z"
+    "dateend": "2022-12-04T08:00:00.000Z"
   },
   {
     "country": "Germany",
@@ -9462,7 +9462,7 @@
     "districts": "Hamburg",
     "publish": "Yes",
     "datestart": "2021-03-05T08:00:00.000Z",
-    "dateend": "2023-01-31T08:00:00.000Z"
+    "dateend": "2022-12-05T08:00:00.000Z"
   },
   {
     "country": "Germany",
@@ -9472,7 +9472,7 @@
     "districts": "Darmstadt-Dieburg, Groß-Gerau, Hochtaunuskreis, Main-Kinzig-Kreis, Main-Taunus-Kreis, Odenwaldkreis, Rheingau-Taunus-Kreis, Wetteraukreis, Gießen, Lahn-Dill-Krei, Limburg-Weilburg, Marburg-Biedenkopf, Vogelsbergkreis, Fulda, Kassel, Hersfeld-Rotenburg, Schwalm-Eder-Kreis, Werra-Meißner-Kreis, Waldeck-Frankenberg",
     "publish": "Yes",
     "datestart": "2021-03-06T08:00:00.000Z",
-    "dateend": "2023-01-31T08:00:00.000Z"
+    "dateend": "2022-12-06T08:00:00.000Z"
   },
   {
     "country": "Germany",
@@ -9482,7 +9482,7 @@
     "districts": "Ammerland,Celle, Cloppenburg, Cuxhaven, Diepholz, Emsland,Friesland,Gifhorn\nGoslar,Harburg,Heidekreis, Helmstedt, Hildesheim, Holzminden, Hanover, Leer,Lüchow-Dannenberg, Lüneburg,\nNienburg,Northeim, Oldenburg, Osnabrück, Osterholz, Peine, Rotenburg,Schaumburg, Stade, Uelzen, Vechta, Verden, Wesermarsch,Wittmund,Wolfenbüttel",
     "publish": "Yes",
     "datestart": "2021-03-07T08:00:00.000Z",
-    "dateend": "2023-01-31T08:00:00.000Z"
+    "dateend": "2022-12-07T08:00:00.000Z"
   },
   {
     "country": "Germany",
@@ -9492,7 +9492,7 @@
     "districts": "Landkreis Rostock, Ludwigslust-Parchim, Mecklenburgische Seenplatte, Nordwestmecklenburg, Vorpommern-Greifswald, Vorpommern-Rügen",
     "publish": "Yes",
     "datestart": "2021-03-08T08:00:00.000Z",
-    "dateend": "2023-01-31T08:00:00.000Z"
+    "dateend": "2022-12-08T08:00:00.000Z"
   },
   {
     "country": "Germany",
@@ -9502,7 +9502,7 @@
     "districts": "Cologne Bight, Neanderthal, Porta Westfalica, Rhine-Ruhr, Ruhr Bereich, Rhineland, Westphalia",
     "publish": "Yes",
     "datestart": "2021-03-09T08:00:00.000Z",
-    "dateend": "2023-01-31T08:00:00.000Z"
+    "dateend": "2022-12-09T08:00:00.000Z"
   },
   {
     "country": "Germany",
@@ -9512,7 +9512,7 @@
     "districts": "Ahrweiler, Altenkirchen, Alzey-Worms,Bad Dürkheim, Bad Kreuznach, Bernkastel-Wittlich, Birkenfeld, Bitburg-Prüm, Cochem-Zell,Donnersbergkreis, Frankenthal (Pfalz), Germersheim, Kaiserslautern, Koblenz, Kusel, Landau in der Pfalz, Ludwigshafen am Rhein, Mainz, Mainz-Bingen, Mayen-Koblenz, Neuwied, Pirmasens, Rhein-Hunsrück-Kreis, Rhein-Lahn-Kreis, Rhein-Pfalz-Kreis, Speyer, Südliche Weinstraße, Südwestpfalz, Trier, Trier-Saarburg, Vulkaneifel, Westerwaldkreis, Worms, Zweibrücken\n",
     "publish": "Yes",
     "datestart": "2021-03-10T08:00:00.000Z",
-    "dateend": "2023-01-31T08:00:00.000Z"
+    "dateend": "2022-12-10T08:00:00.000Z"
   },
   {
     "country": "Germany",
@@ -9522,7 +9522,7 @@
     "districts": "Merzig-Wadern, Neunkirchen, Saarbrücken, Saarlouis, Saarpfalz-Kreis, Sankt Wendel",
     "publish": "Yes",
     "datestart": "2021-03-11T08:00:00.000Z",
-    "dateend": "2023-01-31T08:00:00.000Z"
+    "dateend": "2022-12-11T08:00:00.000Z"
   },
   {
     "country": "Germany",
@@ -9532,7 +9532,7 @@
     "districts": "Bautzen, Erzgebirgskreis, Görlitz, Leipzig, Meißen, Mittelsachsen, Nordsachsen, Sächsische Schweiz-Osterzgebirge, Vogtlandkreis, Zwickau, Dresden, Chemnitz",
     "publish": "Yes",
     "datestart": "2021-03-12T08:00:00.000Z",
-    "dateend": "2023-01-31T08:00:00.000Z"
+    "dateend": "2022-12-12T08:00:00.000Z"
   },
   {
     "country": "Germany",
@@ -9542,7 +9542,7 @@
     "districts": "Altmarkkreis Salzwedel, Anhalt-Bitterfeld, Börde, Burgenlandkreis, Harz, Jerichower Land, Mansfeld-Südharz, Saalekreis, Salzlandkreis, Stendal, Wittenberg, Dessau-Roßlau, Halle, Magdeburg",
     "publish": "Yes",
     "datestart": "2021-03-13T08:00:00.000Z",
-    "dateend": "2023-01-31T08:00:00.000Z"
+    "dateend": "2022-12-13T08:00:00.000Z"
   },
   {
     "country": "Germany",
@@ -9552,7 +9552,7 @@
     "districts": "Dithmarschen, Lauenburg, Nordfriesland, Ostholstein, Pinneberg, Plön, Rendsburg-Eckernförde, Schleswig-Flensburg, Segeberg, Steinburg, Kiel, Stormarn, Lubeck, Flensburg, Neumünster",
     "publish": "Yes",
     "datestart": "2021-03-14T08:00:00.000Z",
-    "dateend": "2023-01-31T08:00:00.000Z"
+    "dateend": "2022-12-14T08:00:00.000Z"
   },
   {
     "country": "Germany",
@@ -9562,7 +9562,7 @@
     "districts": "Altenburger Land, Eichsfeld, Gotha, Greiz, Hildburghausen, Ilm-Kreis, Kyffhäuserkreis, Nordhausen, Saale-Holzland, Saale-Orla, Saalfeld-Rudolstadt, Schmalkalden-Meiningen, Sömmerda, Sonneberg, Unstrut-Hainich, Wartburgkreis, Weimarer Land",
     "publish": "Yes",
     "datestart": "2021-03-15T07:00:00.000Z",
-    "dateend": "2023-01-31T08:00:00.000Z"
+    "dateend": "2022-12-15T08:00:00.000Z"
   },
   {
     "country": "Germany",
@@ -9572,7 +9572,7 @@
     "districts": "Alb-Donau, Biberach, Bodensee, Böblingen, Breisgau-Hochschwarzwald, Calw, Konstanz, Emmendingen, Enzkreis, Esslingen, Freudenstadt, Göppingen, Heidenheim, Heilbronn, Hohenlohe, Karlsruhe, Lörrach, Ludwigsburg, Main-Tauber, Neckar-Odenwald-Kreis, Ortenaukreis, Ostalbkreis, Rastatt, Ravensburg, Rems-Murr-Kreis, Reutlingen, Rhein-Neckar-Kreis, Rottweil, Schwäbisch Hall, Schwarzwald-Baar-Kreis, Sigmaringen, Tübingen, Tuttlingen, Waldshut, Zollernalbkreis, Baden-Baden, Freiburg, Heidelberg, Heilbronn, Karlsruhe, Manheim, Pforzheim, Stuttgart, Ulm",
     "publish": "Yes",
     "datestart": "2021-03-16T07:00:00.000Z",
-    "dateend": "2023-01-31T08:00:00.000Z"
+    "dateend": "2022-12-16T08:00:00.000Z"
   },
   {
     "country": "Taiwan",
@@ -9640,7 +9640,7 @@
     "svspc": "SV",
     "region": "Akita",
     "districts": "Akita",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-09-30T07:00:00.000Z",
     "dateend": "2022-10-31T07:00:00.000Z"
   },
@@ -10078,7 +10078,7 @@
     "districts": "Amsterdam",
     "publish": "Yes",
     "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Nederland",
@@ -10088,7 +10088,7 @@
     "districts": "Amersfoort, Utrecht, Nieuwegein, Veenendaal, Zeist, Harmelen, Montfoort, Almere, Schoonhoven, Dordrecht, Hertogenbosch, Gouda, Gorinchem",
     "publish": "Yes",
     "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Nederland",
@@ -10098,7 +10098,7 @@
     "districts": "Delft, Capelle aan den IJssel, Lisse, Noordwik, Hook of Holland, The Hague, Barendrecht, Spijkenisse, Ouddorp, Brielle, Middelharnis, Hellevoetsluis, Numansdorp, Tiengemeten, Dordrecht, Rotterdam, Gorinchem, Ridderkerk,",
     "publish": "Yes",
     "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Nederland",
@@ -10108,7 +10108,7 @@
     "districts": "Deventer, Overijssel, Zwolle, Kampen, Meppel, Enschede, Apeldoorn, ",
     "publish": "Yes",
     "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Nederland",
@@ -10118,7 +10118,7 @@
     "districts": "Alkmaar, Den Helder, Hollands Kroon, Hoorn, Koggenland, Medemblik, Opmeer, Schagen, Texel, Pieterburen",
     "publish": "Yes",
     "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Nederland",
@@ -10128,7 +10128,7 @@
     "districts": "Almere, Lelystad, Almere Stad, Dronten, Almere Buiten, Urk, Biddinghuizen, ",
     "publish": "Yes",
     "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Nederland",
@@ -10138,7 +10138,7 @@
     "districts": "Leeuwarden, Drachten, Dokkum, Heerenven, Winsum, Holwerd, Joure, ",
     "publish": "Yes",
     "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Nederland",
@@ -10148,7 +10148,7 @@
     "districts": "Apeldoorn, Arnhem, Nijmegen, Ede, Appeltern, Otterlo, Eerbeek, Zuthpen, Dieren, Duiven, Bqrneveld, Waganingen, ",
     "publish": "Yes",
     "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Nederland",
@@ -10158,7 +10158,7 @@
     "districts": "Groningen, Veendam, Zuidwolde, Adorp, Aduard, Eelderwolde, Hoogkerk",
     "publish": "Yes",
     "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Nederland",
@@ -10168,7 +10168,7 @@
     "districts": "Heerlen, Maastricht, Sittard, Roermond, ",
     "publish": "Yes",
     "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Nederland",
@@ -10178,7 +10178,7 @@
     "districts": "Breda, Eindhoven, Tilburg, s-Hertogenbosch, Roosendaal, Oss, Helmond, Bergen op Zoom, Oosterhout, Tiburg, Steenbergen, Oosterhoud",
     "publish": "Yes",
     "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Nederland",
@@ -10188,7 +10188,7 @@
     "districts": "Enschede, Zwolle, Hengelo, Almelo, Hardenberg, Haaksbergen, Oldenzaal, Deventer, Losser",
     "publish": "Yes",
     "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Taiwan",
@@ -10344,7 +10344,7 @@
     "districts": "Alta, Kautokeino, Talvik, Kunes, Olderfjord, Tana, Vadso, Hesseng, Øksfjord",
     "publish": "Yes",
     "datestart": "2022-04-04T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Norge",
@@ -10354,7 +10354,7 @@
     "districts": "Tromsø, Finnsnes, Oteren, Storslett, Nordkjosbotn, Lyngseidet, Harstad",
     "publish": "Yes",
     "datestart": "2022-04-04T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Norge",
@@ -10364,7 +10364,7 @@
     "districts": "Bodo, Mo i Rana, Mosjøen, Narvik, Leinesfjord, Sortland,",
     "publish": "Yes",
     "datestart": "2022-04-04T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Norge",
@@ -10374,7 +10374,7 @@
     "districts": "Trondheim, Meldal, Oppdal, Lundamo, Krokstadøra, Hommelvik",
     "publish": "Yes",
     "datestart": "2022-04-04T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Norge",
@@ -10384,7 +10384,7 @@
     "districts": "Alesund, Valldalen, Tresfjord, Vatne, Molde, Kanestraum, Kristiansund, Karvag",
     "publish": "Yes",
     "datestart": "2022-04-04T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Norge",
@@ -10394,7 +10394,7 @@
     "districts": "Førde, Flåm, Leikanger, Skei, Askvoll, Måløy",
     "publish": "Yes",
     "datestart": "2022-04-04T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Norge",
@@ -10404,7 +10404,7 @@
     "districts": "Bergen, Odda, Leirvik, Etne, Vossevangen, Osterøy",
     "publish": "Yes",
     "datestart": "2022-04-04T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Norge",
@@ -10414,7 +10414,7 @@
     "districts": "Stavanger, Sokndal, Bryne, Lysebotn, Nesflaten, Vikedal, Egersund, Lund, Bjerkreim",
     "publish": "Yes",
     "datestart": "2022-04-04T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Norge",
@@ -10424,7 +10424,7 @@
     "districts": "Kristiansand, Flekkefjord, Lyngdal, Mandal, Farsund, Knaben, Tonstad, Ljosland, Sinnes",
     "publish": "Yes",
     "datestart": "2022-04-04T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Norge",
@@ -10434,7 +10434,7 @@
     "districts": "Grimstad, Lillesand, Engesland, Rysstad, Bykle, Akland, Tvedestrand",
     "publish": "Yes",
     "datestart": "2022-04-04T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Norge",
@@ -10444,7 +10444,7 @@
     "districts": "Porsgrunn, Skien, Drangedal, Treungen, Kragero, Langesund, Stathelle, Dalen, Notodden",
     "publish": "Yes",
     "datestart": "2022-04-04T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Norge",
@@ -10454,7 +10454,7 @@
     "districts": "Drammen, Kongsberg, Noresund, Dagali, Åmot",
     "publish": "Yes",
     "datestart": "2022-04-04T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Norge",
@@ -10464,7 +10464,7 @@
     "districts": "Hamar, Elverum, Kongsvinger, Knapper, Flisa, Innbygda, Brumunddal, Tolga, Tynset",
     "publish": "Yes",
     "datestart": "2022-04-04T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Norge",
@@ -10474,7 +10474,7 @@
     "districts": "Lillehammer, Dokka, Bagn, Brandbu, Fagernes",
     "publish": "Yes",
     "datestart": "2022-04-04T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Norge",
@@ -10484,7 +10484,7 @@
     "districts": "Asker, Sandvika, Ski, Lillestrøm, Jessheim, Årnes, Fosser, Blaker",
     "publish": "Yes",
     "datestart": "2022-04-04T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Norge",
@@ -10494,7 +10494,7 @@
     "districts": "Oslo",
     "publish": "Yes",
     "datestart": "2022-04-04T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Norge",
@@ -10504,7 +10504,7 @@
     "districts": "Sandefjord, Svarstad, Revetal, Tønsberg, Stokke, Nøtterøy, Sande",
     "publish": "Yes",
     "datestart": "2022-04-04T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Norge",
@@ -10514,7 +10514,7 @@
     "districts": "Fredrikstad, Halden, Sarpsborg, Rygge, Moss, Askim, Mysen, Spydeberg",
     "publish": "Yes",
     "datestart": "2022-04-04T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Österreich",
@@ -12366,7 +12366,7 @@
     "districts": "Zürich, Winterthur, Uster",
     "publish": "Yes",
     "datestart": "2022-06-07T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12376,7 +12376,7 @@
     "districts": "Bern, Biel/Bienne, Thoune, Köniz",
     "publish": "Yes",
     "datestart": "2022-06-07T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12386,7 +12386,7 @@
     "districts": "Luzern",
     "publish": "Yes",
     "datestart": "2022-06-07T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12396,7 +12396,7 @@
     "districts": "Altdorf",
     "publish": "Yes",
     "datestart": "2022-06-07T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12406,7 +12406,7 @@
     "districts": "Schwyz",
     "publish": "Yes",
     "datestart": "2022-06-07T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12416,7 +12416,7 @@
     "districts": "Sarnen",
     "publish": "Yes",
     "datestart": "2022-06-07T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12426,7 +12426,7 @@
     "districts": "Stans",
     "publish": "Yes",
     "datestart": "2022-06-07T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12436,7 +12436,7 @@
     "districts": "Glarus",
     "publish": "Yes",
     "datestart": "2022-06-07T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12446,7 +12446,7 @@
     "districts": "Zoug",
     "publish": "Yes",
     "datestart": "2022-06-07T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12456,7 +12456,7 @@
     "districts": "Fribourg",
     "publish": "Yes",
     "datestart": "2022-06-07T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12466,7 +12466,7 @@
     "districts": "Solothurn",
     "publish": "Yes",
     "datestart": "2022-06-07T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12476,7 +12476,7 @@
     "districts": "Basel",
     "publish": "Yes",
     "datestart": "2022-06-07T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12486,7 +12486,7 @@
     "districts": "Liestal",
     "publish": "Yes",
     "datestart": "2022-06-07T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12496,7 +12496,7 @@
     "districts": "Schaffhausen",
     "publish": "Yes",
     "datestart": "2022-06-07T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12506,7 +12506,7 @@
     "districts": "Herisau",
     "publish": "Yes",
     "datestart": "2022-06-07T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12516,7 +12516,7 @@
     "districts": "Appenzell",
     "publish": "Yes",
     "datestart": "2022-06-07T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12526,7 +12526,7 @@
     "districts": "Sankt Gallen",
     "publish": "Yes",
     "datestart": "2022-06-07T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12536,7 +12536,7 @@
     "districts": "Chur",
     "publish": "Yes",
     "datestart": "2022-06-07T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12546,7 +12546,7 @@
     "districts": "Aarau",
     "publish": "Yes",
     "datestart": "2022-06-07T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12556,7 +12556,7 @@
     "districts": "Frauenfeld",
     "publish": "Yes",
     "datestart": "2022-06-07T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12566,7 +12566,7 @@
     "districts": "Lugano, Bellinzona",
     "publish": "Yes",
     "datestart": "2022-06-07T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12576,7 +12576,7 @@
     "districts": "Lausanne",
     "publish": "Yes",
     "datestart": "2022-06-07T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12586,7 +12586,7 @@
     "districts": "Sion",
     "publish": "Yes",
     "datestart": "2022-06-07T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12596,7 +12596,7 @@
     "districts": "La Chaux-de-Fonds, Neuchâtel",
     "publish": "Yes",
     "datestart": "2022-06-07T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12606,7 +12606,7 @@
     "districts": "Genève, Vernier",
     "publish": "Yes",
     "datestart": "2022-06-07T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12616,7 +12616,7 @@
     "districts": "Delémont",
     "publish": "Yes",
     "datestart": "2022-06-07T07:00:00.000Z",
-    "dateend": "2022-10-01T07:00:00.000Z"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Taiwan",
@@ -15900,7 +15900,7 @@
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
-    "country": "Qatar ",
+    "country": "Qatar",
     "code": "QA",
     "svspc": "SV",
     "region": "Lusail ",
@@ -15910,7 +15910,7 @@
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
-    "country": "Qatar ",
+    "country": "Qatar",
     "code": "QA",
     "svspc": "SV",
     "region": "Al Rayyan",
@@ -15920,7 +15920,7 @@
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
-    "country": "Qatar ",
+    "country": "Qatar",
     "code": "QA",
     "svspc": "SV",
     "region": "Al Khor ",
