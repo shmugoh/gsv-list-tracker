@@ -1046,7 +1046,7 @@
     "dateend": "2018-02-12T08:00:00.000Z"
   },
   {
-    "country": "Brazil",
+    "country": "Brasil",
     "code": "br",
     "svspc": "sv",
     "region": "Alagoas",
@@ -1056,7 +1056,7 @@
     "dateend": "2018-03-01T08:00:00.000Z"
   },
   {
-    "country": "Brazil",
+    "country": "Brasil",
     "code": "br",
     "svspc": "sv",
     "region": "Santa Catarina",
@@ -3627,7 +3627,7 @@
     "dateend": "2019-07-31T07:00:00.000Z"
   },
   {
-    "country": "Brazil",
+    "country": "Brasil",
     "code": "br",
     "svspc": "sv",
     "region": "Rio Grande do Sul",
@@ -3637,7 +3637,7 @@
     "dateend": "2019-08-01T07:00:00.000Z"
   },
   {
-    "country": "Brazil",
+    "country": "Brasil",
     "code": "br",
     "svspc": "sv",
     "region": "Pernambuco",
@@ -4566,7 +4566,7 @@
     "dateend": "2019-11-02T07:00:00.000Z"
   },
   {
-    "country": "Brazil",
+    "country": "Brasil",
     "code": "br",
     "svspc": "sv",
     "region": "Alagoas",
@@ -4576,7 +4576,7 @@
     "dateend": "2019-11-14T08:00:00.000Z"
   },
   {
-    "country": "Brazil",
+    "country": "Brasil",
     "code": "br",
     "svspc": "sv",
     "region": "Maranhão",
@@ -4586,7 +4586,7 @@
     "dateend": "2019-11-14T08:00:00.000Z"
   },
   {
-    "country": "Brazil",
+    "country": "Brasil",
     "code": "br",
     "svspc": "sv",
     "region": "Pará",
@@ -4596,7 +4596,7 @@
     "dateend": "2019-11-14T08:00:00.000Z"
   },
   {
-    "country": "Brazil",
+    "country": "Brasil",
     "code": "br",
     "svspc": "sv",
     "region": "State of Amazonas",
@@ -4606,7 +4606,7 @@
     "dateend": "2019-11-14T08:00:00.000Z"
   },
   {
-    "country": "Brazil",
+    "country": "Brasil",
     "code": "br",
     "svspc": "sv",
     "region": "Bahia",
@@ -4616,7 +4616,7 @@
     "dateend": "2019-11-14T08:00:00.000Z"
   },
   {
-    "country": "Brazil",
+    "country": "Brasil",
     "code": "br",
     "svspc": "sv",
     "region": "Mato Grosso",
@@ -4626,7 +4626,7 @@
     "dateend": "2019-11-14T08:00:00.000Z"
   },
   {
-    "country": "Brazil",
+    "country": "Brasil",
     "code": "br",
     "svspc": "sv",
     "region": "Piauí",
@@ -4636,7 +4636,7 @@
     "dateend": "2019-11-14T08:00:00.000Z"
   },
   {
-    "country": "Brazil",
+    "country": "Brasil",
     "code": "br",
     "svspc": "sv",
     "region": "Ceara",
@@ -4646,7 +4646,7 @@
     "dateend": "2019-11-14T08:00:00.000Z"
   },
   {
-    "country": "Brazil",
+    "country": "Brasil",
     "code": "br",
     "svspc": "sv",
     "region": "Rio Grande do Norte",
@@ -4879,7 +4879,7 @@
     "svspc": "sv-spc",
     "region": "Sumatra",
     "districts": "Palembang, Pekanbaru, Medan, Padang, Bandarlampung, Jambi, Binjai, Pematangsiantar, Bengkulu, Dumai, Bukittinggi",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2019-01-01T08:00:00.000Z",
     "dateend": "2019-12-01T08:00:00.000Z"
   },
@@ -4889,7 +4889,7 @@
     "svspc": "sv-spc",
     "region": "Bali",
     "districts": "Denpasar, Singaraja, Tabanan",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2019-03-01T08:00:00.000Z",
     "dateend": "2019-12-01T08:00:00.000Z"
   },
@@ -4899,7 +4899,7 @@
     "svspc": "sv-spc",
     "region": "Sulawesi",
     "districts": "Makassar, Manado, Watampone, Palu, Gorontalo, Tomohon",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2019-03-01T08:00:00.000Z",
     "dateend": "2019-12-01T08:00:00.000Z"
   },
@@ -4909,7 +4909,7 @@
     "svspc": "sv-spc",
     "region": "Kalimantan",
     "districts": "Banjarmasin, Samarinda, Pontianak, Balikpapan, Singkawang, Bontang.",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2019-03-01T08:00:00.000Z",
     "dateend": "2019-12-01T08:00:00.000Z"
   },
@@ -4919,7 +4919,7 @@
     "svspc": "sv-spc",
     "region": "Lombok",
     "districts": "Mataram",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2019-03-01T08:00:00.000Z",
     "dateend": "2019-12-01T08:00:00.000Z"
   },
@@ -5288,7 +5288,7 @@
     "svspc": "sv-spc",
     "region": "Java",
     "districts": "Jakarta, Bekasi, Bogor, Tangerang",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2020-01-01T08:00:00.000Z",
     "dateend": "2020-03-01T08:00:00.000Z"
   },
@@ -5341,7 +5341,7 @@
     "dateend": "2020-03-20T07:00:00.000Z"
   },
   {
-    "country": "Brazil",
+    "country": "Brasil",
     "code": "BR",
     "svspc": "SV",
     "region": "Pará",
@@ -5351,7 +5351,7 @@
     "dateend": "2020-04-01T07:00:00.000Z"
   },
   {
-    "country": "Brazil",
+    "country": "Brasil",
     "code": "BR",
     "svspc": "SV",
     "region": "Amazonas",
@@ -5361,7 +5361,7 @@
     "dateend": "2020-07-01T07:00:00.000Z"
   },
   {
-    "country": "Brazil",
+    "country": "Brasil",
     "code": "BR",
     "svspc": "SV",
     "region": "Maranhão",
@@ -5371,7 +5371,7 @@
     "dateend": "2020-07-01T07:00:00.000Z"
   },
   {
-    "country": "Brazil",
+    "country": "Brasil",
     "code": "BR",
     "svspc": "SV",
     "region": "Piaui",
@@ -5381,7 +5381,7 @@
     "dateend": "2020-07-01T07:00:00.000Z"
   },
   {
-    "country": "Brazil",
+    "country": "Brasil",
     "code": "BR",
     "svspc": "SV",
     "region": "Espirito Santo",
@@ -5707,7 +5707,7 @@
     "dateend": "2020-08-19T07:00:00.000Z"
   },
   {
-    "country": "Brazil",
+    "country": "Brasil",
     "code": "BR",
     "svspc": "SV",
     "region": "Alagoas",
@@ -5717,7 +5717,7 @@
     "dateend": "2020-09-01T07:00:00.000Z"
   },
   {
-    "country": "Brazil",
+    "country": "Brasil",
     "code": "BR",
     "svspc": "SV",
     "region": "Rio Grande do Norte",
@@ -5865,7 +5865,7 @@
     "dateend": "2020-10-31T07:00:00.000Z"
   },
   {
-    "country": "Brazil",
+    "country": "Brasil",
     "code": "BR",
     "svspc": "SV",
     "region": "Mato Grosso do Sul",
@@ -5875,7 +5875,7 @@
     "dateend": "2020-11-01T07:00:00.000Z"
   },
   {
-    "country": "Brazil",
+    "country": "Brasil",
     "code": "BR",
     "svspc": "SV",
     "region": "Rondonia",
@@ -5885,7 +5885,7 @@
     "dateend": "2020-11-01T07:00:00.000Z"
   },
   {
-    "country": "Brazil",
+    "country": "Brasil",
     "code": "BR",
     "svspc": "SV",
     "region": "Rio Grande do Sul",
@@ -6024,7 +6024,7 @@
     "dateend": "2020-11-30T08:00:00.000Z"
   },
   {
-    "country": "Brazil",
+    "country": "Brasil",
     "code": "BR",
     "svspc": "SV",
     "region": "Parana",
@@ -6780,7 +6780,7 @@
     "svspc": "SV",
     "region": "Luxembourg",
     "districts": "Luxembourg City, Diekirch, Clervaux, Redange, Echternach, Esch-sur-Alzette, Capellen, Grevenmacher, Remich, Mersch, Vianden, Wiltz",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-09-01T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -7025,7 +7025,7 @@
     "districts": "Donegal, Letterkenny, Stranorlar",
     "publish": "No",
     "datestart": "2021-03-01T08:00:00.000Z",
-    "dateend": "2021-11-15T08:00:00.000Z"
+    "dateend": "2022-11-25T08:00:00.000Z"
   },
   {
     "country": "Taiwan",
@@ -7136,9 +7136,49 @@
     "svspc": "SV",
     "region": "Lima",
     "districts": "Lima",
-    "publish": "No",
-    "datestart": "2021-05-01T07:00:00.000Z",
-    "dateend": "2021-12-01T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2022-05-01T07:00:00.000Z",
+    "dateend": "2022-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Peru",
+    "code": "pe",
+    "svspc": "SV",
+    "region": "Chiclayo",
+    "districts": "Chiclayo",
+    "publish": "Yes",
+    "datestart": "2022-05-01T07:00:00.000Z",
+    "dateend": "2022-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Peru",
+    "code": "pe",
+    "svspc": "SV",
+    "region": "Trujillo",
+    "districts": "Trujillo",
+    "publish": "Yes",
+    "datestart": "2022-05-01T07:00:00.000Z",
+    "dateend": "2022-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Peru",
+    "code": "pe",
+    "svspc": "SV",
+    "region": "Piura",
+    "districts": "Piura",
+    "publish": "Yes",
+    "datestart": "2022-07-01T07:00:00.000Z",
+    "dateend": "2022-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Peru",
+    "code": "pe",
+    "svspc": "SV",
+    "region": "Cajamarca",
+    "districts": "Cajamarca",
+    "publish": "Yes",
+    "datestart": "2022-05-01T07:00:00.000Z",
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -7266,7 +7306,7 @@
     "svspc": "sv",
     "region": "Kärnten",
     "districts": "Klagenfurt, Villach, St. Ruprecht, Landskron, Neulandskron, St. Leonhard",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -7430,7 +7470,7 @@
     "svspc": "sv",
     "region": "Oberösterreich",
     "districts": "Linz, Urfahr, Auberg, Lustenau, Keferfeld, Steyr, Gründberg, Steyrdorf, Sarning, Wachtberg, Wels, ",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -7440,7 +7480,7 @@
     "svspc": "sv",
     "region": "Salzburg",
     "districts": "Salzburg, Urstein, Oberalm, Puch bei Hallein. Grödig, Kleßheim, Anif, Elsbethen, Koppl",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -7450,7 +7490,7 @@
     "svspc": "sv",
     "region": "Steiermark",
     "districts": "Graz, Graz-Liebenau, Graz-Neuhart, Eggenberg, Algersdorf, Graz-Gösting, Graz-Strassgang, Waltendorf, Graz-Ragnitz, Graz-Andritz, Andritz, Mariatrost, Gösting, Geidorf, Sankt Leonhard, Jakomini, Sankt-Peter, ",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -7480,7 +7520,7 @@
     "svspc": "sv",
     "region": "Tirol",
     "districts": "Innsbruck, Kufstein, Schwaz, Fiecht, Jenbach, Fügen, Wörgl",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -7500,7 +7540,7 @@
     "svspc": "sv",
     "region": "Wien",
     "districts": "Wien, Alland, Heiligenkreuz, Gaaden, Baden, Gumpoldskirchen, Mödling, Maria Enzersdorf, Vösendorf, Inzersdorf, Favoriten, Siebenhirten, Liesing, Hietzing, Meidling, Perchtoldsdorf, Brunn am Gebirge, Oberlaa, Schwechat, Kaiserebersdorf, Albern, Simmering, Wien-Flughafen, Donaustadt, Aspern, Stadlau, Erdberg, Sankt Marx, Hirschstetten, Leopoldstadt, Landstrasse, Kaisermühlen, Floridsdorf, Kagran, Brigittenau, Wieden, Mariahilf, Margareten, Penzing, Ottakring, Währing, Alsergrund, Josefstadt, Neubau, Döbling, Grinzing, Nussdorf",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -7510,7 +7550,7 @@
     "svspc": "sv",
     "region": "Burgenland",
     "districts": "no cities",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -7520,7 +7560,7 @@
     "svspc": "sv",
     "region": "Niederösterreich",
     "districts": "Wiener Neustadt",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -7530,7 +7570,7 @@
     "svspc": "sv",
     "region": "Vorarlberg",
     "districts": "Dornbirn, Feldkirch, Rankweil, Schwarzach, Alberschwende. Lochau, Bregenz, Sulzberg",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -7546,7 +7586,7 @@
     "svspc": "SV",
     "region": "Flanders",
     "districts": "West Flanders, East Flanders, Flemish Brabant, Limburg, Antwerp",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-30T08:00:00.000Z"
   },
@@ -7556,7 +7596,7 @@
     "svspc": "SV",
     "region": "Walloon ",
     "districts": "Hainaut, Walloon Brabant, Namur, Liège",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-30T08:00:00.000Z"
   },
@@ -7566,7 +7606,7 @@
     "svspc": "SV",
     "region": "Brussels",
     "districts": "Brussels",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-30T08:00:00.000Z"
   },
@@ -7643,24 +7683,24 @@
     "publish": "No"
   },
   {
-    "country": "Brazil",
+    "country": "Brasil",
     "code": "BR",
     "svspc": "SV",
     "region": "Tocantins",
     "districts": "Palmas, Paraíso do Tocantins, Fátima, Miranorte, Dois Irmãos dos Tocantins, Santa Rita do Tocantins, Cangas",
     "publish": "Yes",
     "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2022-11-01T07:00:00.000Z"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
-    "country": "Brazil",
+    "country": "Brasil",
     "code": "BR",
     "svspc": "SV",
     "region": "Mato Grosso do Sul",
     "districts": "Campo Grande, Agua Boa, Caceres, Cuiaba, Mirassol, Nova Mutum, Primavera do Leste, Rondonopolis, Tangara da Serra, Tres Lagoas, Peixoto de Azevedo, Pontes e Lacerda, Sapezal, Sinop,Vilhena, Campo Novo do Parecis, Confresa, Juara, Juina and Alta Floresta",
     "publish": "Yes",
     "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2022-11-01T07:00:00.000Z"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Cambodia",
@@ -7688,8 +7728,9 @@
   {
     "country": "Chile",
     "code": "cl",
+    "svspc": "SV",
     "region": "Santiago",
-    "districts": "Santiago",
+    "districts": "Santiago. San Bernardo, Puente Alto",
     "publish": "Yes",
     "datestart": "2022-01-01T08:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
@@ -7697,11 +7738,52 @@
   {
     "country": "Chile",
     "code": "cl",
+    "svspc": "SV",
     "region": "Temuco",
     "districts": "Temuco",
     "publish": "Yes",
     "datestart": "2022-01-01T08:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Chile",
+    "code": "cl",
+    "svspc": "SV",
+    "region": "Los Lagos",
+    "districts": "Puerto Montt",
+    "publish": "Yes",
+    "datestart": "2022-05-01T07:00:00.000Z",
+    "dateend": "2022-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Chile",
+    "code": "cl",
+    "svspc": "SV",
+    "region": "Bío-bío",
+    "districts": "Concepción",
+    "publish": "Yes",
+    "datestart": "2022-04-01T07:00:00.000Z",
+    "dateend": "2022-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Chile",
+    "code": "cl",
+    "svspc": "SV",
+    "region": "Maule",
+    "districts": "Curicó, ",
+    "publish": "Yes",
+    "datestart": "2022-04-01T07:00:00.000Z",
+    "dateend": "2022-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Chile",
+    "code": "cl",
+    "svspc": "SV",
+    "region": "Valparaíso",
+    "districts": "Viña del Mar, Quilpé, Valparaíso",
+    "publish": "Yes",
+    "datestart": "2022-06-01T07:00:00.000Z",
+    "dateend": "2022-10-01T07:00:00.000Z"
   },
   {
     "country": "Colombia",
@@ -8063,7 +8145,7 @@
     "svspc": "SV",
     "region": "Pohjois-Pohjanmaa",
     "districts": "Võru",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -8073,7 +8155,7 @@
     "svspc": "SV",
     "region": "Pirkanmaa",
     "districts": "Tampere",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -8083,7 +8165,7 @@
     "svspc": "SV",
     "region": "Satakunta",
     "districts": "Pori, Rauma",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -8093,39 +8175,39 @@
     "svspc": "SV",
     "region": "Uusimaa",
     "districts": "Helsinki, Espoo, Porvoo, Lohja, Vantaa",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
-    "country": "Brazil",
+    "country": "Brasil",
     "code": "BR",
     "svspc": "SV",
     "region": "Espirito Santo",
     "districts": "Vitória, Vila Velha",
     "publish": "Yes",
     "datestart": "2021-08-01T07:00:00.000Z",
-    "dateend": "2022-07-01T07:00:00.000Z"
+    "dateend": "2021-10-01T07:00:00.000Z"
   },
   {
-    "country": "Brazil",
+    "country": "Brasil",
     "code": "BR",
     "svspc": "SV",
     "region": "Brasília",
     "districts": "Brasilia",
     "publish": "Yes",
     "datestart": "2021-07-01T07:00:00.000Z",
-    "dateend": "2022-07-01T07:00:00.000Z"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
-    "country": "Brazil",
+    "country": "Brasil",
     "code": "BR",
     "svspc": "SV",
     "region": "Bahia",
     "districts": "Salvador, Caetite, Feira de Santana, Camaçari, Valença",
     "publish": "Yes",
     "datestart": "2021-05-01T07:00:00.000Z",
-    "dateend": "2022-07-01T07:00:00.000Z"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Finland",
@@ -8133,7 +8215,7 @@
     "svspc": "SV",
     "region": "Varsinais-Suomi",
     "districts": "Turku, Salo",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -8143,7 +8225,7 @@
     "svspc": "SV",
     "region": "Päijänne Tavastia",
     "districts": "Lahti",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -8153,7 +8235,7 @@
     "svspc": "SV",
     "region": "Northern Savonia",
     "districts": "Kuopio",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -8163,7 +8245,7 @@
     "svspc": "SV",
     "region": "Lappi",
     "districts": "Rovaniemi, Kemi, Vallolansaari, Koppelo, Inari",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -8173,7 +8255,7 @@
     "svspc": "SV",
     "region": "Kainuu",
     "districts": "Kajaani",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -8183,7 +8265,7 @@
     "svspc": "SV",
     "region": "Pohjanmaa",
     "districts": "Vaasa",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -8235,7 +8317,7 @@
     "districts": "West Coast, Cape Winelands, Overberg, Eden, Central Karoo, City of Cape Town",
     "publish": "Yes",
     "datestart": "2021-12-01T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "dateend": "2023-01-01T08:00:00.000Z"
   },
   {
     "country": "South Africa",
@@ -8245,7 +8327,7 @@
     "districts": "Namakwa, Pixley ka Seme, ZF Mgcawu, Frances Baard, John Taolo Gaetsewe",
     "publish": "Yes",
     "datestart": "2021-12-01T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "dateend": "2023-01-01T08:00:00.000Z"
   },
   {
     "country": "South Africa",
@@ -8255,7 +8337,7 @@
     "districts": "Sarah Baartman, Amathole, Chris Hani, Joe Gqabi, OR Tambo, Alfred Nzo, Bufallo City, Nelson Mandela Bay",
     "publish": "Yes",
     "datestart": "2021-12-01T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "dateend": "2023-01-01T08:00:00.000Z"
   },
   {
     "country": "South Africa",
@@ -8265,7 +8347,7 @@
     "districts": "Xhariep, Lejweleputswa, Thabo Mofutsanyana, Fezile Dabi, Mangaung",
     "publish": "Yes",
     "datestart": "2021-12-01T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "dateend": "2023-01-01T08:00:00.000Z"
   },
   {
     "country": "South Africa",
@@ -8275,7 +8357,7 @@
     "districts": "Ugu, Umgungundlovu, Uthukela, Umzinyathi, Amajuba, Zululand, Umkhanyakude, King Cetshwayo, Ilembe, Harry Gwala, Ethekwini",
     "publish": "Yes",
     "datestart": "2021-12-01T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "dateend": "2023-01-01T08:00:00.000Z"
   },
   {
     "country": "South Africa",
@@ -8285,7 +8367,7 @@
     "districts": "Gert Sibande, Nkandala, Ehlanzeni",
     "publish": "Yes",
     "datestart": "2021-12-01T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "dateend": "2023-01-01T08:00:00.000Z"
   },
   {
     "country": "South Africa",
@@ -8295,7 +8377,7 @@
     "districts": "Mopani, Whembe, Capricorn, Waterberg, Sekhukhune",
     "publish": "Yes",
     "datestart": "2021-12-01T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "dateend": "2023-01-01T08:00:00.000Z"
   },
   {
     "country": "South Africa",
@@ -8305,7 +8387,7 @@
     "districts": "Bojanala Platinum, Ngaka Modiri Molema, Dr Ruth Segomotsi Mompati, Dr Kenneth Kaunda",
     "publish": "Yes",
     "datestart": "2021-12-01T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "dateend": "2023-01-01T08:00:00.000Z"
   },
   {
     "country": "South Africa",
@@ -8315,7 +8397,7 @@
     "districts": "Sedibeng, West Rand, Ekurhuleni, City of Johannesburg, City of Tshwane",
     "publish": "Yes",
     "datestart": "2021-12-01T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "dateend": "2023-01-01T08:00:00.000Z"
   },
   {
     "country": "France",
@@ -8420,9 +8502,9 @@
     "svspc": "SV",
     "region": "Region Hovedstaden",
     "districts": "Copenhagen, Roskilde, Frederikssund, Hillerod, ",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-04-01T07:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Denmark",
@@ -8430,9 +8512,9 @@
     "svspc": "SV",
     "region": "Midtjylland",
     "districts": "Viborg, Herning, Silkeborg, Aarhus, Ringkobing, Horsens, Randers, Hostebro",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-04-01T07:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Denmark",
@@ -8440,9 +8522,9 @@
     "svspc": "SV",
     "region": "Nordjylland",
     "districts": "Aalborg, Hobro, Vendsyssel, Hantsholm, Frederikshavn, Horning",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-04-01T07:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Denmark",
@@ -8450,9 +8532,9 @@
     "svspc": "SV",
     "region": "Syddanmark",
     "districts": "Kolding, Esbjerg, Vejle, Sonderberg, Aabenraa, Billund, Assens, Kalundborg, Tønder",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-04-01T07:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Denmark",
@@ -8460,9 +8542,9 @@
     "svspc": "SV",
     "region": "Region Sjælland",
     "districts": "Roskilde, Slagelse, Næstved, Haslev, Faxe, Middelfart, Nykobing, Falster, Nakslov, Fjenneslev, Holbæk, Korsor, Vordingborg",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-04-01T07:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Hong Kong",
@@ -8550,80 +8632,72 @@
   {
     "country": "Ireland",
     "code": "ie",
-    "svspc": "SV",
     "region": "Dublin",
     "districts": "Dublin",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-01-03T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "dateend": "2022-12-23T08:00:00.000Z"
   },
   {
     "country": "Ireland",
     "code": "ie",
-    "svspc": "SV",
     "region": "Limerick",
     "districts": "Limerick",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-09T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "dateend": "2022-11-25T08:00:00.000Z"
   },
   {
     "country": "Ireland",
     "code": "ie",
-    "svspc": "SV",
     "region": "Cork",
     "districts": "Cork",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-09T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "dateend": "2022-11-25T08:00:00.000Z"
   },
   {
     "country": "Ireland",
     "code": "ie",
-    "svspc": "SV",
     "region": "Tipperary",
     "districts": "Tipperary",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-09T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "dateend": "2022-11-25T08:00:00.000Z"
   },
   {
     "country": "Ireland",
     "code": "ie",
-    "svspc": "SV",
     "region": "Galway",
     "districts": "Galway",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-09T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "dateend": "2022-11-25T08:00:00.000Z"
   },
   {
     "country": "Italia",
     "code": "IT",
-    "svspc": "SV",
     "region": "Basilicata",
     "districts": "Potenza, Matera",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-01-31T08:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Italia",
     "code": "IT",
-    "svspc": "SV",
     "region": "Lombardia",
     "districts": "Bergamo, Brescia, Como, Cremona, Lecco, Lodi, Mantova, Milano, Monza, Pavia, Sondrio, Varese, Presolana",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-01-31T08:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Italia",
     "code": "IT",
-    "svspc": "SV",
     "region": "Emilia-Romagna",
     "districts": "Piacenza, Parma, Reggio Emilia, Modena, Bologna, Ferrara, Ravenna, Forlì-Cesena, Rimini",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-01-31T08:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
@@ -8640,170 +8714,153 @@
   {
     "country": "Italia",
     "code": "IT",
-    "svspc": "SV",
     "region": "Campania",
     "districts": "Avellino, Benevento, Caserta, Napoli",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-01-31T08:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Italia",
     "code": "IT",
-    "svspc": "SV",
     "region": "Abruzzo",
     "districts": "Chieti, L'Aquila, Pescara, Teramo",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-01-31T08:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Italia",
     "code": "IT",
-    "svspc": "SV",
     "region": "Lazio",
     "districts": "Frosinone, Latina, Rieti, Roma, Viterbo",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-01-31T08:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Italia",
     "code": "IT",
-    "svspc": "SV",
     "region": "Lazio",
     "districts": "Roma (con il supporto eccezionale di sistemi aeromobili a pilotaggio remoto)",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-01-31T08:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Italia",
     "code": "IT",
-    "svspc": "SV",
     "region": "Campania",
     "districts": "Salerno (con il supporto eccezionale di sistemi aeromobili a pilotaggio remoto)",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-01-31T08:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Italia",
     "code": "IT",
-    "svspc": "SV",
     "region": "Marche",
     "districts": "Ancona, Ascoli Piceno, Fermo, Macerata, Pesaro, Urbino",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-01-31T08:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Italia",
     "code": "IT",
-    "svspc": "SV",
     "region": "Veneto",
     "districts": "Belluno, Padova, Rovigo, Treviso, Venezia, Verona, Vicenza, Dolomites",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-01-31T08:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Italia",
     "code": "IT",
-    "svspc": "SV",
     "region": "Toscana",
     "districts": "Arezzo, Firenze, Grosseto, Livorno, Lucca, Massa-Carrara, Pisa, Pistoia, Pontremoli, Prato, Siena",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-01-31T08:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Italia",
     "code": "IT",
-    "svspc": "SV",
     "region": "Piemonte",
     "districts": "Alessandria, Asti, Biella, Cuneo, Novara, Torino, Verbano-Cusio-Ossola, Vercelli",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-01-31T08:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Italia",
     "code": "IT",
-    "svspc": "SV",
     "region": "Sicilia",
     "districts": "Agrigento, Caltanissetta, Catania, Enna, Messina, Palermo, Ragusa, Siracusa, Trapani, Gela, Marsala, ",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-01-31T08:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Italia",
     "code": "IT",
-    "svspc": "SV",
     "region": "Puglia",
     "districts": "Bari, Barletta-Andria-Trani, Brindisi, Foggia, Lecce, Taranto",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-01-31T08:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Italia",
     "code": "IT",
-    "svspc": "SV",
     "region": "Trentino-Alto Adige",
     "districts": "Bolzano, Trento",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-01-31T08:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Italia",
     "code": "IT",
-    "svspc": "SV",
     "region": "Sardegna",
     "districts": "Cagliari, Carbonia-Iglesias, Nuoro, Olbia-Tempio, Oristano, Medio Campidano, Sassari, Ogliastra",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-01-31T08:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Italia",
     "code": "IT",
-    "svspc": "SV",
     "region": "Friuli-Venezia Giulia",
     "districts": "Gorizia, Pordenone, Trieste, Udine",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-01-31T08:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Italia",
     "code": "IT",
-    "svspc": "SV",
     "region": "Calabria",
     "districts": "Catanzaro, Cosenza, Crotone, Reggio Calabria, Vibo Valentia",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-01-31T08:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Italia",
     "code": "IT",
-    "svspc": "SV",
     "region": "Umbria",
     "districts": "Perugia, Terni, Gubbio, Città di Castello, Foligno, Spoleto, Orvieto, Marsciano, Todi",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-01-31T08:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Italia",
     "code": "IT",
-    "svspc": "SV",
     "region": "Liguria",
     "districts": "Parco Naturale Regionale delle Alpi Liguri, Cervo, Parco Naturale del Ciapà",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-01-31T08:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
@@ -8823,7 +8880,7 @@
     "svspc": "SV",
     "region": "Nagasaki",
     "districts": "Sasebo",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-10-31T07:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
   },
@@ -8853,7 +8910,7 @@
     "svspc": "SV",
     "region": "Kanagawa",
     "districts": "Yokohama, Kawasaki, Sagamihara, Fujisawa, Chigasaki, Kamakura",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-02-28T08:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
   },
@@ -8863,7 +8920,7 @@
     "svspc": "SV",
     "region": "Shiga",
     "districts": "Kusatsu, Higashi-Omi, Kusatsu",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-02-01T08:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
   },
@@ -8873,7 +8930,7 @@
     "svspc": "SV",
     "region": "Hyogo",
     "districts": "Akashi, Kakokgawa,Takasago",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-02-01T08:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
   },
@@ -8900,10 +8957,9 @@
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Boden",
     "districts": "    Boden",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-16T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -8913,7 +8969,7 @@
     "svspc": "SV",
     "region": "Hyogo",
     "districts": "Ono, Himeji, Akashi, Kakogawa",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-31T07:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
   },
@@ -8943,7 +8999,7 @@
     "svspc": "SV",
     "region": "Fukuoka",
     "districts": "Kitakyushu, Fukuoka, Kurume",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-31T07:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
   },
@@ -8953,7 +9009,7 @@
     "svspc": "SV",
     "region": "Kumamoto",
     "districts": "Kumamoto, Uki",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-01-01T08:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
   },
@@ -8983,7 +9039,7 @@
     "svspc": "SV",
     "region": "Tochigi",
     "districts": "Utsnomiya",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-01-01T08:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
   },
@@ -8993,7 +9049,7 @@
     "svspc": "SV",
     "region": "Kanagawa",
     "districts": "Kawasaki",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-07-01T07:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
   },
@@ -9013,7 +9069,7 @@
     "svspc": "SV",
     "region": "Okinawa",
     "districts": "Naha, Okinawa, Uruma",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-01-01T08:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
   },
@@ -9053,7 +9109,7 @@
     "svspc": "SV",
     "region": "Gunma",
     "districts": "Maebashi, Isezaki, Takasaki, Tatebayashi",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-01-01T08:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
   },
@@ -9063,7 +9119,7 @@
     "svspc": "SV",
     "region": "Saitama",
     "districts": "Saitama, Kawagoe, Kasukabe, Koshigaya, Toda, Wako",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-01-01T08:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
   },
@@ -9073,7 +9129,7 @@
     "svspc": "SV",
     "region": "Gifu",
     "districts": "Gifu, Ogaki, Gero, Minokamo",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-08-01T07:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
   },
@@ -9083,7 +9139,7 @@
     "svspc": "SV",
     "region": "Ibaraki",
     "districts": "Tsukuba, Kasama, Ishioka",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-04-30T07:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
   },
@@ -9093,7 +9149,7 @@
     "svspc": "SV",
     "region": "Tokyo",
     "districts": "Tokyo 23 Wards, Machida, Tama, Hachioji",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-01-01T08:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
   },
@@ -9103,7 +9159,7 @@
     "svspc": "SV",
     "region": "Tokyo",
     "districts": "Hachioji, Fuchu, 23 wards",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-04-30T07:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
   },
@@ -9143,7 +9199,7 @@
     "svspc": "SV",
     "region": "Wakayama",
     "districts": "Wakayama, Hashimoto, Arida",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-04-01T07:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
   },
@@ -9153,7 +9209,7 @@
     "svspc": "SV",
     "region": "Osaka",
     "districts": "Osaka, Sakai, Yao, Takatsuki, Hirakata",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-01-01T08:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
   },
@@ -9173,7 +9229,7 @@
     "svspc": "SV",
     "region": "Aichi",
     "districts": "Nagoya, Chita, Kariya, Handa",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-01-01T08:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
   },
@@ -9408,9 +9464,8 @@
   {
     "country": "Lithuania",
     "code": "LT",
-    "svspc": "SV-SpC",
     "districts": "Alytus, Anykščiai, Druskininkai, Kaunas, Klaipėda, Mažeikiai, Marijampolė, Palanga, Panevėžys, Plungė, Šiauliai, Telšiai, Vilnius, Ukmergė, Utena",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-01T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -9420,7 +9475,7 @@
     "svspc": "SV",
     "region": "Bayern",
     "districts": "Oberfranken, Mittelfranken, Unterfranken, Schwaben, Oberpfalz, Oberbayern, Niederbayern",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-03-01T08:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
@@ -9430,7 +9485,7 @@
     "svspc": "SV",
     "region": "Berlin",
     "districts": "Berlin",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-03-02T08:00:00.000Z",
     "dateend": "2022-12-02T08:00:00.000Z"
   },
@@ -9440,7 +9495,7 @@
     "svspc": "SV",
     "region": "Brandenburg",
     "districts": "Barmin,Dahme-Spreewald, Elbe-Elster, Havelland, Märkisch-Oderland,Oberhavel, Oberspreewald-Lausitz,Oder-Spree,Ostprignitz-Ruppin, Potsdam-Mittelmark,  Prignitz, Spree-Neiße,  Teltow-Fläming,Uckermark",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-03-03T08:00:00.000Z",
     "dateend": "2022-12-03T08:00:00.000Z"
   },
@@ -9450,7 +9505,7 @@
     "svspc": "SV",
     "region": "Bremen",
     "districts": "Bremen",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-03-04T08:00:00.000Z",
     "dateend": "2022-12-04T08:00:00.000Z"
   },
@@ -9460,7 +9515,7 @@
     "svspc": "SV",
     "region": "Hamburg",
     "districts": "Hamburg",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-03-05T08:00:00.000Z",
     "dateend": "2022-12-05T08:00:00.000Z"
   },
@@ -9470,7 +9525,7 @@
     "svspc": "SV",
     "region": "Hessen",
     "districts": "Darmstadt-Dieburg, Groß-Gerau, Hochtaunuskreis, Main-Kinzig-Kreis, Main-Taunus-Kreis, Odenwaldkreis, Rheingau-Taunus-Kreis, Wetteraukreis, Gießen, Lahn-Dill-Krei, Limburg-Weilburg, Marburg-Biedenkopf, Vogelsbergkreis, Fulda, Kassel, Hersfeld-Rotenburg, Schwalm-Eder-Kreis, Werra-Meißner-Kreis, Waldeck-Frankenberg",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-03-06T08:00:00.000Z",
     "dateend": "2022-12-06T08:00:00.000Z"
   },
@@ -9480,7 +9535,7 @@
     "svspc": "SV",
     "region": "Niedersachsen",
     "districts": "Ammerland,Celle, Cloppenburg, Cuxhaven, Diepholz, Emsland,Friesland,Gifhorn\nGoslar,Harburg,Heidekreis, Helmstedt, Hildesheim, Holzminden, Hanover, Leer,Lüchow-Dannenberg, Lüneburg,\nNienburg,Northeim, Oldenburg, Osnabrück, Osterholz, Peine, Rotenburg,Schaumburg, Stade, Uelzen, Vechta, Verden, Wesermarsch,Wittmund,Wolfenbüttel",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-03-07T08:00:00.000Z",
     "dateend": "2022-12-07T08:00:00.000Z"
   },
@@ -9490,7 +9545,7 @@
     "svspc": "SV",
     "region": "Mecklenburg-Vorpommern",
     "districts": "Landkreis Rostock, Ludwigslust-Parchim, Mecklenburgische Seenplatte, Nordwestmecklenburg, Vorpommern-Greifswald, Vorpommern-Rügen",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-03-08T08:00:00.000Z",
     "dateend": "2022-12-08T08:00:00.000Z"
   },
@@ -9500,7 +9555,7 @@
     "svspc": "SV",
     "region": "Nordrhein-Westfalen",
     "districts": "Cologne Bight, Neanderthal, Porta Westfalica, Rhine-Ruhr, Ruhr Bereich, Rhineland, Westphalia",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-03-09T08:00:00.000Z",
     "dateend": "2022-12-09T08:00:00.000Z"
   },
@@ -9510,7 +9565,7 @@
     "svspc": "SV",
     "region": "Rheinland-Pfalz",
     "districts": "Ahrweiler, Altenkirchen, Alzey-Worms,Bad Dürkheim, Bad Kreuznach, Bernkastel-Wittlich, Birkenfeld, Bitburg-Prüm, Cochem-Zell,Donnersbergkreis, Frankenthal (Pfalz), Germersheim, Kaiserslautern, Koblenz, Kusel, Landau in der Pfalz, Ludwigshafen am Rhein, Mainz, Mainz-Bingen, Mayen-Koblenz, Neuwied, Pirmasens, Rhein-Hunsrück-Kreis, Rhein-Lahn-Kreis, Rhein-Pfalz-Kreis, Speyer, Südliche Weinstraße, Südwestpfalz, Trier, Trier-Saarburg, Vulkaneifel, Westerwaldkreis, Worms, Zweibrücken\n",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-03-10T08:00:00.000Z",
     "dateend": "2022-12-10T08:00:00.000Z"
   },
@@ -9520,7 +9575,7 @@
     "svspc": "SV",
     "region": "Saarland",
     "districts": "Merzig-Wadern, Neunkirchen, Saarbrücken, Saarlouis, Saarpfalz-Kreis, Sankt Wendel",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-03-11T08:00:00.000Z",
     "dateend": "2022-12-11T08:00:00.000Z"
   },
@@ -9530,7 +9585,7 @@
     "svspc": "SV",
     "region": "Sachsen",
     "districts": "Bautzen, Erzgebirgskreis, Görlitz, Leipzig, Meißen, Mittelsachsen, Nordsachsen, Sächsische Schweiz-Osterzgebirge, Vogtlandkreis, Zwickau, Dresden, Chemnitz",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-03-12T08:00:00.000Z",
     "dateend": "2022-12-12T08:00:00.000Z"
   },
@@ -9540,7 +9595,7 @@
     "svspc": "SV",
     "region": "Sachsen-Anhalt",
     "districts": "Altmarkkreis Salzwedel, Anhalt-Bitterfeld, Börde, Burgenlandkreis, Harz, Jerichower Land, Mansfeld-Südharz, Saalekreis, Salzlandkreis, Stendal, Wittenberg, Dessau-Roßlau, Halle, Magdeburg",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-03-13T08:00:00.000Z",
     "dateend": "2022-12-13T08:00:00.000Z"
   },
@@ -9550,7 +9605,7 @@
     "svspc": "SV",
     "region": "Schleswig-Holstein",
     "districts": "Dithmarschen, Lauenburg, Nordfriesland, Ostholstein, Pinneberg, Plön, Rendsburg-Eckernförde, Schleswig-Flensburg, Segeberg, Steinburg, Kiel, Stormarn, Lubeck, Flensburg, Neumünster",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-03-14T08:00:00.000Z",
     "dateend": "2022-12-14T08:00:00.000Z"
   },
@@ -9560,7 +9615,7 @@
     "svspc": "SV",
     "region": "Thüringen",
     "districts": "Altenburger Land, Eichsfeld, Gotha, Greiz, Hildburghausen, Ilm-Kreis, Kyffhäuserkreis, Nordhausen, Saale-Holzland, Saale-Orla, Saalfeld-Rudolstadt, Schmalkalden-Meiningen, Sömmerda, Sonneberg, Unstrut-Hainich, Wartburgkreis, Weimarer Land",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-03-15T07:00:00.000Z",
     "dateend": "2022-12-15T08:00:00.000Z"
   },
@@ -9570,7 +9625,7 @@
     "svspc": "SV",
     "region": "Baden-Württemberg",
     "districts": "Alb-Donau, Biberach, Bodensee, Böblingen, Breisgau-Hochschwarzwald, Calw, Konstanz, Emmendingen, Enzkreis, Esslingen, Freudenstadt, Göppingen, Heidenheim, Heilbronn, Hohenlohe, Karlsruhe, Lörrach, Ludwigsburg, Main-Tauber, Neckar-Odenwald-Kreis, Ortenaukreis, Ostalbkreis, Rastatt, Ravensburg, Rems-Murr-Kreis, Reutlingen, Rhein-Neckar-Kreis, Rottweil, Schwäbisch Hall, Schwarzwald-Baar-Kreis, Sigmaringen, Tübingen, Tuttlingen, Waldshut, Zollernalbkreis, Baden-Baden, Freiburg, Heidelberg, Heilbronn, Karlsruhe, Manheim, Pforzheim, Stuttgart, Ulm",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-03-16T07:00:00.000Z",
     "dateend": "2022-12-16T08:00:00.000Z"
   },
@@ -9587,30 +9642,27 @@
   {
     "country": "Magyarország",
     "code": "hu",
-    "svspc": "SV",
     "region": "Észak-Magyarország",
     "districts": "Miskolc, Eger",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Magyarország",
     "code": "hu",
-    "svspc": "SV",
     "region": "Észak-Alföld",
     "districts": "Debrecen, Szolnok, Nyiregyhaza",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Magyarország",
     "code": "hu",
-    "svspc": "SV",
     "region": "Dél-Alföld",
     "districts": "Szeged, Bekescsaba, Szentes, Kecskemet, Csongrad",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -9630,7 +9682,7 @@
     "svspc": "SV",
     "region": "Yamagata",
     "districts": "Yamagata, Tsuruoka",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-09-30T07:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
   },
@@ -10007,40 +10059,36 @@
   {
     "country": "Magyarország",
     "code": "hu",
-    "svspc": "SV",
     "region": "Közép-Magyarország",
     "districts": "Budapest",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Magyarország",
     "code": "hu",
-    "svspc": "SV",
     "region": "Közép-Dunántúl",
     "districts": "Székesfehérvár, Veszprem, Tatabanya",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Magyarország",
     "code": "hu",
-    "svspc": "SV",
     "region": "Nyugat-Dunántúl",
     "districts": "Győr, Szombathely, Sopron",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Magyarország",
     "code": "hu",
-    "svspc": "SV",
     "region": "Dél-Dunántúl",
     "districts": "Pécs, Dombovar, Szekszard, Kaposvar, Nagyatad",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -10076,7 +10124,7 @@
     "svspc": "SV-spc",
     "region": "North Holland",
     "districts": "Amsterdam",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -10086,7 +10134,7 @@
     "svspc": "SV",
     "region": "Utrecht",
     "districts": "Amersfoort, Utrecht, Nieuwegein, Veenendaal, Zeist, Harmelen, Montfoort, Almere, Schoonhoven, Dordrecht, Hertogenbosch, Gouda, Gorinchem",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -10096,7 +10144,7 @@
     "svspc": "SV",
     "region": "South Holland",
     "districts": "Delft, Capelle aan den IJssel, Lisse, Noordwik, Hook of Holland, The Hague, Barendrecht, Spijkenisse, Ouddorp, Brielle, Middelharnis, Hellevoetsluis, Numansdorp, Tiengemeten, Dordrecht, Rotterdam, Gorinchem, Ridderkerk,",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -10106,7 +10154,7 @@
     "svspc": "SV",
     "region": "Salland",
     "districts": "Deventer, Overijssel, Zwolle, Kampen, Meppel, Enschede, Apeldoorn, ",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -10116,7 +10164,7 @@
     "svspc": "SV",
     "region": "Drenthe",
     "districts": "Alkmaar, Den Helder, Hollands Kroon, Hoorn, Koggenland, Medemblik, Opmeer, Schagen, Texel, Pieterburen",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -10126,7 +10174,7 @@
     "svspc": "SV",
     "region": "Flevoland",
     "districts": "Almere, Lelystad, Almere Stad, Dronten, Almere Buiten, Urk, Biddinghuizen, ",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -10136,7 +10184,7 @@
     "svspc": "SV",
     "region": "Friesland",
     "districts": "Leeuwarden, Drachten, Dokkum, Heerenven, Winsum, Holwerd, Joure, ",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -10146,7 +10194,7 @@
     "svspc": "SV",
     "region": "Gelderland",
     "districts": "Apeldoorn, Arnhem, Nijmegen, Ede, Appeltern, Otterlo, Eerbeek, Zuthpen, Dieren, Duiven, Bqrneveld, Waganingen, ",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -10156,7 +10204,7 @@
     "svspc": "SV",
     "region": "Groningen",
     "districts": "Groningen, Veendam, Zuidwolde, Adorp, Aduard, Eelderwolde, Hoogkerk",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -10166,7 +10214,7 @@
     "svspc": "SV",
     "region": "Limburg",
     "districts": "Heerlen, Maastricht, Sittard, Roermond, ",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -10176,7 +10224,7 @@
     "svspc": "SV",
     "region": "North Brabant",
     "districts": "Breda, Eindhoven, Tilburg, s-Hertogenbosch, Roosendaal, Oss, Helmond, Bergen op Zoom, Oosterhout, Tiburg, Steenbergen, Oosterhoud",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -10186,7 +10234,7 @@
     "svspc": "SV",
     "region": "Overijssel",
     "districts": "Enschede, Zwolle, Hengelo, Almelo, Hardenberg, Haaksbergen, Oldenzaal, Deventer, Losser",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -10201,74 +10249,74 @@
     "dateend": "2022-10-21T07:00:00.000Z"
   },
   {
-    "country": "Brazil",
+    "country": "Brasil",
     "code": "BR",
     "svspc": "SV",
     "region": "Rio de Janeiro",
     "districts": "Rio de Janeiro, Araruama, Campos, Duque de Caxias, Macaé, Mage, Sao Gonçalo, Volta Redonda, ",
     "publish": "Yes",
     "datestart": "2021-02-01T08:00:00.000Z",
-    "dateend": "2022-11-01T07:00:00.000Z"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
-    "country": "Brazil",
+    "country": "Brasil",
     "code": "BR",
     "svspc": "SV",
     "region": "São Paulo",
     "districts": "São Paulo, Coronel Macedo, Bauru, Americana, Araras, Itapira, Limeira, Lorena, São Jose dos Campos, Santo André, São Bernardo do Campo,  Bertioga,Juquitiba, Peruibe,  Caraguatatuba, Cotia, Guaruja, Ibiuna, Itapevi, Itu, Jundiai, Rio Claro, Santa Barbara dOeste, Sumare, Botucatu, Guaratingueta, Piracicaba, Campinas, Dracena, Fartura, Itapeva, Bragança Paulista, Manduri, Marília, Pirajuí, Registro, Três Lagoas, Tupã, Ilha Comprida, Assis, Campos do Jordão, Presidente Prudente, Araraquara, Sao Carlos, Araçatuba, Sertãozinho, Barretos, Bebedouro, Catanduva, Franca, Guaira, Ituveraba, Jales, Votuporanga, Monte Aprazivel, Novo Horizonte, Porto Ferreira, São Sebastião, Sorocaba, Suzano, Tatui, Ribeirão Preto and Sao Jose do Rio Preto",
     "publish": "Yes",
     "datestart": "2021-02-01T08:00:00.000Z",
-    "dateend": "2022-11-01T07:00:00.000Z"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
-    "country": "Brazil",
+    "country": "Brasil",
     "code": "BR",
     "svspc": "SV",
     "region": "Paraná",
     "districts": "Curitiba, Cascável, Paranaguá, Ponta Grossa, São José dos Pinhais, Matinhos, Guarapuava",
     "publish": "Yes",
     "datestart": "2021-05-01T07:00:00.000Z",
-    "dateend": "2022-11-01T07:00:00.000Z"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
-    "country": "Brazil",
+    "country": "Brasil",
     "code": "BR",
     "svspc": "SV",
     "region": "Santa Catarina",
     "districts": "São Bento do Sul, Joinville, Blumenau, Brusque, Criciuma, Florianópolis, Imbituba, Itajaí, Lages, Rio Sul, Tubarão",
     "publish": "Yes",
     "datestart": "2021-05-01T07:00:00.000Z",
-    "dateend": "2022-11-01T07:00:00.000Z"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
-    "country": "Brazil",
+    "country": "Brasil",
     "code": "BR",
     "svspc": "SV",
     "region": "Minas Gerais",
     "districts": "Belo Horizonte, Uberlândia, Uberaba, Ipatinga, Patos de Minas, Divinópolis, Viçosa, Juiiz de Fora, Catagases, Manhaçu",
     "publish": "Yes",
     "datestart": "2021-05-01T07:00:00.000Z",
-    "dateend": "2022-11-01T07:00:00.000Z"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
-    "country": "Brazil",
+    "country": "Brasil",
     "code": "BR",
     "svspc": "SV",
     "region": "Ceara",
     "districts": "Caucaia, Fortaleza, Jericoacara",
     "publish": "Yes",
     "datestart": "2021-08-01T07:00:00.000Z",
-    "dateend": "2022-11-01T07:00:00.000Z"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
-    "country": "Brazil",
+    "country": "Brasil",
     "code": "BR",
     "svspc": "SV",
     "region": "Pernambuco",
     "districts": "Joao Pessoa, Campina Grande, Recife, Caruaru, Jaboatão dos Guararapes, Cabo de Santo Agostinho, Sao Jose do Egito",
     "publish": "Yes",
     "datestart": "2021-08-01T07:00:00.000Z",
-    "dateend": "2022-11-01T07:00:00.000Z"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Nederland",
@@ -10276,19 +10324,19 @@
     "svspc": "SV",
     "region": "North Holland",
     "districts": "Alkmaar, Den Helder, Hollands Kroon, Hoorn, Koggenland, Medemblik, Opmeer, Schagen, Texel, Zandvoort, Haarlem, Hoofddorp, Nieuw-Vennep",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
-    "country": "Brazil",
+    "country": "Brasil",
     "code": "BR",
     "svspc": "SV",
     "region": "Goias",
     "districts": "Goiania, Ceres, Luiziania, Ceres, Uruaçu, Acreuna, Iporá\nItaberaí, Jataí, Rio Verde, Santa Helena de Goiás, Senador Canedo, Piracanjuba, Chapadão do Sul, Paranaíba, Cassilândia",
     "publish": "Yes",
     "datestart": "2021-06-01T07:00:00.000Z",
-    "dateend": "2022-11-01T07:00:00.000Z"
+    "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Nederland",
@@ -10296,16 +10344,15 @@
     "svspc": "SV",
     "region": "Amsterdam",
     "districts": "Amsterdam, Haarlem, Zaandam",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-01-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Latvia",
     "code": "lv",
-    "svspc": "SV-SpC",
     "districts": "Daugavpils, Jēkabpils, Jelgava, Jūrmala, Kuldīga, Liepāja, Rēzekne, Riga, Saldus, Sigulda, Talsi, Valmiera, Ventspils",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-07-19T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -10342,7 +10389,7 @@
     "svspc": "SV",
     "region": "Finnmark",
     "districts": "Alta, Kautokeino, Talvik, Kunes, Olderfjord, Tana, Vadso, Hesseng, Øksfjord",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-04-04T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -10352,7 +10399,7 @@
     "svspc": "SV",
     "region": "Troms",
     "districts": "Tromsø, Finnsnes, Oteren, Storslett, Nordkjosbotn, Lyngseidet, Harstad",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-04-04T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -10362,7 +10409,7 @@
     "svspc": "SV",
     "region": "Nordland",
     "districts": "Bodo, Mo i Rana, Mosjøen, Narvik, Leinesfjord, Sortland,",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-04-04T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -10372,7 +10419,7 @@
     "svspc": "SV",
     "region": "Trøndelag",
     "districts": "Trondheim, Meldal, Oppdal, Lundamo, Krokstadøra, Hommelvik",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-04-04T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -10382,7 +10429,7 @@
     "svspc": "SV",
     "region": "Møre og Romsdal",
     "districts": "Alesund, Valldalen, Tresfjord, Vatne, Molde, Kanestraum, Kristiansund, Karvag",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-04-04T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -10392,7 +10439,7 @@
     "svspc": "SV",
     "region": "Sogn og Fjordane",
     "districts": "Førde, Flåm, Leikanger, Skei, Askvoll, Måløy",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-04-04T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -10402,7 +10449,7 @@
     "svspc": "SV",
     "region": "Hordaland",
     "districts": "Bergen, Odda, Leirvik, Etne, Vossevangen, Osterøy",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-04-04T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -10412,7 +10459,7 @@
     "svspc": "SV",
     "region": "Rogaland",
     "districts": "Stavanger, Sokndal, Bryne, Lysebotn, Nesflaten, Vikedal, Egersund, Lund, Bjerkreim",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-04-04T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -10422,7 +10469,7 @@
     "svspc": "SV",
     "region": "Vest-Agder",
     "districts": "Kristiansand, Flekkefjord, Lyngdal, Mandal, Farsund, Knaben, Tonstad, Ljosland, Sinnes",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-04-04T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -10432,7 +10479,7 @@
     "svspc": "SV",
     "region": "Aust-Agder",
     "districts": "Grimstad, Lillesand, Engesland, Rysstad, Bykle, Akland, Tvedestrand",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-04-04T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -10442,7 +10489,7 @@
     "svspc": "SV",
     "region": "Telemark",
     "districts": "Porsgrunn, Skien, Drangedal, Treungen, Kragero, Langesund, Stathelle, Dalen, Notodden",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-04-04T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -10452,7 +10499,7 @@
     "svspc": "SV",
     "region": "Buskerud",
     "districts": "Drammen, Kongsberg, Noresund, Dagali, Åmot",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-04-04T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -10462,7 +10509,7 @@
     "svspc": "SV",
     "region": "Hedmark",
     "districts": "Hamar, Elverum, Kongsvinger, Knapper, Flisa, Innbygda, Brumunddal, Tolga, Tynset",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-04-04T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -10472,7 +10519,7 @@
     "svspc": "SV",
     "region": "Oppland",
     "districts": "Lillehammer, Dokka, Bagn, Brandbu, Fagernes",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-04-04T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -10482,7 +10529,7 @@
     "svspc": "SV",
     "region": "Akershus",
     "districts": "Asker, Sandvika, Ski, Lillestrøm, Jessheim, Årnes, Fosser, Blaker",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-04-04T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -10492,7 +10539,7 @@
     "svspc": "SV",
     "region": "Oslo",
     "districts": "Oslo",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-04-04T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -10502,7 +10549,7 @@
     "svspc": "SV",
     "region": "Vestfold",
     "districts": "Sandefjord, Svarstad, Revetal, Tønsberg, Stokke, Nøtterøy, Sande",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-04-04T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -10512,7 +10559,7 @@
     "svspc": "SV",
     "region": "Østfold",
     "districts": "Fredrikstad, Halden, Sarpsborg, Rygge, Moss, Askim, Mysen, Spydeberg",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-04-04T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -10690,7 +10737,7 @@
     "districts": "Águeda, Albergaria-a-Velha, Anadia, Arouca, Aveiro, Castelo de Paiva, Espinho, Estarreja, Ílhavo, Mealhada, Murtosa, Oliveira de Azeméis, Oliveira do Bairro, Ovar, Santa Maria da Feira, São João da Madeira, Sever do Vouga, Vagos, Vale de Cambra",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "dateend": "2023-01-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -10700,7 +10747,7 @@
     "districts": "Odemira, Aljustrel, Almodôvar, Alvito, Barrancos, Beja, Castro Verde, Cuba, Ferreira do Alentejo, Mértola, Moura, Ourique, Serpa, Vidigueira",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "dateend": "2023-01-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -10710,7 +10757,7 @@
     "districts": "Cabeceiras de Basto, Celorico de Basto, Fafe, Guimarães, Póvoa de Lanhoso, Vieira do Minho, Vila Nova de Famalicão, Vizela, Amares, Barcelos, Braga, Esposende, Terras de Bouro, Vila Verde",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "dateend": "2023-01-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -10720,7 +10767,7 @@
     "districts": "Alfândega da Fé,Bragança,Carrazeda de Ansiães,Freixo de Espada à Cinta,Macedo de Cavaleiros,Miranda do Douro,Mirandela,Mogadouro,Moncorvo,Vila Flor,Vimioso,Vinhais",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "dateend": "2023-01-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -10730,7 +10777,7 @@
     "districts": "Belmonte, Castelo Branco, Covilhã, Fundão, Idanha-a-Nova, Oleiros, Penamacor, Proença-a-Nova, Sertã, Vila de Rei, Vila Velha de Ródão",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "dateend": "2023-01-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -10740,7 +10787,7 @@
     "districts": "Arganil,Cantanhede,Coimbra,Condeixa-a-Nova,Figueira da Foz,Góis,Lousã,Mira,Miranda do Corvo,Montemor-o-Velho,Oliveira do Hospital,Pampilhosa da Serra,Penacova,Penela,Soure,Tábua,Vila Nova de Poiares",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "dateend": "2023-01-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -10750,7 +10797,7 @@
     "districts": "Alandroal,Arraiolos,Borba,Estremoz,Évora,Montemor-o-Novo,Mora,Mourão,Olivença,Portel,Redondo,Reguengos de Monsaraz,Vendas Novas,Viana do Alentejo,Vila Viçosa",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "dateend": "2023-01-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -10760,7 +10807,7 @@
     "districts": "Albufeira,Faro,Lagoa,Lagos,Loulé,Olhão,Portimão,Quarteira (Loulé),Silves,Tavira,Vila Real de Santo António",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "dateend": "2023-01-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -10770,7 +10817,7 @@
     "districts": "Gouveia, Guarda, Meda, Pinhel, Sabugal, Trancoso.",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "dateend": "2023-01-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -10780,7 +10827,7 @@
     "districts": "Alcobaça,Caldas da Rainha,Leiria,Marinha Grande,Nazaré,Óbidos,Peniche,Pombal",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "dateend": "2023-01-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -10790,7 +10837,7 @@
     "districts": "Alenquer,Amadora,Arruda dos Vinhos,Azambuja,Cadaval,Cascais,Lisbon,Loures,Lourinhã,Mafra,Odivelas,Oeiras,Sintra,Sobral de Monte Agraço,Torres Vedras,Vila Franca de Xira",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "dateend": "2023-01-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -10800,7 +10847,7 @@
     "districts": "Alter do Chão,Arronches,Avis,Campo Maior,Castelo de Vide,Crato,Elvas,Fronteira,Gavião,Marvão,Monforte,Nisa,Ponte de Sor,Portalegre,Sousel,Summary of vot",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "dateend": "2023-01-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -10810,7 +10857,7 @@
     "districts": "Amarante,Baião,Felgueiras,Gondomar,Lousada,Maia,Marco de Canaveses,Matosinhos,Paços de Ferreira,Paredes,Penafiel,Porto,Póvoa de Varzim,Santo Tirso,Trofa,Valongo,Vila do Conde,Vila Nova de Gaia ",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "dateend": "2023-01-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -10820,7 +10867,7 @@
     "districts": "Abrantes,Alcanena,Almeirim,Alpiarça,Benavente,Cartaxo,Chamusca,Constância,Coruche,Entroncamento,Ferreira do Zêzere,Golegã,Mação,Ourém,Rio Maior,Salvaterra de Magos,Santarém,Sardoal,Tomar,Torres Novas,Vila Nova da Barquinha",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "dateend": "2023-01-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -10830,7 +10877,7 @@
     "districts": "Alcochete,Almada,Barreiro,Moita,Montijo,Palmela,Seixal,Sesimbra,Setúbal,Alcácer do Sal,Grândola,Santiago do Cacém,Sines",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "dateend": "2023-01-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -10840,7 +10887,7 @@
     "districts": "Arcos de Valdevez,Caminha,Melgaço,Monção,Paredes de Coura,Ponte da Barca,Ponte de Lima,Valença,Viana do Castelo,Vila Nova de Cerveira",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "dateend": "2023-01-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -10850,7 +10897,7 @@
     "districts": "Alijó,Boticas,Chaves,Mesão Frio,Mondim de Basto,Montalegre,Murça,Peso da Régua,Ribeira de Pena,Sabrosa,Santa Marta de Penaguião,Valpaços,Vila Pouca de Aguiar,\nVila Real",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "dateend": "2023-01-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -10860,7 +10907,7 @@
     "districts": "Armamar,Carregal do Sal,Castro Daire,Cinfães,Lamego,Mangualde,Moimenta da Beira,Mortágua,Nelas,Oliveira de Frades,Penalva do Castelo,Penedono,Resende,Santa Comba Dão,São João da Pesqueira,São Pedro do Sul,Sátão,Sernancelhe,Tabuaço,Tarouca,Tondela,Vila Nova de Paiva,Viseu,Vouzela",
     "publish": "Yes",
     "datestart": "2021-01-31T08:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "dateend": "2023-01-01T08:00:00.000Z"
   },
   {
     "country": "Republika Srbija",
@@ -11346,7 +11393,7 @@
     "code": "si",
     "region": "Pomurska",
     "districts": "Murska Sobota",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-30T08:00:00.000Z"
   },
@@ -11508,7 +11555,7 @@
     "code": "si",
     "region": "Podravska",
     "districts": "Maribor",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-30T08:00:00.000Z"
   },
@@ -11517,7 +11564,7 @@
     "code": "si",
     "region": "Koroška",
     "districts": "Slovenj Gradec",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-30T08:00:00.000Z"
   },
@@ -11526,7 +11573,7 @@
     "code": "si",
     "region": "Savinjska",
     "districts": "Celje",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-30T08:00:00.000Z"
   },
@@ -11535,7 +11582,7 @@
     "code": "si",
     "region": "Zasavska",
     "districts": "Trbovlje",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-30T08:00:00.000Z"
   },
@@ -11544,7 +11591,7 @@
     "code": "si",
     "region": "Posavska",
     "districts": "Krško",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-30T08:00:00.000Z"
   },
@@ -11554,7 +11601,7 @@
     "svspc": "SV",
     "region": "Bali",
     "districts": "Denpasar, Singaraja, Tabanan, Kuta, Ubud",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2022-06-01T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
@@ -11564,7 +11611,7 @@
     "svspc": "SV",
     "region": "West Nusa Tenggara ",
     "districts": "Mataram, Sengkol, Praya, Pringgabaja, Laboen Mapin, Plampang, Ampang, Sape",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2022-06-01T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
@@ -11574,7 +11621,7 @@
     "svspc": "SV",
     "region": "East Nusa Tenggara",
     "districts": "Labuan Bajo, Ruteng, Aimere, Muku Saki, Nita, Sumba, Hadakewa, Alor, Kupang, ",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2022-06-01T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
@@ -11583,7 +11630,7 @@
     "code": "si",
     "region": "Jugovzhodna Slovenija",
     "districts": "Novo Mesto",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-30T08:00:00.000Z"
   },
@@ -11592,7 +11639,7 @@
     "code": "si",
     "region": "Primorsko-notranjska",
     "districts": "Postojna",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-30T08:00:00.000Z"
   },
@@ -11601,7 +11648,7 @@
     "code": "si",
     "region": "Osrednjeslovenska",
     "districts": "Ljubljana",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-30T08:00:00.000Z"
   },
@@ -11610,7 +11657,7 @@
     "code": "si",
     "region": "Gorenjska",
     "districts": "Kranj",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-30T08:00:00.000Z"
   },
@@ -11619,7 +11666,7 @@
     "code": "si",
     "region": "Goriška",
     "districts": "Nova Gorica",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-30T08:00:00.000Z"
   },
@@ -11628,7 +11675,7 @@
     "code": "si",
     "region": "Obalno-kraška",
     "districts": "Koper",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-30T08:00:00.000Z"
   },
@@ -11637,7 +11684,7 @@
     "code": "sk",
     "region": "Bratislava",
     "districts": "Bratislava",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-24T08:00:00.000Z"
   },
@@ -11646,7 +11693,7 @@
     "code": "sk",
     "region": "Trnava",
     "districts": "Trnava",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-24T08:00:00.000Z"
   },
@@ -11655,7 +11702,7 @@
     "code": "sk",
     "region": "Trenčín",
     "districts": "Trenčín",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-24T08:00:00.000Z"
   },
@@ -11664,7 +11711,7 @@
     "code": "sk",
     "region": "Nitra",
     "districts": "Nitra",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-24T08:00:00.000Z"
   },
@@ -11673,7 +11720,7 @@
     "code": "sk",
     "region": "Žilina",
     "districts": "Žilina",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-24T08:00:00.000Z"
   },
@@ -11682,7 +11729,7 @@
     "code": "sk",
     "region": "Banská Bystrica",
     "districts": "Banská Bystrica",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-24T08:00:00.000Z"
   },
@@ -11691,57 +11738,52 @@
     "code": "sk",
     "region": "Prešov",
     "districts": "Prešov",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-24T08:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Arjeplog",
     "districts": "    Arjeplog",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-16T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Arvidsjaur",
     "districts": "    Arvidsjaur",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-16T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Askersund",
     "districts": "    Askersund",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-16T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Borlänge",
     "districts": "    Borlänge",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-16T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Borås",
     "districts": "    Borås",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-16T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -11936,150 +11978,135 @@
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Eskilstuna",
     "districts": "    Eskilstuna",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-16T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Falkenberg",
     "districts": "    Falkenberg",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-16T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Gothenburg",
     "districts": "    Gothenburg",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-16T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Gällivare",
     "districts": "    Gällivare",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-16T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Gävle",
     "districts": "    Gävle",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-16T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Halmstad",
     "districts": "    Halmstad",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-16T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Haparanda",
     "districts": "    Haparanda",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-16T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Helsingborg",
     "districts": "    Helsingborg",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-09T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Härnösand",
     "districts": "    Härnösand",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-16T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Jokkmokk",
     "districts": "    Jokkmokk",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-16T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Jönköping",
     "districts": "    Jönköping",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-16T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Kalix",
     "districts": "    Kalix",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-16T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Karlshamn",
     "districts": "    Karlshamn",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-16T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Karlskrona",
     "districts": "    Karlskrona",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-16T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Lidköping",
     "districts": "    Lidköping",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-16T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -12104,10 +12131,9 @@
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Linköping",
     "districts": "    Linköping",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-16T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -12141,20 +12167,18 @@
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Malmö",
     "districts": "    Malmö",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-09T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Mariestad",
     "districts": "    Mariestad",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-16T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -12164,9 +12188,9 @@
     "svspc": "SV",
     "region": "Leinster",
     "districts": "Dundalk, Newbridge, Sheffield Cross, TyrrellSpass, Drogheda",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-03-01T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "dateend": "2022-11-25T08:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -12174,447 +12198,403 @@
     "svspc": "SV",
     "region": "Connacht",
     "districts": "Galway",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-03-01T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "dateend": "2022-11-25T08:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Norrköping",
     "districts": "    Norrköping",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-16T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Norrtälje",
     "districts": "    Norrtälje",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-16T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Nyköping",
     "districts": "    Nyköping",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-16T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Stockholm",
     "districts": "    Stockholm",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-09T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Södertälje",
     "districts": "    Södertälje",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-16T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Trollhättan",
     "districts": "    Trollhättan",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-16T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Uddevalla",
     "districts": "    Uddevalla",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-16T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Umeå",
     "districts": "    Umeå",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-09T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Uppsala",
     "districts": "    Uppsala",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-16T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Varberg",
     "districts": "    Varberg",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-16T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Visby",
     "districts": "    Visby",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-16T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Västerås",
     "districts": "    Västerås",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-16T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "Norrbotten County ",
     "districts": "unknown",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-16T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Älvsbyn",
     "districts": "    Älvsbyn",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-16T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Åre",
     "districts": "    Åre",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-16T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Örebro",
     "districts": "    Örebro",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-16T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Östersund",
     "districts": "    Östersund",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-16T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
-    "svspc": "SV",
     "region": "    Övertorneå",
     "districts": "    Övertorneå",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-16T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Switzerland",
     "code": "ch",
-    "svspc": "SV",
     "region": "Zürich",
     "districts": "Zürich, Winterthur, Uster",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-06-07T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
     "code": "ch",
-    "svspc": "SV",
     "region": "Bern / Berne",
     "districts": "Bern, Biel/Bienne, Thoune, Köniz",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-06-07T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
     "code": "ch",
-    "svspc": "SV",
     "region": "Luzern",
     "districts": "Luzern",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-06-07T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
     "code": "ch",
-    "svspc": "SV",
     "region": "Uri",
     "districts": "Altdorf",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-06-07T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
     "code": "ch",
-    "svspc": "SV",
     "region": "Schwyz",
     "districts": "Schwyz",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-06-07T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
     "code": "ch",
-    "svspc": "SV",
     "region": "Obwalden",
     "districts": "Sarnen",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-06-07T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
     "code": "ch",
-    "svspc": "SV",
     "region": "Nidwalden",
     "districts": "Stans",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-06-07T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
     "code": "ch",
-    "svspc": "SV",
     "region": "Glarus",
     "districts": "Glarus",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-06-07T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
     "code": "ch",
-    "svspc": "SV",
     "region": "Zug",
     "districts": "Zoug",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-06-07T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
     "code": "ch",
-    "svspc": "SV",
     "region": "Freiburg / Fribourg",
     "districts": "Fribourg",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-06-07T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
     "code": "ch",
-    "svspc": "SV",
     "region": "Solothurn",
     "districts": "Solothurn",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-06-07T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
     "code": "ch",
-    "svspc": "SV",
     "region": "Basel-Stadt",
     "districts": "Basel",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-06-07T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
     "code": "ch",
-    "svspc": "SV",
     "region": "Basel-Landschaft",
     "districts": "Liestal",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-06-07T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
     "code": "ch",
-    "svspc": "SV",
     "region": "Schaffhausen",
     "districts": "Schaffhausen",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-06-07T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
     "code": "ch",
-    "svspc": "SV",
     "region": "Appenzell Ausserrhoden",
     "districts": "Herisau",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-06-07T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
     "code": "ch",
-    "svspc": "SV",
     "region": "Appenzell Innerrhoden",
     "districts": "Appenzell",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-06-07T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
     "code": "ch",
-    "svspc": "SV",
     "region": "Sankt Gallen",
     "districts": "Sankt Gallen",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-06-07T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
     "code": "ch",
-    "svspc": "SV",
     "region": "Graubünden",
     "districts": "Chur",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-06-07T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
     "code": "ch",
-    "svspc": "SV",
     "region": "Aargau",
     "districts": "Aarau",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-06-07T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
     "code": "ch",
-    "svspc": "SV",
     "region": "Thurgau",
     "districts": "Frauenfeld",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-06-07T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
     "code": "ch",
-    "svspc": "SV",
     "region": "Ticino",
     "districts": "Lugano, Bellinzona",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-06-07T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
     "code": "ch",
-    "svspc": "SV",
     "region": "Vaud",
     "districts": "Lausanne",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-06-07T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
     "code": "ch",
-    "svspc": "SV",
     "region": "Valais / Wallis",
     "districts": "Sion",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-06-07T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
     "code": "ch",
-    "svspc": "SV",
     "region": "Neuchâtel",
     "districts": "La Chaux-de-Fonds, Neuchâtel",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-06-07T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
     "code": "ch",
-    "svspc": "SV",
     "region": "Genève",
     "districts": "Genève, Vernier",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-06-07T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
     "code": "ch",
-    "svspc": "SV",
     "region": "Jura",
     "districts": "Delémont",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-06-07T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
@@ -13375,7 +13355,7 @@
     "svspc": "SV",
     "region": "Chiba",
     "districts": "Chiba, Kisarazu, Funabashi, Matsudo, Kashiwa",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-07-01T07:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
   },
@@ -14097,10 +14077,10 @@
     "code": "th",
     "svspc": "SV",
     "region": "Central, Northern , Southern, Eastern ",
-    "districts": "Bangkok, Nonthaburi, Krabi,  Nakhonsawan, Chiang Mai, Chiang Rai,Phang Nga, Chonburi, Samut Songkharm, Satun, Phear, Songkhla, Surathani, Prachoup Kirikun, Chaiyaphum, Surin, Burirum, Angthong, Nakhonratchasima, Sakhon Nakhon, Buengkan, Phisanulok, Loei, Nakhon Si Thammarat, Satun",
+    "districts": "Bangkok, Nonthaburi, Samut Songkharm, Samut Prakarn, Pathumthani",
     "publish": "Yes",
-    "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "datestart": "2023-01-01T08:00:00.000Z",
+    "dateend": "2023-12-31T08:00:00.000Z"
   },
   {
     "country": "Uganda",
@@ -14141,110 +14121,99 @@
   {
     "country": "United Kingdom",
     "code": "gb",
-    "svspc": "SV",
     "region": "Greater London",
     "districts": "Greater London",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-01-01T08:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
   },
   {
     "country": "United Kingdom",
     "code": "gb",
-    "svspc": "SV",
     "region": "South West",
     "districts": "Poole, Bornemouth, Dorset, Somerset, Torquay, Exeter, Plymouth, Newquay, Weymouth, Poole, Bristol, Bath, Swindon, Gloucester",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
   },
   {
     "country": "United Kingdom",
     "code": "gb",
-    "svspc": "SV",
     "region": "South East",
     "districts": "Winchester, Basingstoke, Isle of Wight, Wiltshire, New Forest NP, Brighton, Eastbourne, Canterbury, Folkestone, Newhaven, Portsmouth, Oxford, Dover, Ramsgate, Crawley, Southampton, Maidstone, Rochester",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
   },
   {
     "country": "United Kingdom",
     "code": "gb",
-    "svspc": "SV",
     "region": "East",
     "districts": "Lowestoft, Ipswich, Waltham Abbey, Cambridge, Norwich, Kings Lynn, Peterborough, Ely, Colchester, Braintree, Fakenham, Cromer, Chelmsford",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
   },
   {
     "country": "United Kingdom",
     "code": "gb",
-    "svspc": "SV",
     "region": "Cornwall",
     "districts": "Penzance, Truro, St Austell, Redruth, Newquay, Padstow",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
   },
   {
     "country": "United Kingdom",
     "code": "gb",
-    "svspc": "SV",
     "region": "North East",
     "districts": "Newcastle, Middlesbrough, Durham, Corbridge, Sunderland",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
   },
   {
     "country": "United Kingdom",
     "code": "gb",
-    "svspc": "SV",
     "region": "North West",
     "districts": "Chester, Manchester, Liverpool, Blackpool, Kendal, Blackburn",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
   },
   {
     "country": "United Kingdom",
     "code": "gb",
-    "svspc": "SV",
     "region": "Yorkshire and the Humber",
     "districts": "Leeds, York, Hull, Yorkshire Dales National Park",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
   },
   {
     "country": "United Kingdom",
     "code": "gb",
-    "svspc": "SV",
     "region": "Wales",
     "districts": "Swansea, Cardiff, Newport, Llanelli",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
   },
   {
     "country": "United Kingdom",
     "code": "gb",
-    "svspc": "SV",
     "region": "Scotland",
     "districts": "Glasgow, Edinburgh, Dumfries, Dundee, Inverness, Aberdeen, Forres, Shetland Islands, Orkney Islands, Isle of Skey, Isle of Mull, Lewis and Harris",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
   },
   {
     "country": "United Kingdom",
     "code": "gb",
-    "svspc": "SV",
     "region": "East Midlands",
     "districts": "Derbyshire, Nottinghamshire, Leicestershire",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
   },
@@ -14269,20 +14238,18 @@
   {
     "country": "United Kingdom",
     "code": "gb",
-    "svspc": "SV",
     "region": "West Midlands",
     "districts": "Stoke-on-trent, Wolverhampton, Coventry, Hereford, Shrewsbury, Worcester, Birmingham",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
   },
   {
     "country": "United Kingdom",
     "code": "gb",
-    "svspc": "SV",
     "region": "Northern Ireland",
     "districts": "Belfast, Newry, Omagh, Moygashel, Muckamore",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-12-31T08:00:00.000Z"
   },
@@ -14748,130 +14715,117 @@
   {
     "country": "Ελλάδα",
     "code": "gr",
-    "svspc": "SV",
     "region": "Στερεά Ελλάδα",
     "districts": "Λαμία",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-04-01T07:00:00.000Z",
     "dateend": "2022-12-30T08:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
     "code": "gr",
-    "svspc": "SV",
     "region": "Θεσσαλία",
     "districts": "Λάρισα",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-12-30T08:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
     "code": "gr",
-    "svspc": "SV",
     "region": "Δυτική Ελλάδα",
     "districts": "Πάτρα",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-12-30T08:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
     "code": "gr",
-    "svspc": "SV",
     "region": "Μακεδονία",
     "districts": "Χαλκιδική",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-01T07:00:00.000Z",
     "dateend": "2022-12-30T08:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
     "code": "gr",
-    "svspc": "SV",
     "region": "Ανατολική Μακεδονία και Θράκη",
     "districts": "Κομοτηνή, Αλεξανδρούπολη, Καβάλα, Ξάνθη",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-01T07:00:00.000Z",
     "dateend": "2022-12-30T08:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
     "code": "gr",
-    "svspc": "SV",
     "region": "Βορείου Αιγαίου",
     "districts": "Λέσβος / Μυτιλήνη",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-01T07:00:00.000Z",
     "dateend": "2022-12-30T08:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
     "code": "gr",
-    "svspc": "SV",
     "region": "Πελοπόννησος",
     "districts": "Τρίπολη",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-01T07:00:00.000Z",
     "dateend": "2022-12-30T08:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
     "code": "gr",
-    "svspc": "SV",
     "region": "Νοτίου Αιγαίου / Νησιά Αιγαίου",
     "districts": "Ρόδος",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-01T07:00:00.000Z",
     "dateend": "2022-12-30T08:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
     "code": "gr",
-    "svspc": "SV",
     "region": "Δυτική Μακεδονία",
     "districts": "Κοζάνη",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-01T07:00:00.000Z",
     "dateend": "2022-12-30T08:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
     "code": "gr",
-    "svspc": "SV",
     "region": "Ήπειρος",
     "districts": "Ιωάννινα",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-07-01T07:00:00.000Z",
     "dateend": "2022-12-30T08:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
     "code": "gr",
-    "svspc": "SV",
     "region": "Κρήτη",
     "districts": "Ηράκλειο, Χανιά, Ιεράπετρα, Άγιος Νικόλαος, Ρέθυμνο, Παλιόχωρα, Πλακιάς",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-07-01T07:00:00.000Z",
     "dateend": "2022-12-30T08:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
     "code": "gr",
-    "svspc": "SV",
     "region": "Αττική",
     "districts": "Αθήνα",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-12-30T08:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
     "code": "gr",
-    "svspc": "SV",
     "region": "Μακεδονία",
     "districts": "Θεσσαλονίκη",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-08-01T07:00:00.000Z",
     "dateend": "2022-12-30T08:00:00.000Z"
   },
@@ -14889,7 +14843,7 @@
     "svspc": "SV",
     "region": "Благоевград",
     "districts": "Благоевград, Гоце Делчев, Сандански, Петрич",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -14899,7 +14853,7 @@
     "svspc": "SV",
     "region": "Бургас",
     "districts": "Бургас, Карнобат",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -14909,7 +14863,7 @@
     "svspc": "SV",
     "region": "Варна",
     "districts": "Варна",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -14919,7 +14873,7 @@
     "svspc": "SV",
     "region": "Велико Търново",
     "districts": "Велико Търново",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -14929,7 +14883,7 @@
     "svspc": "SV",
     "region": "Видин",
     "districts": "Видин",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -14939,7 +14893,7 @@
     "svspc": "SV",
     "region": "Враца",
     "districts": "Враца",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -14949,7 +14903,7 @@
     "svspc": "SV",
     "region": "Габрово",
     "districts": "Габрово, Севлиево, Шипка, Трявна, Дряново",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -14959,7 +14913,7 @@
     "svspc": "SV",
     "region": "Добрич",
     "districts": "Добрич",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -14969,7 +14923,7 @@
     "svspc": "SV",
     "region": "Кърджали",
     "districts": "Кърджали, Ардино, Момчилград",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -14979,7 +14933,7 @@
     "svspc": "SV",
     "region": "Кюстендил",
     "districts": "Кюстендил, Дупница",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -14989,7 +14943,7 @@
     "svspc": "SV",
     "region": "Ловеч",
     "districts": "Априлци",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -14999,7 +14953,7 @@
     "svspc": "SV",
     "region": "Монтана",
     "districts": "Монтана",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -15009,7 +14963,7 @@
     "svspc": "SV",
     "region": "Пазарджик",
     "districts": "Пазарджик, Панагюрище, Велинград",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -15019,7 +14973,7 @@
     "svspc": "SV",
     "region": "Перник",
     "districts": "Перник",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -15029,7 +14983,7 @@
     "svspc": "SV",
     "region": "Плевен",
     "districts": "Плевен, Ловеч, Луковит",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -15039,7 +14993,7 @@
     "svspc": "SV",
     "region": "Пловдив",
     "districts": "Пловдид, Хисаря, Асеновград",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -15049,7 +15003,7 @@
     "svspc": "SV",
     "region": "Разград",
     "districts": "Разград",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -15059,7 +15013,7 @@
     "svspc": "SV",
     "region": "Русе",
     "districts": "Русе",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -15069,7 +15023,7 @@
     "svspc": "SV",
     "region": "Силистра",
     "districts": "Силистра",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -15079,7 +15033,7 @@
     "svspc": "SV",
     "region": "Сливен",
     "districts": "Сливен",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -15089,7 +15043,7 @@
     "svspc": "SV",
     "region": "Смолян",
     "districts": "Смолян, Рудозем, Мадан, Девин",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -15099,7 +15053,7 @@
     "svspc": "SV",
     "region": "София",
     "districts": "София",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -15109,7 +15063,7 @@
     "svspc": "SV",
     "region": "Софийска",
     "districts": "Елин Пелин, Равно поле, Костинброд, Ихтиман",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -15119,7 +15073,7 @@
     "svspc": "SV",
     "region": "Стара Загора",
     "districts": "Стара Загора",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -15129,7 +15083,7 @@
     "svspc": "SV",
     "region": "Търговище",
     "districts": "Търговище",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -15139,7 +15093,7 @@
     "svspc": "SV",
     "region": "Хасково",
     "districts": "Хасково, Харманли, Свиленград",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -15149,7 +15103,7 @@
     "svspc": "SV",
     "region": "Шумен",
     "districts": "Шумен",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -15159,7 +15113,7 @@
     "svspc": "SV",
     "region": "Ямбол",
     "districts": "Ямбол, Елхово",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -15875,9 +15829,9 @@
     "svspc": "SV",
     "region": "Al Wakrah",
     "districts": "Al-Janoub Stadium formerly known as Al-Wakrah Stadium",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-10-01T07:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Qatar",
@@ -15885,9 +15839,9 @@
     "svspc": "SV",
     "region": "Mesaieed ",
     "districts": "Al Wakrah Municipality ",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-10-01T07:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Qatar",
@@ -15895,9 +15849,9 @@
     "svspc": "SV",
     "region": "Doha",
     "districts": "Khalifa International Stadium, Education City Stadium, Stadium 974 , Al Thumama Stadium",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-10-01T07:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Qatar",
@@ -15905,9 +15859,9 @@
     "svspc": "SV",
     "region": "Lusail ",
     "districts": "Lusail Stadium",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-10-01T07:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Qatar",
@@ -15915,9 +15869,9 @@
     "svspc": "SV",
     "region": "Al Rayyan",
     "districts": "Ahmad Bin Ali Stadium",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-10-01T07:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Qatar",
@@ -15925,9 +15879,9 @@
     "svspc": "SV",
     "region": "Al Khor ",
     "districts": "Al Bayt Stadium",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-10-01T07:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "dateend": "2022-11-01T07:00:00.000Z"
   },
   {
     "country": "Qatar",
@@ -16015,7 +15969,7 @@
     "svspc": "SV",
     "region": "Central Bohemian",
     "districts": "Prague",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-08-01T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -16025,7 +15979,7 @@
     "svspc": "SV",
     "region": "South Bohemian",
     "districts": "České Budějovice",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-08-01T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -16035,7 +15989,7 @@
     "svspc": "SV",
     "region": "Plzeň",
     "districts": "Plzeň",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-08-01T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -16045,7 +15999,7 @@
     "svspc": "SV",
     "region": "Karlovy Vary",
     "districts": "Karlovy Vary",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-08-01T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -16055,7 +16009,7 @@
     "svspc": "SV",
     "region": "Ústí nad Labem",
     "districts": "Ústí nad Labem",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-08-01T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -16065,7 +16019,7 @@
     "svspc": "SV",
     "region": "Liberec",
     "districts": "Liberec",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-08-01T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -16075,7 +16029,7 @@
     "svspc": "SV",
     "region": "Hradec Králové",
     "districts": "Hradec Králové",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-08-01T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -16085,7 +16039,7 @@
     "svspc": "SV",
     "region": "Pardubice",
     "districts": "Pardubice",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-08-01T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -16095,7 +16049,7 @@
     "svspc": "SV",
     "region": "Vysočina",
     "districts": "Jihlava",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-08-01T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -16105,7 +16059,7 @@
     "svspc": "SV",
     "region": "South Moravian",
     "districts": "Brno",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-08-01T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -16115,7 +16069,7 @@
     "svspc": "SV",
     "region": "Olomouc",
     "districts": "Olomouc",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-08-01T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -16125,7 +16079,7 @@
     "svspc": "SV",
     "region": "Zlín",
     "districts": "Zlín",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-08-01T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -16135,8 +16089,516 @@
     "svspc": "SV",
     "region": "Moravian-Silesian",
     "districts": "Ostrava",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-08-01T07:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Hokkaido",
+    "districts": "Hokkaido",
+    "publish": "No"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Aomori",
+    "districts": "Aomori",
+    "publish": "No"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Iwate",
+    "districts": "Iwate",
+    "publish": "No"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Miyagi",
+    "districts": "Miyagi",
+    "publish": "No"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Akita",
+    "districts": "Akita",
+    "publish": "No"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Yamagata",
+    "districts": "Yamagata",
+    "publish": "No"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Fukushima",
+    "districts": "Fukushima",
+    "publish": "No"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Ibaraki",
+    "districts": "Ibaraki",
+    "publish": "No"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Tochigi",
+    "districts": "Tochigi",
+    "publish": "No"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Gunma",
+    "districts": "Isesaki",
+    "publish": "Yes",
+    "datestart": "2023-01-01T08:00:00.000Z",
+    "dateend": "2023-01-01T08:00:00.000Z"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Saitama",
+    "districts": "Siatma, Kazo, Kuki, Kawagoe",
+    "publish": "Yes",
+    "datestart": "2023-01-01T08:00:00.000Z",
+    "dateend": "2023-01-01T08:00:00.000Z"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Chiba",
+    "districts": "Chiba, Funabashi, Narashino",
+    "publish": "Yes",
+    "datestart": "2023-01-01T08:00:00.000Z",
+    "dateend": "2023-01-01T08:00:00.000Z"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Tokyo",
+    "districts": "Nerima, Tama",
+    "publish": "Yes",
+    "datestart": "2023-01-01T08:00:00.000Z",
+    "dateend": "2023-01-01T08:00:00.000Z"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Kanagawa",
+    "districts": "Sagamihara, Hitratsuka, Chigasaki",
+    "publish": "Yes",
+    "datestart": "2023-01-01T08:00:00.000Z",
+    "dateend": "2023-01-01T08:00:00.000Z"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Niigata",
+    "districts": "Niigata",
+    "publish": "No"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Toyama",
+    "districts": "Toyama",
+    "publish": "No"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Ishikawa",
+    "districts": "Ishikawa",
+    "publish": "No"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Fukui",
+    "districts": "Fukui",
+    "publish": "No"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Yamanashi",
+    "districts": "Yamanashi",
+    "publish": "No"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Nagano",
+    "districts": "Nagano",
+    "publish": "No"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Gifu",
+    "districts": "Gifu",
+    "publish": "Yes",
+    "datestart": "2023-01-01T08:00:00.000Z",
+    "dateend": "2023-01-01T08:00:00.000Z"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Shizuoka",
+    "districts": "Shizuoka",
+    "publish": "No"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Aichi",
+    "districts": "Okazaki, Toyohashi, Tokoname",
+    "publish": "Yes",
+    "datestart": "2023-01-01T08:00:00.000Z",
+    "dateend": "2023-01-01T08:00:00.000Z"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Mie",
+    "districts": "Mie",
+    "publish": "No"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Shiga",
+    "districts": "Shiga",
+    "publish": "No"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Kyoto",
+    "districts": "Kyoto",
+    "publish": "No"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Osaka",
+    "districts": "Osaka, Takatsuki, Hirakata, Sakai",
+    "publish": "Yes",
+    "datestart": "2023-01-01T08:00:00.000Z",
+    "dateend": "2023-01-01T08:00:00.000Z"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Hyogo",
+    "districts": "Kakogawa, Akashi",
+    "publish": "Yes",
+    "datestart": "2023-01-01T08:00:00.000Z",
+    "dateend": "2023-01-01T08:00:00.000Z"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Nara",
+    "districts": "Nara",
+    "publish": "No"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Wakayama",
+    "districts": "Iwade, Arida, Kainan",
+    "publish": "Yes",
+    "datestart": "2023-01-01T08:00:00.000Z",
+    "dateend": "2023-01-01T08:00:00.000Z"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Tottori",
+    "districts": "Tottori",
+    "publish": "No"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Shimane",
+    "districts": "Shimane",
+    "publish": "No"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Okayama",
+    "districts": "Okayama",
+    "publish": "No"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Hiroshima",
+    "districts": "Hiroshima",
+    "publish": "No"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Yamaguchi",
+    "districts": "Yamaguchi",
+    "publish": "No"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Tokushima",
+    "districts": "Tokushima",
+    "publish": "No"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Kagawa",
+    "districts": "Kagawa",
+    "publish": "No"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Ehime",
+    "districts": "Ehime",
+    "publish": "No"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Kochi",
+    "districts": "Kochi",
+    "publish": "No"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Fukuoka",
+    "districts": "Kurume, Iizuka",
+    "publish": "Yes",
+    "datestart": "2023-01-01T08:00:00.000Z",
+    "dateend": "2023-01-01T08:00:00.000Z"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Saga",
+    "districts": "Saga",
+    "publish": "No"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Nagasaki",
+    "districts": "Nagasaki",
+    "publish": "No"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Kumamoto",
+    "districts": "Kumamoto",
+    "publish": "No"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Oita",
+    "districts": "Oita",
+    "publish": "No"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Miyazaki",
+    "districts": "Miyazaki",
+    "publish": "No"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Kagoshima",
+    "districts": "Kagoshima",
+    "publish": "No"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Okinawa",
+    "districts": "Okinawa",
+    "publish": "No"
+  },
+  {
+    "country": "Argentina",
+    "code": "AR",
+    "svspc": "SV",
+    "region": "Salta",
+    "districts": "Ciudad de Salta",
+    "publish": "Yes",
+    "datestart": "2022-04-01T07:00:00.000Z",
+    "dateend": "2022-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Argentina",
+    "code": "AR",
+    "svspc": "SV",
+    "region": "Tucumán",
+    "districts": "San Miguel de Tucumán",
+    "publish": "Yes",
+    "datestart": "2022-02-01T08:00:00.000Z",
+    "dateend": "2022-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Argentina",
+    "code": "AR",
+    "svspc": "SV",
+    "region": "Santa Fe",
+    "districts": "Rosario, Santa Fé Capital",
+    "publish": "Yes",
+    "datestart": "2022-02-01T08:00:00.000Z",
+    "dateend": "2022-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Argentina",
+    "code": "AR",
+    "svspc": "SV",
+    "region": "Buenos Aires ",
+    "districts": "Ciudad de Buenos Aires, Bahia Blanca, Mar del Plata, Lujan, San Miguel, Tandil, Villa Gessell, Pinamar, Morón, Merlo, Tigre, Monte Grande, San Justo, Los Polvorines, Moreno, San Martin, El Palomar, Pilar",
+    "publish": "Yes",
+    "datestart": "2022-04-01T07:00:00.000Z",
+    "dateend": "2022-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Argentina",
+    "code": "AR",
+    "svspc": "SV",
+    "region": "Santa Cruz",
+    "districts": "Rio Gallegos",
+    "publish": "Yes",
+    "datestart": "2022-02-01T08:00:00.000Z",
+    "dateend": "2022-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Argentina",
+    "code": "AR",
+    "svspc": "SV",
+    "region": "Mendoza",
+    "districts": "Mendoza",
+    "publish": "Yes",
+    "datestart": "2022-02-01T08:00:00.000Z",
+    "dateend": "2022-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Argentina",
+    "code": "AR",
+    "svspc": "SV",
+    "region": "Córdoba",
+    "districts": "Córdoba Capital",
+    "publish": "Yes",
+    "datestart": "2022-02-01T08:00:00.000Z",
+    "dateend": "2022-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Argentina",
+    "code": "AR",
+    "svspc": "SV",
+    "region": "San Juan",
+    "districts": "San Juan",
+    "publish": "Yes",
+    "datestart": "2022-02-01T08:00:00.000Z",
+    "dateend": "2022-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "TW",
+    "svspc": "SV",
+    "region": "Taipei",
+    "districts": "Xinyi Qu",
+    "publish": "Yes",
+    "datestart": "2023-01-01T08:00:00.000Z",
+    "dateend": "2023-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "TW",
+    "svspc": "SV",
+    "region": "New Taipei",
+    "districts": "San chang Qu",
+    "publish": "Yes",
+    "datestart": "2023-01-01T08:00:00.000Z",
+    "dateend": "2023-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "TW",
+    "svspc": "SV",
+    "region": "Taoyuan",
+    "districts": "Da Yuam Qu",
+    "publish": "Yes",
+    "datestart": "2023-01-01T08:00:00.000Z",
+    "dateend": "2023-12-01T08:00:00.000Z"
   }
 ]
