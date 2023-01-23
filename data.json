@@ -16600,5 +16600,15 @@
     "publish": "Yes",
     "datestart": "2023-01-01T08:00:00.000Z",
     "dateend": "2023-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Thailand",
+    "code": "TH",
+    "svspc": "SV",
+    "region": "Central ",
+    "districts": "Bangkok Srisaket",
+    "publish": "Yes",
+    "datestart": "2023-01-01T08:00:00.000Z",
+    "dateend": "2023-12-01T08:00:00.000Z"
   }
 ]
