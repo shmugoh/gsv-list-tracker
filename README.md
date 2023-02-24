@@ -1,14 +1,6 @@
-# GSV List Tracker ![](https://github.com/juanpisuribe13/gsv-list-tracker/actions/workflows/automate.yml/badge.svg?event=push)
+Hello, how can I contact you? If possible can you dm me on Discord (deuces#1961).
 
-Tracks down every change made on the [Google Street View 
-Driving List](https://www.google.com/streetview/explore/#sv-headed) 
-starting from April 2nd, 2022.
+I have a question about the gist you created that detects recent users (https://gist.github.com/juanpisss/3972f188cbabed60c32e2b55c115397f#file-recentrobloxusers-py), basically could you send me the original rbxlua file made by 1waffle1 please? I would highly appreciate it thanks. 
 
-Please keep in mind that this tracker is not a reliable way 
-to determine where Google will update its Street View service 
-worldwide. There have been cases where updates have occurred 
-in specific countries that were not previously listed, such 
-as Nigeria, Kenya, Senegal, Panama, Peru, and others.
-
-Access the changes tracked [here](https://github.com/juanpisuribe13/gsv-list-tracker/commits/main/data.json).
-......
+You can send here or on Discord. 
+Sorry for bothering and thanks in advance!
