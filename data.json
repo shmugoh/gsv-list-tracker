@@ -12473,8 +12473,8 @@
     "code": "ch",
     "region": "Zürich",
     "districts": "Zürich, Winterthur, Uster",
-    "publish": "No",
-    "datestart": "tbd",
+    "publish": "Yes",
+    "datestart": "2023-03-01T08:00:00.000Z",
     "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
@@ -12482,8 +12482,8 @@
     "code": "ch",
     "region": "Bern / Berne",
     "districts": "Bern, Biel/Bienne, Thoune, Köniz",
-    "publish": "No",
-    "datestart": "tbd",
+    "publish": "Yes",
+    "datestart": "2023-03-01T08:00:00.000Z",
     "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
@@ -12491,8 +12491,8 @@
     "code": "ch",
     "region": "Luzern",
     "districts": "Luzern",
-    "publish": "No",
-    "datestart": "tbd",
+    "publish": "Yes",
+    "datestart": "2023-03-01T08:00:00.000Z",
     "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
@@ -12500,8 +12500,8 @@
     "code": "ch",
     "region": "Uri",
     "districts": "Altdorf",
-    "publish": "No",
-    "datestart": "tbd",
+    "publish": "Yes",
+    "datestart": "2023-03-01T08:00:00.000Z",
     "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
@@ -12509,8 +12509,8 @@
     "code": "ch",
     "region": "Schwyz",
     "districts": "Schwyz",
-    "publish": "No",
-    "datestart": "tbd",
+    "publish": "Yes",
+    "datestart": "2023-03-01T08:00:00.000Z",
     "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
@@ -12518,8 +12518,8 @@
     "code": "ch",
     "region": "Obwalden",
     "districts": "Sarnen",
-    "publish": "No",
-    "datestart": "tbd",
+    "publish": "Yes",
+    "datestart": "2023-03-01T08:00:00.000Z",
     "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
@@ -12527,8 +12527,8 @@
     "code": "ch",
     "region": "Nidwalden",
     "districts": "Stans",
-    "publish": "No",
-    "datestart": "tbd",
+    "publish": "Yes",
+    "datestart": "2023-03-01T08:00:00.000Z",
     "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
@@ -12536,8 +12536,8 @@
     "code": "ch",
     "region": "Glarus",
     "districts": "Glarus",
-    "publish": "No",
-    "datestart": "tbd",
+    "publish": "Yes",
+    "datestart": "2023-03-01T08:00:00.000Z",
     "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
@@ -12545,8 +12545,8 @@
     "code": "ch",
     "region": "Zug",
     "districts": "Zoug",
-    "publish": "No",
-    "datestart": "tbd",
+    "publish": "Yes",
+    "datestart": "2023-03-01T08:00:00.000Z",
     "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
@@ -12554,8 +12554,8 @@
     "code": "ch",
     "region": "Freiburg / Fribourg",
     "districts": "Fribourg",
-    "publish": "No",
-    "datestart": "tbd",
+    "publish": "Yes",
+    "datestart": "2023-03-01T08:00:00.000Z",
     "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
@@ -12563,8 +12563,8 @@
     "code": "ch",
     "region": "Solothurn",
     "districts": "Solothurn",
-    "publish": "No",
-    "datestart": "tbd",
+    "publish": "Yes",
+    "datestart": "2023-03-01T08:00:00.000Z",
     "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
@@ -12572,8 +12572,8 @@
     "code": "ch",
     "region": "Basel-Stadt",
     "districts": "Basel",
-    "publish": "No",
-    "datestart": "tbd",
+    "publish": "Yes",
+    "datestart": "2023-03-01T08:00:00.000Z",
     "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
@@ -12581,8 +12581,8 @@
     "code": "ch",
     "region": "Basel-Landschaft",
     "districts": "Liestal",
-    "publish": "No",
-    "datestart": "tbd",
+    "publish": "Yes",
+    "datestart": "2023-03-01T08:00:00.000Z",
     "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
@@ -12590,8 +12590,8 @@
     "code": "ch",
     "region": "Schaffhausen",
     "districts": "Schaffhausen",
-    "publish": "No",
-    "datestart": "tbd",
+    "publish": "Yes",
+    "datestart": "2023-03-01T08:00:00.000Z",
     "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
@@ -12599,8 +12599,8 @@
     "code": "ch",
     "region": "Appenzell Ausserrhoden",
     "districts": "Herisau",
-    "publish": "No",
-    "datestart": "tbd",
+    "publish": "Yes",
+    "datestart": "2023-03-01T08:00:00.000Z",
     "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
@@ -12608,8 +12608,8 @@
     "code": "ch",
     "region": "Appenzell Innerrhoden",
     "districts": "Appenzell",
-    "publish": "No",
-    "datestart": "tbd",
+    "publish": "Yes",
+    "datestart": "2023-03-01T08:00:00.000Z",
     "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
@@ -12617,8 +12617,8 @@
     "code": "ch",
     "region": "Sankt Gallen",
     "districts": "Sankt Gallen",
-    "publish": "No",
-    "datestart": "tbd",
+    "publish": "Yes",
+    "datestart": "2023-03-01T08:00:00.000Z",
     "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
@@ -12626,8 +12626,8 @@
     "code": "ch",
     "region": "Graubünden",
     "districts": "Chur",
-    "publish": "No",
-    "datestart": "tbd",
+    "publish": "Yes",
+    "datestart": "2023-03-01T08:00:00.000Z",
     "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
@@ -12635,8 +12635,8 @@
     "code": "ch",
     "region": "Aargau",
     "districts": "Aarau",
-    "publish": "No",
-    "datestart": "tbd",
+    "publish": "Yes",
+    "datestart": "2023-03-01T08:00:00.000Z",
     "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
@@ -12644,8 +12644,8 @@
     "code": "ch",
     "region": "Thurgau",
     "districts": "Frauenfeld",
-    "publish": "No",
-    "datestart": "tbd",
+    "publish": "Yes",
+    "datestart": "2023-03-01T08:00:00.000Z",
     "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
@@ -12653,8 +12653,8 @@
     "code": "ch",
     "region": "Ticino",
     "districts": "Lugano, Bellinzona",
-    "publish": "No",
-    "datestart": "tbd",
+    "publish": "Yes",
+    "datestart": "2023-03-01T08:00:00.000Z",
     "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
@@ -12662,8 +12662,8 @@
     "code": "ch",
     "region": "Vaud",
     "districts": "Lausanne",
-    "publish": "No",
-    "datestart": "tbd",
+    "publish": "Yes",
+    "datestart": "2023-03-01T08:00:00.000Z",
     "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
@@ -12671,8 +12671,8 @@
     "code": "ch",
     "region": "Valais / Wallis",
     "districts": "Sion",
-    "publish": "No",
-    "datestart": "tbd",
+    "publish": "Yes",
+    "datestart": "2023-03-01T08:00:00.000Z",
     "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
@@ -12680,8 +12680,8 @@
     "code": "ch",
     "region": "Neuchâtel",
     "districts": "La Chaux-de-Fonds, Neuchâtel",
-    "publish": "No",
-    "datestart": "tbd",
+    "publish": "Yes",
+    "datestart": "2023-03-01T08:00:00.000Z",
     "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
@@ -12689,8 +12689,8 @@
     "code": "ch",
     "region": "Genève",
     "districts": "Genève, Vernier",
-    "publish": "No",
-    "datestart": "tbd",
+    "publish": "Yes",
+    "datestart": "2023-03-01T08:00:00.000Z",
     "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
@@ -12698,8 +12698,8 @@
     "code": "ch",
     "region": "Jura",
     "districts": "Delémont",
-    "publish": "No",
-    "datestart": "tbd",
+    "publish": "Yes",
+    "datestart": "2023-03-01T08:00:00.000Z",
     "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
@@ -16735,8 +16735,8 @@
     "region": "Osrednjeslovenska",
     "districts": "Ljubljana",
     "publish": "Yes",
-    "datestart": "2023-03-07T08:00:00.000Z",
-    "dateend": "2023-09-01T07:00:00.000Z"
+    "datestart": "2023-04-01T07:00:00.000Z",
+    "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
     "country": "Slovenija",
@@ -16745,8 +16745,8 @@
     "region": "Podravska",
     "districts": "Maribor",
     "publish": "Yes",
-    "datestart": "2023-03-07T08:00:00.000Z",
-    "dateend": "2023-09-01T07:00:00.000Z"
+    "datestart": "2023-04-01T07:00:00.000Z",
+    "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
     "country": "Slovenija",
@@ -16755,8 +16755,8 @@
     "region": "Prekmurje",
     "districts": "Lendava",
     "publish": "Yes",
-    "datestart": "2023-03-07T08:00:00.000Z",
-    "dateend": "2023-09-01T07:00:00.000Z"
+    "datestart": "2023-04-01T07:00:00.000Z",
+    "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
     "country": "Slovenija",
@@ -16765,8 +16765,8 @@
     "region": "Gorenjska",
     "districts": "Kranj",
     "publish": "Yes",
-    "datestart": "2023-03-07T08:00:00.000Z",
-    "dateend": "2023-09-01T07:00:00.000Z"
+    "datestart": "2023-04-01T07:00:00.000Z",
+    "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
     "country": "Slovenija",
@@ -16775,8 +16775,8 @@
     "region": "Savinjska",
     "districts": "Celje",
     "publish": "Yes",
-    "datestart": "2023-03-07T08:00:00.000Z",
-    "dateend": "2023-09-01T07:00:00.000Z"
+    "datestart": "2023-04-01T07:00:00.000Z",
+    "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
     "country": "Slovensko",
