@@ -10358,7 +10358,7 @@
     "svspc": "SV",
     "region": "Rio de Janeiro",
     "districts": "Rio de Janeiro, Araruama, Campos, Duque de Caxias, Macaé, Mage, Sao Gonçalo, Volta Redonda, ",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-02-01T08:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
@@ -10368,7 +10368,7 @@
     "svspc": "SV",
     "region": "São Paulo",
     "districts": "São Paulo, Coronel Macedo, Bauru, Americana, Araras, Itapira, Limeira, Lorena, São Jose dos Campos, Santo André, São Bernardo do Campo,  Bertioga,Juquitiba, Peruibe,  Caraguatatuba, Cotia, Guaruja, Ibiuna, Itapevi, Itu, Jundiai, Rio Claro, Santa Barbara dOeste, Sumare, Botucatu, Guaratingueta, Piracicaba, Campinas, Dracena, Fartura, Itapeva, Bragança Paulista, Manduri, Marília, Pirajuí, Registro, Três Lagoas, Tupã, Ilha Comprida, Assis, Campos do Jordão, Presidente Prudente, Araraquara, Sao Carlos, Araçatuba, Sertãozinho, Barretos, Bebedouro, Catanduva, Franca, Guaira, Ituveraba, Jales, Votuporanga, Monte Aprazivel, Novo Horizonte, Porto Ferreira, São Sebastião, Sorocaba, Suzano, Tatui, Ribeirão Preto and Sao Jose do Rio Preto",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-02-01T08:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
@@ -10378,7 +10378,7 @@
     "svspc": "SV",
     "region": "Paraná",
     "districts": "Curitiba, Cascável, Paranaguá, Ponta Grossa, São José dos Pinhais, Matinhos, Guarapuava",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-05-01T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
@@ -10388,7 +10388,7 @@
     "svspc": "SV",
     "region": "Santa Catarina",
     "districts": "São Bento do Sul, Joinville, Blumenau, Brusque, Criciuma, Florianópolis, Imbituba, Itajaí, Lages, Rio Sul, Tubarão",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-05-01T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
@@ -10398,7 +10398,7 @@
     "svspc": "SV",
     "region": "Minas Gerais",
     "districts": "Belo Horizonte, Uberlândia, Uberaba, Ipatinga, Patos de Minas, Divinópolis, Viçosa, Juiiz de Fora, Catagases, Manhaçu",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-05-01T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
@@ -10408,7 +10408,7 @@
     "svspc": "SV",
     "region": "Ceara",
     "districts": "Caucaia, Fortaleza, Jericoacara",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-08-01T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
@@ -10418,7 +10418,7 @@
     "svspc": "SV",
     "region": "Pernambuco",
     "districts": "Joao Pessoa, Campina Grande, Recife, Caruaru, Jaboatão dos Guararapes, Cabo de Santo Agostinho, Sao Jose do Egito",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-08-01T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
@@ -10438,7 +10438,7 @@
     "svspc": "SV",
     "region": "Goias",
     "districts": "Goiania, Ceres, Luiziania, Ceres, Uruaçu, Acreuna, Iporá\nItaberaí, Jataí, Rio Verde, Santa Helena de Goiás, Senador Canedo, Piracanjuba, Chapadão do Sul, Paranaíba, Cassilândia",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2021-06-01T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
@@ -14377,7 +14377,7 @@
     "districts": "Hinds, Copiah, Simpson, Rankin, Madision, Yazoo",
     "publish": "Yes",
     "datestart": "2023-01-01T08:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "dateend": "2023-12-01T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14386,7 +14386,7 @@
     "districts": "Clackamas County, Multnomah County, Washington County",
     "publish": "Yes",
     "datestart": "2023-01-02T08:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "dateend": "2023-12-01T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14395,7 +14395,7 @@
     "districts": "Jersey, Madison, Macoupin, Saint Claire, Champaign, Ford, Piatt, Douglas, Peoria, Lake, Cook, Will, Grundy, Kendall, Kane, DuPage, DeKab, La Salle, Lee",
     "publish": "No",
     "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14404,7 +14404,7 @@
     "districts": "Houston, Fillmore, Mower, Freeborn, Faribault, Martin, Jackson, Novles, Rock, Pipestone, Murray, Cottonwood, Watonwan, Blue Earth, Waseca, Steele, Dodge, Olmsted, Winona, Wabasha, Goodhue, Rice, Le Sueur, Nicollet, Brown,  Redwood, Lyon, Lincoln, Yellow Medicine, Renville, Sibley, McLeod, Carver, Scott, Dakota, Washinton, Ramsey, Hennepin, Wright, Meeker, Kandiyohi, Chippewa, Lac qui Parle, Big Stone, Traverse, Stevens, Pope, Stearns, Sherburne, Anoka, Chisago, Pine, Kanabec, Mille Lacs, Morrison, Todd, Douglas, Grant, Traverse",
     "publish": "Yes",
     "datestart": "2023-01-03T08:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "dateend": "2023-12-01T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14412,8 +14412,8 @@
     "region": "Nebraska",
     "districts": "Douglas, Dodge, Saunders, Butler, Polk, Nance, Platte, Boone, Madison, Colfax, Dodge, Washington, Burt, Cuming, Stanton, Madison, Antelope, Pierce, Wayne, Thurston, Dakota, Dixon, Cedar, Knox",
     "publish": "No",
-    "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "datestart": "2023-01-04T08:00:00.000Z",
+    "dateend": "2023-12-02T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14421,8 +14421,8 @@
     "region": "Wisconsin",
     "districts": "Kenosha, Racine, Waukesha, Milwaukee, Dodge, Washington, Qzaukee, Sheboygan, Fond du Lac, Calumet, Manitowoc, Brown, Dutagamie",
     "publish": "No",
-    "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "datestart": "2023-01-05T08:00:00.000Z",
+    "dateend": "2023-12-03T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14431,8 +14431,8 @@
     "region": "Alabama",
     "districts": "Madison, Limestone, Jackson, Morgan, Marshall, Dekalb, Elmore, Autauga, Lowndes, Montgomery, Macon, Bullock, Pike, Crenshaw, Butler",
     "publish": "Yes",
-    "datestart": "2023-01-04T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "datestart": "2023-01-06T08:00:00.000Z",
+    "dateend": "2023-12-04T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14441,8 +14441,8 @@
     "region": "Arizona",
     "districts": "Phoenix, Tucson",
     "publish": "Yes",
-    "datestart": "2023-01-05T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "datestart": "2023-01-07T08:00:00.000Z",
+    "dateend": "2023-12-05T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14450,8 +14450,8 @@
     "region": "Alaska",
     "districts": "Anchorage, Fairbanks, Denali, Matanuska-Susitna, Chugach, Kenai Peninsula",
     "publish": "No",
-    "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "datestart": "2023-01-08T08:00:00.000Z",
+    "dateend": "2023-12-06T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14459,8 +14459,8 @@
     "region": "Maine",
     "districts": "York, Cumberland, Sagadahoc, Androscoggin, Oxford, Kennebec, Lincoln, Knox, Waldo",
     "publish": "No",
-    "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "datestart": "2023-01-09T08:00:00.000Z",
+    "dateend": "2023-12-07T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14468,8 +14468,8 @@
     "region": "Washington",
     "districts": "Seattle",
     "publish": "Yes",
-    "datestart": "2023-01-06T08:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "datestart": "2023-01-10T08:00:00.000Z",
+    "dateend": "2023-12-08T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14477,8 +14477,8 @@
     "region": "Connecticut",
     "districts": "Newhaven, Fairfield, Litchfield, Hartford, Middlesex, New London, Tolland, Windham",
     "publish": "No",
-    "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "datestart": "2023-01-11T08:00:00.000Z",
+    "dateend": "2023-12-09T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14486,8 +14486,8 @@
     "region": "Maryland",
     "districts": "Somerset, Worcester, Wicomico, Dorchester, Talbot, Caroline, Queen Anne's, Kent, Cecil, Harford, Baltimore, Baltimore City, Anne Arundel, Calvert, St. Mary's, Charles, Prince George's, Montgomery, Howard, Carroll, Frederick, Washington, Allegany, Garrett",
     "publish": "No",
-    "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "datestart": "2023-01-12T08:00:00.000Z",
+    "dateend": "2023-12-10T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14495,8 +14495,8 @@
     "region": "Massachusetts",
     "districts": "Barnstable, Plymouth, Bristol, Norfolk, Suffolk, Middlesex, Essex, Worcester, Hampden, Hampshire, Franklin, Berkshire, Dukes, Nantucket",
     "publish": "No",
-    "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "datestart": "2023-01-13T08:00:00.000Z",
+    "dateend": "2023-12-11T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14504,8 +14504,8 @@
     "region": "Michigan",
     "districts": "Berrien, Cass, St. Joseph, Branch, Hillsdale, Lenawee, Monroe, Wayne, Washtenaw, Jackson, Calhoun, Kalamazoo, Van Buren, Allegan, Barry, Eaton, Ingham, Livingston, Oakland, Macomb, St. Claire, Genesee, Shiawassee, Clinton, Ionia, Kent, Ottawa, Muskegon, Newaygo, Mecosta, Isabella, Midland",
     "publish": "No",
-    "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "datestart": "2023-01-14T08:00:00.000Z",
+    "dateend": "2023-12-12T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14513,8 +14513,8 @@
     "region": "New Jersey",
     "districts": "Cape May, Cumberland, Salem, Atlantic, Cloucester, Camden, Burlington, Ocean, Monmouth, Mercer, Middlesex, Union, Somerset, Hunterdon, Union, Essex, Hudson, Bergen, Passaic, Morris, Warren, Sussex",
     "publish": "No",
-    "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "datestart": "2023-01-15T08:00:00.000Z",
+    "dateend": "2023-12-13T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14522,8 +14522,8 @@
     "region": "New York",
     "districts": "Richmond, Kings, Queens, New York, Bronx, Rockland, Westchester, Suffolk, Putnam, Orange, Sullivan, Ulster, Dutchess, Columbia, Greene,Albany, Schoharie, Schenectady, Saratoga, Rensselaer, Washington, Warren, Madison, Monroe, Erie, Long Island",
     "publish": "No",
-    "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "datestart": "2023-01-16T08:00:00.000Z",
+    "dateend": "2023-12-14T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14531,8 +14531,8 @@
     "region": "Ohio",
     "districts": "Lawrence, Ross, Greene, Miami, Mercer, Putnam, Seneca, Medina, Tuscarawas, Belmont, Noble, Licking, Ashtabula",
     "publish": "No",
-    "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "datestart": "2023-01-17T08:00:00.000Z",
+    "dateend": "2023-12-15T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14540,8 +14540,8 @@
     "region": "Pennsylvania",
     "districts": "Delaware, Philadelphia, Bucks, Montgomery, Berks, Lancaster, York, Lebanon, Dauphin, Schuylkill, Lehigh, Northhampton, Adams, Venango, Clarion, Jefferson, Indiana, Armstrong, Butler, Allegheny, Westmoreland",
     "publish": "No",
-    "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-12-01T08:00:00.000Z"
+    "datestart": "2023-01-18T08:00:00.000Z",
+    "dateend": "2023-12-16T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14550,8 +14550,8 @@
     "region": "Virginia",
     "districts": "New Kent, Sussex, Hanover, Caroline, Essex, King and Queen, Gloucester, York, King William, Buckingham, Halifax, Patrick, Grayson, Scott, Dickenson, Page",
     "publish": "No",
-    "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-12-26T08:00:00.000Z"
+    "datestart": "2023-01-19T08:00:00.000Z",
+    "dateend": "2023-12-17T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14560,8 +14560,8 @@
     "region": "Florida",
     "districts": "Walton, Washington, Holmes, Bay, Gulf, Liberty, Franklin, Wakulla, Leon, Gasden, Orange, Kissimmee, Seminole, Duval, Clay, Saint Johns, Nassau",
     "publish": "Yes",
-    "datestart": "2023-01-07T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "datestart": "2023-01-20T08:00:00.000Z",
+    "dateend": "2023-12-18T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14570,8 +14570,8 @@
     "region": "Georgia",
     "districts": "Fulton, Douglas, Cobb, Cherokee, Paulding, Dekalb, Gwinnett, Rockdale, Henry, Clayton",
     "publish": "Yes",
-    "datestart": "2023-01-08T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "datestart": "2023-01-21T08:00:00.000Z",
+    "dateend": "2023-12-19T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14580,8 +14580,8 @@
     "region": "Louisiana",
     "districts": "Caddo, Bossier, Webster, Claiborne, Bienville, Red River, De Soto, Jackson, Winn, St. Bernard, Plaquemines, Jefferson, LaFourche, St. Charles, Orleans",
     "publish": "Yes",
-    "datestart": "2023-01-09T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "datestart": "2023-01-22T08:00:00.000Z",
+    "dateend": "2023-12-20T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14590,8 +14590,8 @@
     "region": "Oklahoma",
     "districts": "Oklahoma, Cleveland, Lincoln, Tulsa, Wagoner, Okmulgee",
     "publish": "Yes",
-    "datestart": "2023-01-10T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "datestart": "2023-01-23T08:00:00.000Z",
+    "dateend": "2023-12-21T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14600,8 +14600,8 @@
     "region": "South Carolina",
     "districts": "Richland, Sumter, Calhoun, Lexington",
     "publish": "Yes",
-    "datestart": "2023-01-11T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "datestart": "2023-01-24T08:00:00.000Z",
+    "dateend": "2023-12-22T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14610,8 +14610,8 @@
     "region": "Tennessee",
     "districts": "Knox, Jefferson, Grainger, Union, Anderson, Rane, Loudon",
     "publish": "Yes",
-    "datestart": "2023-01-12T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "datestart": "2023-01-25T08:00:00.000Z",
+    "dateend": "2023-12-23T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14620,8 +14620,8 @@
     "region": "Texas",
     "districts": "Houston, Trinity, Polk, Angelina, Anderson, Leon, Madison, Walker, Caldwell, Comal, Guadalupe, Hays, Travis, Williamson, Dallas, Ellis, Johnson, Hood, Tarrant, Rockwall, Rains, VanZandt, Denton, Collin, Hunt",
     "publish": "Yes",
-    "datestart": "2023-01-13T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "datestart": "2023-01-26T08:00:00.000Z",
+    "dateend": "2023-12-24T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14630,8 +14630,8 @@
     "region": "Utah",
     "districts": "Salt lake, Utah, Wasatch, Davis, Morgan, Summit",
     "publish": "No",
-    "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "datestart": "2023-01-27T08:00:00.000Z",
+    "dateend": "2023-12-25T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14639,9 +14639,9 @@
     "svspc": "SV",
     "region": "Kentucky",
     "districts": "Jefferson, Bulitt, Nelson, Spencer, Anderson, Mercer, Boyle, Lincoln, Casey, Russell, Wayne, Adair, Cumberland, Metcalfe, Green, Taylor, Marion, Washington, Nelson, Hardin, Larue, Hart, Barren, Allen, Warren, Edmonson, Grayson, Breckinridge, Meade, Hanckck, Daviess, McLean, Muhlenberg, Ohio, Todd, Christian, Trigg, Lyon, Caldwell, Webster, Union, Marshall, Ballard, McCracken",
-    "publish": "No",
-    "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2023-03-28T07:00:00.000Z",
+    "dateend": "2023-12-26T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14650,8 +14650,8 @@
     "region": "Missouri",
     "districts": "Greene, Webster, Dallas, Polk, Cedar, Dade, Lawrence, Barry, Stone, Taney, Ozark, Douglas, Wright, Laclede",
     "publish": "No",
-    "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "datestart": "2022-02-01T08:00:00.000Z",
+    "dateend": "2023-12-27T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14661,7 +14661,7 @@
     "districts": "Albany, Big Horn, Campbell, Carbon, Converse, Crook, Fremont, Goshen, Hot Springs, Johnson, Laramie, Lincoln, Natrona, Niobrara, Park, Platte, Sheridan, Sublette, Sweetwater, Teton, Uinta, Washakie, Weston,",
     "publish": "No",
     "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "dateend": "2023-12-28T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14671,7 +14671,7 @@
     "districts": "Beaverhead, Big Horn, Blaine, Broadwater, Carbon, Carter, Cascade, Chouteau, Custer, Daniels, Dawson, Deer Lodge, Fallon, Fergus, Flathead, Gallatin, Garfield, Glacier, Golden Valley, Granite, Hill, Jefferson, Judith Basin, Lake, Lewis and Clark, Liberty, Lincoln, Madison, McCone, Meagher, Mineral, Missoula, Musselshell, Park, Petroleum, Phillips, Pondera, Powder River, Powell, Prairie, Ravalli, Richland, Roosevelt, Rosebud, Sanders, Sheridan, Silver Bow, Stillwater, Sweet Grass, Teton, Toole, Treasure, Valley, Wheatland, Wibaux, Yellowstone, ",
     "publish": "No",
     "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "dateend": "2023-12-29T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14681,7 +14681,7 @@
     "districts": "Barbour, Berkeley, Boone, Braxton, Brooke, Cabell, Calhoun, Clay, Doddridge, Fayette, Gilmer, Grant, Greenbrier, Hampshire, Hancock, Hardy, Harrison, Jackson, Jefferson, Kanawha, Lewis, Lincoln, Logan, Major General, Marion, Marshall, Mason, McDowell, Mercer, Mineral, Mingo, Mingo leader, Monongalia, Monroe, Morgan, Nicholas, Ohio, Pendleton, Pleasants, Pocahontas, Preston, Putnam, Raleigh, Randolph, Ritchie, Roane, Summers, Taylor, Tucker, Tyler, Upshur, Wayne, Webster, Wetzel, Wirt, Wood, Wyoming,",
     "publish": "No",
     "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "dateend": "2023-12-30T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14691,7 +14691,7 @@
     "districts": "Ada, Adams, Bannock, Bear Lake, Benewah, Bingham, Blaine, Boise, Bonner, Bonneville, Boundary, Butte, Camas, Canyon, Caribou, Cassia, Clark, Clearwater, Custer, Elmore, Franklin, Fremont, Gem, Gooding, Idaho, Jefferson, Jerome, Kootenai, Latah, Lemhi, Lewis, Lincoln, Madison, Minidoka, Nez Perce, Oneida, Owyhee, Payette, Power, Shoshone, Teton, Twin Falls, Valley, Washington,",
     "publish": "No",
     "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "dateend": "2023-12-31T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14701,7 +14701,7 @@
     "districts": "Adams, Barnes, Benson, Billings, Bottineau, Bowman, Burke, Burleigh, Cass, Cavalier, Dickey, Divide, Dunn, Eddy, Emmons, Foster, Golden Valley, Grand Forks, Grant, Griggs, Hettinger, Kidder, LaMoure, Logan, McHenry, McIntosh, McKenzie, McLean, Mercer, Morton, Mountrail, Nelson, Oliver, Pembina, Pierce, Ramsey, Ransom, Renville, Richland, Rolette, Sargent, Sheridan, Sioux, Slope, Stark, Steele, Stutsman, Towner, Traill, Walsh, Ward, Wells, Williams,",
     "publish": "No",
     "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "dateend": "2023-12-29T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14711,7 +14711,7 @@
     "districts": "Aurora, Beadle, Bennett, Bon Homme, Brookings, Brown, Brule, Buffalo, Butte, Campbell, Charles Mix, Clark, Clay, Codington, Corson, Custer, Davison, Day, Deuel, Dewey, Douglas, Edmunds, Fall River, Faulk, Grant, Gregory, Haakon, Hamlin, Hand, Hanson, Harding, Hughes, Hutchinson, Hyde, Jackson, Jerauld, Jones, Kingsbury, Lake, Lawrence, Lincoln, Lyman, Marshall, McCook, McPherson, Meade, Mellette, Miner, Minnehaha, Moody, Oglala Lakota, Pennington, Perkins, Potter, Roberts, Sanborn, Spink, Stanley, Sully, Todd, Tripp, Turner, Union, Walworth, Yankton, Ziebach,",
     "publish": "No",
     "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "dateend": "2023-12-30T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14721,7 +14721,7 @@
     "districts": "Las Vegas",
     "publish": "Yes",
     "datestart": "2023-01-14T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "dateend": "2023-12-31T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14730,8 +14730,8 @@
     "region": "California",
     "districts": "Alameda County, Alpine County, Amador County, Butte County, Calaveras County, Colusa County, Contra Costa County, Del Norte County, El Dorado County, Fresno County, Glenn County, Humboldt County, Imperial County, Inyo County, Kern County, Kings County, Lake County, Lassen County, Los Angeles County, Madera County, Marin County, Mariposa County, Mendocino County, Merced County, Modoc County, Mono County, Monterey County, Napa County, Nevada County, Orange County, Placer County, Plumas County, Riverside County, Sacramento County, San Benito County, San Bernardino County, San Diego County, San Francisco, San Joaquin County, San Luis Obispo County, San Mateo County, Santa Barbara County, Santa Clara County, Santa Cruz County, Shasta County, Sierra County, Siskiyou County, Solano County, Sonoma County, Stanislaus County, Sutter County, Tehama County, Trinity County, Tulare County, Tuolumne County, Ventura County, Yolo County, Yuba County, ",
     "publish": "Yes",
-    "datestart": "2023-01-15T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "datestart": "2023-01-14T08:00:00.000Z",
+    "dateend": "2023-12-29T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14739,8 +14739,8 @@
     "region": "Arkansas",
     "districts": "Pulaski, Saline, Perry, Conway, Faulkner, White, Lonoke, Prairie, Jefferson",
     "publish": "Yes",
-    "datestart": "2023-01-16T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "datestart": "2023-01-14T08:00:00.000Z",
+    "dateend": "2023-12-30T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14749,7 +14749,7 @@
     "districts": "Colorado Springs, Teller, Park, Lake, Eagle, Summit, Clear Creek, Jefferson, Douglas, El Paso, Elbert, Arapahoe, Denver, Adams, Boulder, Gilpin, Weld, Larimer",
     "publish": "No",
     "datestart": "2023-01-17T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "dateend": "2023-12-31T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14758,7 +14758,7 @@
     "districts": "Marion, Johnson, Shelby, Hancock, Madision, Hamilton, Tipton, Boone, Hendricks, Morgan, Putnam, Montgomery, Brown, Monroe, Bartholomew, Washington, Lawrence, Greene, Clay, Orange",
     "publish": "No",
     "datestart": "2023-01-18T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "dateend": "2023-12-29T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14766,8 +14766,8 @@
     "region": "North Carolina",
     "districts": "Charlotte, Fayetteville, Goldsboro, Greensboro",
     "publish": "Yes",
-    "datestart": "2023-01-19T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "datestart": "2023-01-14T08:00:00.000Z",
+    "dateend": "2023-12-30T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14776,7 +14776,7 @@
     "districts": "Johnson, Douglas, Franklin, Miami, Linn, Anderson, Coffey, Osage, Shawnee, Wabaunsee, Lyon, Chase, Leavenworth, Jefferson",
     "publish": "No",
     "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "dateend": "2023-12-31T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14785,7 +14785,7 @@
     "districts": "Dallas, Polk, Madison, Warren, Marion, Jasper, Mahaska, Powesheik, Iowa, Johnson, Linn, Benton, Blackhawk, Marshall, Story",
     "publish": "No",
     "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "dateend": "2023-12-29T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14794,7 +14794,7 @@
     "districts": "Bernalillo, Sandoval, Santa Fe, Torrance, Valencia, Cibola",
     "publish": "No",
     "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "dateend": "2023-12-30T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14804,7 +14804,7 @@
     "districts": "DC",
     "publish": "No",
     "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "dateend": "2023-12-31T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -14814,7 +14814,7 @@
     "districts": "New Castle, Kent, Sussex",
     "publish": "No",
     "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2022-12-31T08:00:00.000Z"
+    "dateend": "2023-12-31T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -16614,7 +16614,7 @@
     "svspc": "SV",
     "region": "Salta",
     "districts": "Ciudad de Salta",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-04-01T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
@@ -16624,7 +16624,7 @@
     "svspc": "SV",
     "region": "Tucumán",
     "districts": "San Miguel de Tucumán",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-02-01T08:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
@@ -16634,7 +16634,7 @@
     "svspc": "SV",
     "region": "Santa Fe",
     "districts": "Rosario, Santa Fé Capital",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-02-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -16644,7 +16644,7 @@
     "svspc": "SV",
     "region": "Buenos Aires ",
     "districts": "Ciudad de Buenos Aires, Bahia Blanca, Mar del Plata, Lujan, San Miguel, Tandil, Villa Gessell, Pinamar, Morón, Merlo, Tigre, Monte Grande, San Justo, Los Polvorines, Moreno, San Martin, El Palomar, Pilar",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-04-01T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
@@ -16654,7 +16654,7 @@
     "svspc": "SV",
     "region": "Santa Cruz",
     "districts": "Rio Gallegos",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-02-01T08:00:00.000Z",
     "dateend": "2022-09-01T07:00:00.000Z"
   },
@@ -16664,7 +16664,7 @@
     "svspc": "SV",
     "region": "Mendoza",
     "districts": "Mendoza",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-02-01T08:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
@@ -16674,7 +16674,7 @@
     "svspc": "SV",
     "region": "Córdoba",
     "districts": "Córdoba Capital",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-02-01T08:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
   },
@@ -16684,7 +16684,7 @@
     "svspc": "SV",
     "region": "San Juan",
     "districts": "San Juan",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-02-01T08:00:00.000Z",
     "dateend": "2022-11-01T07:00:00.000Z"
   },
@@ -16843,7 +16843,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "São Paulo",
-    "districts": "São Paulo, Guarulhos, São José do Rio Preto, Bauru",
+    "districts": "São Paulo, Guarulhos, São José do Rio Preto, Bauru, Americana, Sorocaba, Itapetininga, Araraquara, Campinas, Araçatuba, Olimpia ",
     "publish": "Yes",
     "datestart": "2023-02-15T08:00:00.000Z",
     "dateend": "2023-09-01T07:00:00.000Z"
@@ -16863,7 +16863,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Paraná",
-    "districts": "Curitiba, Londrina",
+    "districts": "Curitiba, Londrina, Francisco Beltrão, Ponta Grossa, Cascável, Maringá",
     "publish": "Yes",
     "datestart": "2023-02-15T08:00:00.000Z",
     "dateend": "2023-09-01T07:00:00.000Z"
@@ -16873,7 +16873,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Minas Gerais",
-    "districts": "Belo Horizonte",
+    "districts": "Belo Horizonte, Ipatinga, Patos de Minas, Uberlândia",
     "publish": "Yes",
     "datestart": "2023-02-15T08:00:00.000Z",
     "dateend": "2023-09-01T07:00:00.000Z"
@@ -16883,7 +16883,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Brasília",
-    "districts": "Brasília",
+    "districts": "Brasília, Unaí",
     "publish": "Yes",
     "datestart": "2023-02-15T08:00:00.000Z",
     "dateend": "2023-09-01T07:00:00.000Z"
@@ -16896,6 +16896,186 @@
     "districts": "Florianópolis, Tubarão",
     "publish": "Yes",
     "datestart": "2023-02-15T08:00:00.000Z",
+    "dateend": "2023-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Brasil",
+    "code": "BR",
+    "svspc": "SV",
+    "region": "Mato Grosso do Sul",
+    "districts": "Campo Grande",
+    "publish": "Yes",
+    "datestart": "2023-03-15T07:00:00.000Z",
+    "dateend": "2023-05-01T07:00:00.000Z"
+  },
+  {
+    "country": "Brasil",
+    "code": "BR",
+    "svspc": "SV",
+    "region": "Pernambuco",
+    "districts": "Recife, Jaboatão dos Guararapes",
+    "publish": "Yes",
+    "datestart": "2023-03-15T07:00:00.000Z",
+    "dateend": "2023-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Brasil",
+    "code": "BR",
+    "svspc": "SV",
+    "region": "Ceará",
+    "districts": "Fortaleza, Sobral",
+    "publish": "Yes",
+    "datestart": "2023-03-15T07:00:00.000Z",
+    "dateend": "2023-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Brasil",
+    "code": "BR",
+    "svspc": "SV",
+    "region": "Maranhão",
+    "districts": "São Luís, Santa Luzia",
+    "publish": "Yes",
+    "datestart": "2023-03-15T07:00:00.000Z",
+    "dateend": "2023-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Brasil",
+    "code": "BR",
+    "svspc": "SV",
+    "region": "Goiás",
+    "districts": "Goiânia, Itumbiara, Jataí, ",
+    "publish": "Yes",
+    "datestart": "2023-03-15T07:00:00.000Z",
+    "dateend": "2023-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Brasil",
+    "code": "BR",
+    "svspc": "SV",
+    "region": "Espírito Santo",
+    "districts": "Vitória, Vila Velha",
+    "publish": "Yes",
+    "datestart": "2023-03-15T07:00:00.000Z",
+    "dateend": "2023-05-01T07:00:00.000Z"
+  },
+  {
+    "country": "Brasil",
+    "code": "BR",
+    "svspc": "SV",
+    "region": "Pará",
+    "districts": "Belém",
+    "publish": "Yes",
+    "datestart": "2023-03-15T07:00:00.000Z",
+    "dateend": "2023-05-01T07:00:00.000Z"
+  },
+  {
+    "country": "Argentina",
+    "code": "AR",
+    "svspc": "SV",
+    "region": "Salta",
+    "districts": "Ciudad de Salta",
+    "publish": "Yes",
+    "datestart": "2023-03-01T08:00:00.000Z",
+    "dateend": "2023-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Argentina",
+    "code": "AR",
+    "svspc": "SV",
+    "region": "Santa Fe",
+    "districts": "Rosario, Santa Fé Capital",
+    "publish": "Yes",
+    "datestart": "2023-03-01T08:00:00.000Z",
+    "dateend": "2023-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Argentina",
+    "code": "AR",
+    "svspc": "SV",
+    "region": "Buenos Aires ",
+    "districts": "Ciudad de Buenos Aires, Bahia Blanca, Mar del Plata, Lujan, San Miguel, Tandil, Villa Gessell, Pinamar, Morón, Merlo, Tigre, Monte Grande, San Justo, Los Polvorines, Moreno, San Martin, El Palomar, Pilar",
+    "publish": "Yes",
+    "datestart": "2023-03-01T08:00:00.000Z",
+    "dateend": "2023-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Argentina",
+    "code": "AR",
+    "svspc": "SV",
+    "region": "Mendoza",
+    "districts": "Mendoza",
+    "publish": "Yes",
+    "datestart": "2023-03-01T08:00:00.000Z",
+    "dateend": "2023-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Argentina",
+    "code": "AR",
+    "svspc": "SV",
+    "region": "Córdoba",
+    "districts": "Córdoba Capital",
+    "publish": "Yes",
+    "datestart": "2023-03-01T08:00:00.000Z",
+    "dateend": "2023-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Argentina",
+    "code": "AR",
+    "svspc": "SV",
+    "region": "San Juan",
+    "districts": "San Juan",
+    "publish": "Yes",
+    "datestart": "2023-03-01T08:00:00.000Z",
+    "dateend": "2023-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Peru",
+    "code": "pe",
+    "svspc": "SV",
+    "region": "Lima",
+    "districts": "Lima",
+    "publish": "Yes",
+    "datestart": "2023-03-01T08:00:00.000Z",
+    "dateend": "2023-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Chile",
+    "code": "cl",
+    "svspc": "SV",
+    "region": "Santiago",
+    "districts": "Santiago. San Bernardo, Puente Alto",
+    "publish": "Yes",
+    "datestart": "2023-03-01T08:00:00.000Z",
+    "dateend": "2023-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Chile",
+    "code": "cl",
+    "svspc": "SV",
+    "region": "Bío-bío",
+    "districts": "Concepción",
+    "publish": "Yes",
+    "datestart": "2023-03-01T08:00:00.000Z",
+    "dateend": "2023-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Chile",
+    "code": "cl",
+    "svspc": "SV",
+    "region": "Maule",
+    "districts": "Curicó, ",
+    "publish": "Yes",
+    "datestart": "2023-03-01T08:00:00.000Z",
+    "dateend": "2023-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Chile",
+    "code": "cl",
+    "svspc": "SV",
+    "region": "Valparaíso",
+    "districts": "Viña del Mar, Quilpé, Valparaíso",
+    "publish": "Yes",
+    "datestart": "2023-03-01T08:00:00.000Z",
     "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
