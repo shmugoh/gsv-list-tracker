@@ -6702,7 +6702,7 @@
     "districts": "Luxembourg City, Diekirch, Clervaux, Redange, Echternach, Esch-sur-Alzette, Capellen, Grevenmacher, Remich, Mersch, Vianden, Wiltz",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-05-01T07:00:00.000Z"
   },
   {
     "country": "México",
@@ -7508,7 +7508,7 @@
     "districts": "West Flanders, East Flanders, Flemish Brabant, Limburg, Antwerp",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Belgique",
@@ -7518,7 +7518,7 @@
     "districts": "Hainaut, Walloon Brabant, Namur, Liège",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Belgique",
@@ -7528,7 +7528,7 @@
     "districts": "Brussels",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Bhutan",
@@ -8588,53 +8588,53 @@
   },
   {
     "country": "Denmark",
-    "code": "dk",
+    "code": "DK",
     "svspc": "SV",
     "region": "Region Hovedstaden",
     "districts": "Copenhagen, Roskilde, Frederikssund, Hillerod, ",
-    "publish": "No",
-    "datestart": "2021-04-01T07:00:00.000Z",
-    "dateend": "2022-11-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2023-02-01T08:00:00.000Z",
+    "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
     "country": "Denmark",
-    "code": "dk",
+    "code": "DK",
     "svspc": "SV",
     "region": "Midtjylland",
     "districts": "Viborg, Herning, Silkeborg, Aarhus, Ringkobing, Horsens, Randers, Hostebro",
-    "publish": "No",
-    "datestart": "2021-04-01T07:00:00.000Z",
-    "dateend": "2022-11-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2023-02-01T08:00:00.000Z",
+    "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
     "country": "Denmark",
-    "code": "dk",
+    "code": "DK",
     "svspc": "SV",
     "region": "Nordjylland",
     "districts": "Aalborg, Hobro, Vendsyssel, Hantsholm, Frederikshavn, Horning",
-    "publish": "No",
-    "datestart": "2021-04-01T07:00:00.000Z",
-    "dateend": "2022-11-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2023-02-01T08:00:00.000Z",
+    "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
     "country": "Denmark",
-    "code": "dk",
+    "code": "DK",
     "svspc": "SV",
     "region": "Syddanmark",
     "districts": "Kolding, Esbjerg, Vejle, Sonderberg, Aabenraa, Billund, Assens, Kalundborg, Tønder",
-    "publish": "No",
-    "datestart": "2021-04-01T07:00:00.000Z",
-    "dateend": "2022-11-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2023-02-01T08:00:00.000Z",
+    "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
     "country": "Denmark",
-    "code": "dk",
+    "code": "DK",
     "svspc": "SV",
     "region": "Region Sjælland",
     "districts": "Roskilde, Slagelse, Næstved, Haslev, Faxe, Middelfart, Nykobing, Falster, Nakslov, Fjenneslev, Holbæk, Korsor, Vordingborg",
-    "publish": "No",
-    "datestart": "2021-04-01T07:00:00.000Z",
-    "dateend": "2022-11-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2023-02-01T08:00:00.000Z",
+    "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
     "country": "Hong Kong",
@@ -10230,7 +10230,7 @@
     "districts": "Amsterdam",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Nederland",
@@ -10240,7 +10240,7 @@
     "districts": "Amersfoort, Utrecht, Nieuwegein, Veenendaal, Zeist, Harmelen, Montfoort, Almere, Schoonhoven, Dordrecht, Hertogenbosch, Gouda, Gorinchem",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Nederland",
@@ -10250,7 +10250,7 @@
     "districts": "Delft, Capelle aan den IJssel, Lisse, Noordwik, Hook of Holland, The Hague, Barendrecht, Spijkenisse, Ouddorp, Brielle, Middelharnis, Hellevoetsluis, Numansdorp, Tiengemeten, Dordrecht, Rotterdam, Gorinchem, Ridderkerk,",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Nederland",
@@ -10260,7 +10260,7 @@
     "districts": "Deventer, Overijssel, Zwolle, Kampen, Meppel, Enschede, Apeldoorn, ",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Nederland",
@@ -10270,7 +10270,7 @@
     "districts": "Alkmaar, Den Helder, Hollands Kroon, Hoorn, Koggenland, Medemblik, Opmeer, Schagen, Texel, Pieterburen",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Nederland",
@@ -10280,7 +10280,7 @@
     "districts": "Almere, Lelystad, Almere Stad, Dronten, Almere Buiten, Urk, Biddinghuizen, ",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Nederland",
@@ -10290,7 +10290,7 @@
     "districts": "Leeuwarden, Drachten, Dokkum, Heerenven, Winsum, Holwerd, Joure, ",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Nederland",
@@ -10300,7 +10300,7 @@
     "districts": "Apeldoorn, Arnhem, Nijmegen, Ede, Appeltern, Otterlo, Eerbeek, Zuthpen, Dieren, Duiven, Bqrneveld, Waganingen, ",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Nederland",
@@ -10310,7 +10310,7 @@
     "districts": "Groningen, Veendam, Zuidwolde, Adorp, Aduard, Eelderwolde, Hoogkerk",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Nederland",
@@ -10320,7 +10320,7 @@
     "districts": "Heerlen, Maastricht, Sittard, Roermond, ",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Nederland",
@@ -10330,7 +10330,7 @@
     "districts": "Breda, Eindhoven, Tilburg, s-Hertogenbosch, Roosendaal, Oss, Helmond, Bergen op Zoom, Oosterhout, Tiburg, Steenbergen, Oosterhoud",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Nederland",
@@ -10340,7 +10340,7 @@
     "districts": "Enschede, Zwolle, Hengelo, Almelo, Hardenberg, Haaksbergen, Oldenzaal, Deventer, Losser",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Taiwan",
@@ -11786,60 +11786,67 @@
   {
     "country": "Slovensko",
     "code": "sk",
+    "svspc": "SV",
     "region": "Bratislava",
     "districts": "Bratislava",
-    "publish": "No",
-    "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2022-11-24T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2023-04-01T07:00:00.000Z",
+    "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
     "country": "Slovensko",
     "code": "sk",
+    "svspc": "SV",
     "region": "Trnava",
     "districts": "Trnava",
-    "publish": "No",
-    "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2022-11-24T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2023-04-01T07:00:00.000Z",
+    "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
     "country": "Slovensko",
     "code": "sk",
+    "svspc": "SV",
     "region": "Trenčín",
     "districts": "Trenčín",
-    "publish": "No",
-    "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2022-11-24T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2023-04-01T07:00:00.000Z",
+    "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
     "country": "Slovensko",
     "code": "sk",
+    "svspc": "SV",
     "region": "Nitra",
     "districts": "Nitra",
-    "publish": "No",
-    "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2022-11-24T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2023-04-01T07:00:00.000Z",
+    "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
     "country": "Slovensko",
     "code": "sk",
+    "svspc": "SV",
     "region": "Žilina",
     "districts": "Žilina",
-    "publish": "No",
-    "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2022-11-24T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2023-04-01T07:00:00.000Z",
+    "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
     "country": "Slovensko",
     "code": "sk",
+    "svspc": "SV",
     "region": "Banská Bystrica",
     "districts": "Banská Bystrica",
-    "publish": "No",
-    "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2022-11-24T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2023-04-01T07:00:00.000Z",
+    "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
     "country": "Slovensko",
     "code": "sk",
+    "svspc": "SV",
     "region": "Prešov",
     "districts": "Prešov",
     "publish": "No",
@@ -12475,7 +12482,7 @@
     "districts": "Zürich, Winterthur, Uster",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12484,7 +12491,7 @@
     "districts": "Bern, Biel/Bienne, Thoune, Köniz",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12493,7 +12500,7 @@
     "districts": "Luzern",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12502,7 +12509,7 @@
     "districts": "Altdorf",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12511,7 +12518,7 @@
     "districts": "Schwyz",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12520,7 +12527,7 @@
     "districts": "Sarnen",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12529,7 +12536,7 @@
     "districts": "Stans",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12538,7 +12545,7 @@
     "districts": "Glarus",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12547,7 +12554,7 @@
     "districts": "Zoug",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12556,7 +12563,7 @@
     "districts": "Fribourg",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12565,7 +12572,7 @@
     "districts": "Solothurn",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12574,7 +12581,7 @@
     "districts": "Basel",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12583,7 +12590,7 @@
     "districts": "Liestal",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12592,7 +12599,7 @@
     "districts": "Schaffhausen",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12601,7 +12608,7 @@
     "districts": "Herisau",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12610,7 +12617,7 @@
     "districts": "Appenzell",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12619,7 +12626,7 @@
     "districts": "Sankt Gallen",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12628,7 +12635,7 @@
     "districts": "Chur",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12637,7 +12644,7 @@
     "districts": "Aarau",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12646,7 +12653,7 @@
     "districts": "Frauenfeld",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12655,7 +12662,7 @@
     "districts": "Lugano, Bellinzona",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12664,7 +12671,7 @@
     "districts": "Lausanne",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12673,7 +12680,7 @@
     "districts": "Sion",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12682,7 +12689,7 @@
     "districts": "La Chaux-de-Fonds, Neuchâtel",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12691,7 +12698,7 @@
     "districts": "Genève, Vernier",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -12700,7 +12707,7 @@
     "districts": "Delémont",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Taiwan",
@@ -14190,7 +14197,7 @@
     "districts": "Dubai",
     "publish": "Yes",
     "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2023-02-28T08:00:00.000Z"
+    "dateend": "2023-04-30T07:00:00.000Z"
   },
   {
     "country": "United Arab Emirates",
@@ -14200,7 +14207,7 @@
     "districts": "Sharjah",
     "publish": "Yes",
     "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2023-02-28T08:00:00.000Z"
+    "dateend": "2023-04-30T07:00:00.000Z"
   },
   {
     "country": "United Arab Emirates",
@@ -14208,9 +14215,9 @@
     "svspc": "SV",
     "region": "Ajman",
     "districts": "Ajman",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2022-06-01T07:00:00.000Z",
-    "dateend": "2023-01-01T08:00:00.000Z"
+    "dateend": "2023-04-30T07:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -17235,7 +17242,7 @@
     "region": "Islas Canarias",
     "districts": "Santa Cruz de Tenerife, Lanzarote, Fuerteventura, Arrecife, El Golfo, Puerto de Rosario, Morro Jable, Jandia, Telde, Maspalomas, Gáldar",
     "publish": "Yes",
-    "datestart": "2023-02-01T08:00:00.000Z",
-    "dateend": "2023-12-01T08:00:00.000Z"
+    "datestart": "2023-03-29T07:00:00.000Z",
+    "dateend": "2023-04-30T07:00:00.000Z"
   }
 ]
