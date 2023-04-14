@@ -16786,6 +16786,36 @@
     "dateend": "2023-12-01T08:00:00.000Z"
   },
   {
+    "country": "Taiwan",
+    "code": "TW",
+    "svspc": "SV",
+    "region": "Tainan",
+    "districts": "Xinyi Qu",
+    "publish": "Yes",
+    "datestart": "2023-04-06T07:00:00.000Z",
+    "dateend": "2023-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "TW",
+    "svspc": "SV",
+    "region": "Kaohsiung",
+    "districts": "Da Shu Qu",
+    "publish": "Yes",
+    "datestart": "2023-04-06T07:00:00.000Z",
+    "dateend": "2023-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "TW",
+    "svspc": "SV",
+    "region": "Pingdong",
+    "districts": "Xin Pi Xiang",
+    "publish": "Yes",
+    "datestart": "2023-04-06T07:00:00.000Z",
+    "dateend": "2023-12-01T08:00:00.000Z"
+  },
+  {
     "country": "Thailand",
     "code": "TH",
     "svspc": "SV",
