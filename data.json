@@ -16789,6 +16789,16 @@
     "country": "Taiwan",
     "code": "TW",
     "svspc": "SV",
+    "region": "Chiayi",
+    "districts": "Tai Pao Shi",
+    "publish": "Yes",
+    "datestart": "2023-04-06T07:00:00.000Z",
+    "dateend": "2023-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "TW",
+    "svspc": "SV",
     "region": "Tainan",
     "districts": "Xinyi Qu",
     "publish": "Yes",
@@ -16800,7 +16810,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Kaohsiung",
-    "districts": "Da Shu Qu",
+    "districts": "Da Shu Qu, Qi Shan Qu",
     "publish": "Yes",
     "datestart": "2023-04-06T07:00:00.000Z",
     "dateend": "2023-12-01T08:00:00.000Z"
