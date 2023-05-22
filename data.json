@@ -14195,10 +14195,28 @@
     "country": "Taiwan",
     "code": "tw",
     "svspc": "SV",
+    "region": "Penghu",
+    "publish": "Yes",
+    "datestart": "2022-05-08T07:00:00.000Z",
+    "dateend": "2022-05-16T07:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "tw",
+    "svspc": "SV",
     "region": "Jiayi",
     "districts": "Mai Shan Qiang, ",
     "publish": "Yes",
     "datestart": "2022-02-07T08:00:00.000Z",
+    "dateend": "2022-09-30T07:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "tw",
+    "svspc": "SV",
+    "region": "Hualien",
+    "districts": "Xin Cheng Xiang, Fu Xi Xiang",
+    "datestart": "2022-05-08T07:00:00.000Z",
     "dateend": "2022-09-30T07:00:00.000Z"
   },
   {
