@@ -6702,7 +6702,7 @@
     "districts": "Luxembourg City, Diekirch, Clervaux, Redange, Echternach, Esch-sur-Alzette, Capellen, Grevenmacher, Remich, Mersch, Vianden, Wiltz",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-05-01T07:00:00.000Z"
+    "dateend": "2023-06-30T07:00:00.000Z"
   },
   {
     "country": "México",
@@ -9597,7 +9597,7 @@
     "svspc": "SV",
     "region": "Bayern",
     "districts": "Oberfranken, Mittelfranken, Unterfranken, Schwaben, Oberpfalz, Oberbayern, Niederbayern",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2023-06-08T07:00:00.000Z",
     "dateend": "2023-10-02T07:00:00.000Z"
   },
@@ -9607,7 +9607,7 @@
     "svspc": "SV",
     "region": "Berlin",
     "districts": "Berlin",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2023-06-08T07:00:00.000Z",
     "dateend": "2023-10-03T07:00:00.000Z"
   },
@@ -9617,7 +9617,7 @@
     "svspc": "SV",
     "region": "Brandenburg",
     "districts": "Barmin,Dahme-Spreewald, Elbe-Elster, Havelland, Märkisch-Oderland,Oberhavel, Oberspreewald-Lausitz,Oder-Spree,Ostprignitz-Ruppin, Potsdam-Mittelmark,  Prignitz, Spree-Neiße,  Teltow-Fläming,Uckermark",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2023-06-08T07:00:00.000Z",
     "dateend": "2023-10-04T07:00:00.000Z"
   },
@@ -9627,7 +9627,7 @@
     "svspc": "SV",
     "region": "Bremen",
     "districts": "Bremen",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2023-06-08T07:00:00.000Z",
     "dateend": "2023-10-05T07:00:00.000Z"
   },
@@ -9637,7 +9637,7 @@
     "svspc": "SV",
     "region": "Hamburg",
     "districts": "Hamburg",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2023-06-08T07:00:00.000Z",
     "dateend": "2023-10-06T07:00:00.000Z"
   },
@@ -9647,7 +9647,7 @@
     "svspc": "SV",
     "region": "Hessen",
     "districts": "Darmstadt-Dieburg, Groß-Gerau, Hochtaunuskreis, Main-Kinzig-Kreis, Main-Taunus-Kreis, Odenwaldkreis, Rheingau-Taunus-Kreis, Wetteraukreis, Gießen, Lahn-Dill-Krei, Limburg-Weilburg, Marburg-Biedenkopf, Vogelsbergkreis, Fulda, Kassel, Hersfeld-Rotenburg, Schwalm-Eder-Kreis, Werra-Meißner-Kreis, Waldeck-Frankenberg",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2023-06-08T07:00:00.000Z",
     "dateend": "2023-10-07T07:00:00.000Z"
   },
@@ -9657,7 +9657,7 @@
     "svspc": "SV",
     "region": "Niedersachsen",
     "districts": "Ammerland,Celle, Cloppenburg, Cuxhaven, Diepholz, Emsland,Friesland,Gifhorn\nGoslar,Harburg,Heidekreis, Helmstedt, Hildesheim, Holzminden, Hanover, Leer,Lüchow-Dannenberg, Lüneburg,\nNienburg,Northeim, Oldenburg, Osnabrück, Osterholz, Peine, Rotenburg,Schaumburg, Stade, Uelzen, Vechta, Verden, Wesermarsch,Wittmund,Wolfenbüttel",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2023-06-08T07:00:00.000Z",
     "dateend": "2023-10-08T07:00:00.000Z"
   },
@@ -9676,8 +9676,8 @@
     "code": "de",
     "svspc": "SV",
     "region": "Nordrhein-Westfalen",
-    "districts": "Cologne Bight, Neanderthal, Porta Westfalica, Rhine-Ruhr, Ruhr Bereich, Rhineland, Westphalia",
-    "publish": "No",
+    "districts": "Cologne, Neanderthal, Porta Westfalica, Rhine-Ruhr, Ruhr Bereich, Rhineland, Westphalia",
+    "publish": "Yes",
     "datestart": "2023-06-08T07:00:00.000Z",
     "dateend": "2023-10-10T07:00:00.000Z"
   },
@@ -9687,7 +9687,7 @@
     "svspc": "SV",
     "region": "Rheinland-Pfalz",
     "districts": "Ahrweiler, Altenkirchen, Alzey-Worms,Bad Dürkheim, Bad Kreuznach, Bernkastel-Wittlich, Birkenfeld, Bitburg-Prüm, Cochem-Zell,Donnersbergkreis, Frankenthal (Pfalz), Germersheim, Kaiserslautern, Koblenz, Kusel, Landau in der Pfalz, Ludwigshafen am Rhein, Mainz, Mainz-Bingen, Mayen-Koblenz, Neuwied, Pirmasens, Rhein-Hunsrück-Kreis, Rhein-Lahn-Kreis, Rhein-Pfalz-Kreis, Speyer, Südliche Weinstraße, Südwestpfalz, Trier, Trier-Saarburg, Vulkaneifel, Westerwaldkreis, Worms, Zweibrücken\n",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2023-06-08T07:00:00.000Z",
     "dateend": "2023-10-11T07:00:00.000Z"
   },
@@ -9707,7 +9707,7 @@
     "svspc": "SV",
     "region": "Sachsen",
     "districts": "Bautzen, Erzgebirgskreis, Görlitz, Leipzig, Meißen, Mittelsachsen, Nordsachsen, Sächsische Schweiz-Osterzgebirge, Vogtlandkreis, Zwickau, Dresden, Chemnitz",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2023-06-08T07:00:00.000Z",
     "dateend": "2023-10-13T07:00:00.000Z"
   },
@@ -9737,7 +9737,7 @@
     "svspc": "SV",
     "region": "Thüringen",
     "districts": "Altenburger Land, Eichsfeld, Gotha, Greiz, Hildburghausen, Ilm-Kreis, Kyffhäuserkreis, Nordhausen, Saale-Holzland, Saale-Orla, Saalfeld-Rudolstadt, Schmalkalden-Meiningen, Sömmerda, Sonneberg, Unstrut-Hainich, Wartburgkreis, Weimarer Land",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2023-06-08T07:00:00.000Z",
     "dateend": "2023-10-16T07:00:00.000Z"
   },
@@ -9747,7 +9747,7 @@
     "svspc": "SV",
     "region": "Baden-Württemberg",
     "districts": "Alb-Donau, Biberach, Bodensee, Böblingen, Breisgau-Hochschwarzwald, Calw, Konstanz, Emmendingen, Enzkreis, Esslingen, Freudenstadt, Göppingen, Heidenheim, Heilbronn, Hohenlohe, Karlsruhe, Lörrach, Ludwigsburg, Main-Tauber, Neckar-Odenwald-Kreis, Ortenaukreis, Ostalbkreis, Rastatt, Ravensburg, Rems-Murr-Kreis, Reutlingen, Rhein-Neckar-Kreis, Rottweil, Schwäbisch Hall, Schwarzwald-Baar-Kreis, Sigmaringen, Tübingen, Tuttlingen, Waldshut, Zollernalbkreis, Baden-Baden, Freiburg, Heidelberg, Heilbronn, Karlsruhe, Manheim, Pforzheim, Stuttgart, Ulm",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2023-06-08T07:00:00.000Z",
     "dateend": "2023-10-17T07:00:00.000Z"
   },
@@ -10448,7 +10448,7 @@
     "districts": "Alkmaar, Den Helder, Hollands Kroon, Hoorn, Koggenland, Medemblik, Opmeer, Schagen, Texel, Zandvoort, Haarlem, Hoofddorp, Nieuw-Vennep",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Brasil",
@@ -10468,7 +10468,7 @@
     "districts": "Amsterdam, Haarlem, Zaandam",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "dateend": "2023-09-01T07:00:00.000Z"
   },
   {
     "country": "Latvia",
@@ -14196,7 +14196,7 @@
     "code": "tw",
     "svspc": "SV",
     "region": "Penghu",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-08T07:00:00.000Z",
     "dateend": "2022-05-16T07:00:00.000Z"
   },
@@ -14216,6 +14216,7 @@
     "svspc": "SV",
     "region": "Hualien",
     "districts": "Xin Cheng Xiang, Fu Xi Xiang",
+    "publish": "Yes",
     "datestart": "2022-05-08T07:00:00.000Z",
     "dateend": "2022-09-30T07:00:00.000Z"
   },
@@ -14233,7 +14234,7 @@
     "districts": "Dubai",
     "publish": "Yes",
     "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2023-04-30T07:00:00.000Z"
+    "dateend": "2023-06-16T07:00:00.000Z"
   },
   {
     "country": "United Arab Emirates",
@@ -14243,7 +14244,7 @@
     "districts": "Sharjah",
     "publish": "Yes",
     "datestart": "2022-03-01T08:00:00.000Z",
-    "dateend": "2023-04-30T07:00:00.000Z"
+    "dateend": "2023-06-16T07:00:00.000Z"
   },
   {
     "country": "United Arab Emirates",
@@ -14253,7 +14254,7 @@
     "districts": "Ajman",
     "publish": "Yes",
     "datestart": "2022-06-01T07:00:00.000Z",
-    "dateend": "2023-04-30T07:00:00.000Z"
+    "dateend": "2023-06-16T07:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -16041,7 +16042,7 @@
     "districts": "Al Ruwais, Sydriyat Al Kheesah, Lejthaya, Madinat ash Shamal, Al Zubara",
     "publish": "Yes",
     "datestart": "2022-12-01T08:00:00.000Z",
-    "dateend": "2023-06-01T07:00:00.000Z"
+    "dateend": "2023-05-25T07:00:00.000Z"
   },
   {
     "country": "Qatar",
@@ -16051,7 +16052,7 @@
     "districts": "Ad Dahirah, Al Dhakira, Al Mashrab, Madinat Al Ka'ban, Al Mayeda, Simsimah, Al Ghuwayriyah, Al Deghaishiyat, Jery Al Theyab",
     "publish": "Yes",
     "datestart": "2022-12-01T08:00:00.000Z",
-    "dateend": "2023-06-01T07:00:00.000Z"
+    "dateend": "2023-05-25T07:00:00.000Z"
   },
   {
     "country": "Qatar",
@@ -16061,7 +16062,7 @@
     "districts": "Al Utouriya, Al Jemailiya, Al-Shahaniya City, Rawdat Rashed, Umm Bab, Al Nasraniya, Dukhan",
     "publish": "Yes",
     "datestart": "2022-12-01T08:00:00.000Z",
-    "dateend": "2023-06-01T07:00:00.000Z"
+    "dateend": "2023-05-25T07:00:00.000Z"
   },
   {
     "country": "Qatar",
@@ -16071,7 +16072,7 @@
     "districts": "Bu Fasseela, Izghawa, Al Kharaitiyat, Umm Salal Ali, Umm Salal Mohammed, Saina Al-Humaidi, Umm Al Amad, Umm Ebairiya",
     "publish": "Yes",
     "datestart": "2022-12-01T08:00:00.000Z",
-    "dateend": "2023-06-01T07:00:00.000Z"
+    "dateend": "2023-05-25T07:00:00.000Z"
   },
   {
     "country": "Qatar",
@@ -16081,7 +16082,7 @@
     "districts": "Jabal Thuaileb, Al Kharayej, Lusail, Al Egla, Wadi Al Banat, Leabaib, Al Ebb, Jeryan Jenaihat, Al Kheesa, Rawdat Al Hamama, Wadi Al Wasaah, Al Sakhama, Al Masrouhiya, Wadi Lusail, Umm Qarn, Al Daayen",
     "publish": "Yes",
     "datestart": "2022-12-01T08:00:00.000Z",
-    "dateend": "2023-06-01T07:00:00.000Z"
+    "dateend": "2023-05-25T07:00:00.000Z"
   },
   {
     "country": "Qatar",
@@ -16091,7 +16092,7 @@
     "districts": "West Bay, Fereej Kulaib, Al Sadd, Rawdat Al Khail, Najma, Umm Ghuwailina, Al Matar Al Qadeem, Nuaija",
     "publish": "Yes",
     "datestart": "2022-12-01T08:00:00.000Z",
-    "dateend": "2023-06-01T07:00:00.000Z"
+    "dateend": "2023-05-25T07:00:00.000Z"
   },
   {
     "country": "Qatar",
@@ -16101,7 +16102,7 @@
     "districts": "Al Gharrafa, Gharrafat Al Rayyan, Izghawa, Bani Hajer, Al Seej, Rawdat Egdaim, Al Themaid, Al Luqta, Lebday, Old Al Rayyan, Al Shagub, Fereej Al Zaeem, New Al Rayyan, Al Wajbah, Muaither, Fereej Al Amir, Luaib, Muraikh, Baaya, Mehairja, Fereej Al Soudan, Al Waab, Al Aziziya, New Fereej Al Ghanim, Fereej Al Murra, Fereej Al Manaseer, Bu Sidra, Muaither, Al Sailiya, Al Mearad, Al Mamoura, Abu Hamour, Mesaimeer, Ain Khaled",
     "publish": "Yes",
     "datestart": "2022-12-01T08:00:00.000Z",
-    "dateend": "2023-06-01T07:00:00.000Z"
+    "dateend": "2023-05-25T07:00:00.000Z"
   },
   {
     "country": "Qatar",
@@ -16111,7 +16112,7 @@
     "districts": "Al Wakrah, Al Thumama, Al Wukair, Al Mashaf, Mesaieed, Shagra, Al Kharrara",
     "publish": "Yes",
     "datestart": "2022-12-01T08:00:00.000Z",
-    "dateend": "2023-06-01T07:00:00.000Z"
+    "dateend": "2023-05-25T07:00:00.000Z"
   },
   {
     "country": "Czech Republic",
@@ -16872,7 +16873,7 @@
     "code": "TH",
     "svspc": "SV",
     "region": "Central, Northern, Northeastern",
-    "districts": "Phayao, Yasothon, Roi-et, Amnart Charoen, Rayong, Phetchaburi, Ratchaburi, Udon thani, Nakhonsawan, Khon Kaen, Chainat, Chaiyaphum",
+    "districts": "Phayao, Yasothon, Roi-et, Amnart Charoen, Rayong, Phetchaburi, Ratchaburi, Udon thani, Nakhonsawan, Khon Kaen, Chainat, Chaiyaphum, Burirum",
     "publish": "Yes",
     "datestart": "2023-01-01T08:00:00.000Z",
     "dateend": "2023-12-01T08:00:00.000Z"
