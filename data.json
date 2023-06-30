@@ -8839,7 +8839,7 @@
     "code": "de",
     "svspc": "SV",
     "region": "Brandenburg",
-    "districts": "Barmin,Dahme-Spreewald, Elbe-Elster, Havelland, Märkisch-Oderland,Oberhavel, Oberspreewald-Lausitz,Oder-Spree,Ostprignitz-Ruppin, Potsdam-Mittelmark,  Prignitz, Spree-Neiße,  Teltow-Fläming,Uckermark",
+    "districts": "Barnim,Dahme-Spreewald, Elbe-Elster, Havelland, Märkisch-Oderland,Oberhavel, Oberspreewald-Lausitz,Oder-Spree,Ostprignitz-Ruppin, Potsdam-Mittelmark,  Prignitz, Spree-Neiße,  Teltow-Fläming,Uckermark",
     "publish": "Yes",
     "datestart": "2023-06-08T07:00:00.000Z",
     "dateend": "2023-10-04T07:00:00.000Z"
@@ -14865,6 +14865,16 @@
     "country": "Taiwan",
     "code": "TW",
     "svspc": "SV",
+    "region": "Miao Li",
+    "districts": "Miao LI Shi, Shan Yi",
+    "publish": "Yes",
+    "datestart": "2023-04-06T07:00:00.000Z",
+    "dateend": "2023-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "TW",
+    "svspc": "SV",
     "region": "Taichung",
     "districts": "Xi Qu, Da Ya Qu",
     "publish": "Yes",
@@ -14886,7 +14896,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Tainan",
-    "districts": "Xinyi Qu",
+    "districts": "Nan Xi Qu, Yu Jiu Qu, Da Nei Qu",
     "publish": "Yes",
     "datestart": "2023-04-06T07:00:00.000Z",
     "dateend": "2023-12-01T08:00:00.000Z"
@@ -14910,6 +14920,25 @@
     "publish": "Yes",
     "datestart": "2023-04-06T07:00:00.000Z",
     "dateend": "2023-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "TW",
+    "svspc": "SV",
+    "region": "Huakian",
+    "districts": "Hualian Shi",
+    "publish": "Yes",
+    "datestart": "2023-04-06T07:00:00.000Z",
+    "dateend": "2023-07-31T07:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "TW",
+    "svspc": "SV",
+    "region": "Taidong",
+    "publish": "Yes",
+    "datestart": "2023-04-06T07:00:00.000Z",
+    "dateend": "2023-07-31T07:00:00.000Z"
   },
   {
     "country": "Thailand",
