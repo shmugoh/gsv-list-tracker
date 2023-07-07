@@ -14471,7 +14471,7 @@
     "districts": "Hokuto, Kofu, Fujiyoshida",
     "publish": "Yes",
     "datestart": "2023-02-01T08:00:00.000Z",
-    "dateend": "2023-06-30T07:00:00.000Z"
+    "dateend": "2023-07-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -14689,7 +14689,9 @@
     "svspc": "SV",
     "region": "Saga",
     "districts": "Saga",
-    "publish": "No"
+    "publish": "Yes",
+    "datestart": "2023-07-31T07:00:00.000Z",
+    "dateend": "2023-07-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -14746,7 +14748,7 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Okinawa",
-    "districts": "Okinawa, Naha, Ginowan",
+    "districts": "Okinawa, Naha, Ginowan, Miyakojima",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
     "dateend": "2023-07-31T07:00:00.000Z"
