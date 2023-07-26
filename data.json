@@ -9561,8 +9561,8 @@
     "region": "kujawsko-pomorskie",
     "districts": "Bydgoszcz, Inowrocław, Toruń, Włocławek, Grudziadz, ",
     "publish": "Yes",
-    "datestart": "Marzec 2023",
-    "dateend": "Listopad 2023"
+    "datestart": "2023-03-01T08:00:00.000Z",
+    "dateend": "2023-11-01T07:00:00.000Z"
   },
   {
     "country": "Polska",
@@ -9571,8 +9571,8 @@
     "region": "łódzkie",
     "districts": "Bełchatów, Łódź, Piotrków Trybunalski, Radomsko, Pabianice",
     "publish": "Yes",
-    "datestart": "Marzec 2023",
-    "dateend": "Listopad 2023"
+    "datestart": "2023-03-01T08:00:00.000Z",
+    "dateend": "2023-11-01T07:00:00.000Z"
   },
   {
     "country": "Polska",
@@ -9581,8 +9581,8 @@
     "region": "śląskie",
     "districts": "Bielsko-Biała, Bytom, Chorzów, Częstochowa,  Dąbrowa Górnicza, Gliwice, Katowice, Ruda Śląska, Rybnik, Sosnowiec,Tychy, Zabrze, Jaworzno, Jastrzebie Zdroj, Myslowice, Siemianowice Slaskie",
     "publish": "Yes",
-    "datestart": "Marzec 2023",
-    "dateend": "Listopad 2023"
+    "datestart": "2023-03-01T08:00:00.000Z",
+    "dateend": "2023-11-01T07:00:00.000Z"
   },
   {
     "country": "Polska",
@@ -9591,8 +9591,8 @@
     "region": "dolnośląskie",
     "districts": "Głogów, Jelenia Góra, Legnica, Wałbrzych, Wrocław ",
     "publish": "Yes",
-    "datestart": "Marzec 2023",
-    "dateend": "Listopad 2023"
+    "datestart": "2023-03-01T08:00:00.000Z",
+    "dateend": "2023-11-01T07:00:00.000Z"
   },
   {
     "country": "Polska",
@@ -9601,8 +9601,8 @@
     "region": "lubelskie",
     "districts": "Biała Podlaska, Chełm, Lublin, Puławy, Zamość, ",
     "publish": "Yes",
-    "datestart": "Marzec 2023",
-    "dateend": "Listopad 2023"
+    "datestart": "2023-03-01T08:00:00.000Z",
+    "dateend": "2023-11-01T07:00:00.000Z"
   },
   {
     "country": "Polska",
@@ -9611,8 +9611,8 @@
     "region": "lubuskie",
     "districts": "Gorzów Wielkopolski, Zielona Góra",
     "publish": "Yes",
-    "datestart": "Marzec 2023",
-    "dateend": "Listopad 2023"
+    "datestart": "2023-03-01T08:00:00.000Z",
+    "dateend": "2023-11-01T07:00:00.000Z"
   },
   {
     "country": "Polska",
@@ -9621,8 +9621,8 @@
     "region": "małopolskie",
     "districts": "Kraków,  Nowy Sącz, Tarnów, Zakopane",
     "publish": "Yes",
-    "datestart": "Marzec 2023",
-    "dateend": "Listopad 2023"
+    "datestart": "2023-03-01T08:00:00.000Z",
+    "dateend": "2023-11-01T07:00:00.000Z"
   },
   {
     "country": "Polska",
@@ -9631,8 +9631,8 @@
     "region": "mazowieckie",
     "districts": "Grodzisk Mazowiecki, Ostrołęka, Płock, Radom, Siedlce, Warszawa",
     "publish": "Yes",
-    "datestart": "Marzec 2023",
-    "dateend": "Listopad 2023"
+    "datestart": "2023-03-01T08:00:00.000Z",
+    "dateend": "2023-11-01T07:00:00.000Z"
   },
   {
     "country": "Polska",
@@ -9641,8 +9641,8 @@
     "region": "opolskie",
     "districts": "Kędzierzyn Koźle, Opole",
     "publish": "Yes",
-    "datestart": "Marzec 2023",
-    "dateend": "Listopad 2023"
+    "datestart": "2023-03-01T08:00:00.000Z",
+    "dateend": "2023-11-01T07:00:00.000Z"
   },
   {
     "country": "Polska",
@@ -9651,8 +9651,8 @@
     "region": "podkarpackie",
     "districts": "Krosno, Przemyśl, Rzeszów, Sanok",
     "publish": "Yes",
-    "datestart": "Marzec 2023",
-    "dateend": "Listopad 2023"
+    "datestart": "2023-03-01T08:00:00.000Z",
+    "dateend": "2023-11-01T07:00:00.000Z"
   },
   {
     "country": "Polska",
@@ -9661,8 +9661,8 @@
     "region": "podlaskie",
     "districts": "Augustów, Białystok, Łomża, Suwałki",
     "publish": "Yes",
-    "datestart": "Marzec 2023",
-    "dateend": "Listopad 2023"
+    "datestart": "2023-03-01T08:00:00.000Z",
+    "dateend": "2023-11-01T07:00:00.000Z"
   },
   {
     "country": "Polska",
@@ -9671,8 +9671,8 @@
     "region": "pomorskie",
     "districts": "Gdańsk, Gdynia, Słupsk, Sopot, Stargard Gdański",
     "publish": "Yes",
-    "datestart": "Marzec 2023",
-    "dateend": "Listopad 2023"
+    "datestart": "2023-03-01T08:00:00.000Z",
+    "dateend": "2023-11-01T07:00:00.000Z"
   },
   {
     "country": "Polska",
@@ -9681,8 +9681,8 @@
     "region": "świętokrzyskie",
     "districts": "Busko-Zdrój, Kielce, Ostrowiec Świętokrzyski, Skarżysko-Kamienna, Starachowice",
     "publish": "Yes",
-    "datestart": "Marzec 2023",
-    "dateend": "Listopad 2023"
+    "datestart": "2023-03-01T08:00:00.000Z",
+    "dateend": "2023-11-01T07:00:00.000Z"
   },
   {
     "country": "Polska",
@@ -9691,8 +9691,8 @@
     "region": "warmińsko-mazurskie",
     "districts": "Elbląg, Olsztyn, Ostróda, Szczytno",
     "publish": "Yes",
-    "datestart": "Marzec 2023",
-    "dateend": "Listopad 2023"
+    "datestart": "2023-03-01T08:00:00.000Z",
+    "dateend": "2023-11-01T07:00:00.000Z"
   },
   {
     "country": "Polska",
@@ -9701,8 +9701,8 @@
     "region": "wielkopolskie",
     "districts": "Kalisz, Konin, Leszno, Ostrów Wielkopolski, Piła, Poznań",
     "publish": "Yes",
-    "datestart": "Marzec 2023",
-    "dateend": "Listopad 2023"
+    "datestart": "2023-03-01T08:00:00.000Z",
+    "dateend": "2023-11-01T07:00:00.000Z"
   },
   {
     "country": "Polska",
@@ -9711,8 +9711,8 @@
     "region": "zachodniopomorskie",
     "districts": "Koszalin, Stargard, Szczecin, Świnoujście",
     "publish": "Yes",
-    "datestart": "Marzec 2023",
-    "dateend": "Listopad 2023"
+    "datestart": "2023-03-01T08:00:00.000Z",
+    "dateend": "2023-11-01T07:00:00.000Z"
   },
   {
     "country": "Portugal",
