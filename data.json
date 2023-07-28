@@ -14847,6 +14847,16 @@
     "country": "Taiwan",
     "code": "TW",
     "svspc": "SV",
+    "region": "New Taipei",
+    "districts": "Lui Zhou Qu",
+    "publish": "Yes",
+    "datestart": "2023-01-01T08:00:00.000Z",
+    "dateend": "2023-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "TW",
+    "svspc": "SV",
     "region": "Taoyuan",
     "districts": "Zhong Li Qu",
     "publish": "Yes",
@@ -14887,8 +14897,28 @@
     "country": "Taiwan",
     "code": "TW",
     "svspc": "SV",
+    "region": "Nantou",
+    "districts": "Ji Ji Zhen, Nantou Shi",
+    "publish": "Yes",
+    "datestart": "2023-07-05T07:00:00.000Z",
+    "dateend": "2023-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "TW",
+    "svspc": "SV",
+    "region": "Zhanghua",
+    "districts": "Hui Mei Zhen",
+    "publish": "Yes",
+    "datestart": "2023-07-05T07:00:00.000Z",
+    "dateend": "2023-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "TW",
+    "svspc": "SV",
     "region": "Chiayi",
-    "districts": "Tai Pao Shi",
+    "districts": "Dong Shi Xiang",
     "publish": "Yes",
     "datestart": "2023-04-06T07:00:00.000Z",
     "dateend": "2023-12-01T08:00:00.000Z"
@@ -14899,9 +14929,9 @@
     "svspc": "SV",
     "region": "Tainan",
     "districts": "Nan Xi Qu, Yu Jiu Qu, Da Nei Qu",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2023-04-06T07:00:00.000Z",
-    "dateend": "2023-12-01T08:00:00.000Z"
+    "dateend": "2023-07-21T07:00:00.000Z"
   },
   {
     "country": "Taiwan",
@@ -14927,9 +14957,9 @@
     "country": "Taiwan",
     "code": "TW",
     "svspc": "SV",
-    "region": "Huakian",
+    "region": "Hualian",
     "districts": "Hualian Shi",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2023-04-06T07:00:00.000Z",
     "dateend": "2023-07-31T07:00:00.000Z"
   },
@@ -14938,16 +14968,17 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Taidong",
+    "districts": "Tai Mai Li",
     "publish": "Yes",
     "datestart": "2023-04-06T07:00:00.000Z",
-    "dateend": "2023-07-31T07:00:00.000Z"
+    "dateend": "2023-08-31T07:00:00.000Z"
   },
   {
     "country": "Thailand",
     "code": "TH",
     "svspc": "SV",
-    "region": "Central, Northern, Northeastern",
-    "districts": "Phayao, Yasothon, Roi-et, Amnart Charoen, Rayong, Phetchaburi, Ratchaburi, Udon thani, Nakhonsawan, Khon Kaen, Chainat, Chaiyaphum, Burirum",
+    "region": "Central, Northern, Northeastern, Southern ",
+    "districts": "Pitsanulok, Amnart Charoen, Phetchaburi, Sisaket, Udon thani, Nakhonsawan, Khon Kaen, Nakhon Ratchasima, Burirum, Surat Thani, Song Khla, Nakhon Si Thammarat, ",
     "publish": "Yes",
     "datestart": "2023-01-01T08:00:00.000Z",
     "dateend": "2023-12-01T08:00:00.000Z"
@@ -15388,6 +15419,86 @@
     "svspc": "SV",
     "region": "East Nusa Tenggara",
     "districts": "Labuan Bajo, Ruteng, Aimere, Muku Saki, Nita, Sumba, Hadakewa, Alor, Kupang, ",
+    "publish": "Yes",
+    "datestart": "2023-06-01T07:00:00.000Z",
+    "dateend": "2023-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Australia",
+    "code": "AU",
+    "svspc": "SV",
+    "region": "Queensland",
+    "districts": "Brisbane",
+    "publish": "Yes",
+    "datestart": "2023-06-01T07:00:00.000Z",
+    "dateend": "2023-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Australia",
+    "code": "AU",
+    "svspc": "SV",
+    "region": "WA",
+    "districts": "Perth",
+    "publish": "Yes",
+    "datestart": "2023-06-01T07:00:00.000Z",
+    "dateend": "2023-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Australia",
+    "code": "AU",
+    "svspc": "SV",
+    "region": "VIC",
+    "districts": "Melbourne",
+    "publish": "Yes",
+    "datestart": "2023-06-01T07:00:00.000Z",
+    "dateend": "2023-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Australia",
+    "code": "AU",
+    "svspc": "SV",
+    "region": "NSW",
+    "districts": "Blue Mountains",
+    "publish": "Yes",
+    "datestart": "2023-06-01T07:00:00.000Z",
+    "dateend": "2023-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Australia",
+    "code": "AU",
+    "svspc": "SV",
+    "region": "TAS",
+    "districts": "Hobart",
+    "publish": "Yes",
+    "datestart": "2023-06-01T07:00:00.000Z",
+    "dateend": "2023-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Australia",
+    "code": "AU",
+    "svspc": "SV",
+    "region": "NT",
+    "districts": "Alice Springs",
+    "publish": "Yes",
+    "datestart": "2023-06-01T07:00:00.000Z",
+    "dateend": "2023-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Australia",
+    "code": "AU",
+    "svspc": "SV",
+    "region": "SA",
+    "districts": "Adelaide",
+    "publish": "Yes",
+    "datestart": "2023-06-01T07:00:00.000Z",
+    "dateend": "2023-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "NZ",
+    "code": "NZ",
+    "svspc": "SV",
+    "region": "South Island",
+    "districts": "South Island",
     "publish": "Yes",
     "datestart": "2023-06-01T07:00:00.000Z",
     "dateend": "2023-09-01T07:00:00.000Z"
