@@ -14290,10 +14290,10 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Hokkaido",
-    "districts": "Sapporo, Otaru, Hakodate, Shinhidaka, Wakkanai",
+    "districts": "Sapporo, Kushiro, Kitami, Asahikawa, Obihiro",
     "publish": "Yes",
     "datestart": "2023-04-01T07:00:00.000Z",
-    "dateend": "2023-07-31T07:00:00.000Z"
+    "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -14303,7 +14303,7 @@
     "districts": "Aomori, Goshogawara, Hachinohe",
     "publish": "Yes",
     "datestart": "2023-04-01T07:00:00.000Z",
-    "dateend": "2023-07-31T07:00:00.000Z"
+    "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -14313,17 +14313,17 @@
     "districts": "Kesennuma, Oshu, Rikuzentalata, Morioka",
     "publish": "Yes",
     "datestart": "2023-02-01T08:00:00.000Z",
-    "dateend": "2023-07-31T07:00:00.000Z"
+    "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
     "code": "JP",
     "svspc": "SV",
     "region": "Miyagi",
-    "districts": "Sendai,Osaki, Kakuda",
+    "districts": "Sendai",
     "publish": "Yes",
     "datestart": "2023-02-01T08:00:00.000Z",
-    "dateend": "2023-07-31T07:00:00.000Z"
+    "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -14333,7 +14333,7 @@
     "districts": "Akita, Yurihonjyo, Daisen",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-07-31T07:00:00.000Z"
+    "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -14343,7 +14343,7 @@
     "districts": "Yamagata, Nanyo, Obanazawa",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-07-31T07:00:00.000Z"
+    "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -14353,17 +14353,17 @@
     "districts": "Fukushima, Koriyama, Iwaki, Aizuwakamatsu",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-07-31T07:00:00.000Z"
+    "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
     "code": "JP",
     "svspc": "SV",
     "region": "Ibaraki",
-    "districts": "Tsukuba, Mito, Hitachinaka, Kasama",
+    "districts": "Mito, Hitachinaka, Kasama",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-07-31T07:00:00.000Z"
+    "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -14373,7 +14373,7 @@
     "districts": "Utsunomiya, Maoka, Sakura, Nikko, Sano",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-07-31T07:00:00.000Z"
+    "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -14381,7 +14381,7 @@
     "svspc": "SV",
     "region": "Gunma",
     "districts": "Isesaki, Maebashi, Takasaki",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2023-02-01T08:00:00.000Z",
     "dateend": "2023-07-31T07:00:00.000Z"
   },
@@ -14393,7 +14393,7 @@
     "districts": "Kazo, Kuki, Chichibu",
     "publish": "Yes",
     "datestart": "2023-02-01T08:00:00.000Z",
-    "dateend": "2023-07-31T07:00:00.000Z"
+    "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -14401,7 +14401,7 @@
     "svspc": "SV",
     "region": "Chiba",
     "districts": "Mobara, Choshi, Asahi, Ichihawa, Sakura, Narita",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2023-02-01T08:00:00.000Z",
     "dateend": "2023-07-31T07:00:00.000Z"
   },
@@ -14413,7 +14413,7 @@
     "districts": "Hino, Fussa",
     "publish": "Yes",
     "datestart": "2023-02-01T08:00:00.000Z",
-    "dateend": "2023-06-30T07:00:00.000Z"
+    "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -14421,9 +14421,9 @@
     "svspc": "SV",
     "region": "Kanagawa",
     "districts": "Sagamihara",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2023-02-01T08:00:00.000Z",
-    "dateend": "2023-06-30T07:00:00.000Z"
+    "dateend": "2023-07-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -14433,7 +14433,7 @@
     "districts": "Niigata, Joetsu, Itoigawa, Myoko",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-07-31T07:00:00.000Z"
+    "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -14451,7 +14451,7 @@
     "districts": "Ishikawa",
     "publish": "Yes",
     "datestart": "2023-06-30T07:00:00.000Z",
-    "dateend": "2023-07-31T07:00:00.000Z"
+    "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -14461,7 +14461,7 @@
     "districts": "Fukui, Sabae, Awara",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-07-31T07:00:00.000Z"
+    "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -14471,7 +14471,7 @@
     "districts": "Hokuto, Kofu, Fujiyoshida",
     "publish": "Yes",
     "datestart": "2023-02-01T08:00:00.000Z",
-    "dateend": "2023-07-31T07:00:00.000Z"
+    "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -14481,7 +14481,7 @@
     "districts": "Nagano, Shiojiri, Chikuma",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-07-31T07:00:00.000Z"
+    "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -14491,37 +14491,37 @@
     "districts": "Gifu, Seki, Yamagata",
     "publish": "Yes",
     "datestart": "2023-02-01T08:00:00.000Z",
-    "dateend": "2023-07-31T07:00:00.000Z"
+    "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
     "code": "JP",
     "svspc": "SV",
     "region": "Shizuoka",
-    "districts": "Shizuoka, Hamamatsu, Numazu, Fujieda",
+    "districts": "Hamamatsu, Iwata",
     "publish": "Yes",
     "datestart": "2023-02-01T08:00:00.000Z",
-    "dateend": "2023-07-31T07:00:00.000Z"
+    "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
     "code": "JP",
     "svspc": "SV",
     "region": "Aichi",
-    "districts": "Okazaki, Toyohashi, Toyota",
+    "districts": "Toyohashi, Toyota",
     "publish": "Yes",
     "datestart": "2023-02-01T08:00:00.000Z",
-    "dateend": "2023-07-31T07:00:00.000Z"
+    "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
     "code": "JP",
     "svspc": "SV",
     "region": "Mie",
-    "districts": "Tsu, Matsusaka, Yokkaichi, Nabari",
+    "districts": "Yokkaichi, Nabari",
     "publish": "Yes",
     "datestart": "2023-02-01T08:00:00.000Z",
-    "dateend": "2023-07-31T07:00:00.000Z"
+    "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -14531,7 +14531,7 @@
     "districts": "Otsu, Hikone, Nagahama, Takashima",
     "publish": "Yes",
     "datestart": "2023-02-01T08:00:00.000Z",
-    "dateend": "2023-07-31T07:00:00.000Z"
+    "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -14541,7 +14541,7 @@
     "districts": "Nagaokakyo, Fukuchiyama",
     "publish": "Yes",
     "datestart": "2023-02-01T08:00:00.000Z",
-    "dateend": "2023-07-31T07:00:00.000Z"
+    "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -14549,7 +14549,7 @@
     "svspc": "SV",
     "region": "Osaka",
     "districts": "Osaka, Takatsuki, Hirakata, Sakai",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2023-02-01T08:00:00.000Z",
     "dateend": "2023-07-31T07:00:00.000Z"
   },
@@ -14559,7 +14559,7 @@
     "svspc": "SV",
     "region": "Hyogo",
     "districts": "Kakogawa, Akashi, Himeji, Awaji",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2023-02-01T08:00:00.000Z",
     "dateend": "2023-07-31T07:00:00.000Z"
   },
@@ -14591,7 +14591,7 @@
     "districts": "Tottori, Kurayoshi",
     "publish": "No",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-04-30T07:00:00.000Z"
+    "dateend": "2023-07-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -14601,7 +14601,7 @@
     "districts": "Matsue, Yonago, Izumo",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-07-31T07:00:00.000Z"
+    "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -14611,7 +14611,7 @@
     "districts": "Okayama, Kurashiki, Bizen",
     "publish": "Yes",
     "datestart": "2023-02-01T08:00:00.000Z",
-    "dateend": "2023-07-31T07:00:00.000Z"
+    "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -14621,7 +14621,7 @@
     "districts": "Hiroshima, Fukuyama, Mihara",
     "publish": "Yes",
     "datestart": "2023-02-01T08:00:00.000Z",
-    "dateend": "2023-07-31T07:00:00.000Z"
+    "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -14631,7 +14631,7 @@
     "districts": "Yamaguchi, Hofu",
     "publish": "Yes",
     "datestart": "2023-05-31T07:00:00.000Z",
-    "dateend": "2023-07-31T07:00:00.000Z"
+    "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -14641,7 +14641,7 @@
     "districts": "Tokushima, Anan, Mima",
     "publish": "Yes",
     "datestart": "2023-04-30T07:00:00.000Z",
-    "dateend": "2023-07-31T07:00:00.000Z"
+    "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -14681,7 +14681,7 @@
     "districts": "Fukuoka, Izuka, Itoshima, Buzen",
     "publish": "Yes",
     "datestart": "2023-02-01T08:00:00.000Z",
-    "dateend": "2023-07-31T07:00:00.000Z"
+    "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -14691,7 +14691,7 @@
     "districts": "Saga",
     "publish": "Yes",
     "datestart": "2023-07-31T07:00:00.000Z",
-    "dateend": "2023-07-31T07:00:00.000Z"
+    "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -14699,9 +14699,9 @@
     "svspc": "SV",
     "region": "Nagasaki",
     "districts": "Nagasaki, Saikai, Shimabara, Isahaya",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2023-05-31T07:00:00.000Z",
-    "dateend": "2023-07-31T07:00:00.000Z"
+    "dateend": "2023-06-01T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -14711,7 +14711,7 @@
     "districts": "Kumamoto, Uto, Kikuchi",
     "publish": "Yes",
     "datestart": "2023-02-01T08:00:00.000Z",
-    "dateend": "2023-07-31T07:00:00.000Z"
+    "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -14721,7 +14721,7 @@
     "districts": "Oita, Beppu, Yufu, Usuki",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-07-31T07:00:00.000Z"
+    "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -14731,17 +14731,17 @@
     "districts": "Miyazaki, Saito, Nichinan, Miyakonojyo",
     "publish": "Yes",
     "datestart": "2023-02-01T08:00:00.000Z",
-    "dateend": "2023-07-31T07:00:00.000Z"
+    "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
     "code": "JP",
     "svspc": "SV",
     "region": "Kagoshima",
-    "districts": "Kagoshima, Minami Kyushu, Ibusuki, Hioki",
+    "districts": "Kagoshima, Amami",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-07-31T07:00:00.000Z"
+    "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -14751,7 +14751,7 @@
     "districts": "Okinawa, Naha, Ginowan, Miyakojima",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-07-31T07:00:00.000Z"
+    "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
     "country": "Argentina",
