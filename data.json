@@ -6844,7 +6844,7 @@
     "code": "at",
     "svspc": "SV",
     "region": "Kärnten",
-    "districts": "Klagenfurt, Villach, St. Ruprecht, Landskron, Neulandskron, St. Leonhard",
+    "districts": "Feldkirchen ,Hermagor, Klagenfurt-Land, Klagenfurt (the city of Klagenfurt), Spittal an der Drau, Villach-Land, Villach (the city of Villach), Völkermarkt, Wolfsberg.",
     "publish": "Yes",
     "datestart": "2023-03-02T08:00:00.000Z",
     "dateend": "2023-09-29T07:00:00.000Z"
@@ -6904,7 +6904,7 @@
     "code": "at",
     "svspc": "SV",
     "region": "Oberösterreich",
-    "districts": "Braunau am Inn, Eferding, Freistadt, Gmunden, Grieskirchen, Kirchdorf an der Krems, Linz-Land, Perg, Ried im Innkreis, Rohrbach, Schärding, Steyr-Land, Urfahr-Umgebung, Vöcklabruck, Wels-Land.",
+    "districts": "Braunau am Inn, Eferding, Freistadt, Gmunden, Grieskirchen, Kirchdorf an der Krems ,Linz-Land ,Linz (the city of Linz) ,Perg ,Ried im Innkreis ,Rohrbach ,Schärding ,Steyr-Land ,Steyr (the city of Steyr) ,Urfahr-Umgebung ,Vöcklabruck ,Wels-Land ,Wels (the city of Wels),Ybbs ,Zell am Permber.",
     "publish": "Yes",
     "datestart": "2023-03-02T08:00:00.000Z",
     "dateend": "2023-09-29T07:00:00.000Z"
@@ -6924,7 +6924,7 @@
     "code": "at",
     "svspc": "SV",
     "region": "Steiermark",
-    "districts": "Bruck-Mürzzuschlag, Deutschlandsberg, Graz, Graz-Umgebung, Hartberg-Fürstenfeld, Leibnitz, Leoben, Liezen, Murau, Murtal, Südoststeiermark, Voitsberg, Weiz.",
+    "districts": "Bruck-Mürzzuschlag, Deutschlandsberg, Graz, Graz-Umgebung, Graz-Land, Hartberg-Fürstenfeld, Leibnitz, Leoben, Liezen, Murau, Murtal, Neunkirchen, Obersteiermark, Oststeiermark, Pöls-Kapfenberg, Südoststeiermark, Voitsberg, Weiz, Wolfsberg, Bruck an der Mur.",
     "publish": "Yes",
     "datestart": "2023-03-02T08:00:00.000Z",
     "dateend": "2023-09-29T07:00:00.000Z"
@@ -6954,7 +6954,7 @@
     "code": "at",
     "svspc": "SV",
     "region": "Tirol",
-    "districts": "Imst, Innsbruck-Land, Innsbruck Stadt (City of Innsbruck), Kitzbühel, Kufstein, Landeck, Lienz, Reutte, Schwaz.",
+    "districts": "Imst, Innsbruck-Land, Innsbruck Stadt (City of Innsbruck), Kitzbühel, Kufstein, Landeck, Lienz, Reutte, Schwaz, Spittal an der Drau.",
     "publish": "Yes",
     "datestart": "2023-03-02T08:00:00.000Z",
     "dateend": "2023-09-29T07:00:00.000Z"
@@ -7004,7 +7004,7 @@
     "code": "at",
     "svspc": "SV",
     "region": "Vorarlberg",
-    "districts": "Bludenz, Bregenz, Dornbirn, Feldkirch.",
+    "districts": "Bludenz, Bregenz, Dornbirn, Feldkirch, Hohenems. ",
     "publish": "Yes",
     "datestart": "2023-03-02T08:00:00.000Z",
     "dateend": "2023-09-29T07:00:00.000Z"
@@ -7309,6 +7309,16 @@
     "publish": "Yes",
     "datestart": "2023-02-01T08:00:00.000Z",
     "dateend": "2023-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "España",
+    "code": "ES",
+    "svspc": "SV",
+    "region": "Islas Canarias",
+    "districts": "Santa Cruz de Tenerife, Lanzarote, Fuerteventura, Arrecife, El Golfo, Puerto de Rosario, Morro Jable, Jandia, Telde, Maspalomas, Gáldar",
+    "publish": "Yes",
+    "datestart": "2023-03-29T07:00:00.000Z",
+    "dateend": "2023-04-30T07:00:00.000Z"
   },
   {
     "country": "United States",
@@ -8048,8 +8058,8 @@
     "country": "Ireland",
     "code": "ie",
     "svspc": "SV",
-    "region": "Dublin",
-    "districts": "Dublin",
+    "region": "Carlow",
+    "districts": "Carlow",
     "publish": "Yes",
     "datestart": "2023-03-07T08:00:00.000Z",
     "dateend": "2023-11-30T08:00:00.000Z"
@@ -8058,8 +8068,18 @@
     "country": "Ireland",
     "code": "ie",
     "svspc": "SV",
-    "region": "Limerick",
-    "districts": "Limerick",
+    "region": "Cavan",
+    "districts": "Cavan",
+    "publish": "Yes",
+    "datestart": "2023-03-07T08:00:00.000Z",
+    "dateend": "2023-11-30T08:00:00.000Z"
+  },
+  {
+    "country": "Ireland",
+    "code": "ie",
+    "svspc": "SV",
+    "region": "Clare",
+    "districts": "Ennis",
     "publish": "Yes",
     "datestart": "2023-03-07T08:00:00.000Z",
     "dateend": "2023-11-30T08:00:00.000Z"
@@ -8078,8 +8098,18 @@
     "country": "Ireland",
     "code": "ie",
     "svspc": "SV",
-    "region": "Tipperary",
-    "districts": "Tipperary",
+    "region": "Donnegal",
+    "districts": "Lifford, Letterkenny",
+    "publish": "Yes",
+    "datestart": "2023-03-07T08:00:00.000Z",
+    "dateend": "2023-11-30T08:00:00.000Z"
+  },
+  {
+    "country": "Ireland",
+    "code": "ie",
+    "svspc": "SV",
+    "region": "Dublin",
+    "districts": "Dublin",
     "publish": "Yes",
     "datestart": "2023-03-07T08:00:00.000Z",
     "dateend": "2023-11-30T08:00:00.000Z"
@@ -8098,8 +8128,188 @@
     "country": "Ireland",
     "code": "ie",
     "svspc": "SV",
-    "region": "Ulster",
-    "districts": "Antrim, Armagh, Cavan, Derry (also known as Londonderry), Donegal, Down, Fermanagh, Monaghan, and Tyrone",
+    "region": "Kerry",
+    "districts": "Tralee",
+    "publish": "Yes",
+    "datestart": "2023-03-07T08:00:00.000Z",
+    "dateend": "2023-11-30T08:00:00.000Z"
+  },
+  {
+    "country": "Ireland",
+    "code": "ie",
+    "svspc": "SV",
+    "region": "Kildare",
+    "districts": "Naas, Newbridge",
+    "publish": "Yes",
+    "datestart": "2023-03-07T08:00:00.000Z",
+    "dateend": "2023-11-30T08:00:00.000Z"
+  },
+  {
+    "country": "Ireland",
+    "code": "ie",
+    "svspc": "SV",
+    "region": "Kilkenny",
+    "districts": "Kilkenny",
+    "publish": "Yes",
+    "datestart": "2023-03-07T08:00:00.000Z",
+    "dateend": "2023-11-30T08:00:00.000Z"
+  },
+  {
+    "country": "Ireland",
+    "code": "ie",
+    "svspc": "SV",
+    "region": "Laois",
+    "districts": "Portlaoise",
+    "publish": "Yes",
+    "datestart": "2023-03-07T08:00:00.000Z",
+    "dateend": "2023-11-30T08:00:00.000Z"
+  },
+  {
+    "country": "Ireland",
+    "code": "ie",
+    "svspc": "SV",
+    "region": "Leitrim",
+    "districts": "Carrick-on-Shannon",
+    "publish": "Yes",
+    "datestart": "2023-03-07T08:00:00.000Z",
+    "dateend": "2023-11-30T08:00:00.000Z"
+  },
+  {
+    "country": "Ireland",
+    "code": "ie",
+    "svspc": "SV",
+    "region": "Limerick",
+    "districts": "Limerick",
+    "publish": "Yes",
+    "datestart": "2023-03-07T08:00:00.000Z",
+    "dateend": "2023-11-30T08:00:00.000Z"
+  },
+  {
+    "country": "Ireland",
+    "code": "ie",
+    "svspc": "SV",
+    "region": "Longford",
+    "districts": "Longford",
+    "publish": "Yes",
+    "datestart": "2023-03-07T08:00:00.000Z",
+    "dateend": "2023-11-30T08:00:00.000Z"
+  },
+  {
+    "country": "Ireland",
+    "code": "ie",
+    "svspc": "SV",
+    "region": "Louth",
+    "districts": "Dundalk, Drogheda",
+    "publish": "Yes",
+    "datestart": "2023-03-07T08:00:00.000Z",
+    "dateend": "2023-11-30T08:00:00.000Z"
+  },
+  {
+    "country": "Ireland",
+    "code": "ie",
+    "svspc": "SV",
+    "region": "Mayo",
+    "districts": "Castlebar",
+    "publish": "Yes",
+    "datestart": "2023-03-07T08:00:00.000Z",
+    "dateend": "2023-11-30T08:00:00.000Z"
+  },
+  {
+    "country": "Ireland",
+    "code": "ie",
+    "svspc": "SV",
+    "region": "Meath",
+    "districts": "Navan",
+    "publish": "Yes",
+    "datestart": "2023-03-07T08:00:00.000Z",
+    "dateend": "2023-11-30T08:00:00.000Z"
+  },
+  {
+    "country": "Ireland",
+    "code": "ie",
+    "svspc": "SV",
+    "region": "Monaghan",
+    "districts": "Monaghan",
+    "publish": "Yes",
+    "datestart": "2023-03-07T08:00:00.000Z",
+    "dateend": "2023-11-30T08:00:00.000Z"
+  },
+  {
+    "country": "Ireland",
+    "code": "ie",
+    "svspc": "SV",
+    "region": "Offaly",
+    "districts": "Tullamore",
+    "publish": "Yes",
+    "datestart": "2023-03-07T08:00:00.000Z",
+    "dateend": "2023-11-30T08:00:00.000Z"
+  },
+  {
+    "country": "Ireland",
+    "code": "ie",
+    "svspc": "SV",
+    "region": "Roscommon",
+    "districts": "Roscommon",
+    "publish": "Yes",
+    "datestart": "2023-03-07T08:00:00.000Z",
+    "dateend": "2023-11-30T08:00:00.000Z"
+  },
+  {
+    "country": "Ireland",
+    "code": "ie",
+    "svspc": "SV",
+    "region": "Sligo",
+    "districts": "Sligo",
+    "publish": "Yes",
+    "datestart": "2023-03-07T08:00:00.000Z",
+    "dateend": "2023-11-30T08:00:00.000Z"
+  },
+  {
+    "country": "Ireland",
+    "code": "ie",
+    "svspc": "SV",
+    "region": "Tipperary",
+    "districts": "Nenagh, Clonmel",
+    "publish": "Yes",
+    "datestart": "2023-03-07T08:00:00.000Z",
+    "dateend": "2023-11-30T08:00:00.000Z"
+  },
+  {
+    "country": "Ireland",
+    "code": "ie",
+    "svspc": "SV",
+    "region": "Waterford",
+    "districts": "Waterford",
+    "publish": "Yes",
+    "datestart": "2023-03-07T08:00:00.000Z",
+    "dateend": "2023-11-30T08:00:00.000Z"
+  },
+  {
+    "country": "Ireland",
+    "code": "ie",
+    "svspc": "SV",
+    "region": "Westmeath",
+    "districts": "Mullingar, Athlone",
+    "publish": "Yes",
+    "datestart": "2023-03-07T08:00:00.000Z",
+    "dateend": "2023-11-30T08:00:00.000Z"
+  },
+  {
+    "country": "Ireland",
+    "code": "ie",
+    "svspc": "SV",
+    "region": "Wexford",
+    "districts": "Wexford",
+    "publish": "Yes",
+    "datestart": "2023-03-07T08:00:00.000Z",
+    "dateend": "2023-11-30T08:00:00.000Z"
+  },
+  {
+    "country": "Ireland",
+    "code": "ie",
+    "svspc": "SV",
+    "region": "Wicklow",
+    "districts": "Wicklow, Bray",
     "publish": "Yes",
     "datestart": "2023-03-07T08:00:00.000Z",
     "dateend": "2023-11-30T08:00:00.000Z"
@@ -8189,7 +8399,7 @@
     "code": "IT",
     "svspc": "SV",
     "region": "Veneto",
-    "districts": "Belluno, Padova, Rovigo, Treviso, Venezia, Verona, Vicenza, Legnago, Vittorio Veneto, Ferrara, Pordenone, Trento, Lignano Sabbiadoro",
+    "districts": "Belluno, Padova, Venezia, Verona, Vicenza, Legnago, Vittorio Veneto, Ferrara",
     "publish": "Yes",
     "datestart": "2023-03-14T07:00:00.000Z",
     "dateend": "2023-11-03T07:00:00.000Z"
@@ -8209,7 +8419,7 @@
     "code": "IT",
     "svspc": "SV",
     "region": "Piemonte",
-    "districts": "Alessandria, Asti, Biella, Cuneo, Novara, Torino, Varese, Alba, Vercelli, Savona, Susa, Ivrea, Fossano, Acqui Terme, Lanzo Torinese",
+    "districts": " Alessandria, Asti, Biella, Cuneo, Torino, Varese, Alba, Savona, Ivrea, Fossano, Acqui Terme",
     "publish": "Yes",
     "datestart": "2023-03-14T07:00:00.000Z",
     "dateend": "2023-11-03T07:00:00.000Z"
@@ -8259,7 +8469,7 @@
     "code": "IT",
     "svspc": "SV",
     "region": "Friuli-Venezia Giulia",
-    "districts": "Gorizia, Pordenone, Trieste, Udine, Tolmezzo, Gemona, Lignano Sabbiadoro, Spilimbergo, Codroipo, Pontebba, Tarvisio",
+    "districts": "Pordenone, Tolmezzo, Gemona, Spilimbergo, Tarvisio",
     "publish": "Yes",
     "datestart": "2023-03-14T07:00:00.000Z",
     "dateend": "2023-11-03T07:00:00.000Z"
@@ -9006,7 +9216,7 @@
     "code": "de",
     "svspc": "SV",
     "region": "Nordrhein-Westfalen",
-    "districts": "Cologne, Neanderthal, Porta Westfalica, Rhine-Ruhr, Ruhr Bereich, Rhineland, Westphalia",
+    "districts": "Aachen, Bielefeld, Bochum, Bonn, Bottrop, Dortmund, Duisburg, Düsseldorf, Essen, Gelsenkirchen, Hagen, Hamm, Herne, Köln (Cologne), Krefeld, Leverkusen, Mönchengladbach, Mülheim, Münster, Oberhausen, Remscheid, Solingen, Wuppertal",
     "publish": "Yes",
     "datestart": "2023-06-08T07:00:00.000Z",
     "dateend": "2023-10-10T07:00:00.000Z"
@@ -9096,7 +9306,7 @@
     "code": "hu",
     "svspc": "SV",
     "region": "Észak-Magyarország",
-    "districts": "Miskolc, Eger",
+    "districts": " Borsod-Abaúj-Zemplén, Heves, Nógrád.",
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
     "dateend": "2023-09-01T07:00:00.000Z"
@@ -9106,7 +9316,7 @@
     "code": "hu",
     "svspc": "SV",
     "region": "Észak-Alföld",
-    "districts": "Debrecen, Szolnok, Nyiregyhaza",
+    "districts": "Hajdú-Bihar, Jász-Nagykun-Szolnok, Szabolcs-Szatmár-Bereg.",
     "publish": "Yes",
     "datestart": "2023-03-02T08:00:00.000Z",
     "dateend": "2023-09-02T07:00:00.000Z"
@@ -9116,7 +9326,7 @@
     "code": "hu",
     "svspc": "SV",
     "region": "Dél-Alföld",
-    "districts": "Szeged, Bekescsaba, Szentes, Kecskemet, Csongrad",
+    "districts": "Bács-Kiskun megye, Csongrád-Csanád megye, Békés megye.",
     "publish": "Yes",
     "datestart": "2023-03-03T08:00:00.000Z",
     "dateend": "2023-09-03T07:00:00.000Z"
@@ -9146,7 +9356,7 @@
     "code": "hu",
     "svspc": "SV",
     "region": "Közép-Magyarország",
-    "districts": "Budapest",
+    "districts": "Budapest, Pest megye.\n",
     "publish": "Yes",
     "datestart": "2023-03-04T08:00:00.000Z",
     "dateend": "2023-09-04T07:00:00.000Z"
@@ -9156,7 +9366,7 @@
     "code": "hu",
     "svspc": "SV",
     "region": "Közép-Dunántúl",
-    "districts": "Székesfehérvár, Veszprem, Tatabanya",
+    "districts": "Fejér megye, Komárom-Esztergom megye, Veszprém megye.",
     "publish": "Yes",
     "datestart": "2023-03-05T08:00:00.000Z",
     "dateend": "2023-09-05T07:00:00.000Z"
@@ -9166,7 +9376,7 @@
     "code": "hu",
     "svspc": "SV",
     "region": "Nyugat-Dunántúl",
-    "districts": "Győr, Szombathely, Sopron",
+    "districts": "Győr-Moson-Sopron megye, Vas megye, Zala megye.",
     "publish": "Yes",
     "datestart": "2023-03-06T08:00:00.000Z",
     "dateend": "2023-09-06T07:00:00.000Z"
@@ -9176,7 +9386,7 @@
     "code": "hu",
     "svspc": "SV",
     "region": "Dél-Dunántúl",
-    "districts": "Pécs, Dombovar, Szekszard, Kaposvar, Nagyatad",
+    "districts": "Baranya megye, Somogy megye, Tolna megye.",
     "publish": "Yes",
     "datestart": "2023-03-07T08:00:00.000Z",
     "dateend": "2023-09-07T07:00:00.000Z"
@@ -13310,16 +13520,6 @@
     "dateend": "2023-09-30T07:00:00.000Z"
   },
   {
-    "country": "United States",
-    "code": "us",
-    "svspc": "SV",
-    "region": "Vermont",
-    "districts": "Burlington, Wilmington, Springfield",
-    "publish": "Yes",
-    "datestart": "2023-06-07T07:00:00.000Z",
-    "dateend": "2023-10-31T07:00:00.000Z"
-  },
-  {
     "country": "България",
     "code": "bg",
     "svspc": "SV",
@@ -13458,6 +13658,16 @@
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
     "dateend": "2023-09-30T07:00:00.000Z"
+  },
+  {
+    "country": "United States",
+    "code": "us",
+    "svspc": "SV",
+    "region": "Vermont",
+    "districts": "Burlington, Wilmington, Springfield",
+    "publish": "Yes",
+    "datestart": "2023-06-07T07:00:00.000Z",
+    "dateend": "2023-10-31T07:00:00.000Z"
   },
   {
     "country": "ישראל ",
@@ -15942,15 +16152,5 @@
     "publish": "Yes",
     "datestart": "2023-03-01T08:00:00.000Z",
     "dateend": "2023-09-30T07:00:00.000Z"
-  },
-  {
-    "country": "España",
-    "code": "ES",
-    "svspc": "SV",
-    "region": "Islas Canarias",
-    "districts": "Santa Cruz de Tenerife, Lanzarote, Fuerteventura, Arrecife, El Golfo, Puerto de Rosario, Morro Jable, Jandia, Telde, Maspalomas, Gáldar",
-    "publish": "Yes",
-    "datestart": "2023-03-29T07:00:00.000Z",
-    "dateend": "2023-04-30T07:00:00.000Z"
   }
 ]
