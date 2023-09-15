@@ -13250,16 +13250,6 @@
     "publish": "No"
   },
   {
-    "country": "Romania",
-    "code": "RO",
-    "svspc": "SV",
-    "region": "Vâlcea County",
-    "districts": "Râmnicu Vâlcea, Drăgășani",
-    "publish": "Yes",
-    "datestart": "2023-03-27T07:00:00.000Z",
-    "dateend": "2023-07-01T07:00:00.000Z"
-  },
-  {
     "country": "Ελλάδα",
     "code": "GR",
     "svspc": "SV",
@@ -13297,24 +13287,26 @@
     "svspc": "SV",
     "region": "Ανατολική Μακεδονία και Θράκη",
     "districts": "Κομοτηνή, Αλεξανδρούπολη, Καβάλα, Ξάνθη",
-    "publish": "Yes",
-    "datestart": "2023-09-01T07:00:00.000Z",
-    "dateend": "2023-09-01T07:00:00.000Z"
+    "publish": "No",
+    "datestart": "2023-08-01T07:00:00.000Z",
+    "dateend": "2023-08-31T07:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
     "code": "GR",
     "svspc": "SV",
     "region": "Βορείου Αιγαίου",
-    "districts": "Λέσβος / Μυτιλήνη",
-    "publish": "No"
+    "districts": "Λέσβος / Χίος",
+    "publish": "Yes",
+    "datestart": "2023-09-01T07:00:00.000Z",
+    "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
     "code": "GR",
     "svspc": "SV",
     "region": "Πελοπόννησος",
-    "districts": "Τρίπολη",
+    "districts": "Τρίπολη, Μολάοι, Σπάρτη",
     "publish": "Yes",
     "datestart": "2023-07-01T07:00:00.000Z",
     "dateend": "2023-09-30T07:00:00.000Z"
@@ -13377,7 +13369,9 @@
     "svspc": "SV",
     "region": "Νησιά Ιονίου",
     "districts": "Κέρκυρα, Λευκάδα",
-    "publish": "No"
+    "publish": "No",
+    "datestart": "2023-06-01T07:00:00.000Z",
+    "dateend": "2023-06-01T07:00:00.000Z"
   },
   {
     "country": "България",
