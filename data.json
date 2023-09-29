@@ -11849,7 +11849,7 @@
     "svspc": "SV",
     "region": "Xinzhu",
     "districts": "Dong Qu, Zhu Bei Shi, Zhu Dong Qu",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-04-07T07:00:00.000Z",
     "dateend": "2022-06-30T07:00:00.000Z"
   },
@@ -11859,7 +11859,7 @@
     "svspc": "SV",
     "region": "Taoyuan",
     "districts": "Long Tian Qu",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-03-03T08:00:00.000Z",
     "dateend": "2022-07-31T07:00:00.000Z"
   },
@@ -11869,7 +11869,7 @@
     "svspc": "SV",
     "region": "Pingdong",
     "districts": "Ping Dong Shi, ",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-02-07T08:00:00.000Z",
     "dateend": "2022-07-31T07:00:00.000Z"
   },
@@ -11879,7 +11879,7 @@
     "svspc": "SV",
     "region": "New Taipei",
     "districts": "San Chang Qu, Lou Zhou Qu",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-02-07T08:00:00.000Z",
     "dateend": "2022-08-02T07:00:00.000Z"
   },
@@ -11889,7 +11889,7 @@
     "svspc": "SV",
     "region": "Taipei",
     "districts": "Song Shan Qu, Shi Lin Qu",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-02-07T08:00:00.000Z",
     "dateend": "2022-08-02T07:00:00.000Z"
   },
@@ -11899,7 +11899,7 @@
     "svspc": "SV",
     "region": "Taichung",
     "districts": "Shu Lu Qu, Qiang Shu Qu",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-02-05T08:00:00.000Z",
     "dateend": "2022-08-02T07:00:00.000Z"
   },
@@ -11909,7 +11909,7 @@
     "svspc": "SV",
     "region": "Tainan",
     "districts": "Xin Yin Qu, Jia Li Qu, ",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-04-07T07:00:00.000Z",
     "dateend": "2022-08-02T07:00:00.000Z"
   },
@@ -12547,7 +12547,7 @@
     "svspc": "SV",
     "region": "Kaohsiung",
     "districts": "Taoyuan Qu, Zhong Li Qu, Da Yuan Qu",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-02-07T08:00:00.000Z",
     "dateend": "2022-09-12T07:00:00.000Z"
   },
@@ -12566,7 +12566,7 @@
     "svspc": "SV",
     "region": "Jiayi",
     "districts": "Mai Shan Qiang, ",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-02-07T08:00:00.000Z",
     "dateend": "2022-09-30T07:00:00.000Z"
   },
@@ -12576,7 +12576,7 @@
     "svspc": "SV",
     "region": "Hualien",
     "districts": "Xin Cheng Xiang, Fu Xi Xiang",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2022-05-08T07:00:00.000Z",
     "dateend": "2022-09-30T07:00:00.000Z"
   },
@@ -15155,9 +15155,9 @@
     "svspc": "SV",
     "region": "Taipei",
     "districts": "Zhong Shan Qu",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2023-01-01T08:00:00.000Z",
-    "dateend": "2023-12-01T08:00:00.000Z"
+    "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
     "country": "Taiwan",
@@ -15165,9 +15165,9 @@
     "svspc": "SV",
     "region": "New Taipei",
     "districts": "Lui Zhou Qu",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2023-01-01T08:00:00.000Z",
-    "dateend": "2023-12-01T08:00:00.000Z"
+    "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
     "country": "Taiwan",
@@ -15175,7 +15175,7 @@
     "svspc": "SV",
     "region": "Taoyuan",
     "districts": "Zhong Li Qu",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2023-01-01T08:00:00.000Z",
     "dateend": "2023-12-01T08:00:00.000Z"
   },
@@ -15205,9 +15205,9 @@
     "svspc": "SV",
     "region": "Taichung",
     "districts": "Xi Qu, Da Ya Qu",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2023-03-05T08:00:00.000Z",
-    "dateend": "2023-12-01T08:00:00.000Z"
+    "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
     "country": "Taiwan",
@@ -15215,9 +15215,9 @@
     "svspc": "SV",
     "region": "Nantou",
     "districts": "Ji Ji Zhen, Nantou Shi",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2023-07-05T07:00:00.000Z",
-    "dateend": "2023-12-01T08:00:00.000Z"
+    "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
     "country": "Taiwan",
@@ -15225,9 +15225,9 @@
     "svspc": "SV",
     "region": "Zhanghua",
     "districts": "Hui Mei Zhen",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2023-07-05T07:00:00.000Z",
-    "dateend": "2023-12-01T08:00:00.000Z"
+    "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
     "country": "Taiwan",
@@ -15235,9 +15235,9 @@
     "svspc": "SV",
     "region": "Chiayi",
     "districts": "Dong Shi Xiang",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2023-04-06T07:00:00.000Z",
-    "dateend": "2023-12-01T08:00:00.000Z"
+    "dateend": "2023-08-01T07:00:00.000Z"
   },
   {
     "country": "Taiwan",
@@ -15255,9 +15255,9 @@
     "svspc": "SV",
     "region": "Kaohsiung",
     "districts": "Da Shu Qu, Qi Shan Qu",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2023-04-06T07:00:00.000Z",
-    "dateend": "2023-12-01T08:00:00.000Z"
+    "dateend": "2023-07-21T07:00:00.000Z"
   },
   {
     "country": "Taiwan",
@@ -15265,9 +15265,9 @@
     "svspc": "SV",
     "region": "Pingdong",
     "districts": "Xin Pi Xiang",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2023-04-06T07:00:00.000Z",
-    "dateend": "2023-12-01T08:00:00.000Z"
+    "dateend": "2023-08-01T07:00:00.000Z"
   },
   {
     "country": "Taiwan",
@@ -15275,9 +15275,9 @@
     "svspc": "SV",
     "region": "Yilan",
     "districts": "Lou Dong Zhen",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2023-08-01T07:00:00.000Z",
-    "dateend": "2023-12-31T08:00:00.000Z"
+    "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
     "country": "Taiwan",
