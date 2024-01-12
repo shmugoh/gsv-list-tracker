@@ -14600,6 +14600,45 @@
     "dateend": "2023-08-31T07:00:00.000Z"
   },
   {
+    "country": "Taiwan",
+    "code": "TW",
+    "svspc": "SV",
+    "region": "New Taipei",
+    "districts": "Lin Kou Qu, Xi Zhi Qu",
+    "publish": "Yes",
+    "datestart": "2024-01-02T08:00:00.000Z",
+    "dateend": "2024-04-01T07:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "TW",
+    "svspc": "SV",
+    "region": "Zhanghua County",
+    "publish": "No",
+    "datestart": "2024-01-15T08:00:00.000Z",
+    "dateend": "2024-04-01T07:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "TW",
+    "svspc": "SV",
+    "region": "Yun Lin County",
+    "districts": "Hu Wei Zhen",
+    "publish": "Yes",
+    "datestart": "2024-01-02T08:00:00.000Z",
+    "dateend": "2024-04-01T07:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "TW",
+    "svspc": "SV",
+    "region": "Ping Dong County",
+    "districts": "Jiu Ru Zhen, Jis Dong Xiang",
+    "publish": "Yes",
+    "datestart": "2024-01-02T08:00:00.000Z",
+    "dateend": "2024-04-01T07:00:00.000Z"
+  },
+  {
     "country": "Thailand",
     "code": "TH",
     "svspc": "SV",
