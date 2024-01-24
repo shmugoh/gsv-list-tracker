@@ -11,5 +11,3 @@ in specific countries that were not previously listed, such
 as Nigeria, Kenya, Senegal, Panama, Peru, and others.
 
 Access the changes tracked [here](https://github.com/juanpisuribe13/gsv-list-tracker/commits/main/data.json).
-
-test
