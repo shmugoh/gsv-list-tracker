@@ -2228,7 +2228,7 @@
     "districts": "Tallinn, Keila, Maardu, Paldiski, Saue, Loksa, Kehra, Laagri, Harku, Viimsi, Jõelähtme, Kiili",
     "publish": "No",
     "datestart": "2024-04-09T07:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
+    "dateend": "2024-09-20T07:00:00.000Z"
   },
   {
     "country": "Estonia",
@@ -2238,37 +2238,37 @@
     "districts": "Kärdla, Kõrgessaare, Käina, Emmaste, Pühalepa, Kõpu, Suuremõisa, Tärkma, Salme",
     "publish": "No",
     "datestart": "2024-04-09T07:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
+    "dateend": "2024-09-20T07:00:00.000Z"
   },
   {
     "country": "Estonia",
     "code": "EE",
     "svspc": "SV",
     "region": "Ida-Viru",
-    "districts": "Narva, Kohtla-Järve, Jõhvi, Sillamäe, Rakvere, Kiviõli, Tapa, Püssi, Narva-Jõesuu, Aseri, Kunda, Toila, Vaivara, Maidla, Sonda, Illuka, Avinurme, Mäetaguse, Lüganuse, Rägavere",
-    "publish": "No",
+    "districts": "Rakvere, Kiviõli, Tapa, Püssi, Aseri, Kunda, Maidla, Sonda, Lüganuse, Rägavere",
+    "publish": "Yes",
     "datestart": "2024-04-09T07:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
+    "dateend": "2024-09-20T07:00:00.000Z"
   },
   {
     "country": "Estonia",
     "code": "EE",
     "svspc": "SV",
     "region": "Järva",
-    "districts": "Paide, Türi, Koeru, Paide vald, Järva-Jaani, Roosna-Alliku, Kareda, Ambla, Albu, Väätsa, Türi vald, Järva-Madise, Koigi, Kabala, Imavere, Kõo",
-    "publish": "No",
+    "districts": "Paide, Türi, Koeru, Paide vald, Järva-Jaani, Roosna-Alliku, Kareda, Ambla, Albu, Väätsa, Türi vald, Järva-Madise, Koigi, Kabala, Imavere",
+    "publish": "Yes",
     "datestart": "2024-08-01T07:00:00.000Z",
-    "dateend": "2024-09-30T07:00:00.000Z"
+    "dateend": "2024-09-20T07:00:00.000Z"
   },
   {
     "country": "Estonia",
     "code": "EE",
     "svspc": "SV",
     "region": "Jõgeva",
-    "districts": "Jõgeva, Mustvee, Põltsamaa, Pajusi, Palamuse, Torma, Tabivere, Puurmani, Saare, Laiuse, Jõgeva vald, Jõgeva-Järve, Kuremaa",
-    "publish": "No",
+    "districts": "Jõgeva, Põltsamaa, Pajusi, Puurmani, Laiuse",
+    "publish": "Yes",
     "datestart": "2024-04-09T07:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
+    "dateend": "2024-09-20T07:00:00.000Z"
   },
   {
     "country": "Estonia",
@@ -2278,7 +2278,7 @@
     "districts": "Haapsalu, Haapsalu vald, Lihula, Taebla, Vormsi, Ridala, Nõva, Martna, Kullamaa, Noarootsi, Lääne-Nigula, Oru, Risti, Kõmsi, Palivere, Uuemõisa",
     "publish": "Yes",
     "datestart": "2024-04-09T07:00:00.000Z",
-    "dateend": "2024-07-31T07:00:00.000Z"
+    "dateend": "2024-09-20T07:00:00.000Z"
   },
   {
     "country": "Estonia",
@@ -2288,17 +2288,17 @@
     "districts": "Võru, Rääptsova, Räpina, Valga, Vana-Vastseliina, Värska",
     "publish": "No",
     "datestart": "2024-10-01T07:00:00.000Z",
-    "dateend": "2024-11-30T08:00:00.000Z"
+    "dateend": "2024-09-20T07:00:00.000Z"
   },
   {
     "country": "Estonia",
     "code": "EE",
     "svspc": "SV",
     "region": "Lääne-Viru",
-    "districts": "Rakvere, Kunda, Tapa, Tamsalu, Viru-Nigula, Vinni, Haljala, Kadrina, Sõmeru, Laekvere, Vihula, Roosna-Alliku",
+    "districts": "Rakvere, Tamsalu, Viru-Nigula, Vinni, Kadrina, Sõmeru, Laekvere, Roosna-Alliku",
     "publish": "No",
     "datestart": "2024-04-09T07:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
+    "dateend": "2024-09-20T07:00:00.000Z"
   },
   {
     "country": "Estonia",
@@ -2308,7 +2308,7 @@
     "districts": "Pärnu, Sindi, Pärnu-Jaagupi, Paikuse, Audru, Tõstamaa, Lavassaare, Tootsi, Vändra, Saarde, Are, Koonga, Kihnu, Häädemeeste, Varbla, Tahkuranna, Audru vald, Tori, Tori vald, Surju",
     "publish": "No",
     "datestart": "2024-04-09T07:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
+    "dateend": "2024-09-20T07:00:00.000Z"
   },
   {
     "country": "Estonia",
@@ -2318,7 +2318,7 @@
     "districts": "Põlva",
     "publish": "No",
     "datestart": "2024-04-09T07:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
+    "dateend": "2024-09-20T07:00:00.000Z"
   },
   {
     "country": "Estonia",
@@ -2328,7 +2328,7 @@
     "districts": "Rapla",
     "publish": "No",
     "datestart": "2024-04-09T07:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
+    "dateend": "2024-09-20T07:00:00.000Z"
   },
   {
     "country": "Estonia",
@@ -2338,7 +2338,7 @@
     "districts": "Kuressaare",
     "publish": "No",
     "datestart": "2024-04-09T07:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
+    "dateend": "2024-09-20T07:00:00.000Z"
   },
   {
     "country": "Estonia",
@@ -2348,7 +2348,7 @@
     "districts": "Tartu",
     "publish": "No",
     "datestart": "2024-04-09T07:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
+    "dateend": "2024-09-20T07:00:00.000Z"
   },
   {
     "country": "Estonia",
@@ -2358,7 +2358,7 @@
     "districts": "Valga",
     "publish": "No",
     "datestart": "2024-04-09T07:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
+    "dateend": "2024-09-20T07:00:00.000Z"
   },
   {
     "country": "Estonia",
@@ -2368,7 +2368,7 @@
     "districts": "Viljandi",
     "publish": "No",
     "datestart": "2024-04-09T07:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
+    "dateend": "2024-09-20T07:00:00.000Z"
   },
   {
     "country": "Finland",
@@ -4044,9 +4044,9 @@
     "svspc": "SV",
     "region": "Carlow",
     "districts": "Carlow",
-    "publish": "No",
-    "datestart": "2023-03-07T08:00:00.000Z",
-    "dateend": "2023-10-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-04-18T07:00:00.000Z",
+    "dateend": "2024-10-30T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -4054,9 +4054,9 @@
     "svspc": "SV",
     "region": "Cavan",
     "districts": "Cavan",
-    "publish": "No",
-    "datestart": "2023-03-07T08:00:00.000Z",
-    "dateend": "2023-10-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-04-18T07:00:00.000Z",
+    "dateend": "2024-10-30T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -4064,9 +4064,9 @@
     "svspc": "SV",
     "region": "Clare",
     "districts": "Ennis",
-    "publish": "No",
-    "datestart": "2023-03-07T08:00:00.000Z",
-    "dateend": "2023-10-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-04-18T07:00:00.000Z",
+    "dateend": "2024-10-30T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -4074,9 +4074,9 @@
     "svspc": "SV",
     "region": "Cork",
     "districts": "Cork",
-    "publish": "No",
-    "datestart": "2023-03-07T08:00:00.000Z",
-    "dateend": "2023-10-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-04-18T07:00:00.000Z",
+    "dateend": "2024-10-30T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -4085,8 +4085,8 @@
     "region": "Donnegal",
     "districts": "Lifford, Letterkenny",
     "publish": "No",
-    "datestart": "2023-03-07T08:00:00.000Z",
-    "dateend": "2023-10-30T07:00:00.000Z"
+    "datestart": "2024-04-18T07:00:00.000Z",
+    "dateend": "2024-10-30T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -4094,9 +4094,9 @@
     "svspc": "SV",
     "region": "Dublin",
     "districts": "Dublin",
-    "publish": "No",
-    "datestart": "2023-03-07T08:00:00.000Z",
-    "dateend": "2023-10-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-04-18T07:00:00.000Z",
+    "dateend": "2024-10-30T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -4104,9 +4104,9 @@
     "svspc": "SV",
     "region": "Galway",
     "districts": "Galway",
-    "publish": "No",
-    "datestart": "2023-03-07T08:00:00.000Z",
-    "dateend": "2023-10-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-04-18T07:00:00.000Z",
+    "dateend": "2024-10-30T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -4115,8 +4115,8 @@
     "region": "Kerry",
     "districts": "Tralee",
     "publish": "No",
-    "datestart": "2023-03-07T08:00:00.000Z",
-    "dateend": "2023-10-30T07:00:00.000Z"
+    "datestart": "2024-04-18T07:00:00.000Z",
+    "dateend": "2024-10-30T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -4124,9 +4124,9 @@
     "svspc": "SV",
     "region": "Kildare",
     "districts": "Naas, Newbridge",
-    "publish": "No",
-    "datestart": "2023-03-07T08:00:00.000Z",
-    "dateend": "2023-10-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-04-18T07:00:00.000Z",
+    "dateend": "2024-10-30T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -4135,8 +4135,8 @@
     "region": "Kilkenny",
     "districts": "Kilkenny",
     "publish": "No",
-    "datestart": "2023-03-07T08:00:00.000Z",
-    "dateend": "2023-10-30T07:00:00.000Z"
+    "datestart": "2024-04-18T07:00:00.000Z",
+    "dateend": "2024-10-30T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -4144,9 +4144,9 @@
     "svspc": "SV",
     "region": "Laois",
     "districts": "Portlaoise",
-    "publish": "No",
-    "datestart": "2023-03-07T08:00:00.000Z",
-    "dateend": "2023-10-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-04-18T07:00:00.000Z",
+    "dateend": "2024-10-30T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -4154,9 +4154,9 @@
     "svspc": "SV",
     "region": "Leitrim",
     "districts": "Carrick-on-Shannon",
-    "publish": "No",
-    "datestart": "2023-03-07T08:00:00.000Z",
-    "dateend": "2023-10-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-04-18T07:00:00.000Z",
+    "dateend": "2024-10-30T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -4164,9 +4164,9 @@
     "svspc": "SV",
     "region": "Limerick",
     "districts": "Limerick",
-    "publish": "No",
-    "datestart": "2023-03-07T08:00:00.000Z",
-    "dateend": "2023-10-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-04-18T07:00:00.000Z",
+    "dateend": "2024-10-30T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -4174,9 +4174,9 @@
     "svspc": "SV",
     "region": "Longford",
     "districts": "Longford",
-    "publish": "No",
-    "datestart": "2023-03-07T08:00:00.000Z",
-    "dateend": "2023-10-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-04-18T07:00:00.000Z",
+    "dateend": "2024-10-30T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -4185,8 +4185,8 @@
     "region": "Louth",
     "districts": "Dundalk, Drogheda",
     "publish": "No",
-    "datestart": "2023-03-07T08:00:00.000Z",
-    "dateend": "2023-10-30T07:00:00.000Z"
+    "datestart": "2024-04-18T07:00:00.000Z",
+    "dateend": "2024-10-30T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -4194,9 +4194,9 @@
     "svspc": "SV",
     "region": "Mayo",
     "districts": "Castlebar",
-    "publish": "No",
-    "datestart": "2023-03-07T08:00:00.000Z",
-    "dateend": "2023-10-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-04-18T07:00:00.000Z",
+    "dateend": "2024-10-30T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -4204,9 +4204,9 @@
     "svspc": "SV",
     "region": "Meath",
     "districts": "Navan",
-    "publish": "No",
-    "datestart": "2023-03-07T08:00:00.000Z",
-    "dateend": "2023-10-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-04-18T07:00:00.000Z",
+    "dateend": "2024-10-30T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -4215,8 +4215,8 @@
     "region": "Monaghan",
     "districts": "Monaghan",
     "publish": "No",
-    "datestart": "2023-03-07T08:00:00.000Z",
-    "dateend": "2023-10-30T07:00:00.000Z"
+    "datestart": "2024-04-18T07:00:00.000Z",
+    "dateend": "2024-10-30T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -4224,9 +4224,9 @@
     "svspc": "SV",
     "region": "Offaly",
     "districts": "Tullamore",
-    "publish": "No",
-    "datestart": "2023-03-07T08:00:00.000Z",
-    "dateend": "2023-10-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-04-18T07:00:00.000Z",
+    "dateend": "2024-10-30T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -4234,9 +4234,9 @@
     "svspc": "SV",
     "region": "Roscommon",
     "districts": "Roscommon",
-    "publish": "No",
-    "datestart": "2023-03-07T08:00:00.000Z",
-    "dateend": "2023-10-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-04-18T07:00:00.000Z",
+    "dateend": "2024-10-30T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -4244,9 +4244,9 @@
     "svspc": "SV",
     "region": "Sligo",
     "districts": "Sligo",
-    "publish": "No",
-    "datestart": "2023-03-07T08:00:00.000Z",
-    "dateend": "2023-10-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-04-18T07:00:00.000Z",
+    "dateend": "2024-10-30T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -4254,9 +4254,9 @@
     "svspc": "SV",
     "region": "Tipperary",
     "districts": "Nenagh, Clonmel",
-    "publish": "No",
-    "datestart": "2023-03-07T08:00:00.000Z",
-    "dateend": "2023-10-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-04-18T07:00:00.000Z",
+    "dateend": "2024-10-30T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -4264,9 +4264,9 @@
     "svspc": "SV",
     "region": "Waterford",
     "districts": "Waterford",
-    "publish": "No",
-    "datestart": "2023-03-07T08:00:00.000Z",
-    "dateend": "2023-10-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-04-18T07:00:00.000Z",
+    "dateend": "2024-10-30T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -4274,9 +4274,9 @@
     "svspc": "SV",
     "region": "Westmeath",
     "districts": "Mullingar, Athlone",
-    "publish": "No",
-    "datestart": "2023-03-07T08:00:00.000Z",
-    "dateend": "2023-10-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-04-18T07:00:00.000Z",
+    "dateend": "2024-10-30T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -4285,8 +4285,8 @@
     "region": "Wexford",
     "districts": "Wexford",
     "publish": "No",
-    "datestart": "2023-03-07T08:00:00.000Z",
-    "dateend": "2023-10-30T07:00:00.000Z"
+    "datestart": "2024-04-18T07:00:00.000Z",
+    "dateend": "2024-10-30T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -4294,9 +4294,9 @@
     "svspc": "SV",
     "region": "Wicklow",
     "districts": "Wicklow, Bray",
-    "publish": "No",
-    "datestart": "2023-03-07T08:00:00.000Z",
-    "dateend": "2023-10-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-04-18T07:00:00.000Z",
+    "dateend": "2024-10-30T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -4304,9 +4304,9 @@
     "svspc": "SV",
     "region": "Connacht",
     "districts": "Galway",
-    "publish": "No",
-    "datestart": "2023-03-07T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-04-18T07:00:00.000Z",
+    "dateend": "2024-10-30T07:00:00.000Z"
   },
   {
     "country": "Israel",
@@ -6587,7 +6587,7 @@
     "code": "pl",
     "svspc": "SV",
     "region": "dolnośląskie",
-    "districts": "Świdnica, Tyniec nad Ślęzą, Jordanów Śląski, Marcinowice, Ujeździec Mały, Żmigród, Dzierżoniów",
+    "districts": "Świdnica, Tyniec nad Ślęzą, Jordanów Śląski, Marcinowice, Ujeździec Mały, Żmigród, Dzierżoniów, Wrocław, Legnica, Bolesławiec",
     "publish": "Yes",
     "datestart": "2024-03-19T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
@@ -8455,7 +8455,7 @@
     "svspc": "SV",
     "region": "Zürich",
     "districts": "Zürich, Winterthur, Uster, Wetzikon, Dübendorf, Dietikon, Affoltern am Albis, Schlieren, Horgen, Bülach",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-15T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -8465,7 +8465,7 @@
     "svspc": "SV",
     "region": "Bern / Berne",
     "districts": "Bern, Biel/Bienne, Thun, Burgdorf, Langenthal, Interlaken, Olten, Neuchâtel, Fribourg.",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-15T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -8475,7 +8475,7 @@
     "svspc": "SV",
     "region": "Lucerne",
     "districts": "Lucerne, Emmen, Sursee, Wolhusen, Hochdorf, Kriens, Hergiswil, Ebikon, Altdorf, Sarnen",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-15T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -8505,7 +8505,7 @@
     "svspc": "SV",
     "region": "Obwalden",
     "districts": "Sarnen, Kerns, Alpnach, Sachseln, Engelberg, Giswil, Lungern, Stalden, Melchsee-Frutt, Grafenort, Alpnachstad",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-15T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -8525,7 +8525,7 @@
     "svspc": "SV",
     "region": "Glarus",
     "districts": "Glarus, Glarus Nord, Glarus Süd",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-15T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -8545,7 +8545,7 @@
     "svspc": "SV",
     "region": "Fribourg",
     "districts": "Fribourg, Bulle, Murten, Morat, Payerne, Romont, Villars-sur-Glâne",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-15T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -8595,7 +8595,7 @@
     "svspc": "SV",
     "region": "Appenzell Ausserrhoden",
     "districts": "Herisau, Trogen, Teufen, Gais, Urnäsch, Heiden, Appenzell, Lutzenberg, Rehetobel, Stein",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-15T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -8605,7 +8605,7 @@
     "svspc": "SV",
     "region": "Appenzell Innerrhoden",
     "districts": "Appenzell, Schwende, Rüte, Schlatt-Haslen, Brülisau, Gonten, Oberegg",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-15T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -8615,7 +8615,7 @@
     "svspc": "SV",
     "region": "St Gallen",
     "districts": "St. Gallen, Rorschach, Wil, Gossau, Buchs",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-15T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -8625,7 +8625,7 @@
     "svspc": "SV",
     "region": "Graubünden",
     "districts": "Chur, Davos, St. Moritz, Bellinzona, Brig, Thusis, Ilanz, Domat/Ems, Samedan, Laax, Churwalden, Flims",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-15T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -8645,7 +8645,7 @@
     "svspc": "SV",
     "region": "Thurgau",
     "districts": "Frauenfeld, Kreuzlingen, Arbon, Weinfelden, Romanshorn, Amriswil, Diessenhofen, Aadorf, Münchwilen, Sulgen, Wängi",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-15T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -8665,7 +8665,7 @@
     "svspc": "SV",
     "region": "Vaud",
     "districts": "Lausanne, Vevey, Yverdon-les-Bains, Nyon, Morges, Montreux, Bulle, Payerne, La Tour-de-Peilz, Aigle, Echallens",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-15T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -8675,7 +8675,7 @@
     "svspc": "SV",
     "region": "Valais / Wallis",
     "districts": "Sion, Martigny, Monthey, Sierre, Brig-Glis",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-15T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -8685,7 +8685,7 @@
     "svspc": "SV",
     "region": "Neuchâtel",
     "districts": "Neuchâtel, La Chaux-de-Fonds, Le Locle, Boudry, Yverdon-les-Bains",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-15T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -8695,7 +8695,7 @@
     "svspc": "SV",
     "region": "Genève",
     "districts": "Geneva, Carouge, Vernier, Meyrin, Onex",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-15T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
