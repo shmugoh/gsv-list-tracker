@@ -396,6 +396,16 @@
     "dateend": "2024-07-01T07:00:00.000Z"
   },
   {
+    "country": "Australia",
+    "code": "AU",
+    "svspc": "SV",
+    "region": "Tasmania",
+    "districts": "King Island, Flinders Island",
+    "publish": "Yes",
+    "datestart": "2024-03-01T08:00:00.000Z",
+    "dateend": "2024-05-01T07:00:00.000Z"
+  },
+  {
     "country": "Austria",
     "code": "at",
     "svspc": "SV",
@@ -1422,7 +1432,7 @@
     "region": "Roraima",
     "districts": "Boa Vista, Normandia, Pacaraima, Iracema, outros.",
     "publish": "Yes",
-    "datestart": "2024-03-01T08:00:00.000Z",
+    "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-12-27T08:00:00.000Z"
   },
   {
@@ -5358,7 +5368,7 @@
     "svspc": "SV",
     "region": "Észak-Magyarország",
     "districts": " Borsod-Abaúj-Zemplén, Heves, Nógrád.",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-23T07:00:00.000Z",
     "dateend": "2024-10-16T07:00:00.000Z"
   },
@@ -5368,7 +5378,7 @@
     "svspc": "SV",
     "region": "Észak-Alföld",
     "districts": "Hajdú-Bihar, Jász-Nagykun-Szolnok, Szabolcs-Szatmár-Bereg.",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-23T07:00:00.000Z",
     "dateend": "2024-10-16T07:00:00.000Z"
   },
@@ -5378,7 +5388,7 @@
     "svspc": "SV",
     "region": "Dél-Alföld",
     "districts": "Bács-Kiskun megye, Csongrád-Csanád megye, Békés megye.",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-23T07:00:00.000Z",
     "dateend": "2024-10-16T07:00:00.000Z"
   },
@@ -5388,7 +5398,7 @@
     "svspc": "SV",
     "region": "Közép-Magyarország",
     "districts": "Budapest, Pest megye.\n",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-23T07:00:00.000Z",
     "dateend": "2024-10-16T07:00:00.000Z"
   },
@@ -5398,7 +5408,7 @@
     "svspc": "SV",
     "region": "Közép-Dunántúl",
     "districts": "Fejér megye, Komárom-Esztergom megye, Veszprém megye.",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-23T07:00:00.000Z",
     "dateend": "2024-10-16T07:00:00.000Z"
   },
@@ -5408,7 +5418,7 @@
     "svspc": "SV",
     "region": "Nyugat-Dunántúl",
     "districts": "Győr-Moson-Sopron megye, Vas megye, Zala megye.",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-23T07:00:00.000Z",
     "dateend": "2024-10-16T07:00:00.000Z"
   },
@@ -5418,7 +5428,7 @@
     "svspc": "SV",
     "region": "Dél-Dunántúl",
     "districts": "Baranya megye, Somogy megye, Tolna megye.",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-23T07:00:00.000Z",
     "dateend": "2024-10-16T07:00:00.000Z"
   },
@@ -6048,181 +6058,181 @@
   },
   {
     "country": "Norge",
-    "code": "yes",
+    "code": "NO",
     "svspc": "SV",
     "region": "Finnmark",
     "districts": "Alta, Kautokeino, Talvik, Kunes, Olderfjord, Tana, Vadso, Hesseng, Øksfjord",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-23T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
   {
     "country": "Norge",
-    "code": "yes",
+    "code": "NO",
     "svspc": "SV",
     "region": "Troms",
     "districts": "Tromsø, Finnsnes, Oteren, Storslett, Nordkjosbotn, Lyngseidet, Harstad",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-23T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
   {
     "country": "Norge",
-    "code": "yes",
+    "code": "NO",
     "svspc": "SV",
     "region": "Nordland",
     "districts": "Bodo, Mo i Rana, Mosjøen, Narvik, Leinesfjord, Sortland,",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-23T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
   {
     "country": "Norge",
-    "code": "yes",
+    "code": "NO",
     "svspc": "SV",
     "region": "Trøndelag",
     "districts": "Trondheim, Meldal, Oppdal, Lundamo, Krokstadøra, Hommelvik",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-23T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
   {
     "country": "Norge",
-    "code": "yes",
+    "code": "NO",
     "svspc": "SV",
     "region": "Møre og Romsdal",
     "districts": "Alesund, Valldalen, Tresfjord, Vatne, Molde, Kanestraum, Kristiansund, Karvag",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-23T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
   {
     "country": "Norge",
-    "code": "yes",
+    "code": "NO",
     "svspc": "SV",
     "region": "Sogn og Fjordane",
     "districts": "Førde, Flåm, Leikanger, Skei, Askvoll, Måløy",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-23T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
   {
     "country": "Norge",
-    "code": "yes",
+    "code": "NO",
     "svspc": "SV",
     "region": "Hordaland",
     "districts": "Bergen, Odda, Leirvik, Etne, Vossevangen, Osterøy",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-23T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
   {
     "country": "Norge",
-    "code": "yes",
+    "code": "NO",
     "svspc": "SV",
     "region": "Rogaland",
     "districts": "Stavanger, Sokndal, Bryne, Lysebotn, Nesflaten, Vikedal, Egersund, Lund, Bjerkreim",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-23T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
   {
     "country": "Norge",
-    "code": "yes",
+    "code": "NO",
     "svspc": "SV",
     "region": "Vest-Agder",
     "districts": "Kristiansand, Flekkefjord, Lyngdal, Mandal, Farsund, Knaben, Tonstad, Ljosland, Sinnes",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-23T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
   {
     "country": "Norge",
-    "code": "yes",
+    "code": "NO",
     "svspc": "SV",
     "region": "Aust-Agder",
     "districts": "Grimstad, Lillesand, Engesland, Rysstad, Bykle, Akland, Tvedestrand",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-23T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
   {
     "country": "Norge",
-    "code": "yes",
+    "code": "NO",
     "svspc": "SV",
     "region": "Telemark",
     "districts": "Porsgrunn, Skien, Drangedal, Treungen, Kragero, Langesund, Stathelle, Dalen, Notodden",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-23T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
   {
     "country": "Norge",
-    "code": "yes",
+    "code": "NO",
     "svspc": "SV",
     "region": "Buskerud",
     "districts": "Drammen, Kongsberg, Noresund, Dagali, Åmot",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-23T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
   {
     "country": "Norge",
-    "code": "yes",
+    "code": "NO",
     "svspc": "SV",
     "region": "Hedmark",
     "districts": "Hamar, Elverum, Kongsvinger, Knapper, Flisa, Innbygda, Brumunddal, Tolga, Tynset",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-23T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
   {
     "country": "Norge",
-    "code": "yes",
+    "code": "NO",
     "svspc": "SV",
     "region": "Oppland",
     "districts": "Lillehammer, Dokka, Bagn, Brandbu, Fagernes",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-23T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
   {
     "country": "Norge",
-    "code": "yes",
+    "code": "NO",
     "svspc": "SV",
     "region": "Akershus",
     "districts": "Asker, Sandvika, Ski, Lillestrøm, Jessheim, Årnes, Fosser, Blaker",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-23T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
   {
     "country": "Norge",
-    "code": "yes",
+    "code": "NO",
     "svspc": "SV",
     "region": "Oslo",
     "districts": "Oslo",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-23T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
   {
     "country": "Norge",
-    "code": "yes",
+    "code": "NO",
     "svspc": "SV",
     "region": "Vestfold",
     "districts": "Sandefjord, Svarstad, Revetal, Tønsberg, Stokke, Nøtterøy, Sande",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-23T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
   {
     "country": "Norge",
-    "code": "yes",
+    "code": "NO",
     "svspc": "SV",
     "region": "Østfold",
     "districts": "Fredrikstad, Halden, Sarpsborg, Rygge, Moss, Askim, Mysen, Spydeberg",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-23T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -6476,20 +6486,20 @@
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Eastern Visayas",
-    "districts": "Sairgao Island, Mindanao",
+    "region": "Caraga",
+    "districts": "Bayuhan",
     "publish": "Yes",
-    "datestart": "2024-02-01T08:00:00.000Z",
+    "datestart": "2024-03-01T08:00:00.000Z",
     "dateend": "2024-03-31T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Eastern Visayas",
-    "districts": "Dinagat Island, Mindanao",
+    "region": "Caraga",
+    "districts": "Tagbina",
     "publish": "Yes",
-    "datestart": "2024-02-01T08:00:00.000Z",
+    "datestart": "2024-03-01T08:00:00.000Z",
     "dateend": "2024-03-31T07:00:00.000Z"
   },
   {
@@ -6516,21 +6526,21 @@
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Western Visayas",
-    "districts": "Valencia City, Mindanao",
+    "region": "Rizal",
+    "districts": "Rizal",
     "publish": "Yes",
-    "datestart": "2024-01-01T08:00:00.000Z",
-    "dateend": "2024-03-31T07:00:00.000Z"
+    "datestart": "2024-03-18T07:00:00.000Z",
+    "dateend": "2024-04-30T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Western Visayas",
-    "districts": "Valencia City, Mindanao",
+    "region": "Pangasinan",
+    "districts": "Pangasinan",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
-    "dateend": "2024-03-31T07:00:00.000Z"
+    "dateend": "2024-04-30T07:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -10288,7 +10298,7 @@
     "svspc": "SV",
     "region": "Republika Srpska",
     "districts": "Banja Luka, Bijeljina, Prijedor, Doboj, Gradiška, Trebinje",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-22T07:00:00.000Z",
     "dateend": "2024-09-30T07:00:00.000Z"
   },
@@ -10297,8 +10307,8 @@
     "code": "BA",
     "svspc": "SV",
     "region": "Federation of Bosnia and Herzegovina",
-    "districts": "Bihać, Tuzla, Mostar, Zenica, Živinice, Gračanica, Srebrenik, Gradačac, Visoko, Ljubuški, Čapljina, Derventa, Lukavac, Lukavac, Zavidovići, Konjic, Bosanska Krupa\n\n",
-    "publish": "No",
+    "districts": "Sarajevo, Bihać, Tuzla, Mostar, Zenica, Živinice, Gračanica, Srebrenik, Gradačac, Visoko, Ljubuški, Čapljina, Derventa, Lukavac, Lukavac, Zavidovići, Konjic, Bosanska Krupa\n\n",
+    "publish": "Yes",
     "datestart": "2024-04-22T07:00:00.000Z",
     "dateend": "2024-09-30T07:00:00.000Z"
   }
