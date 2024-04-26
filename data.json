@@ -2769,7 +2769,7 @@
     "code": "de",
     "svspc": "SV",
     "region": "Bayern",
-    "districts": "Oberfranken, Mittelfranken, Unterfranken, Schwaben, Oberpfalz, Oberbayern, Niederbayern",
+    "districts": "Oberfranken, Mittelfranken, UnteAichach-Friedberg, Altötting, Amberg, Amberg-Sulzbach, Ansbach, Aschaffenburg, Augsburg, Bad Kissingen, Bad Tölz-Wolfratshausen, Bamberg, Bayreuth, Berchtesgadener, Land Cham, Coburg, Dachau, Deggendorf, Dillingen, Dingolfing-Landau, Donau-Ries, Ebersberg, Eichstätt, Erding, Erlangen, Erlangen-Höchstadt, Forchheim, Freising, Freyung-Grafenau, Fürstenfeldbruck, Fürth, Garmisch-Partenkirchen, Günzburg, Haßberge, Hof, Ingolstadt, Kaufbeuren, Kelheim, Kempten, Kitzingen, Kronach, Kulmbach, Landsberg, Landshut, Lichtenfels Lindau, Main-Spessart, Memmingen, Miesbach, Miltenberg, Mühldorf, Munich Munich (München), Neu-Ulm, Neuburg-Schrobenhausen, Neumarkt, Neustadt (Aisch)-Bad Windsheim, Neustadt an der Waldnaab, Nuremberg (Nürnberg),Nürnberger Land, Oberallgäu, Ostallgäu, Passau, Pfaffenhofen, Regen, Regensburg, Rhön-Grabfeld, Rosenheim, Roth, Rottal-Inn, Schwabach, Schwandorf, Schweinfurt, Starnberg, Straubing, Straubing-Bogen, Tirschenreuth, Traunstein, Unterallgäu, Weiden in der Oberpfalz, Weilheim-Schongau, Weißenburg-Gunzenhausen, Wunsiedel, Würzburgrfranken, Schwaben, Oberpfalz, Oberbayern, Niederbayern",
     "publish": "Yes",
     "datestart": "2024-03-01T08:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
@@ -2789,7 +2789,7 @@
     "code": "de",
     "svspc": "SV",
     "region": "Brandenburg",
-    "districts": "Barnim,Dahme-Spreewald, Elbe-Elster, Havelland, Märkisch-Oderland,Oberhavel, Oberspreewald-Lausitz,Oder-Spree,Ostprignitz-Ruppin, Potsdam-Mittelmark,  Prignitz, Spree-Neiße,  Teltow-Fläming,Uckermark",
+    "districts": "Barnim, Brandenburg an der Havel, Cottbus, Dahme-Spreewald, Elbe-Elster, Frankfurt an der Oder, Havelland ,Märkisch-Oderland, Oberhavel, Oberspreewald-Lausitz, Oder-Spree, Ostprignitz-Ruppin, Potsdam, Potsdam-Mittelmark, Prignitz, Spree-Neiße, Teltow-Fläming, Uckermark",
     "publish": "Yes",
     "datestart": "2024-03-01T08:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
@@ -2799,7 +2799,7 @@
     "code": "de",
     "svspc": "SV",
     "region": "Bremen",
-    "districts": "Bremen",
+    "districts": "Bremen, Bremerhaven",
     "publish": "Yes",
     "datestart": "2024-03-01T08:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
@@ -2819,7 +2819,7 @@
     "code": "de",
     "svspc": "SV",
     "region": "Hessen",
-    "districts": "Darmstadt-Dieburg, Groß-Gerau, Hochtaunuskreis, Main-Kinzig-Kreis, Main-Taunus-Kreis, Odenwaldkreis, Rheingau-Taunus-Kreis, Wetteraukreis, Gießen, Lahn-Dill-Krei, Limburg-Weilburg, Marburg-Biedenkopf, Vogelsbergkreis, Fulda, Kassel, Hersfeld-Rotenburg, Schwalm-Eder-Kreis, Werra-Meißner-Kreis, Waldeck-Frankenberg",
+    "districts": "Bergstraße, Darmstadt, Darmstadt-Dieburg, Frankfurt am Main, Fulda, Gießen, Groß-Gerau, Hersfeld-Rotenburg, Hochtaunuskreis, Kassel, Lahn-Dill-Kreis, Limburg-Weilburg, Main-Kinzig-Kreis, Main-Taunus-Kreis, Marburg-Biedenkopf Odenwaldkreis, Offenbach, Offenbach am Main, Rheingau-Taunus-Kreis, Schwalm-Eder-Kreis, Vogelsbergkreis, Waldeck-Frankenberg, Werra-Meißner-Kreis, Wetteraukreis, Wiesbaden",
     "publish": "Yes",
     "datestart": "2024-03-01T08:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
@@ -2829,7 +2829,7 @@
     "code": "de",
     "svspc": "SV",
     "region": "Niedersachsen",
-    "districts": "Ammerland,Celle, Cloppenburg, Cuxhaven, Diepholz, Emsland,Friesland,Gifhorn\nGoslar,Harburg,Heidekreis, Helmstedt, Hildesheim, Holzminden, Hanover, Leer,Lüchow-Dannenberg, Lüneburg,\nNienburg,Northeim, Oldenburg, Osnabrück, Osterholz, Peine, Rotenburg,Schaumburg, Stade, Uelzen, Vechta, Verden, Wesermarsch,Wittmund,Wolfenbüttel",
+    "districts": "Ammerland, Aurich, Braunschweig, Celle, Cloppenburg, Cuxhaven, Delmenhorst, Diepholz, Emden, Emsland, Friesland, Gifhorn, Goslar, Göttingen, Grafschaft, Bentheim, Hameln-Pyrmont (Hameln-Pyrmont), Hanover, Hanover (Hannover), Harburg, Heidekreis, Helmstedt, Hildesheim, Holzminden, Leer, Lüchow-Dannenberg, Lüneburg, Nienburg, Northeim, Oldenburg, Osnabrück, Osterholz, Peine, Rotenburg, Salzgitter, Schaumburg, Stade, Uelzen, Vechta, Verden, Wesermarsch, Wilhelmshaven, Wittmund, Wolfenbüttel, Wolfsburg",
     "publish": "Yes",
     "datestart": "2024-03-01T08:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
@@ -2839,7 +2839,7 @@
     "code": "de",
     "svspc": "SV",
     "region": "Mecklenburg-Vorpommern",
-    "districts": "Landkreis Rostock, Ludwigslust-Parchim, Mecklenburgische Seenplatte, Nordwestmecklenburg, Vorpommern-Greifswald, Vorpommern-Rügen",
+    "districts": "Ludwigslust-Parchim, Mecklenburgische, Seenplatte, Nordwestmecklenburg, Rostock, Schwerin, Vorpommern-Greifswald, Vorpommern-Rügen",
     "publish": "Yes",
     "datestart": "2024-03-01T08:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
@@ -2849,7 +2849,7 @@
     "code": "de",
     "svspc": "SV",
     "region": "Nordrhein-Westfalen",
-    "districts": "Aachen, Bielefeld, Bochum, Bonn, Bottrop, Dortmund, Duisburg, Düsseldorf, Essen, Gelsenkirchen, Hagen, Hamm, Herne, Köln (Cologne), Krefeld, Leverkusen, Mönchengladbach, Mülheim, Münster, Oberhausen, Remscheid, Solingen, Wuppertal",
+    "districts": "Aachen, Bielefeld, Bochum, Bonn, Borken, Bottrop, Cleves (Kleve), Coesfeld ,Cologne (Köln), Dortmund, Duisburg, Düren, Düsseldorf, Ennepe-Ruhr-Kreis, Essen, Euskirchen, Gelsenkirchen, Gütersloh, Hagen,Hamm, Heinsberg, Herford, Herne, Hochsauerlandkreis, Höxter, Krefeld, Leverkusen, Lippe, Märkischer Kreis, Mettmann, Minden-Lübbecke, Mönchengladbach, Mülheim, an der Ruhr, Münster, Oberbergischer, Kreis, Oberhausen, Olpe, Paderborn, Recklinghausen, Remscheid ,Rhein-Erft-Kreis, Rhein-Kreis, Neuss, Rhein-Sieg-Kreis, Rheinisch-Bergischer Kreis, Siegen-Wittgenstein, Soest, Solingen Steinfurt, Unna, Viersen, Warendorf, Wesel, Wuppertal",
     "publish": "Yes",
     "datestart": "2024-03-01T08:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
@@ -2909,7 +2909,7 @@
     "code": "de",
     "svspc": "SV",
     "region": "Thüringen",
-    "districts": "Altenburger Land, Eichsfeld, Gotha, Greiz, Hildburghausen, Ilm-Kreis, Kyffhäuserkreis, Nordhausen, Saale-Holzland, Saale-Orla, Saalfeld-Rudolstadt, Schmalkalden-Meiningen, Sömmerda, Sonneberg, Unstrut-Hainich, Wartburgkreis, Weimarer Land",
+    "districts": "Altenburger, Land Eichsfeld, Erfurt, Gera, Gotha ,Greiz, Hildburghausen, Ilm-Kreis, Jena, Kyffhäuserkreis, Nordhausen, Saale-Holzland-Kreis, Saale-Orla-Kreis, Saalfeld-Rudolstadt, Schmalkalden-Meiningen, ,Sömmerda, Sonneberg, Suhl, Unstrut-Hainich-Kreis, Wartburgkreis, Weimar, Weimarer Land",
     "publish": "Yes",
     "datestart": "2024-03-01T08:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
@@ -2919,7 +2919,7 @@
     "code": "de",
     "svspc": "SV",
     "region": "Baden-Württemberg",
-    "districts": "Alb-Donau, Biberach, Bodensee, Böblingen, Breisgau-Hochschwarzwald, Calw, Konstanz, Emmendingen, Enzkreis, Esslingen, Freudenstadt, Göppingen, Heidenheim, Heilbronn, Hohenlohe, Karlsruhe, Lörrach, Ludwigsburg, Main-Tauber, Neckar-Odenwald-Kreis, Ortenaukreis, Ostalbkreis, Rastatt, Ravensburg, Rems-Murr-Kreis, Reutlingen, Rhein-Neckar-Kreis, Rottweil, Schwäbisch Hall, Schwarzwald-Baar-Kreis, Sigmaringen, Tübingen, Tuttlingen, Waldshut, Zollernalbkreis, Baden-Baden, Freiburg, Heidelberg, Heilbronn, Karlsruhe, Manheim, Pforzheim, Stuttgart, Ulm",
+    "districts": "Alb-Donau-Kreis, Baden-Baden, Biberach, Böblingen, Bodenseekreis, Breisgau-Hochschwarzwald, Calw, Emmendingen, Enzkreis, Esslingen, Freiburg im Breisgau ,Freudenstadt, Göppingen, Heidelberg, Heidenheim, Heilbronn, Hohenlohe, Karlsruhe, Konstanz, Lörrach, Ludwigsburg, Main-Tauber-Kreis, Mannheim, Neckar-Odenwald-Kreis, Ortenaukreis, Ostalbkreis, Pforzheim, Rastatt, Ravensburg, Rems-Murr-Kreis, Reutlingen, Rhein-Neckar-Kreis, Rottweil, Schwäbisch, Hall, Schwarzwald-Baar-Kreis, Sigmaringen, Stuttgart, Tübingen, Tuttlingen, Ulm, Waldshut, Zollernalbkreis",
     "publish": "Yes",
     "datestart": "2024-03-01T08:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
