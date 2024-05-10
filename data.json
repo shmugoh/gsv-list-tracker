@@ -370,7 +370,7 @@
     "code": "AU",
     "svspc": "SV",
     "region": "Queensland",
-    "districts": "Brisbane, Townsville, Toowoomba ",
+    "districts": "Brisbane, Townsville, Toowoomba , Carins ",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
     "dateend": "2024-07-01T07:00:00.000Z"
@@ -390,7 +390,7 @@
     "code": "AU",
     "svspc": "SV",
     "region": "Victoria",
-    "districts": "Surf Coast, South East Coast",
+    "districts": "Surf Coast, South East Coast, Melbourne",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
     "dateend": "2024-07-01T07:00:00.000Z"
@@ -1226,7 +1226,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Bahia",
-    "districts": "Salvador, Euclides da Cunha, Irecê, Caetite, Feira de Santana, Camaçari, Valença, Teixeira de Freitas, Tanque Novo, outros.",
+    "districts": "Salvador, Euclides da Cunha, Irecê, Caetite, Feira de Santana, Camaçari, Valença, Teixeira de Freitas, Tanque Novo, Jacobina, outros.",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
     "dateend": "2024-12-27T08:00:00.000Z"
@@ -1256,7 +1256,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Espírito Santo",
-    "districts": "Vitória, Vila Velha, Linhares",
+    "districts": "Vitória, Vila Velha, Linhares, Cachoeira de Itapermirim",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
     "dateend": "2024-12-27T08:00:00.000Z"
@@ -1435,36 +1435,6 @@
     "country": "Chile",
     "code": "CL",
     "svspc": "SV",
-    "region": "Santiago",
-    "districts": "Santiago, San Bernardo, Puente Alto",
-    "publish": "Yes",
-    "datestart": "2024-01-01T08:00:00.000Z",
-    "dateend": "2024-12-31T08:00:00.000Z"
-  },
-  {
-    "country": "Chile",
-    "code": "CL",
-    "svspc": "SV",
-    "region": "Maule",
-    "districts": "Talca, Constitución, Cauquenes, Curicó, Hualañe ",
-    "publish": "Yes",
-    "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-12-31T08:00:00.000Z"
-  },
-  {
-    "country": "Chile",
-    "code": "CL",
-    "svspc": "SV",
-    "region": "Valparaíso",
-    "districts": "Viña del Mar, Quilpé, Valparaíso, Los Andes",
-    "publish": "Yes",
-    "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-12-31T08:00:00.000Z"
-  },
-  {
-    "country": "Chile",
-    "code": "CL",
-    "svspc": "SV",
     "region": "Atacama",
     "districts": "Copiapó, Vallenar",
     "publish": "Yes",
@@ -1485,6 +1455,16 @@
     "country": "Chile",
     "code": "CL",
     "svspc": "SV",
+    "region": "Elqui",
+    "districts": "Coquimbo, La Serena, Puerto Aldea, Congoy, alrededores.",
+    "publish": "Yes",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-12-12T08:00:00.000Z"
+  },
+  {
+    "country": "Chile",
+    "code": "CL",
+    "svspc": "SV",
     "region": "Los Lagos",
     "districts": "Puerto Montt, alrededores.",
     "publish": "Yes",
@@ -1492,21 +1472,31 @@
     "dateend": "2024-12-12T08:00:00.000Z"
   },
   {
-    "country": "Colombia",
-    "code": "CO",
+    "country": "Chile",
+    "code": "CL",
     "svspc": "SV",
-    "region": "Boyacá ",
-    "districts": "Tunja, Sogamoso, Diutama, Yopal",
+    "region": "Maule",
+    "districts": "Talca, Constitución, Cauquenes, Curicó, Hualañe ",
+    "publish": "Yes",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-12-31T08:00:00.000Z"
+  },
+  {
+    "country": "Chile",
+    "code": "CL",
+    "svspc": "SV",
+    "region": "Santiago",
+    "districts": "Santiago, San Bernardo, Puente Alto",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
     "dateend": "2024-12-31T08:00:00.000Z"
   },
   {
-    "country": "Colombia",
-    "code": "CO",
+    "country": "Chile",
+    "code": "CL",
     "svspc": "SV",
-    "region": "Risaralda",
-    "districts": "Pereira, Maninzales, Valle del Cauca, Armenia",
+    "region": "Valparaíso",
+    "districts": "Viña del Mar, Quilpé, Valparaíso, Los Andes",
     "publish": "Yes",
     "datestart": "2024-02-01T08:00:00.000Z",
     "dateend": "2024-12-31T08:00:00.000Z"
@@ -1525,10 +1515,60 @@
     "country": "Colombia",
     "code": "CO",
     "svspc": "SV",
+    "region": "Atlántico",
+    "districts": "Barranquilla, Soledad, Malambo, Galapa, alrededores.",
+    "publish": "Yes",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-12-31T08:00:00.000Z"
+  },
+  {
+    "country": "Colombia",
+    "code": "CO",
+    "svspc": "SV",
+    "region": "Boyacá ",
+    "districts": "Tunja, Sogamoso, Diutama, Yopal",
+    "publish": "Yes",
+    "datestart": "2024-01-01T08:00:00.000Z",
+    "dateend": "2024-03-12T07:00:00.000Z"
+  },
+  {
+    "country": "Colombia",
+    "code": "CO",
+    "svspc": "SV",
     "region": "Cundinamarca",
-    "districts": "Bogotá, La Serena",
+    "districts": "Bogotá, La Serena, Fusagasuga, Granada, Mosquera, Vergara, alrededores.",
+    "publish": "Yes",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-12-31T08:00:00.000Z"
+  },
+  {
+    "country": "Colombia",
+    "code": "CO",
+    "svspc": "SV",
+    "region": "Nariño",
+    "districts": "Ipiales, Pasto, Pupiales, Aldana, Pedregal, alrededores.",
     "publish": "Yes",
     "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-12-31T08:00:00.000Z"
+  },
+  {
+    "country": "Colombia",
+    "code": "CO",
+    "svspc": "SV",
+    "region": "Risaralda",
+    "districts": "Pereira, Maninzales, Valle del Cauca, Armenia",
+    "publish": "Yes",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-12-31T08:00:00.000Z"
+  },
+  {
+    "country": "Peru",
+    "code": "PE",
+    "svspc": "SV",
+    "region": "Arequipa",
+    "districts": "Arequipa, Callalli, Chivay, Jaquí, Majes",
+    "publish": "Yes",
+    "datestart": "2024-04-22T07:00:00.000Z",
     "dateend": "2024-12-31T08:00:00.000Z"
   },
   {
@@ -1549,7 +1589,7 @@
     "districts": "Huanuco capital, La Union, Uco",
     "publish": "Yes",
     "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-12-31T08:00:00.000Z"
+    "dateend": "2024-05-09T07:00:00.000Z"
   },
   {
     "country": "Peru",
@@ -1565,21 +1605,31 @@
     "country": "Peru",
     "code": "PE",
     "svspc": "SV",
-    "region": "San Martin",
-    "districts": "Tarapoto, Juanjuí, Tocache",
+    "region": "Piura",
+    "districts": "Talara, Máncora, Lobitos, El Alto, Órganos.",
     "publish": "Yes",
-    "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-12-31T08:00:00.000Z"
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-08-30T07:00:00.000Z"
   },
   {
     "country": "Peru",
     "code": "PE",
     "svspc": "SV",
-    "region": "Arequipa",
-    "districts": "Arequipa, Callalli, Chivay, Jaquí, Majes",
+    "region": "Túmbes",
+    "districts": "Punta Sal, Cancas, Canoas, Cardalito, Zorritos, Túmbes, Zarumilla.",
     "publish": "Yes",
-    "datestart": "2024-04-22T07:00:00.000Z",
-    "dateend": "2024-12-31T08:00:00.000Z"
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-08-30T07:00:00.000Z"
+  },
+  {
+    "country": "Peru",
+    "code": "PE",
+    "svspc": "SV",
+    "region": "San Martin",
+    "districts": "Tarapoto, Juanjuí, Tocache",
+    "publish": "Yes",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-05-09T07:00:00.000Z"
   },
   {
     "country": "Cambodia",
@@ -6446,7 +6496,7 @@
     "code": "NZ",
     "svspc": "SV",
     "region": "South Island ",
-    "districts": "Dunedin, Queenstown, Invercargill",
+    "districts": "Dunedin, Queenstown, Invercargill, Christchurch, Nelson",
     "publish": "Yes",
     "datestart": "Aprili 2024",
     "dateend": "2024-07-01T07:00:00.000Z"
@@ -6662,14 +6712,14 @@
     "districts": "Vlllahermosa, Cardenas, Paraiso, Frontera",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
-    "dateend": "2024-12-01T08:00:00.000Z"
+    "dateend": "2024-05-10T07:00:00.000Z"
   },
   {
     "country": "México",
     "code": "MX",
     "svspc": "SV",
     "region": "Puebla",
-    "districts": "Tehuecan, Cholula, Huejotzingo, Puebla, Tecali de Herrera, Tepeaca, Atlixco, San Martin",
+    "districts": "Puebla, Tehuecan, Cholula, Huejotzingo, Tecali de Herrera, Tepeaca, Atlixco, San Martin",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
     "dateend": "2024-12-01T08:00:00.000Z"
@@ -6689,7 +6739,7 @@
     "code": "MX",
     "svspc": "SV",
     "region": "Estado de México",
-    "districts": "Chimalhuacán, Colonia Nezahualcóyotl, Tlalnepantla de Baz, Nicolas Romero, Lopez Mateos, Cuautitlan, Ixtapalcua, Ecatepec, Chicoloapan, Naucalpan, Coacalco, Buena Vista, Ojo de Agua, Chalco, San Pablo, Texcoco, Toluca, Zumpango, Atlatomuco, Toluca",
+    "districts": "Mexico city, Ecatepec, Chimalhuacán, Colonia Nezahualcóyotl, Tlalnepantla de Baz, Nicolas Romero, Lopez Mateos, Cuautitlan, Ixtapalcua, Ecatepec, Chicoloapan, Naucalpan, Coacalco, Buena Vista, Ojo de Agua, Chalco, San Pablo, Texcoco, Toluca, Zumpango, Atlatomuco, Toluca",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
     "dateend": "2024-12-01T08:00:00.000Z"
@@ -6809,7 +6859,7 @@
     "code": "MX",
     "svspc": "SV",
     "region": "Nayarit",
-    "districts": "Tepic",
+    "districts": "Tepic, alrededores.",
     "publish": "Yes",
     "datestart": "2024-03-01T08:00:00.000Z",
     "dateend": "2024-12-01T08:00:00.000Z"
@@ -6819,7 +6869,7 @@
     "code": "MX",
     "svspc": "SV",
     "region": "Zacatecas",
-    "districts": "Tlaltenango",
+    "districts": "Tlaltenango, alrededores.",
     "publish": "Yes",
     "datestart": "2024-04-08T07:00:00.000Z",
     "dateend": "2024-12-01T08:00:00.000Z"
@@ -6829,7 +6879,7 @@
     "code": "MX",
     "svspc": "SV",
     "region": "Tamaulipas",
-    "districts": "Nuevo Laredo",
+    "districts": "Nuevo Laredo, Tampico, alrededores.",
     "publish": "Yes",
     "datestart": "2024-04-08T07:00:00.000Z",
     "dateend": "2024-12-01T08:00:00.000Z"
@@ -6852,6 +6902,26 @@
     "districts": "Querétaro, San juan del Rio, Bernal, Tequisquiapan, El Pueblito",
     "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
+    "dateend": "2024-12-26T08:00:00.000Z"
+  },
+  {
+    "country": "México",
+    "code": "MX",
+    "svspc": "SV",
+    "region": "Aguascalientes",
+    "districts": "Aguascalientes, alrededores",
+    "publish": "Yes",
+    "datestart": "2024-05-09T07:00:00.000Z",
+    "dateend": "2024-12-26T08:00:00.000Z"
+  },
+  {
+    "country": "México",
+    "code": "MX",
+    "svspc": "SV",
+    "region": "Michoacán",
+    "districts": "Uruapán, Morelia, Nuevo San Juan Parangaricutiro, La Huizachera, alrededores.",
+    "publish": "Yes",
+    "datestart": "2024-05-09T07:00:00.000Z",
     "dateend": "2024-12-26T08:00:00.000Z"
   },
   {
@@ -6941,8 +7011,8 @@
     "region": "Pagadian",
     "districts": "Pagadian City",
     "publish": "Yes",
-    "datestart": "2024-04-01T07:00:00.000Z",
-    "dateend": "2024-04-30T07:00:00.000Z"
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-05-31T07:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -6951,8 +7021,8 @@
     "region": "Pagadian",
     "districts": "Pagadian City",
     "publish": "Yes",
-    "datestart": "2024-04-01T07:00:00.000Z",
-    "dateend": "2024-04-30T07:00:00.000Z"
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-05-31T07:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -6962,14 +7032,14 @@
     "districts": "Olongapo City",
     "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
-    "dateend": "2024-04-30T07:00:00.000Z"
+    "dateend": "2024-05-31T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
     "region": "Pangasinan",
-    "districts": "Urdaneta",
+    "districts": "San Carlos",
     "publish": "Yes",
     "datestart": "2024-03-11T07:00:00.000Z",
     "dateend": "2024-05-31T07:00:00.000Z"
@@ -6978,8 +7048,8 @@
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Ilocos",
-    "districts": "Candelaria",
+    "region": "Central Luzon",
+    "districts": "Subic",
     "publish": "Yes",
     "datestart": "2024-04-22T07:00:00.000Z",
     "dateend": "2024-05-31T07:00:00.000Z"
@@ -6999,10 +7069,10 @@
     "code": "PH",
     "svspc": "SV",
     "region": "Calabarzon",
-    "districts": "San Pablo City",
+    "districts": "Batangas",
     "publish": "Yes",
-    "datestart": "2024-03-11T07:00:00.000Z",
-    "dateend": "2024-04-30T07:00:00.000Z"
+    "datestart": "2024-04-22T07:00:00.000Z",
+    "dateend": "2024-05-15T07:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -9156,7 +9226,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Xin Zhu County",
-    "districts": "Xin Feng Xiang, Bei Pu Xiang",
+    "districts": "Hu Kou Xiang, Xin Zhu Shi",
     "publish": "Yes",
     "datestart": "2024-03-11T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
@@ -9166,7 +9236,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Nantou County",
-    "districts": "Ji Ji Zhen, Shui Li Xiang",
+    "districts": "Yu Zhi Xiang, Shui Li Xiang",
     "publish": "Yes",
     "datestart": "2024-03-25T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
@@ -9216,7 +9286,7 @@
     "code": "TH",
     "svspc": "SV",
     "region": "Central, Northern, Northeastern, Southern ",
-    "districts": "Nonthaburi, Nakhon pathom, Tak, Phrae Chiang Mai, Nan, Chon Buri, Surin, Ubon Ratchathabni, Phetchabun, Kanchanaburi, Songkla, Nakhon Si Thammarat, Trang, Phang-nga, Krabi, Phuket",
+    "districts": "Bangkok, Nonthaburi, Nakhon pathom, Samut Sakhon, Laumpang, Chiang Mai, Nan, Lumphun, KamPhang Phet, Mea Hong Son, Suphan Buri, Pathum Thani, Surat Thani, Kanchanaburi, Songkla, Nakhon Si Thammarat, Phang-nga, Krabi",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
     "dateend": "2024-05-31T07:00:00.000Z"
@@ -9226,7 +9296,7 @@
     "code": "TH",
     "svspc": "3W",
     "region": "Central",
-    "districts": "Pahthumthani, Parket",
+    "districts": "Pathum Thani, Parket",
     "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-06-16T07:00:00.000Z"
