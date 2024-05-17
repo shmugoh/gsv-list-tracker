@@ -471,9 +471,9 @@
     "svspc": "SV",
     "region": "Wien",
     "districts": "Innere Stadt, Leopoldstadt, Landstraße, Wieden, Margareten, Mariahilf, Neubau, Josefstadt, Alsergrund, Favoriten, Simmering, Meidling, Hietzing, Penzing, Rudolfsheim-Fünfhaus, Ottakring, Hernals, Währing, Döbling, Brigittenau, Floridsdorf, Donaustadt, Liesing.",
-    "publish": "No",
-    "datestart": "2023-04-03T07:00:00.000Z",
-    "dateend": "2023-11-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Austria",
@@ -1246,7 +1246,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Ceará",
-    "districts": "Fortaleza, Sobral, Iguatú",
+    "districts": "Fortaleza, Sobral, Iguatú, outros.",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
     "dateend": "2024-12-27T08:00:00.000Z"
@@ -1316,7 +1316,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Pará",
-    "districts": "Belém, Marabá, outros.",
+    "districts": "Belém, Marabá, Santarem, outros.",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
     "dateend": "2024-12-27T08:00:00.000Z"
@@ -1349,6 +1349,16 @@
     "districts": "Recife, Jaboatão dos Guararapes, Olinda, Bom Conselho",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
+    "dateend": "2024-12-27T08:00:00.000Z"
+  },
+  {
+    "country": "Brasil",
+    "code": "BR",
+    "svspc": "SV",
+    "region": "Tocantins",
+    "districts": "Palmas, Paraíso do Tocantins, Fátima, Miranorte, Dois Irmãos dos Tocantins, Santa Rita do Tocantins, Cangas",
+    "publish": "Yes",
+    "datestart": "2024-05-16T07:00:00.000Z",
     "dateend": "2024-12-27T08:00:00.000Z"
   },
   {
@@ -1455,6 +1465,16 @@
     "country": "Chile",
     "code": "CL",
     "svspc": "SV",
+    "region": "Bio Bio",
+    "districts": "Curanilahue, Concepción, otros",
+    "publish": "Yes",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-12-12T08:00:00.000Z"
+  },
+  {
+    "country": "Chile",
+    "code": "CL",
+    "svspc": "SV",
     "region": "Elqui",
     "districts": "Coquimbo, La Serena, Puerto Aldea, Congoy, alrededores.",
     "publish": "Yes",
@@ -1468,7 +1488,7 @@
     "region": "Los Lagos",
     "districts": "Puerto Montt, alrededores.",
     "publish": "Yes",
-    "datestart": "2024-05-01T07:00:00.000Z",
+    "datestart": "2024-06-03T07:00:00.000Z",
     "dateend": "2024-12-12T08:00:00.000Z"
   },
   {
@@ -1640,8 +1660,8 @@
     "country": "Canada",
     "code": "ca",
     "region": "Ontario",
-    "districts": "Addington, Carleton, Dundas, Frontenac, Glengarry, Grenville, Hastings, Lanark, Leeds, Lennox, Prescott, Prince Edward, Renfrew, Russell, Stormont, Dufferin, Durham, Halton, Haliburton, Lincoln, Peel, Niagara, Ontario, Northumberland, Peterborough, Simcoe, Welland, Wentworth, York, Victoria, Brant, Bruce, Elgin, Essex, Grey, Haldimand, Huron, Kent, Lambton, Middlesex, Norfolk, Oxford, Perth, Waterloo, Wellington, Algoma, Manitoulin, Nipissing, Parry Sound, Sudbury, Temiskaming, Thunder Bay, Muskoka, Kenora",
-    "publish": "No",
+    "districts": "Addington, Carleton, Dundas, Frontenac, Glengarry, Grenville, Hastings, Lanark, Leeds, Lennox, Prescott, Prince Edward, Renfrew, Russell, Stormont, Dufferin, Durham, Halton, Haliburton, Lincoln, Peel, Niagara, Ontario, Northumberland, Peterborough, Simcoe, Welland, Wentworth, York, Victoria, Brant, Bruce, Elgin, Essex, Grey, Haldimand, Huron, Kent, Lambton, Middlesex, Norfolk, Oxford, Perth, Waterloo, Wellington, Algoma, Manitoulin, Nipissing, Parry Sound, Sudbury, Temiskaming, Thunder Bay, Muskoka, Kenora, Mississauga, Brampton, Etobicoke, Downtown, Kitchener, Waterloo, Cambridge, Hamilton, Georgetown, MIlton, Barrie, Collingwood",
+    "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
   },
@@ -1650,7 +1670,7 @@
     "code": "ca",
     "region": "British Columbia",
     "districts": "Alberni-Clayoquot, Bulkley-Nechako, Capital, Cariboo, Central Coast, Central Kootenay, Central Okanagan, Columbia-Shuswap, Comox Valley, Cowichan Valley, East Kootenay, Fraser Valley, Fraser-Fort George, Kitimat-Stikine, Kootenay Boundary, Metro Vancouver, Mount Waddington, Nanaimo, North Coast, North Okanagan, Northern Rockies, Okanagan-Similkameen, Peace River, qathet, Squamish-Lillooet, Stikine Region[a], Strathcona, Sunshine Coast, Thompson-Nicola",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
   },
@@ -1668,8 +1688,8 @@
     "code": "ca",
     "region": "Nova Scotia",
     "districts": "Annapolis, Antigonish, Cape Bretona, Colchester, Cumberland, Digby, Guysborough, Halifaxb, Hants, Inverness, Kings, Lunenburg, Pictou, Queensc, Richmond, Shelburne, Victoria, Yarmouth ",
-    "publish": "No",
-    "datestart": "2024-04-01T07:00:00.000Z",
+    "publish": "Yes",
+    "datestart": "2024-05-01T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
@@ -1677,7 +1697,7 @@
     "code": "ca",
     "region": "Québec",
     "districts": "Beauharnois, Berthier, Bonaventure, Chaudière, Dorchester, Gaspé, Kamouraska, Lac-des-Deux-Montagnes, Leinster, Missisquoi, Montréal, Nicolet, Portneuf, Quebec, Richelieu, Rimouski, Saguenay, Saint-Hyacinthe, Saint-Jean, Saint-Thomas, Sherbrooke, Sydenham, Terrebonne, Trois-Rivières",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
   },
@@ -1686,7 +1706,7 @@
     "code": "ca",
     "region": "Alberta",
     "districts": "Calgary, Edmonton, Red Deer, Lethbridge, St. Albert, Medicine Hat, Grande Prairie, Airdrie, Spruce Grove, Okotoks",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
   },
@@ -1694,8 +1714,8 @@
     "country": "Canada",
     "code": "ca",
     "region": "Manitoba",
-    "districts": "Interlake Region, Eastern Region, Winnipeg Region, Central Region, Parkland, Pembina Valley, Westman",
-    "publish": "No",
+    "districts": "Interlake Region, Eastern Region, Winnipeg Region, Central Region, Parkland, Pembina Valley, Westman, Dauphin",
+    "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
   },
@@ -1703,8 +1723,8 @@
     "country": "Canada",
     "code": "ca",
     "region": "Saskatchewan",
-    "districts": "Saskatoon, Regina",
-    "publish": "No",
+    "districts": "Saskatoon, Regina, Yorkton",
+    "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
   },
@@ -2190,9 +2210,9 @@
     "svspc": "SV",
     "region": "Midtjylland",
     "districts": "Aarhus, Favrskov, Hedensted, Herning, Holstebro, Horsens, Ikast-Brande, Lemvig, Norddjurs, Odder, Randers, Ringkøbing-Skjern, Samsø, Silkeborg, Skanderborg, Skive, Struer, Syddjurs, Viborg.",
-    "publish": "No",
-    "datestart": "2023-02-01T08:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-04-09T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
   },
   {
     "country": "Denmark",
@@ -2202,7 +2222,7 @@
     "districts": "Aars, Støvring, Hobro, Aalborg, Brønderslev, Frederikshavn, Hjørring, Jammerbugt, Læsø, Mariagerfjord, Morsø, Rebild, Thisted, Vesthimmerland",
     "publish": "Yes",
     "datestart": "2024-04-09T07:00:00.000Z",
-    "dateend": "2023-10-31T07:00:00.000Z"
+    "dateend": "2024-10-01T07:00:00.000Z"
   },
   {
     "country": "Denmark",
@@ -2220,7 +2240,9 @@
     "svspc": "SV",
     "region": "Region Sjælland",
     "districts": "Faxe, Greve, Guldborgsund, Holbæk, Kalundborg, Køge, Lejre, Lolland, Næstved, Odsherred, Ringsted, Roskilde, Slagelse, Solrød, Sorø, Stevns, Vordingborg.",
-    "publish": "No"
+    "publish": "Yes",
+    "datestart": "2024-04-09T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
   },
   {
     "country": "Ecuador",
@@ -2939,7 +2961,7 @@
     "code": "de",
     "svspc": "SV",
     "region": "Sachsen-Anhalt",
-    "districts": "Altmarkkreis Salzwedel, Anhalt-Bitterfeld, Börde, Burgenlandkreis, Harz, Jerichower Land, Mansfeld-Südharz, Saalekreis, Salzlandkreis, Stendal, Wittenberg, Dessau-Roßlau, Halle, Magdeburg",
+    "districts": "Altmarkkreis Salzwedel, Anhalt-Bitterfeld, Börde, Burgenlandkreis, Harz, Jerichower Land, Mansfeld-Südharz, Saalekreis, Salzlandkreis, Stendal, Wittenberg, Dessau-Roßlau, Halle, Magdeburg\n",
     "publish": "Yes",
     "datestart": "2024-03-01T08:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
@@ -4354,7 +4376,7 @@
     "svspc": "SV",
     "region": "Kildare",
     "districts": "Naas, Newbridge",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-04-18T07:00:00.000Z",
     "dateend": "2024-10-30T07:00:00.000Z"
   },
@@ -4424,7 +4446,7 @@
     "svspc": "SV",
     "region": "Mayo",
     "districts": "Castlebar",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-04-18T07:00:00.000Z",
     "dateend": "2024-10-30T07:00:00.000Z"
   },
@@ -4435,7 +4457,7 @@
     "region": "Meath",
     "districts": "Navan",
     "publish": "Yes",
-    "datestart": "2024-04-18T07:00:00.000Z",
+    "datestart": "2024-05-16T07:00:00.000Z",
     "dateend": "2024-10-30T07:00:00.000Z"
   },
   {
@@ -4454,9 +4476,7 @@
     "svspc": "SV",
     "region": "Offaly",
     "districts": "Tullamore",
-    "publish": "Yes",
-    "datestart": "2024-04-18T07:00:00.000Z",
-    "dateend": "2024-10-30T07:00:00.000Z"
+    "publish": "No"
   },
   {
     "country": "Ireland",
@@ -4475,7 +4495,7 @@
     "region": "Sligo",
     "districts": "Sligo",
     "publish": "Yes",
-    "datestart": "2024-04-18T07:00:00.000Z",
+    "datestart": "2024-05-16T07:00:00.000Z",
     "dateend": "2024-10-30T07:00:00.000Z"
   },
   {
@@ -4485,7 +4505,7 @@
     "region": "Tipperary",
     "districts": "Nenagh, Clonmel",
     "publish": "Yes",
-    "datestart": "2024-04-18T07:00:00.000Z",
+    "datestart": "2024-05-16T07:00:00.000Z",
     "dateend": "2024-10-30T07:00:00.000Z"
   },
   {
@@ -4495,7 +4515,7 @@
     "region": "Waterford",
     "districts": "Waterford",
     "publish": "Yes",
-    "datestart": "2024-04-18T07:00:00.000Z",
+    "datestart": "2024-05-16T07:00:00.000Z",
     "dateend": "2024-10-30T07:00:00.000Z"
   },
   {
@@ -4504,7 +4524,7 @@
     "svspc": "SV",
     "region": "Westmeath",
     "districts": "Mullingar, Athlone",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-04-18T07:00:00.000Z",
     "dateend": "2024-10-30T07:00:00.000Z"
   },
@@ -4525,7 +4545,7 @@
     "region": "Wicklow",
     "districts": "Wicklow, Bray",
     "publish": "Yes",
-    "datestart": "2024-04-18T07:00:00.000Z",
+    "datestart": "2024-05-16T07:00:00.000Z",
     "dateend": "2024-10-30T07:00:00.000Z"
   },
   {
@@ -4535,7 +4555,7 @@
     "region": "Connacht",
     "districts": "Galway",
     "publish": "Yes",
-    "datestart": "2024-04-18T07:00:00.000Z",
+    "datestart": "2024-05-16T07:00:00.000Z",
     "dateend": "2024-10-30T07:00:00.000Z"
   },
   {
@@ -7777,7 +7797,7 @@
     "region": "Arad County",
     "districts": "Arad",
     "publish": "Yes",
-    "datestart": "2024-04-09T07:00:00.000Z",
+    "datestart": "2024-05-31T07:00:00.000Z",
     "dateend": "2024-05-31T07:00:00.000Z"
   },
   {
@@ -7817,7 +7837,7 @@
     "region": "Brăila County",
     "districts": "Brăila ",
     "publish": "Yes",
-    "datestart": "2024-04-09T07:00:00.000Z",
+    "datestart": "2024-05-31T07:00:00.000Z",
     "dateend": "2024-05-31T07:00:00.000Z"
   },
   {
@@ -7846,9 +7866,29 @@
     "svspc": "SV",
     "region": "Bacău County",
     "districts": "Bacău, Moinești, Onești",
-    "publish": "No",
-    "datestart": "2023-03-27T07:00:00.000Z",
-    "dateend": "2023-09-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-05-31T07:00:00.000Z",
+    "dateend": "2024-05-31T07:00:00.000Z"
+  },
+  {
+    "country": "Romania",
+    "code": "RO",
+    "svspc": "SV",
+    "region": "Bucharest",
+    "districts": "Bucharest",
+    "publish": "Yes",
+    "datestart": "2024-05-31T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Romania",
+    "code": "RO",
+    "svspc": "SV",
+    "region": "Botoșani County",
+    "districts": "Botoșani, Darabani, Dorohoi",
+    "publish": "Yes",
+    "datestart": "2024-04-09T07:00:00.000Z",
+    "dateend": "2024-05-31T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -7868,16 +7908,6 @@
     "districts": "Bistrița",
     "publish": "No",
     "datestart": "2023-09-01T07:00:00.000Z",
-    "dateend": "2023-12-01T08:00:00.000Z"
-  },
-  {
-    "country": "Romania",
-    "code": "RO",
-    "svspc": "SV",
-    "region": "Botoșani County",
-    "districts": "Botoșani, Darabani, Dorohoi",
-    "publish": "No",
-    "datestart": "2023-10-01T07:00:00.000Z",
     "dateend": "2023-12-01T08:00:00.000Z"
   },
   {
@@ -8033,16 +8063,6 @@
     "region": "Dolj County",
     "districts": "Craiova, Calafat, Băilești",
     "publish": "No"
-  },
-  {
-    "country": "Romania",
-    "code": "RO",
-    "svspc": "SV",
-    "region": "Bucharest",
-    "districts": "Bucharest",
-    "publish": "No",
-    "datestart": "2023-03-27T07:00:00.000Z",
-    "dateend": "2023-10-01T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -8613,7 +8633,7 @@
     "districts": "Colesberg, Bethulie, Trompsburg, Fauresmith, Kroonstad, Lindley, Petrus Steyn, Harrismith, Phuthaditjhaba And Eastern Hubs from the Northern Cape where we have the cities: Strydenburg and Britstown",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
-    "dateend": "2024-03-30T07:00:00.000Z"
+    "dateend": "2024-04-30T07:00:00.000Z"
   },
   {
     "country": "South Africa",
@@ -8663,7 +8683,7 @@
     "districts": "City of Cape Town, La Motte, Robertsvlei, West Coast, Cape Winelands, Overberg, Eden, Central Karoo, Bredasdorp, Bonnivale, Napier, Klipdale, Riviersondere",
     "publish": "Yes",
     "datestart": "2024-01-24T08:00:00.000Z",
-    "dateend": "2024-07-01T07:00:00.000Z"
+    "dateend": "2024-08-31T07:00:00.000Z"
   },
   {
     "country": "South Africa",
@@ -8837,8 +8857,8 @@
     "svspc": "SV",
     "region": "Kronoberg",
     "districts": "Alvesta, Lessebo, Ljungby, Markaryd, Tingsryd, Uppvidinge, Växjö, Älmhult.",
-    "publish": "No",
-    "datestart": "2024-03-31T07:00:00.000Z",
+    "publish": "Yes",
+    "datestart": "2024-05-01T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
@@ -8879,7 +8899,7 @@
     "districts": "Båstad, Kristianstad, Simrishamn, Tomelilla, Ystad",
     "publish": "Yes",
     "datestart": "2024-04-09T07:00:00.000Z",
-    "dateend": "2024-06-01T07:00:00.000Z"
+    "dateend": "2024-05-31T07:00:00.000Z"
   },
   {
     "country": "Sweden",
@@ -9500,7 +9520,7 @@
     "code": "us",
     "svspc": "SV",
     "region": "Idaho",
-    "districts": "Ada, Adams, Bannock, Bear Lake, Benewah, Bingham, Blaine, Boise, Bonner, Bonneville, Boundary, Butte, Camas, Canyon, Caribou, Cassia, Clark, Clearwater, Custer, Elmore, Franklin, Fremont, Gem, Gooding, Idaho, Jefferson, Jerome, Kootenai, Latah, Lemhi, Lewis, Lincoln, Madison, Minidoka, Nez Perce, Oneida, Owyhee, Payette, Power, Shoshone, Teton, Twin Falls, Valley, Washington,",
+    "districts": "Ada, Adams, Bannock, Bear Lake, Benewah, Bingham, Blaine, Boise, Bonner, Bonneville, Boundary, Butte, Camas, Canyon, Caribou, Cassia, Clark, Clearwater, Custer, Elmore, Franklin, Fremont, Gem, Gooding, Idaho, Jefferson, Jerome, Kootenai, Latah, Lemhi, Lewis, Lincoln, Madison, Minidoka, Nez Perce, Oneida, Owyhee, Payette, Power, Shoshone, Teton, Twin Falls, Valley, Washington, Idaho Falls, Burley, Lewiston",
     "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-10-31T07:00:00.000Z"
@@ -9510,7 +9530,7 @@
     "code": "us",
     "svspc": "SV",
     "region": "Iowa",
-    "districts": "Dallas, Polk, Madison, Warren, Marion, Jasper, Mahaska, Powesheik, Iowa, Johnson, Linn, Benton, Blackhawk, Marshall, Story",
+    "districts": "Dallas, Polk, Madison, Warren, Marion, Jasper, Mahaska, Powesheik, Iowa, Johnson, Linn, Benton, Blackhawk, Marshall, Story, Cedar Rapids, Dubuque, Sioux City, Des Moines",
     "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-10-31T07:00:00.000Z"
@@ -9520,37 +9540,37 @@
     "code": "us",
     "svspc": "SV",
     "region": "Montana",
-    "districts": "Beaverhead, Big Horn, Blaine, Broadwater, Carbon, Carter, Cascade, Chouteau, Custer, Daniels, Dawson, Deer Lodge, Fallon, Fergus, Flathead, Gallatin, Garfield, Glacier, Golden Valley, Granite, Hill, Jefferson, Judith Basin, Lake, Lewis and Clark, Liberty, Lincoln, Madison, McCone, Meagher, Mineral, Missoula, Musselshell, Park, Petroleum, Phillips, Pondera, Powder River, Powell, Prairie, Ravalli, Richland, Roosevelt, Rosebud, Sanders, Sheridan, Silver Bow, Stillwater, Sweet Grass, Teton, Toole, Treasure, Valley, Wheatland, Wibaux, Yellowstone, ",
-    "publish": "No",
-    "datestart": "2023-08-01T07:00:00.000Z",
-    "dateend": "2023-12-29T08:00:00.000Z"
+    "districts": "Beaverhead, Big Horn, Blaine, Broadwater, Carbon, Carter, Cascade, Chouteau, Custer, Daniels, Dawson, Deer Lodge, Fallon, Fergus, Flathead, Gallatin, Garfield, Glacier, Golden Valley, Granite, Hill, Jefferson, Judith Basin, Lake, Lewis and Clark, Liberty, Lincoln, Madison, McCone, Meagher, Mineral, Missoula, Musselshell, Park, Petroleum, Phillips, Pondera, Powder River, Powell, Prairie, Ravalli, Richland, Roosevelt, Rosebud, Sanders, Sheridan, Silver Bow, Stillwater, Sweet Grass, Teton, Toole, Treasure, Valley, Wheatland, Wibaux, Yellowstone, Bozeman, Billings",
+    "publish": "Yes",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-10-31T07:00:00.000Z"
   },
   {
     "country": "United States",
     "code": "us",
     "svspc": "SV",
     "region": "New Hampshire",
-    "districts": "Concord",
-    "publish": "No",
-    "datestart": "2023-05-25T07:00:00.000Z",
-    "dateend": "2023-10-02T07:00:00.000Z"
+    "districts": "Concord, Portsmouth, Claremont",
+    "publish": "Yes",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-10-31T07:00:00.000Z"
   },
   {
     "country": "United States",
     "code": "us",
     "svspc": "SV",
     "region": "North Dakota",
-    "districts": "Adams, Barnes, Benson, Billings, Bottineau, Bowman, Burke, Burleigh, Cass, Cavalier, Dickey, Divide, Dunn, Eddy, Emmons, Foster, Golden Valley, Grand Forks, Grant, Griggs, Hettinger, Kidder, LaMoure, Logan, McHenry, McIntosh, McKenzie, McLean, Mercer, Morton, Mountrail, Nelson, Oliver, Pembina, Pierce, Ramsey, Ransom, Renville, Richland, Rolette, Sargent, Sheridan, Sioux, Slope, Stark, Steele, Stutsman, Towner, Traill, Walsh, Ward, Wells, Williams,",
-    "publish": "No",
-    "datestart": "2023-06-14T07:00:00.000Z",
-    "dateend": "2023-10-02T07:00:00.000Z"
+    "districts": "Adams, Barnes, Benson, Billings, Bottineau, Bowman, Burke, Burleigh, Cass, Cavalier, Dickey, Divide, Dunn, Eddy, Emmons, Foster, Golden Valley, Grand Forks, Grant, Griggs, Hettinger, Kidder, LaMoure, Logan, McHenry, McIntosh, McKenzie, McLean, Mercer, Morton, Mountrail, Nelson, Oliver, Pembina, Pierce, Ramsey, Ransom, Renville, Richland, Rolette, Sargent, Sheridan, Sioux, Slope, Stark, Steele, Stutsman, Towner, Traill, Walsh, Ward, Wells, Williams, Bismarck",
+    "publish": "Yes",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-10-31T07:00:00.000Z"
   },
   {
     "country": "United States",
     "code": "us",
     "svspc": "SV",
     "region": "Illinois",
-    "districts": "Chicago, Jersey, Madison, Macoupin, Saint Claire, Champaign, Ford, Piatt, Douglas, Peoria, Lake, Cook, Will, Grundy, Kendall, Kane, DuPage, DeKab, La Salle, Lee",
+    "districts": "Chicago, Jersey, Madison, Macoupin, Saint Claire, Champaign, Ford, Piatt, Douglas, Peoria, Lake, Cook, Will, Grundy, Kendall, Kane, DuPage, DeKab, La Salle, Lee, Quincy, Mt Vernon, Springfield, Waukegan, Joliet, Aurora, Kankakee",
     "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-10-31T07:00:00.000Z"
@@ -9570,7 +9590,7 @@
     "code": "us",
     "svspc": "SV",
     "region": "Mississippi",
-    "districts": "Hinds, Copiah, Simpson, Rankin, Madision, Yazoo, Grenada, Lowndes, Monroe, Lee, Itawamba, Union, Tippah, Prentiss, Tishomingo,  Leflore, Tallahatchee, Newton, Scott, Neshoba, Leake, Jasper, Clarke, Jones, Wayne, Pearl River, Lamar, Marion,  Covington, Jefferson Davis, ",
+    "districts": "Hinds, Copiah, Simpson, Rankin, Madision, Yazoo, Grenada, Lowndes, Monroe, Lee, Itawamba, Union, Tippah, Prentiss, Tishomingo,  Leflore, Tallahatchee, Newton, Scott, Neshoba, Leake, Jasper, Clarke, Jones, Wayne, Pearl River, Lamar, Marion,  Covington, Jefferson Davis, Jackson, Meridian, Columbia, Tupelo, ",
     "publish": "Yes",
     "datestart": "2024-01-02T08:00:00.000Z",
     "dateend": "2024-12-31T08:00:00.000Z"
@@ -9580,7 +9600,7 @@
     "code": "us",
     "svspc": "SV",
     "region": "Oregon",
-    "districts": "Clackamas County, Multnomah County, Washington County",
+    "districts": "Clackamas County, Multnomah County, Washington County, Portland, Corvallis, Medford",
     "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-10-31T07:00:00.000Z"
@@ -9641,9 +9661,9 @@
     "svspc": "SV",
     "region": "Maine",
     "districts": "York, Cumberland, Sagadahoc, Androscoggin, Oxford, Kennebec, Lincoln, Knox, Waldo",
-    "publish": "No",
-    "datestart": "2023-03-20T07:00:00.000Z",
-    "dateend": "2023-10-02T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-05-20T07:00:00.000Z",
+    "dateend": "2024-10-31T07:00:00.000Z"
   },
   {
     "country": "United States",
@@ -9660,10 +9680,10 @@
     "code": "us",
     "svspc": "SV",
     "region": "Connecticut",
-    "districts": "Newhaven, Fairfield, Litchfield, Hartford, Middlesex, New London, Tolland, Windham",
-    "publish": "No",
-    "datestart": "2023-03-28T07:00:00.000Z",
-    "dateend": "2023-10-02T07:00:00.000Z"
+    "districts": "Newhaven, Fairfield, Litchfield, Hartford, Middlesex, New London, Tolland, Windham, Norwich",
+    "publish": "Yes",
+    "datestart": "2024-05-20T07:00:00.000Z",
+    "dateend": "2024-10-31T07:00:00.000Z"
   },
   {
     "country": "United States",
@@ -9681,9 +9701,9 @@
     "svspc": "SV",
     "region": "Massachusetts",
     "districts": "Barnstable, Plymouth, Bristol, Norfolk, Suffolk, Middlesex, Essex, Worcester, Hampden, Hampshire, Franklin, Berkshire, Dukes, Nantucket",
-    "publish": "No",
-    "datestart": "2023-05-25T07:00:00.000Z",
-    "dateend": "2023-10-02T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-05-20T07:00:00.000Z",
+    "dateend": "2024-10-31T07:00:00.000Z"
   },
   {
     "country": "United States",
@@ -9701,9 +9721,9 @@
     "svspc": "SV",
     "region": "New Jersey",
     "districts": "Cape May, Cumberland, Salem, Atlantic, Cloucester, Camden, Burlington, Ocean, Monmouth, Mercer, Middlesex, Union, Somerset, Hunterdon, Union, Essex, Hudson, Bergen, Passaic, Morris, Warren, Sussex",
-    "publish": "No",
-    "datestart": "2023-04-04T07:00:00.000Z",
-    "dateend": "2023-10-02T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-05-20T07:00:00.000Z",
+    "dateend": "2024-10-31T07:00:00.000Z"
   },
   {
     "country": "United States",
@@ -9711,9 +9731,9 @@
     "svspc": "SV",
     "region": "New York",
     "districts": "Richmond, Kings, Queens, New York, Bronx, Rockland, Westchester, Suffolk, Putnam, Orange, Sullivan, Ulster, Dutchess, Columbia, Greene,Albany, Schoharie, Schenectady, Saratoga, Rensselaer, Washington, Warren, Madison, Monroe, Erie, Long Island",
-    "publish": "No",
-    "datestart": "2023-04-04T07:00:00.000Z",
-    "dateend": "2023-10-02T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-04-01T07:00:00.000Z",
+    "dateend": "2024-10-31T07:00:00.000Z"
   },
   {
     "country": "United States",
@@ -9850,10 +9870,10 @@
     "code": "us",
     "svspc": "SV",
     "region": "Wyoming",
-    "districts": "Albany, Big Horn, Campbell, Carbon, Converse, Crook, Fremont, Goshen, Hot Springs, Johnson, Laramie, Lincoln, Natrona, Niobrara, Park, Platte, Sheridan, Sublette, Sweetwater, Teton, Uinta, Washakie, Weston,",
-    "publish": "No",
-    "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2023-12-28T08:00:00.000Z"
+    "districts": "Albany, Big Horn, Campbell, Carbon, Converse, Crook, Fremont, Goshen, Hot Springs, Johnson, Laramie, Lincoln, Natrona, Niobrara, Park, Platte, Sheridan, Sublette, Sweetwater, Teton, Uinta, Washakie, Weston, Cheyenne",
+    "publish": "Yes",
+    "datestart": "2024-05-20T07:00:00.000Z",
+    "dateend": "2024-10-31T07:00:00.000Z"
   },
   {
     "country": "United States",
@@ -9880,10 +9900,10 @@
     "code": "us",
     "svspc": "SV",
     "region": "South Dakota",
-    "districts": "Aurora, Beadle, Bennett, Bon Homme, Brookings, Brown, Brule, Buffalo, Butte, Campbell, Charles Mix, Clark, Clay, Codington, Corson, Custer, Davison, Day, Deuel, Dewey, Douglas, Edmunds, Fall River, Faulk, Grant, Gregory, Haakon, Hamlin, Hand, Hanson, Harding, Hughes, Hutchinson, Hyde, Jackson, Jerauld, Jones, Kingsbury, Lake, Lawrence, Lincoln, Lyman, Marshall, McCook, McPherson, Meade, Mellette, Miner, Minnehaha, Moody, Oglala Lakota, Pennington, Perkins, Potter, Roberts, Sanborn, Spink, Stanley, Sully, Todd, Tripp, Turner, Union, Walworth, Yankton, Ziebach,",
-    "publish": "No",
-    "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2023-12-30T08:00:00.000Z"
+    "districts": "Aurora, Beadle, Bennett, Bon Homme, Brookings, Brown, Brule, Buffalo, Butte, Campbell, Charles Mix, Clark, Clay, Codington, Corson, Custer, Davison, Day, Deuel, Dewey, Douglas, Edmunds, Fall River, Faulk, Grant, Gregory, Haakon, Hamlin, Hand, Hanson, Harding, Hughes, Hutchinson, Hyde, Jackson, Jerauld, Jones, Kingsbury, Lake, Lawrence, Lincoln, Lyman, Marshall, McCook, McPherson, Meade, Mellette, Miner, Minnehaha, Moody, Oglala Lakota, Pennington, Perkins, Potter, Roberts, Sanborn, Spink, Stanley, Sully, Todd, Tripp, Turner, Union, Walworth, Yankton, Ziebach, Aberdeen, Sioux Falls",
+    "publish": "Yes",
+    "datestart": "2024-05-20T07:00:00.000Z",
+    "dateend": "2024-10-31T07:00:00.000Z"
   },
   {
     "country": "United States",
@@ -9979,9 +9999,9 @@
     "svspc": "SV",
     "region": "Delaware",
     "districts": "New Castle, Kent, Sussex",
-    "publish": "No",
-    "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2023-12-31T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-04-01T07:00:00.000Z",
+    "dateend": "2024-10-31T07:00:00.000Z"
   },
   {
     "country": "United States",
@@ -10133,8 +10153,18 @@
     "country": "Ελλάδα",
     "code": "GR",
     "svspc": "SV",
+    "region": "Δυτική Ελλάδα",
+    "districts": "Πύργος, Αμαλιάδα, Κορυφή, Μαραθέα, Γαστούνη, Γλύφα, Καραβάκι, Καρδαμάς, Πάτρα",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-04-30T07:00:00.000Z"
+  },
+  {
+    "country": "Ελλάδα",
+    "code": "GR",
+    "svspc": "SV",
     "region": "Αττική",
-    "districts": "Χαλκίδα, Κάλαμος, Καπανδρίτι, Μαλακάσα, Αγ. Απόστολοι, Βλαστός, Δήλεσι, Οινόφυτα",
+    "districts": "Αγ. Άννα Εύβοιας, Χαλκίδα, Κάλαμος, Καπανδρίτι, Μαλακάσα, Αγ. Απόστολοι, Βλαστός, Δήλεσι, Οινόφυτα",
     "publish": "Yes",
     "datestart": "2024-02-01T08:00:00.000Z",
     "dateend": "2024-05-01T07:00:00.000Z"
@@ -10144,10 +10174,10 @@
     "code": "GR",
     "svspc": "SV",
     "region": "Δυτική Ελλάδα",
-    "districts": "Πύργος, Αμαλιάδα, Κορυφή, Μαραθέα, Γαστούνη, Γλύφα, Καραβάκι, Καρδαμάς, Πάτρα",
+    "districts": "Πάτρα, Ναύπλιο, Άργος, Κρανίδι, Μέθανα, Ηλιόκαστρο, Στέρνα",
     "publish": "Yes",
-    "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-05-01T07:00:00.000Z"
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
