@@ -400,7 +400,7 @@
     "code": "AU",
     "svspc": "SV",
     "region": "Tasmania",
-    "districts": "King Island, Flinders Island, Hobart",
+    "districts": "King Island, Flinders Island, Hobart, Tasmania",
     "publish": "Yes",
     "datestart": "2024-03-01T08:00:00.000Z",
     "dateend": "2024-05-01T07:00:00.000Z"
@@ -411,7 +411,7 @@
     "svspc": "SV",
     "region": "Cairns",
     "districts": "Mount Isa, Cairns, Alice Springs",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-18T07:00:00.000Z",
     "dateend": "2024-06-18T07:00:00.000Z"
   },
@@ -1345,8 +1345,18 @@
     "country": "Brasil",
     "code": "BR",
     "svspc": "SV",
+    "region": "Paraíba",
+    "districts": "Joao Pessoa, Campina Grande, Recife, Caruaru, Jaboatão dos Guararapes, Cabo de Santo Agostinho, Sao Jose do Egito",
+    "publish": "Yes",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-12-27T08:00:00.000Z"
+  },
+  {
+    "country": "Brasil",
+    "code": "BR",
+    "svspc": "SV",
     "region": "Pernambuco",
-    "districts": "Recife, Jaboatão dos Guararapes, Olinda, Bom Conselho",
+    "districts": "Recife, Jaboatão dos Guararapes, Olinda, Bom Conselho, Salgueiro",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
     "dateend": "2024-12-27T08:00:00.000Z"
@@ -1426,7 +1436,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "São Paulo",
-    "districts": "São Paulo, Guarulhos, Osasco, São José do Rio Preto, Taubaté, Hortolandia, Riberão Preto, Bauru, Americana, Sorocaba, Itapetininga, Araraquara, Campinas, Araçatuba, Olimpia ",
+    "districts": "São Paulo, Guarulhos, Osasco, São José do Rio Preto, Taubaté, Hortolandia, Riberão Preto, Bauru, Americana, Sorocaba, Itapetininga, Araraquara, Campinas, Araçatuba, Olimpia, Jundiaí",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
     "dateend": "2024-12-27T08:00:00.000Z"
@@ -4966,7 +4976,7 @@
     "districts": "Sapporo, Kushiro, Asahikawa",
     "publish": "Yes",
     "datestart": "2024-04-30T07:00:00.000Z",
-    "dateend": "2024-06-30T07:00:00.000Z"
+    "dateend": "2024-08-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -4976,7 +4986,7 @@
     "districts": "Hirosaki, Tsugaru, Goshogawara",
     "publish": "Yes",
     "datestart": "2024-04-30T07:00:00.000Z",
-    "dateend": "2024-06-30T07:00:00.000Z"
+    "dateend": "2024-07-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -4986,7 +4996,7 @@
     "districts": "Akita, Katagami",
     "publish": "Yes",
     "datestart": "2024-04-30T07:00:00.000Z",
-    "dateend": "2024-06-30T07:00:00.000Z"
+    "dateend": "2024-07-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -4996,7 +5006,7 @@
     "districts": "Morioka, Takizawa, Hachimantai",
     "publish": "Yes",
     "datestart": "2024-04-30T07:00:00.000Z",
-    "dateend": "2024-06-30T07:00:00.000Z"
+    "dateend": "2024-07-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -5006,7 +5016,7 @@
     "districts": "Aizuwakamatsu, Kitakata",
     "publish": "Yes",
     "datestart": "2024-04-30T07:00:00.000Z",
-    "dateend": "2024-06-30T07:00:00.000Z"
+    "dateend": "2024-07-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -5030,7 +5040,7 @@
     "districts": "Numata, Minakami",
     "publish": "Yes",
     "datestart": "2024-04-30T07:00:00.000Z",
-    "dateend": "2024-06-30T07:00:00.000Z"
+    "dateend": "2024-07-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -5047,7 +5057,7 @@
     "districts": "Utsunomiya, Kanuma, Sakura",
     "publish": "Yes",
     "datestart": "2024-04-30T07:00:00.000Z",
-    "dateend": "2024-06-30T07:00:00.000Z"
+    "dateend": "2024-08-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -5067,7 +5077,7 @@
     "districts": "Kawagoe, Kawagoe, Sayama",
     "publish": "Yes",
     "datestart": "2024-04-30T07:00:00.000Z",
-    "dateend": "2024-06-30T07:00:00.000Z"
+    "dateend": "2024-07-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -5081,20 +5091,20 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Tokyo",
-    "districts": "Hachiouji, Oume",
+    "districts": "23 Wards, Hachiouji, Oume",
     "publish": "Yes",
     "datestart": "2024-04-30T07:00:00.000Z",
-    "dateend": "2024-06-30T07:00:00.000Z"
+    "dateend": "2024-08-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
     "code": "JP",
     "svspc": "SV",
     "region": "Kanagawa",
-    "districts": "Sagamihara, Isehara, Odawara",
+    "districts": "Yokohama, Sagamihara, Isehara, Odawara",
     "publish": "Yes",
     "datestart": "2024-04-30T07:00:00.000Z",
-    "dateend": "2024-06-30T07:00:00.000Z"
+    "dateend": "2024-08-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -5102,9 +5112,9 @@
     "svspc": "SV",
     "region": "Shizuoka",
     "districts": "Fujimomiya, Fuji, Shizuoka",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-04-30T07:00:00.000Z",
-    "dateend": "2024-06-30T07:00:00.000Z"
+    "dateend": "2024-05-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -5114,14 +5124,17 @@
     "districts": "Saku, Komoro",
     "publish": "Yes",
     "datestart": "2024-04-30T07:00:00.000Z",
-    "dateend": "2024-06-30T07:00:00.000Z"
+    "dateend": "2024-07-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
     "code": "JP",
     "svspc": "SV",
     "region": "Niigata",
-    "publish": "No"
+    "districts": "Sado",
+    "publish": "Yes",
+    "datestart": "2024-05-31T07:00:00.000Z",
+    "dateend": "2024-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -5138,7 +5151,7 @@
     "districts": "Toyama, Kurobe, Namerikawa",
     "publish": "Yes",
     "datestart": "2024-04-30T07:00:00.000Z",
-    "dateend": "2024-06-30T07:00:00.000Z"
+    "dateend": "2024-07-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -5148,7 +5161,7 @@
     "districts": "Kahoku, Saku",
     "publish": "Yes",
     "datestart": "2024-05-01T07:00:00.000Z",
-    "dateend": "2024-06-30T07:00:00.000Z"
+    "dateend": "2024-07-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -5158,17 +5171,17 @@
     "districts": "Minokamo, Tajimi, Ena, Seki",
     "publish": "Yes",
     "datestart": "2024-04-30T07:00:00.000Z",
-    "dateend": "2024-06-30T07:00:00.000Z"
+    "dateend": "2024-07-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
     "code": "JP",
     "svspc": "SV",
     "region": "Aichi",
-    "districts": "Tokai, Handa, Ichinomiya, Komaki",
+    "districts": "Nagoya, Handa, Ichinomiya, Komaki",
     "publish": "Yes",
     "datestart": "2024-04-30T07:00:00.000Z",
-    "dateend": "2024-06-30T07:00:00.000Z"
+    "dateend": "2024-07-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -5206,7 +5219,7 @@
     "districts": "Yao, Higashi Osaka, Sakai, Hannan",
     "publish": "Yes",
     "datestart": "2024-04-30T07:00:00.000Z",
-    "dateend": "2024-06-30T07:00:00.000Z"
+    "dateend": "2024-07-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -5226,7 +5239,7 @@
     "districts": "Gobo, Tanabe, Kushimoto",
     "publish": "Yes",
     "datestart": "2024-04-30T07:00:00.000Z",
-    "dateend": "2024-06-30T07:00:00.000Z"
+    "dateend": "2024-08-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -5244,7 +5257,7 @@
     "svspc": "SV",
     "region": "Tokushima",
     "districts": "Kaiyo, Naka",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-04-30T07:00:00.000Z",
     "dateend": "2024-04-30T07:00:00.000Z"
   },
@@ -5267,10 +5280,7 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Ehime",
-    "districts": "Ainan",
-    "publish": "No",
-    "datestart": "2024-04-30T07:00:00.000Z",
-    "dateend": "2024-04-30T07:00:00.000Z"
+    "publish": "No"
   },
   {
     "country": "Japan",
@@ -5284,7 +5294,10 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Shimane",
-    "publish": "No"
+    "districts": "Masuda, Hamada",
+    "publish": "Yes",
+    "datestart": "2024-06-30T07:00:00.000Z",
+    "dateend": "2024-08-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -5298,7 +5311,10 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Hiroshima",
-    "publish": "No"
+    "districts": "Miyoshi, Shobara, Akitakata",
+    "publish": "Yes",
+    "datestart": "2024-04-30T07:00:00.000Z",
+    "dateend": "2024-07-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -5308,7 +5324,7 @@
     "districts": "Fukuoka, Koga, Nakama",
     "publish": "Yes",
     "datestart": "2024-04-30T07:00:00.000Z",
-    "dateend": "2024-06-30T07:00:00.000Z"
+    "dateend": "2024-08-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -5318,7 +5334,7 @@
     "districts": "Saga, Ogi, Ureshino",
     "publish": "Yes",
     "datestart": "2024-04-30T07:00:00.000Z",
-    "dateend": "2024-06-30T07:00:00.000Z"
+    "dateend": "2024-08-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -5328,7 +5344,7 @@
     "districts": "Hasami, Sasebo, Hirado",
     "publish": "Yes",
     "datestart": "2024-04-30T07:00:00.000Z",
-    "dateend": "2024-06-30T07:00:00.000Z"
+    "dateend": "2024-08-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -5338,7 +5354,7 @@
     "districts": "Kumamoto, Kamiamakusa",
     "publish": "Yes",
     "datestart": "2024-04-30T07:00:00.000Z",
-    "dateend": "2024-06-30T07:00:00.000Z"
+    "dateend": "2024-08-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -5348,7 +5364,7 @@
     "districts": "Nakatsu, Takeda, Bungoono",
     "publish": "Yes",
     "datestart": "2024-04-30T07:00:00.000Z",
-    "dateend": "2024-06-30T07:00:00.000Z"
+    "dateend": "2024-08-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -5358,7 +5374,7 @@
     "districts": "Kirishima, Aira",
     "publish": "Yes",
     "datestart": "2024-04-30T07:00:00.000Z",
-    "dateend": "2024-06-30T07:00:00.000Z"
+    "dateend": "2024-08-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -5368,7 +5384,7 @@
     "districts": "Nobeoka, Hyuga, Takachiho",
     "publish": "Yes",
     "datestart": "2024-04-30T07:00:00.000Z",
-    "dateend": "2024-06-30T07:00:00.000Z"
+    "dateend": "2024-08-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -5378,7 +5394,7 @@
     "districts": "Ginowan, Naha",
     "publish": "Yes",
     "datestart": "2024-04-30T07:00:00.000Z",
-    "dateend": "2024-06-30T07:00:00.000Z"
+    "dateend": "2024-08-31T07:00:00.000Z"
   },
   {
     "country": "Jordan",
@@ -6945,6 +6961,16 @@
     "dateend": "2024-12-26T08:00:00.000Z"
   },
   {
+    "country": "México",
+    "code": "MX",
+    "svspc": "SV",
+    "region": "Guerrero",
+    "districts": "Chilpancingo, Chilpancinguito, Atoyac de Alvarez, Tuxla de Guerrero, alrededores.",
+    "publish": "Yes",
+    "datestart": "2024-05-09T07:00:00.000Z",
+    "dateend": "2024-12-26T08:00:00.000Z"
+  },
+  {
     "country": "Peru",
     "code": "PE",
     "svspc": "SV",
@@ -7048,8 +7074,8 @@
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Subic",
-    "districts": "Olongapo City",
+    "region": "Pampanga",
+    "districts": "Malabalcat",
     "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-05-31T07:00:00.000Z"
@@ -7059,19 +7085,9 @@
     "code": "PH",
     "svspc": "SV",
     "region": "Pangasinan",
-    "districts": "San Carlos",
+    "districts": "Malasique, Umingan",
     "publish": "Yes",
     "datestart": "2024-03-11T07:00:00.000Z",
-    "dateend": "2024-05-31T07:00:00.000Z"
-  },
-  {
-    "country": "Philippines",
-    "code": "PH",
-    "svspc": "SV",
-    "region": "Central Luzon",
-    "districts": "Subic",
-    "publish": "Yes",
-    "datestart": "2024-04-22T07:00:00.000Z",
     "dateend": "2024-05-31T07:00:00.000Z"
   },
   {
@@ -7081,7 +7097,17 @@
     "region": "Pampanga",
     "districts": "San Fernando, Pampanga",
     "publish": "Yes",
-    "datestart": "2024-03-01T08:00:00.000Z",
+    "datestart": "2024-04-22T07:00:00.000Z",
+    "dateend": "2024-05-31T07:00:00.000Z"
+  },
+  {
+    "country": "Philippines",
+    "code": "PH",
+    "svspc": "SV",
+    "region": "Nueva Ecija",
+    "districts": "Cabanatuan",
+    "publish": "Yes",
+    "datestart": "2024-05-01T07:00:00.000Z",
     "dateend": "2024-05-31T07:00:00.000Z"
   },
   {
@@ -7089,7 +7115,7 @@
     "code": "PH",
     "svspc": "SV",
     "region": "Calabarzon",
-    "districts": "Batangas",
+    "districts": "Tayabas",
     "publish": "Yes",
     "datestart": "2024-04-22T07:00:00.000Z",
     "dateend": "2024-05-15T07:00:00.000Z"
@@ -7099,10 +7125,10 @@
     "code": "PH",
     "svspc": "SV",
     "region": "Calabarzon",
-    "districts": "Mauban",
+    "districts": "General Trias, Imus, Dasmarinas",
     "publish": "Yes",
-    "datestart": "2024-03-11T07:00:00.000Z",
-    "dateend": "2024-04-30T07:00:00.000Z"
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-05-31T07:00:00.000Z"
   },
   {
     "country": "Polska",
@@ -9306,7 +9332,7 @@
     "code": "TH",
     "svspc": "SV",
     "region": "Central, Northern, Northeastern, Southern ",
-    "districts": "Bangkok, Nonthaburi, Nakhon pathom, Samut Sakhon, Laumpang, Chiang Mai, Nan, Lumphun, KamPhang Phet, Mea Hong Son, Suphan Buri, Pathum Thani, Surat Thani, Kanchanaburi, Songkla, Nakhon Si Thammarat, Phang-nga, Krabi",
+    "districts": "Bangkok, Nonthaburi, Nakhon pathom, Samut Sakhon, Laumpang, Chiang Mai, Chiang Rai, Nan, Lumphun, Mea Hong Son, Suphan Buri, Pathum Thani, Surat Thani, Kanchanaburi, Songkla, Nakhon Si Thammarat, Phang-nga, Krabi",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
     "dateend": "2024-05-31T07:00:00.000Z"
@@ -9530,7 +9556,7 @@
     "code": "us",
     "svspc": "SV",
     "region": "Iowa",
-    "districts": "Dallas, Polk, Madison, Warren, Marion, Jasper, Mahaska, Powesheik, Iowa, Johnson, Linn, Benton, Blackhawk, Marshall, Story, Cedar Rapids, Dubuque, Sioux City, Des Moines",
+    "districts": "Osceola, Dickinson, Emmet, Palo Alto, Kossuth, Pocahontas, Humboldt, Calhoun, Webster, Woodbury, Ida, Crawford, Monona, Plymouth, Cherokee, Buena Vista, Sac, Carroll, Cerro Gordo, Worth, Mitchell, Floyd, Howard, Chickasaw, Winneshiek, Clayton, Fayette, Dubuque, Jackson, Jones, Delaware, Clinton, Scott, Cedar, Johnson, Iowa, Benton, Linn, Lee, Davis, Wapello, Jefferson, Keokuk, Mahaska, Washington, Muscatine, Tama, Marshall, Hardin, Grundy, Hamilton, Wright, Boone, Greene, Webster",
     "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-10-31T07:00:00.000Z"
@@ -9550,7 +9576,7 @@
     "code": "us",
     "svspc": "SV",
     "region": "New Hampshire",
-    "districts": "Concord, Portsmouth, Claremont",
+    "districts": "Rockingham, Strafford, Sullivan, Grafton, Coos, Carroll",
     "publish": "Yes",
     "datestart": "2024-05-01T07:00:00.000Z",
     "dateend": "2024-10-31T07:00:00.000Z"
@@ -9570,7 +9596,7 @@
     "code": "us",
     "svspc": "SV",
     "region": "Illinois",
-    "districts": "Chicago, Jersey, Madison, Macoupin, Saint Claire, Champaign, Ford, Piatt, Douglas, Peoria, Lake, Cook, Will, Grundy, Kendall, Kane, DuPage, DeKab, La Salle, Lee, Quincy, Mt Vernon, Springfield, Waukegan, Joliet, Aurora, Kankakee",
+    "districts": "Chicago, Jersey, Madison, Macoupin, Saint Claire, Champaign, Ford, Piatt, Douglas, Peoria, Lake, Cook, Will, Grundy, Kendall, Kane, DuPage, DeKab, La Salle, Lee, Quincy, Mt Vernon, Springfield, Waukegan, Joliet, Aurora, Kankakee, McHenry, Boone, Montgomery, Bond, Fayette, Christian, Shelby, Crawford, Jasper, Effingham, Clay, Wayne, Jefferson, Marion, Clinton, Adams, Pike, Brown, Schuyler, Hancock, McDonough, Pike, Greene, Scott, Morgan, Iroquois, Vermillion",
     "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-10-31T07:00:00.000Z"
@@ -9580,7 +9606,7 @@
     "code": "us",
     "svspc": "SV",
     "region": "Rhode Island",
-    "districts": "Providence",
+    "districts": "Providence, Kent, Washington",
     "publish": "No",
     "datestart": "2023-05-25T07:00:00.000Z",
     "dateend": "2023-10-02T07:00:00.000Z"
@@ -9590,7 +9616,7 @@
     "code": "us",
     "svspc": "SV",
     "region": "Mississippi",
-    "districts": "Hinds, Copiah, Simpson, Rankin, Madision, Yazoo, Grenada, Lowndes, Monroe, Lee, Itawamba, Union, Tippah, Prentiss, Tishomingo,  Leflore, Tallahatchee, Newton, Scott, Neshoba, Leake, Jasper, Clarke, Jones, Wayne, Pearl River, Lamar, Marion,  Covington, Jefferson Davis, Jackson, Meridian, Columbia, Tupelo, ",
+    "districts": "Hinds, Copiah, Simpson, Rankin, Madision, Yazoo, Grenada, Lowndes, Monroe, Lee, Itawamba, Union, Tippah, Prentiss, Tishomingo, Leflore, Tallahatchee, Newton, Scott, Neshoba, Leake, Jasper, Clarke, Jones, Wayne, Pearl River, Lamar, Marion, Covington, Jefferson Davis, Jackson, Meridian, Columbia, Tupelo, Jefferson, Claiborne, Copiah, Lincoln, Greene, Perry, Forrest, Coahoma, Sunflower, Yalobusha, Carroll, Montgomery, Alcorn, Oxford, Chickasaw, Pontotoc, Winston, Noxubee",
     "publish": "Yes",
     "datestart": "2024-01-02T08:00:00.000Z",
     "dateend": "2024-12-31T08:00:00.000Z"
@@ -9600,7 +9626,7 @@
     "code": "us",
     "svspc": "SV",
     "region": "Oregon",
-    "districts": "Clackamas County, Multnomah County, Washington County, Portland, Corvallis, Medford",
+    "districts": "Clatsop, Tillamook, Washington, Yamhill, Marion, Clackamas, Multnomah, Hood River, Wasco, Sherman, Lincoln, Benton, Lane, Douglas, Coos, Curry, Josephine, Jackson, Klamath, Lake, Deschutes, Crook, Jefferson, Wheeler, Grant, Harney, Gilliam, Morrow, Baker, Malheur, Wallowa",
     "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-10-31T07:00:00.000Z"
@@ -9610,7 +9636,7 @@
     "code": "us",
     "svspc": "SV",
     "region": "Minnesota",
-    "districts": "Houston, Fillmore, Mower, Freeborn, Faribault, Martin, Jackson, Novles, Rock, Pipestone, Murray, Cottonwood, Watonwan, Blue Earth, Waseca, Steele, Dodge, Olmsted, Winona, Wabasha, Goodhue, Rice, Le Sueur, Nicollet, Brown,  Redwood, Lyon, Lincoln, Yellow Medicine, Renville, Sibley, McLeod, Carver, Scott, Dakota, Washinton, Ramsey, Hennepin, Wright, Meeker, Kandiyohi, Chippewa, Lac qui Parle, Big Stone, Traverse, Stevens, Pope, Stearns, Sherburne, Anoka, Chisago, Pine, Kanabec, Mille Lacs, Morrison, Todd, Douglas, Grant, Traverse",
+    "districts": "Kittson, Roseau, Marshall, Polk, Pennington, Red Lake, Mahnomen, Clay, Becker, Clearwater, Hubbard, Wadena, Otter Trail, Wilkin, Traverse, Big Stone, Chippewa, Swift, Stevens, Grant, Douglas, Pope, Kandiyohi, Stearns, Todd, Cass, Beltrami, Koochiching, St. Louis, Lake, Cook, Pipestone, Murray, Rock, Nobles, Jackson, Cottonwood, Brown, Watonwan, Martin, Blue Earth, Faribault, Nicollet, Le Sueur, Freeborn, Mower, Fillmore, Olmsted, Dodge, Winona, Dakota, Hennepin, Ramset, Washington, Chisago, Anoka, Isanti,  Sherburne, Houston",
     "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-10-31T07:00:00.000Z"
@@ -9660,7 +9686,7 @@
     "code": "us",
     "svspc": "SV",
     "region": "Maine",
-    "districts": "York, Cumberland, Sagadahoc, Androscoggin, Oxford, Kennebec, Lincoln, Knox, Waldo",
+    "districts": "York, Cumberland, Sagadahoc, Androscoggin, Oxford, Kennebec, Lincoln, Knox, Waldo, Hancock, Washington, Penobscot, Aroostook, Piscataquis, Somerset",
     "publish": "Yes",
     "datestart": "2024-05-20T07:00:00.000Z",
     "dateend": "2024-10-31T07:00:00.000Z"
@@ -9670,7 +9696,7 @@
     "code": "us",
     "svspc": "SV",
     "region": "Washington",
-    "districts": "Seattle, Tacoma, Everett, Spokane, Richland",
+    "districts": "Clallam, Jefferson, Grays Harbor, Pacific, Wahkiakum, Whatcom, Skagit, Snohomish, King,  Pierce, Kitsap, Thurston, Lewis, Yakima, Skamania, Cowlitz, Clark, Klickitat, Whitman, Asotin, Chelan, Kitttitas, Douglas",
     "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-10-31T07:00:00.000Z"
@@ -9690,7 +9716,7 @@
     "code": "us",
     "svspc": "SV",
     "region": "Maryland",
-    "districts": "Somerset, Worcester, Wicomico, Dorchester, Talbot, Caroline, Queen Anne's, Kent, Cecil, Harford, Baltimore, Baltimore City, Anne Arundel, Calvert, St. Mary's, Charles, Prince George's, Montgomery, Howard, Carroll, Frederick, Washington, Allegany, Garrett",
+    "districts": "Wicomico, Dorchester, Caroline, Baltimore, Carroll, Frederick, Washington, Cecil, Harford",
     "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-10-31T07:00:00.000Z"
@@ -9700,7 +9726,7 @@
     "code": "us",
     "svspc": "SV",
     "region": "Massachusetts",
-    "districts": "Barnstable, Plymouth, Bristol, Norfolk, Suffolk, Middlesex, Essex, Worcester, Hampden, Hampshire, Franklin, Berkshire, Dukes, Nantucket",
+    "districts": "Essex, Middlesex, Suffolk, Norfolk, Barnstable, Plymouth",
     "publish": "Yes",
     "datestart": "2024-05-20T07:00:00.000Z",
     "dateend": "2024-10-31T07:00:00.000Z"
@@ -9710,7 +9736,7 @@
     "code": "us",
     "svspc": "SV",
     "region": "Michigan",
-    "districts": "Berrien, Cass, St. Joseph, Branch, Hillsdale, Lenawee, Monroe, Wayne, Washtenaw, Jackson, Calhoun, Kalamazoo, Van Buren, Allegan, Barry, Eaton, Ingham, Livingston, Oakland, Macomb, St. Claire, Genesee, Shiawassee, Clinton, Ionia, Kent, Ottawa, Muskegon, Newaygo, Mecosta, Isabella, Midland",
+    "districts": "Wexford, Manistee, Mason, Lake, Osceola, Oceana, Newaygo, Muskegon, Ottawa, Kent, Allegan, Calhoun, Eaton, Ingham, Jackson, Branch, Hillsdale, Lenawee, Clinton, Gratiot, Saginaw, Shiawassee, Genesee, Oakland, Wayne, Macomb, Tuscola, Sanilac, Huron, St. Clair, Arenac, Iosco, Ogemaw, Roscommon, Clare, Gladwin, Missaukee, Oscoda, Alcona, Montmorency, Alpena, Presque Isle, Cheboygan, Emmet, Charlevoix, Otsego, Mackinac, Chippewa, Luce, Alger, Schoolcraft, Keweenaw, Houghton, Baraga, Ontonagon, Gogebic, Iron, Dickinson, Marquette",
     "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-10-31T07:00:00.000Z"
@@ -9720,7 +9746,7 @@
     "code": "us",
     "svspc": "SV",
     "region": "New Jersey",
-    "districts": "Cape May, Cumberland, Salem, Atlantic, Cloucester, Camden, Burlington, Ocean, Monmouth, Mercer, Middlesex, Union, Somerset, Hunterdon, Union, Essex, Hudson, Bergen, Passaic, Morris, Warren, Sussex",
+    "districts": "Warren, Hunterdon, Mercer, Morris, Sussex, Middlesex, Monmouth, Union, Essex, Bergen, Hudson",
     "publish": "Yes",
     "datestart": "2024-05-20T07:00:00.000Z",
     "dateend": "2024-10-31T07:00:00.000Z"
@@ -9730,7 +9756,7 @@
     "code": "us",
     "svspc": "SV",
     "region": "New York",
-    "districts": "Richmond, Kings, Queens, New York, Bronx, Rockland, Westchester, Suffolk, Putnam, Orange, Sullivan, Ulster, Dutchess, Columbia, Greene,Albany, Schoharie, Schenectady, Saratoga, Rensselaer, Washington, Warren, Madison, Monroe, Erie, Long Island",
+    "districts": "Suffolk, Nassau, Kings, Richmond, New York, Queens, Bronx, Westchester, Rockland, Sullivan, Delaware, Ulster, Greene, Orange, Schoharie, Otsego, Montgomery, Herkimer, Fulton, Tompkins, Cortland, Broome, Tioga, Schuyler, Allegany, Cattaraugus, Chautauqua, Erie, Wyoming, Genesee, Orleans, Monroe, Livingston, Ontario, Seneca, Wayne, St. Lawrence, Jefferson, Franklin, Lewis, Oneida, Hamilton",
     "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-10-31T07:00:00.000Z"
@@ -9740,7 +9766,7 @@
     "code": "us",
     "svspc": "SV",
     "region": "Ohio",
-    "districts": "Lawrence, Ross, Greene, Miami, Mercer, Putnam, Seneca, Medina, Tuscarawas, Belmont, Noble, Licking, Ashtabula",
+    "districts": "Lawrence, Scioto, Gallia, Jackson, Adams, Pike, Brown, Highland, Clermont, Hamilton, Butler, Warren, Clinton, Fayette, Ross, Pickaway, Madison, Franklin, Preble, Montgomery, Darke, Miami, Shelby, Greene, Clark, Champaign, Logan, Mercer, Auglaize, Williams, Defiance, Henry, Fulton, Lucas, Wood, Ottawa, Sanduasky, Seneca, Hancock, Wyandot, Crawford, Erie, Huron, Richland, Ashland, Lorain, Medina, Wayne, Cuyahoga, Geauga, Lake, Ashtabula, Trumbull, Portage, Mahoning, Columbiana, Stark, Carroll, Holmes, Putnam, Allen, Vinton",
     "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-10-31T07:00:00.000Z"
@@ -9750,7 +9776,7 @@
     "code": "us",
     "svspc": "SV",
     "region": "Pennsylvania",
-    "districts": "Delaware, Philadelphia, Bucks, Montgomery, Berks, Lancaster, York, Lebanon, Dauphin, Schuylkill, Lehigh, Northhampton, Adams, Venango, Clarion, Jefferson, Indiana, Armstrong, Butler, Allegheny, Westmoreland",
+    "districts": "Erie, Crawford, Mercer, Lawrence, Butler, Beaver, Allegheny, Venango, Warren, Forest, Clarion, Jefferson, Elk, McKean, Cameron, Potter, Clinton, Tioga, Lycoming, Wayne, Pike, Lehigh, Northampton, Bucks, Philadelphia, Montgomery, Delaware, Chester, Lancaster, York, Adams, Cumberland, Franklin, Somerset, Westmoreland, Fayette",
     "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-10-31T07:00:00.000Z"
@@ -9760,7 +9786,7 @@
     "code": "us",
     "svspc": "SV",
     "region": "Virginia",
-    "districts": "New Kent, Sussex, Hanover, Caroline, Essex, King and Queen, Gloucester, York, King William, Buckingham, Halifax, Patrick, Grayson, Scott, Dickenson, Page",
+    "districts": "Lee, Wise, Norton, Scott, Dickenson, Buchanan, Russell, Washington, Tazewell, Smyth, Bland, Wythe, Carroll, Giles, Radford, Pulaski, Grayson, Patrick, Floyd, Giles, Montgomery, Craig, Highland, Bath, Augusta, Rockingham, Harrisonburg, Shenandoah, Frederick, Worchester, Clarke, Warren, Rappahannock, Fauquier, Loudoun, Fairfax, Prince William, Isle of Wight, Surry, Sussex, Southampton, Newport News, Hampton, Poquoson, York, James City, Gloucester, New Kent, King William, King and Queen, Essex, Fredericksburg, Stafford, Spotsylvania, King George, Caroline",
     "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-10-31T07:00:00.000Z"
@@ -9770,7 +9796,7 @@
     "code": "us",
     "svspc": "SV",
     "region": "Florida",
-    "districts": "Walton, Washington, Holmes, Bay, Gulf, Liberty, Franklin, Wakulla, Leon, Gasden, Orange, Kissimmee, Seminole, Duval, Clay, Saint Johns, Nassau, Okeechobee, Indian River, Saint Lucie, Martin, Palm Beach, Sarasota, Desoto, Highlands, Charlotte, Glades, Lafayette, Dixie, Gilchrist, Madison, Okaloosa",
+    "districts": "Walton, Washington, Holmes, Bay, Gulf, Liberty, Franklin, Wakulla, Leon, Gasden, Orange, Kissimmee, Seminole, Duval, Clay, Saint Johns, Nassau, Okeechobee, Indian River, Saint Lucie, Martin, Palm Beach, Sarasota, Desoto, Highlands, Charlotte, Glades, Lafayette, Dixie, Gilchrist, Madison, Okaloosa, Polk, Lake, Sumter, Marion, Pinellas, Hillsborough, Pasco, Manatee, Hardee, Lee, Collier, Bradford, Flagler, Broward, Hendry",
     "publish": "Yes",
     "datestart": "2024-01-02T08:00:00.000Z",
     "dateend": "2024-12-31T08:00:00.000Z"
@@ -9850,7 +9876,7 @@
     "code": "us",
     "svspc": "SV",
     "region": "Kentucky",
-    "districts": "Jefferson, Bulitt, Nelson, Spencer, Anderson, Mercer, Boyle, Lincoln, Casey, Russell, Wayne, Adair, Cumberland, Metcalfe, Green, Taylor, Marion, Washington, Nelson, Hardin, Larue, Hart, Barren, Allen, Warren, Edmonson, Grayson, Breckinridge, Meade, Hancock, Daviess, McLean, Muhlenberg, Ohio, Todd, Christian, Trigg, Lyon, Caldwell, Webster, Union, Marshall, Ballard, McCracken, Pike, Knott, Letcher, Floyd, Johnson, Martin, Bell, Harlan, Leslie, Knox, Whitley, Magoffin, Morgan, Elliott, Carter, Hickman, Fulton, Graves, McCracken, Ballard, Carlisle, Calloway, Marshall, Lyon, Trigg",
+    "districts": "Jefferson, Bulitt, Nelson, Spencer, Anderson, Mercer, Boyle, Lincoln, Casey, Russell, Wayne, Adair, Cumberland, Metcalfe, Green, Taylor, Marion, Washington, Nelson, Hardin, Larue, Hart, Barren, Allen, Warren, Edmonson, Grayson, Breckinridge, Meade, Hancock, Daviess, McLean, Muhlenberg, Ohio, Todd, Christian, Trigg, Lyon, Caldwell, Webster, Union, Marshall, Ballard, McCracken, Pike, Knott, Letcher, Floyd, Johnson, Martin, Bell, Harlan, Leslie, Knox, Whitley, Magoffin, Morgan, Elliott, Carter, Hickman, Fulton, Graves, Carlisle, Calloway",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
     "dateend": "2024-12-31T08:00:00.000Z"
@@ -9960,7 +9986,7 @@
     "code": "us",
     "svspc": "SV",
     "region": "North Carolina",
-    "districts": "Charlotte, Fayetteville, Goldsboro, Greensboro, Craven, Pamlico, Carteret, Beaufort, Jones, Onslow, Pender, New Hanover, Brunswick, Columbus, Scotland, Robeson, Richmond, Moore, Lee, Chatham, Harnett, Wake, Durham, Orange, Ashe, Alleghany, Wilkes, Surry, Yadkin, Watauga, Caldwell, Cherokee, Macon, Jackson, Polk, Rutherford",
+    "districts": "Charlotte, Fayetteville, Goldsboro, Greensboro, Craven, Pamlico, Carteret, Beaufort, Jones, Onslow, Pender, New Hanover, Brunswick, Columbus, Scotland, Robeson, Richmond, Moore, Lee, Chatham, Harnett, Wake, Durham, Orange, Ashe, Alleghany, Wilkes, Surry, Yadkin, Watauga, Caldwell, Cherokee, Macon, Jackson, Polk, Rutherford, Columbus, Transylvania, Haywood, Madison, Buncombe, Avery, Watauga, Mitchell, Yancey, McDowell, Catawba, Alexander, Rockingham, Guilford, Caswell, Alamance, Caswell, Person",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
     "dateend": "2024-12-31T08:00:00.000Z"
@@ -9969,7 +9995,7 @@
     "country": "United States",
     "code": "us",
     "region": "Kansas",
-    "districts": "Johnson, Douglas, Franklin, Miami, Linn, Anderson, Coffey, Osage, Shawnee, Wabaunsee, Lyon, Chase, Leavenworth, Jefferson",
+    "districts": "Cheyenne, Rawlins, Decatur, Norton, Phillips, Jewell, Republic, Washington, Marshall, Nemaha, Brown, Doniphan, Atchison, Jackson, Pottawatomie, Cloud, Osborne, Rooks, Graham, Sheridan, Thomas, Sherman, Wallace, Logan, Grove, Trego, Ellis, Russell, Lincoln, Ottawa, Saline, Ellsworth, McPherson, Marion, Chase, Harvey, Sedwick, Reno, Rice, Barton, Rush, Ness, Lane, Scott, Wichita, Hamilton, Kearny, Finney, Hodgeman, Pawnee, Stafford, Edwards, Kiowa, Ford, Gray, Meade, Seward, Haskell, Grant, Stanton, Comanche, Barber, Harper, Sumner, Cowley, Cherokee, Wilson, Neosho, Crawford, Woodson, Allen, Bourbon, Coffey, Anderson, Linn, Lyon, Osage, Franklin, Miami, Johnson, Douglas, Wabaunsee, Shawnee, Leavenworth, Jefferson, Dickinson",
     "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-10-31T07:00:00.000Z"
@@ -9978,7 +10004,7 @@
     "country": "United States",
     "code": "us",
     "region": "New Mexico",
-    "districts": "Bernalillo, Sandoval, Santa Fe, Torrance, Valencia, Cibola",
+    "districts": "San Juan, Rio Arriba, McKinley, Sandoval, Cibola, Valencia, Socorro, Catron, Taos, Colfax, Union, Harding, Mora, San Miguel, Quay, Guadalupe, De Baca, Curry, Roosevelt, Torrance, Lincoln, Otero, Eddy, Chaves, Sierra, Dona Ana, Quay",
     "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-10-31T07:00:00.000Z"
@@ -10008,7 +10034,7 @@
     "code": "us",
     "svspc": "SV",
     "region": "Vermont",
-    "districts": "Burlington, Wilmington, Springfield, Essex, Orleans, Caledonia, Lamoille, Washington, Orange, Windsor, Windham, Bennington, Rutland",
+    "districts": "Essex, Orleans, Caledonia, Lamoille, Washington, Orange, Windsor, Windham, Bennington, Rutland",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
     "dateend": "2024-12-31T08:00:00.000Z"
