@@ -1149,7 +1149,7 @@
     "districts": "San Miguel de Tucumán,Rosario de la Frontera,Tafí del Valle,Concepción",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
-    "dateend": "2024-03-29T07:00:00.000Z"
+    "dateend": "2024-06-28T07:00:00.000Z"
   },
   {
     "country": "Argentina",
@@ -1197,6 +1197,16 @@
     "svspc": "SV",
     "region": "Jujuy",
     "districts": "San Salvador de Jujuy, Palpalá, San Pedro Jujuy, Guemes, Fraile Pintado, Libertador Geneneral San Martin, otros.",
+    "publish": "Yes",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-12-31T08:00:00.000Z"
+  },
+  {
+    "country": "Argentina",
+    "code": "AR",
+    "svspc": "SV",
+    "region": "Mendoza",
+    "districts": "Mendoza y alrededores.",
     "publish": "Yes",
     "datestart": "2024-05-01T07:00:00.000Z",
     "dateend": "2024-12-31T08:00:00.000Z"
@@ -1579,7 +1589,7 @@
     "districts": "Ipiales, Pasto, Pupiales, Aldana, Pedregal, alrededores.",
     "publish": "Yes",
     "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-12-31T08:00:00.000Z"
+    "dateend": "2024-05-31T07:00:00.000Z"
   },
   {
     "country": "Colombia",
@@ -1590,6 +1600,16 @@
     "publish": "Yes",
     "datestart": "2024-02-01T08:00:00.000Z",
     "dateend": "2024-12-31T08:00:00.000Z"
+  },
+  {
+    "country": "Colombia",
+    "code": "CO",
+    "svspc": "SV",
+    "region": "Cauca",
+    "districts": "Popayán, alrededores",
+    "publish": "Yes",
+    "datestart": "2024-04-01T07:00:00.000Z",
+    "dateend": "2024-05-31T07:00:00.000Z"
   },
   {
     "country": "Peru",
@@ -1679,7 +1699,7 @@
     "country": "Canada",
     "code": "ca",
     "region": "British Columbia",
-    "districts": "Alberni-Clayoquot, Bulkley-Nechako, Capital, Cariboo, Central Coast, Central Kootenay, Central Okanagan, Columbia-Shuswap, Comox Valley, Cowichan Valley, East Kootenay, Fraser Valley, Fraser-Fort George, Kitimat-Stikine, Kootenay Boundary, Metro Vancouver, Mount Waddington, Nanaimo, North Coast, North Okanagan, Northern Rockies, Okanagan-Similkameen, Peace River, qathet, Squamish-Lillooet, Stikine Region[a], Strathcona, Sunshine Coast, Thompson-Nicola",
+    "districts": "Alberni-Clayoquot, Mount Waddington, Strathcona, Comos Valley, Nanaimo, Cowichan Valley, Capital, Great Vancouver, Fraser Valley, Powell River, East Kootenay, Central Kooteney, Kooteney Boundary, Thompson-Nicola, Columbia-Shuswap, Kitimat-Stikine, Stikine, Northern Rockies, Peace River, Bulkley-Nechako, Skeena-Queen Charlotte",
     "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
@@ -1688,16 +1708,34 @@
     "country": "Canada",
     "code": "ca",
     "region": "New Brunswick",
-    "districts": "Albert County, Carleton County, Charlotte County, Gloucester County, Kent County, Kings County, Madawaska County, Northumberland County, Queens County, Restigouche County, Saint John County, Sunbury County, Victoria County, Westmorland County, York County",
-    "publish": "No",
+    "districts": "Madawaska, Restigouche, Gloucester, Victoria, Northumberland, Carleton, York, Charlotte",
+    "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Canada",
     "code": "ca",
+    "region": "Newfoundland and Labrador",
+    "districts": "Burin Peninsula-Marystown, South Coast-Channel-Port aux Basques, St. George’s-Stephenville, Humber District-Corner Brook, Central Newfoundland-Grand Falls-Windsor, Bonavista/Trinity-Clarenville, Notre Dame Bay-Lewisporte",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-11-02T07:00:00.000Z"
+  },
+  {
+    "country": "Canada",
+    "code": "ca",
+    "region": "Northwest Territories",
+    "districts": "Fort Smith, Fort Simpson, Yellowknife, Inuvik, Norman Wells, Bechoko",
+    "publish": "No",
+    "datestart": "2024-07-02T07:00:00.000Z",
+    "dateend": "2024-11-03T07:00:00.000Z"
+  },
+  {
+    "country": "Canada",
+    "code": "ca",
     "region": "Nova Scotia",
-    "districts": "Annapolis, Antigonish, Cape Bretona, Colchester, Cumberland, Digby, Guysborough, Halifaxb, Hants, Inverness, Kings, Lunenburg, Pictou, Queensc, Richmond, Shelburne, Victoria, Yarmouth ",
+    "districts": "Digby, Yarmouth, Shelburne, Annapolis, Cape Breton, Richmond, Antigonish, Guysborough, Pictou, Halifax",
     "publish": "Yes",
     "datestart": "2024-05-01T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
@@ -1706,7 +1744,7 @@
     "country": "Canada",
     "code": "ca",
     "region": "Québec",
-    "districts": "Beauharnois, Berthier, Bonaventure, Chaudière, Dorchester, Gaspé, Kamouraska, Lac-des-Deux-Montagnes, Leinster, Missisquoi, Montréal, Nicolet, Portneuf, Quebec, Richelieu, Rimouski, Saguenay, Saint-Hyacinthe, Saint-Jean, Saint-Thomas, Sherbrooke, Sydenham, Terrebonne, Trois-Rivières",
+    "districts": "Nord-du-Québec, Abitibi-Ouest, Abitibi, Rouyn-Noranda, Antoine-Labelle, Matawinie, Coaticook, Memphrémagog, Le Haut-Saint-François, Le Val-Saint-François, Sherbrooke, Le Granit, Beauce-Sartigan, Robert-Cliche, Les Etchemins, Montmagny, L’Islet, Mirabel, Argenteuil, La Rivière-du-Nord, Les Pays-d’en-Haut, Les Laurentides, Rivière-du-Loup, Kamouraska, Les Basques, Rimouski-Neigette, La Mitis, La Côte-de-Gaspé, Le Rocher-Perce, Bona-venture, Le Haut-Saint-Maurice, Le Domaine-du-Roy, Maria-Chapdelaine, Lac-Saint-Jean-Est, Le Fjord-du-Saguenay, La Haute-Côte-Nord, Manicouagan, Minganie – Basse-Côte-Nord",
     "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
@@ -1715,7 +1753,7 @@
     "country": "Canada",
     "code": "ca",
     "region": "Alberta",
-    "districts": "Calgary, Edmonton, Red Deer, Lethbridge, St. Albert, Medicine Hat, Grande Prairie, Airdrie, Spruce Grove, Okotoks",
+    "districts": "Pincher Creek, Cardston, Warner, Forty Mile, Cypress, Taber, Lethbridge, Willow Creek, Ranchland, Red Deer, Mountain View, Kneehill, Rocky View, Wheatland, Starland, Newell, Lacombe, Clearwater, Yellowhead, Brazeau, Provost, Grand Prairie, Saddle Hills, Spirit River, Fairview, Clear Hills, Northern Lights, Big Lakes, Lesser Slave River, Woodlands, Opportunity, Athabasca, Bonnyville, Smoky Lake, St. Paul, Lamont, Two Hills, Minburn, Beaver, Flagstaff, Wainwright, Vermillion River, Mackenzie County",
     "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
@@ -1733,7 +1771,7 @@
     "country": "Canada",
     "code": "ca",
     "region": "Saskatchewan",
-    "districts": "Saskatoon, Regina, Yorkton",
+    "districts": "Saskatoon, Regina, Yorkton, Melville, Estevan, Weyburn",
     "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
@@ -1742,8 +1780,10 @@
     "country": "Canada",
     "code": "ca",
     "region": "Yukon",
-    "districts": "Whitehorse, Watson Lake, Teslin, Mayo, Haines Junction, Faro, Dawson, Carmacks",
-    "publish": "No"
+    "districts": "Carmacks, Fort Selkirk, Stewart Crossing, Mayo, Keno City, Dawson, McQuesten, Chapman Lake, Eagle Plains",
+    "publish": "No",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Chile",
@@ -9251,7 +9291,7 @@
     "country": "Taiwan",
     "code": "TW",
     "svspc": "SV",
-    "region": "New Taipei",
+    "region": "Taipei",
     "districts": "Da An Qu, Xi Yi Qu, Shi Lin Qu, Bei Tou Qu",
     "publish": "Yes",
     "datestart": "2024-05-01T07:00:00.000Z",
@@ -9271,6 +9311,16 @@
     "country": "Taiwan",
     "code": "TW",
     "svspc": "SV",
+    "region": "Kee Long",
+    "districts": "Ren Ai Qu, Xi Yi Qu",
+    "publish": "Yes",
+    "datestart": "2024-03-02T08:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "TW",
+    "svspc": "SV",
     "region": "Xin Zhu County",
     "districts": "Hu Kou Xiang, Xin Zhu Shi",
     "publish": "Yes",
@@ -9282,7 +9332,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Nantou County",
-    "districts": "Yu Zhi Xiang, Shui Li Xiang",
+    "districts": "Nan Tou Shi, Ming Jin Xiang",
     "publish": "Yes",
     "datestart": "2024-03-25T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
@@ -9292,7 +9342,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Zhanghua County",
-    "districts": "Zhanghua City, Tian Zhing Zhen, Xi Zhou Xiang",
+    "districts": "Zhanghua City, Tian Zhing Zhen, Da Chu Xiang",
     "publish": "Yes",
     "datestart": "2024-01-15T08:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
@@ -9312,7 +9362,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Chaiyi County",
-    "districts": "Da Lin Xiang",
+    "districts": "Zhong Pu Xiang, Dong Qu",
     "publish": "Yes",
     "datestart": "2024-01-29T08:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
@@ -9328,14 +9378,24 @@
     "dateend": "2024-10-01T07:00:00.000Z"
   },
   {
+    "country": "Taiwan",
+    "code": "TW",
+    "svspc": "SV",
+    "region": "Tai Dong County",
+    "districts": "Da Wu Xiang, Da Ren Xiang",
+    "publish": "Yes",
+    "datestart": "2024-05-20T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
     "country": "Thailand",
     "code": "TH",
     "svspc": "SV",
     "region": "Central, Northern, Northeastern, Southern ",
-    "districts": "Bangkok, Nonthaburi, Nakhon pathom, Samut Sakhon, Laumpang, Chiang Mai, Chiang Rai, Nan, Lumphun, Mea Hong Son, Suphan Buri, Pathum Thani, Surat Thani, Kanchanaburi, Songkla, Nakhon Si Thammarat, Phang-nga, Krabi",
+    "districts": "Bangkok, Nonthaburi, Nakhon pathom, Nakhon Sawan, Samut Sakhon, Laumpang, Chiang Mai, Chiang Rai, Trat, Lumphun, Mea Hong Son, Suphan Buri, Pathum Thani, Surat Thani, Chumporn, Songkla, Nakhon Si Thammarat, Phang-nga, Krabi",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
-    "dateend": "2024-05-31T07:00:00.000Z"
+    "dateend": "2024-06-30T07:00:00.000Z"
   },
   {
     "country": "Thailand",
@@ -9646,7 +9706,7 @@
     "code": "us",
     "svspc": "SV",
     "region": "Nebraska",
-    "districts": "Douglas, Dodge, Saunders, Butler, Polk, Nance, Platte, Boone, Madison, Colfax, Dodge, Washington, Burt, Cuming, Stanton, Madison, Antelope, Pierce, Wayne, Thurston, Dakota, Dixon, Cedar, Knox",
+    "districts": "Sioux, Scotts Bluff, Banner, Kimball, Dawes, Box Butte, Morrill, Cheyenne, Sheridan, Garden, Deuel, Cherry, Grant, Arthur, Keith, Perkins, Chase, Dundy, Hayes, Hitchcock, Frontier, Red Willow, Keya Paha, Boyd, Brown, Rock, Holt, Garfield, Wheeler, Valley, Greeley, Thurston, Wayne, Stanton, Cuming, Burt, Boone, Nance, Merrick, Platte, Colfax, Dodge, Washington, Douglas, Sarpy, Cass Otoe, Lancaster, Richardson, Gage, Furnas, Hall, Hamilton, York, Seward, Clay, Fillmore, Saline, Webster, Franklin, Nuckolls, Thayer",
     "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-10-31T07:00:00.000Z"
@@ -9656,7 +9716,7 @@
     "code": "us",
     "svspc": "SV",
     "region": "Wisconsin",
-    "districts": "Kenosha, Racine, Waukesha, Milwaukee, Dodge, Washington, Qzaukee, Sheboygan, Fond du Lac, Calumet, Manitowoc, Brown, Dutagamie",
+    "districts": "St. Croix, Pierce, Dunn, Pepin, Barron, Rusk, Chippewa, Eau Claire, Taylor, Clark, Jackson, La Crosse, Monroe, Vilas, Forest, Oneida, Lincoln, Langlade, Marathon, Menominee, Shawano, Waupaca, Portage, Oconto, Outagamie, Brown, Winnebago, Calumet, Manitowoc, Fond Du Lac, Shebogan, Dodge, Washington, Ozaukee, Jefferson, Waukesha, Milwaukee, Walworth, Racine, Kenosha, Rock, Green, Dane, Grant, Lafayette, Iowa, Crawford, Richland, Sauk, Juneau, Adams, Monroe",
     "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-10-31T07:00:00.000Z"
@@ -9806,7 +9866,7 @@
     "code": "us",
     "svspc": "SV",
     "region": "Georgia",
-    "districts": "Fulton, Douglas, Cobb, Cherokee, Paulding, Dekalb, Gwinnett, Rockdale, Henry, Clayton, Camden, Charlton, Toombs, Montgomery, Wheeler, Telfair, Jeff David, Appling, Tattnall, Evans, Candler, Bulloch, McDuffie, Columbia, Richmond, Warren, Glascock, Jefferson, Burke, Catoosa, Whitfield, Murray, Fannin, Rabun,Walker, Dade, Chattooga, Gordon, Floyd, Polk, Pickens, Dawson, Lumpkin, Gilmer, Carroll, Clay, Early, Seminole, Miller, Decatur, Grady, Thomas, Colquitt, Mitchell, Worth, Dougherty",
+    "districts": "Fulton, Douglas, Cobb, Cherokee, Paulding, Dekalb, Gwinnett, Rockdale, Henry, Clayton, Camden, Charlton, Toombs, Montgomery, Wheeler, Telfair, Jeff David, Appling, Tattnall, Evans, Candler, Bulloch, McDuffie, Columbia, Richmond, Warren, Glascock, Jefferson, Burke, Catoosa, Whitfield, Murray, Fannin, Rabun,Walker, Dade, Chattooga, Gordon, Floyd, Polk, Pickens, Dawson, Lumpkin, Gilmer, Carroll, Clay, Early, Seminole, Miller, Decatur, Grady, Thomas, Colquitt, Mitchell, Worth, Dougherty, Macon, Dooly, Houston, Peach, Pulaski, Bleckley, Twiggs",
     "publish": "Yes",
     "datestart": "2024-01-02T08:00:00.000Z",
     "dateend": "2024-12-31T08:00:00.000Z"
@@ -9826,7 +9886,7 @@
     "code": "us",
     "svspc": "SV",
     "region": "Oklahoma",
-    "districts": "Oklahoma, Cleveland, Lincoln, Tulsa, Wagoner, Okmulgee, Cherokee, Adair, Delaware, Canadian, Blaine, Caddo, Cimarrion, Kay, Grant, Noble, Garfield, Harmon, Tillman, Kiowa, Jackson, Cotton, Comanche, Le Flore, Beckham, Roger Mills, Custer, Washita",
+    "districts": "Oklahoma, Cleveland, Lincoln, Tulsa, Wagoner, Okmulgee, Cherokee, Adair, Delaware, Canadian, Blaine, Caddo, Cimarrion, Kay, Grant, Noble, Garfield, Harmon, Tillman, Kiowa, Jackson, Cotton, Comanche, Le Flore, Beckham, Roger Mills, Custer, Washita, Chocktaw, Bryan, Okfuskee, Creek, McIntosh, Hughes, Muskogee, Sequoyah",
     "publish": "Yes",
     "datestart": "2024-01-02T08:00:00.000Z",
     "dateend": "2024-12-31T08:00:00.000Z"
@@ -9866,7 +9926,7 @@
     "code": "us",
     "svspc": "SV",
     "region": "Utah",
-    "districts": "Salt lake, Utah, Wasatch, Davis, Morgan, Summit",
+    "districts": "Box Elder, Tooele, Juab, Millard, Beaver, Iron, Washington, Kane, Garfield, Piute, Wayne, Sevier, Emery, Sanpete, Carbon, Utah, Wasatch, Duchesne, San Juan, Uintah, Daggett, Summit, Salt Lake, Davis, Morgan, Weber, Cache",
     "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-10-31T07:00:00.000Z"
@@ -9886,7 +9946,7 @@
     "code": "us",
     "svspc": "SV",
     "region": "Missouri",
-    "districts": "Greene, Webster, Dallas, Polk, Cedar, Dade, Lawrence, Barry, Stone, Taney, Ozark, Douglas, Wright, Laclede",
+    "districts": "Atchison, Holt, Nodaway, Andrew, DeKalb, Gentry, Schuyler, Scotland, Clark, Adair, Knox, Lewis, Macon, Shelby, Marion, Monroe, Ralls, Audrain, Pike, Callaway, Montgomery, Lincoln, Warren, St. Charles, St. Louis, Franklin, Jefferson, Crawford, Washington, St. Francois, Ste. Genevieve, Perry, Iron, Madison, Reynolds, Wayne, Bollinger, Carter, Ripley, Butler, Stoddard, New Madrid, Dunklin, Pemiscot, Shannon, Texas, Pulaski, Phelps, Camden, Miller, Maries, Morgan, Jackson, Lafayette, Ray, Carroll, Clay, Platte, Cass, Johnson, Bates, Henry, St. Clair, Vernon, Cedar, Barton, Dade, Jasper, Lawrence, Newton, McDonald, Barry, Christian, Stone, Taney, Douglas, Ozark, Saline, Chariton, Linn, Livingston",
     "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-10-31T07:00:00.000Z"
@@ -9906,7 +9966,7 @@
     "code": "us",
     "svspc": "SV",
     "region": "West Virginia",
-    "districts": "Barbour, Berkeley, Boone, Braxton, Brooke, Cabell, Calhoun, Clay, Doddridge, Fayette, Gilmer, Grant, Greenbrier, Hampshire, Hancock, Hardy, Harrison, Jackson, Jefferson, Kanawha, Lewis, Lincoln, Logan, Major General, Marion, Marshall, Mason, McDowell, Mercer, Mineral, Mingo, Mingo leader, Monongalia, Monroe, Morgan, Nicholas, Ohio, Pendleton, Pleasants, Pocahontas, Preston, Putnam, Raleigh, Randolph, Ritchie, Roane, Summers, Taylor, Tucker, Tyler, Upshur, Wayne, Webster, Wetzel, Wirt, Wood, Wyoming,",
+    "districts": "Wayne, Cabell, Lincoln, McDowell, Wyoming, Mercer, Raleigh, Summers, Pendleton, Randolph, Pocahontas, Webster, Upshur, Braxton, Clay, Kanawha, Nicholas, Berkley, Jefferson, Calhoun",
     "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-10-31T07:00:00.000Z"
@@ -9946,7 +10006,7 @@
     "code": "us",
     "svspc": "SV",
     "region": "California",
-    "districts": "Alameda County, Alpine County, Amador County, Butte County, Calaveras County, Colusa County, Contra Costa County, Del Norte County, El Dorado County, Fresno County, Glenn County, Humboldt County, Imperial County, Inyo County, Kern County, Kings County, Lake County, Lassen County, Los Angeles County, Madera County, Marin County, Mariposa County, Mendocino County, Merced County, Modoc County, Mono County, Monterey County, Napa County, Nevada County, Orange County, Placer County, Plumas County, Riverside County, Sacramento County, San Benito County, San Bernardino County, San Diego County, San Francisco, San Joaquin County, San Luis Obispo County, San Mateo County, Santa Barbara County, Santa Clara County, Santa Cruz County, Shasta County, Sierra County, Siskiyou County, Solano County, Sonoma County, Stanislaus County, Sutter County, Tehama County, Trinity County, Tulare County, Tuolumne County, Ventura County, Yolo County, Yuba County, ",
+    "districts": "Del Norte, Siskiyou, Modoc, Humboldt, Trinity, Shasta, Lassen, Tehama, Plumas, Butte, Glenn, Mendocino, Sonoma, Marin, Lake, Colusa, Sutter, Yuba, Nevada, Sierra, Napa, Yolo, Solano, Contra Costa, Sacramento, Placer, El Dorado, Amador, Alpine, Calaveras, Tuolumne, San Joaquin, Stanislaus, Santa Clara, San Mateo, Santa Cruz, Merced, Mariposa, Madera, Fresno, San Benito, Monterey, Kings, Tulare, San Bernadino, Riverside, Orange, Los Angeles, Ventura, Kern, Ventura, Santa Barbara, San Luis Obispo, San Diego, Imperial",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
     "dateend": "2024-12-31T08:00:00.000Z"
@@ -9966,7 +10026,7 @@
     "code": "us",
     "svspc": "SV",
     "region": "Colorado",
-    "districts": "Colorado Springs, Teller, Park, Lake, Eagle, Summit, Clear Creek, Jefferson, Douglas, El Paso, Elbert, Arapahoe, Denver, Adams, Boulder, Gilpin, Weld, Larimer, Prowers, Bent, Baca, Kiowa, Pueblo, Freemont, Custer, Montrose, Ouray, San Miguel, San Juan, Dolores, Rio Blanco, Moffat, Garfield, Jackson, Larimer, Weld, Boulder, Gilpin, Las Animas, Costila ",
+    "districts": "Colorado Springs, Teller, Park, Lake, Eagle, Summit, Clear Creek, Jefferson, Douglas, El Paso, Elbert, Arapahoe, Denver, Adams, Boulder, Gilpin, Weld, Prowers, Bent, Baca, Kiowa, Pueblo, Freemont, Custer, Montrose, Ouray, San Miguel, San Juan, Dolores, Rio Blanco, Moffat, Garfield, Jackson, Larimer, Weld, Boulder, Gilpin, Las Animas, Costila",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
     "dateend": "2024-12-31T08:00:00.000Z"
@@ -9976,7 +10036,7 @@
     "code": "us",
     "svspc": "SV",
     "region": "Indiana",
-    "districts": "Marion, Johnson, Shelby, Hancock, Madision, Hamilton, Tipton, Boone, Hendricks, Morgan, Putnam, Montgomery, Brown, Monroe, Bartholomew, Washington, Lawrence, Greene, Clay, Orange",
+    "districts": "Lake, Porter, Newton, Jasper, Benton, Warren, LaPorte, Franklin, Fayette, Union, Wayne, Henry, Randolph, Delaware, Jay, Blackford, Madison, Hancock, Marion, Hamilton, Boone, Clinton, Tipton, Howard, Shelby, Johnson, Brown, Bartholomew, Jackson, Hendricks, Morgan, Lawrence, Monroe, Martin, Grant",
     "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-10-31T07:00:00.000Z"
