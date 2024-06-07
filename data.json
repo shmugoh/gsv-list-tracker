@@ -7094,21 +7094,21 @@
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Pagadian",
-    "districts": "Pagadian City",
+    "region": "Kidapawan",
+    "districts": "Kidapawan City",
     "publish": "Yes",
     "datestart": "2024-05-01T07:00:00.000Z",
-    "dateend": "2024-05-31T07:00:00.000Z"
+    "dateend": "2024-06-30T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Pagadian",
-    "districts": "Pagadian City",
+    "region": "Kidapawan",
+    "districts": "Kidapawan City",
     "publish": "Yes",
     "datestart": "2024-05-01T07:00:00.000Z",
-    "dateend": "2024-05-31T07:00:00.000Z"
+    "dateend": "2024-06-30T07:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -7117,8 +7117,8 @@
     "region": "Pampanga",
     "districts": "Malabalcat",
     "publish": "Yes",
-    "datestart": "2024-04-01T07:00:00.000Z",
-    "dateend": "2024-05-31T07:00:00.000Z"
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-06-30T07:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -7127,8 +7127,8 @@
     "region": "Pangasinan",
     "districts": "Malasique, Umingan",
     "publish": "Yes",
-    "datestart": "2024-03-11T07:00:00.000Z",
-    "dateend": "2024-05-31T07:00:00.000Z"
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-06-30T07:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -7138,27 +7138,27 @@
     "districts": "San Fernando, Pampanga",
     "publish": "Yes",
     "datestart": "2024-04-22T07:00:00.000Z",
-    "dateend": "2024-05-31T07:00:00.000Z"
+    "dateend": "2024-06-30T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Nueva Ecija",
-    "districts": "Cabanatuan",
+    "region": "Manila",
+    "districts": "Manila",
     "publish": "Yes",
-    "datestart": "2024-05-01T07:00:00.000Z",
-    "dateend": "2024-05-31T07:00:00.000Z"
+    "datestart": "2024-06-01T07:00:00.000Z",
+    "dateend": "2024-06-30T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Calabarzon",
-    "districts": "Tayabas",
+    "region": "Manila",
+    "districts": "Manila",
     "publish": "Yes",
-    "datestart": "2024-04-22T07:00:00.000Z",
-    "dateend": "2024-05-15T07:00:00.000Z"
+    "datestart": "2024-06-01T07:00:00.000Z",
+    "dateend": "2024-06-30T07:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -7168,7 +7168,7 @@
     "districts": "General Trias, Imus, Dasmarinas",
     "publish": "Yes",
     "datestart": "2024-05-01T07:00:00.000Z",
-    "dateend": "2024-05-31T07:00:00.000Z"
+    "dateend": "2024-06-30T07:00:00.000Z"
   },
   {
     "country": "Polska",
