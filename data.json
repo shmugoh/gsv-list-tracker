@@ -350,7 +350,7 @@
     "code": "AU",
     "svspc": "SV",
     "region": "Australian Capital Territory",
-    "districts": "Canberra, Darbalara",
+    "districts": "Canberra, Darbalara, Bega",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
     "dateend": "2024-07-01T07:00:00.000Z"
@@ -380,7 +380,7 @@
     "code": "AU",
     "svspc": "SV",
     "region": "New South Wales",
-    "districts": "Goulburn, Port Macquarie, Sydney, Scotia",
+    "districts": "Goulburn, Port Macquarie, Sydney, Scotia, Mossgiel, Cowra, Eugowra",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
     "dateend": "2024-07-01T07:00:00.000Z"
@@ -4407,7 +4407,7 @@
     "region": "Dublin",
     "districts": "Dublin",
     "publish": "Yes",
-    "datestart": "2024-04-18T07:00:00.000Z",
+    "datestart": "2024-07-08T07:00:00.000Z",
     "dateend": "2024-10-30T07:00:00.000Z"
   },
   {
@@ -4517,7 +4517,7 @@
     "region": "Meath",
     "districts": "Navan",
     "publish": "Yes",
-    "datestart": "2024-05-16T07:00:00.000Z",
+    "datestart": "2024-07-08T07:00:00.000Z",
     "dateend": "2024-10-30T07:00:00.000Z"
   },
   {
@@ -7113,28 +7113,28 @@
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Davao",
-    "districts": "Davao City",
+    "region": "Caraga",
+    "districts": "Surigao City",
     "publish": "Yes",
     "datestart": "2024-06-30T07:00:00.000Z",
-    "dateend": "2024-06-30T07:00:00.000Z"
+    "dateend": "2024-07-31T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Davao",
-    "districts": "Davao City",
+    "region": "Caraga",
+    "districts": "Surigao City",
     "publish": "Yes",
     "datestart": "2024-06-30T07:00:00.000Z",
-    "dateend": "2024-06-30T07:00:00.000Z"
+    "dateend": "2024-07-31T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Central Luzon",
-    "districts": "Bulacan",
+    "region": "Cagayan Valley",
+    "districts": "Carranglan",
     "publish": "Yes",
     "datestart": "2024-06-30T07:00:00.000Z",
     "dateend": "2024-07-31T07:00:00.000Z"
@@ -7153,38 +7153,38 @@
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Pampanga",
-    "districts": "San Fernando, Pampanga",
+    "region": "Cagayan Valley",
+    "districts": "Bambang",
     "publish": "Yes",
-    "datestart": "2024-04-22T07:00:00.000Z",
-    "dateend": "2024-06-30T07:00:00.000Z"
+    "datestart": "2024-06-30T07:00:00.000Z",
+    "dateend": "2024-07-31T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
     "region": "Calabarzon",
-    "districts": "Quezon City",
+    "districts": "Cavite",
     "publish": "Yes",
     "datestart": "2024-06-01T07:00:00.000Z",
-    "dateend": "2024-06-30T07:00:00.000Z"
-  },
-  {
-    "country": "Philippines",
-    "code": "PH",
-    "svspc": "SV",
-    "region": "Manila",
-    "districts": "Manila",
-    "publish": "Yes",
-    "datestart": "2024-06-01T07:00:00.000Z",
-    "dateend": "2024-06-30T07:00:00.000Z"
+    "dateend": "2024-07-31T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
     "region": "Calabarzon",
-    "districts": "General Trias, Imus, Dasmarinas",
+    "districts": "Quezon City; Calamba",
+    "publish": "Yes",
+    "datestart": "2024-06-01T07:00:00.000Z",
+    "dateend": "2024-07-31T07:00:00.000Z"
+  },
+  {
+    "country": "Philippines",
+    "code": "PH",
+    "svspc": "SV",
+    "region": "Calabarzon",
+    "districts": "Lipa",
     "publish": "Yes",
     "datestart": "2024-05-01T07:00:00.000Z",
     "dateend": "2024-07-31T07:00:00.000Z"
@@ -9443,7 +9443,7 @@
     "code": "TH",
     "svspc": "SV",
     "region": "Central, Northern, Northeastern, Southern ",
-    "districts": "Bangkok, Nonthaburi, Nakhon pathom, Nakhon Sawan, Samut Sakhon, Laumpang, Chiang Mai, Chiang Rai, Trat, Lumphun, Utaradit , Suphan Buri, Pathum Thani, Surat Thani, Chumporn, Rayong, Ranong, Nakhon Si Thammarat, Phang-nga, Krabi, Narathiwat",
+    "districts": "Bangkok, Nonthaburi, Nakhon pathom, Nakhon Sawan, Samut Sakhon, Phitsanuklok, Tak, Chiang Mai, Trat, Lumphun, Chainat , Suphan Buri, Pathum Thani, Surat Thani, Rayong,, Nakhon Si Thammarat,  Narathiwat",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
@@ -9453,7 +9453,7 @@
     "code": "TH",
     "svspc": "3W",
     "region": "Central",
-    "districts": "Pathum Thani, Parket, Nonthaburi",
+    "districts": "Pathum Thani, Parket, Nonthaburi, Nakhon pathum",
     "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-07-31T07:00:00.000Z"
