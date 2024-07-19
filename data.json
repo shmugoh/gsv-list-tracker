@@ -340,7 +340,7 @@
     "code": "AU",
     "svspc": "SV",
     "region": "Western Australia",
-    "districts": "Perth, WA , Nanga, Kulin, Windy harbour, Kondinin, Koorda",
+    "districts": "Perth, WA , Nanga, Kulin, Windy harbour, Kondinin, Koorda, Menzies, Wiluna",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
     "dateend": "2024-07-01T07:00:00.000Z"
@@ -350,7 +350,7 @@
     "code": "AU",
     "svspc": "SV",
     "region": "Australian Capital Territory",
-    "districts": "Canberra, Darbalara, Bega",
+    "districts": "Canberra, Darbalara, Bega, Argalong",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
     "dateend": "2024-07-01T07:00:00.000Z"
@@ -370,7 +370,7 @@
     "code": "AU",
     "svspc": "SV",
     "region": "Queensland",
-    "districts": "Brisbane, Townsville, Toowoomba , Carins, Kelsey Creek, Theodore, Maryborough",
+    "districts": "Brisbane, Townsville, Toowoomba , Carins, Kelsey Creek, Theodore, Maryborough, Buckingham",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
     "dateend": "2024-07-01T07:00:00.000Z"
@@ -380,7 +380,7 @@
     "code": "AU",
     "svspc": "SV",
     "region": "New South Wales",
-    "districts": "Goulburn, Port Macquarie, Sydney, Scotia, Mossgiel, Cowra, Eugowra, Mount hope",
+    "districts": "Goulburn, Port Macquarie, Sydney, Scotia, Mossgiel, Cowra, Eugowra, Mount hope, Melbourne",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
     "dateend": "2024-07-01T07:00:00.000Z"
@@ -390,7 +390,7 @@
     "code": "AU",
     "svspc": "SV",
     "region": "Victoria",
-    "districts": "Surf Coast, South East Coast, Melbourne, Terrappee",
+    "districts": "Surf Coast, South East Coast, Melbourne, Terrappee, Ross Creek, Barunah Plains",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
     "dateend": "2024-07-01T07:00:00.000Z"
@@ -400,7 +400,7 @@
     "code": "AU",
     "svspc": "SV",
     "region": "Tasmania",
-    "districts": "King Island, Flinders Island, Hobart, Tasmania, Black Hills, Uxbridge",
+    "districts": "King Island, Flinders Island, Hobart, Tasmania, Black Hills, Uxbridge, White Cliffs",
     "publish": "Yes",
     "datestart": "2024-03-01T08:00:00.000Z",
     "dateend": "2024-05-01T07:00:00.000Z"
@@ -4178,7 +4178,7 @@
     "districts": "Pontianak, Palangkaraya, Singkawang, Ketapang",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
-    "dateend": "2024-08-31T07:00:00.000Z"
+    "dateend": "2024-09-30T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -4188,7 +4188,7 @@
     "districts": "Samarinda, Tenggarong, Bontang",
     "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
-    "dateend": "2024-08-31T07:00:00.000Z"
+    "dateend": "2024-09-30T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -4198,7 +4198,7 @@
     "districts": "Sampit, Palangkaraya",
     "publish": "Yes",
     "datestart": "2024-03-11T07:00:00.000Z",
-    "dateend": "2024-08-31T07:00:00.000Z"
+    "dateend": "2024-09-30T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -4288,7 +4288,7 @@
     "districts": "Bekasi, Bogor, Depok, Garut, Banjar, Sukabumi, ",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
-    "dateend": "2024-08-31T07:00:00.000Z"
+    "dateend": "2024-09-30T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -4298,7 +4298,7 @@
     "districts": "Purbalingga, Purwokerto, Semarang, Kendal, Solo, Salatiga, Temanggung, Klaten, Demak, Sragen, Magelang, Blora",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
-    "dateend": "2024-08-31T07:00:00.000Z"
+    "dateend": "2024-09-30T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -4338,7 +4338,7 @@
     "districts": "Tenggarong, Samarinda",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
-    "dateend": "2024-08-31T07:00:00.000Z"
+    "dateend": "2024-09-30T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -4358,7 +4358,7 @@
     "districts": "Kendari, Ampana",
     "publish": "Yes",
     "datestart": "2024-05-01T07:00:00.000Z",
-    "dateend": "2024-08-31T07:00:00.000Z"
+    "dateend": "2024-09-30T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -6600,7 +6600,7 @@
     "code": "NZ",
     "svspc": "SV",
     "region": "North Island",
-    "districts": "Auckland, Wellington, Tauranga and New Plymouth, Pikowai",
+    "districts": "Auckland, Wellington, Tauranga and New Plymouth, Pikowai, orongo",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
     "dateend": "2024-07-01T07:00:00.000Z"
@@ -6610,7 +6610,7 @@
     "code": "NZ",
     "svspc": "SV",
     "region": "South Island ",
-    "districts": "Dunedin, Queenstown, Invercargill, Christchurch, Nelson, Thorpe",
+    "districts": "Dunedin, Queenstown, Invercargill, Christchurch, Nelson, Thorpe, Otago South Land",
     "publish": "Yes",
     "datestart": "Aprili 2024",
     "dateend": "2024-07-01T07:00:00.000Z"
@@ -7143,9 +7143,9 @@
     "code": "PH",
     "svspc": "SV",
     "region": "Caraga",
-    "districts": "Surigao City",
+    "districts": "Butuan City",
     "publish": "Yes",
-    "datestart": "2024-06-30T07:00:00.000Z",
+    "datestart": "2024-07-31T07:00:00.000Z",
     "dateend": "2024-07-31T07:00:00.000Z"
   },
   {
@@ -7153,19 +7153,19 @@
     "code": "PH",
     "svspc": "SV",
     "region": "Caraga",
-    "districts": "Surigao City",
+    "districts": "Butuan City",
     "publish": "Yes",
-    "datestart": "2024-06-30T07:00:00.000Z",
+    "datestart": "2024-07-31T07:00:00.000Z",
     "dateend": "2024-07-31T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Cagayan Valley",
-    "districts": "Carranglan",
+    "region": "Central Luzon",
+    "districts": "Casiguran",
     "publish": "Yes",
-    "datestart": "2024-06-30T07:00:00.000Z",
+    "datestart": "2024-07-31T07:00:00.000Z",
     "dateend": "2024-07-31T07:00:00.000Z"
   },
   {
@@ -7182,10 +7182,10 @@
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Cagayan Valley",
-    "districts": "Bambang",
+    "region": "Bicol",
+    "districts": "Sorsogon",
     "publish": "Yes",
-    "datestart": "2024-06-30T07:00:00.000Z",
+    "datestart": "2024-07-31T07:00:00.000Z",
     "dateend": "2024-07-31T07:00:00.000Z"
   },
   {
@@ -7203,7 +7203,7 @@
     "code": "PH",
     "svspc": "SV",
     "region": "Calabarzon",
-    "districts": "Quezon City; Calamba",
+    "districts": "Calamba",
     "publish": "Yes",
     "datestart": "2024-06-01T07:00:00.000Z",
     "dateend": "2024-07-31T07:00:00.000Z"
@@ -9348,7 +9348,7 @@
     "dateend": "2024-10-01T07:00:00.000Z"
   },
   {
-    "country": "Taiwan",
+    "country": "2024-09-30T07:00:00.000Z",
     "code": "TW",
     "svspc": "SV",
     "region": "New Taipei",
@@ -9372,7 +9372,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Taoyuan",
-    "districts": "Long Tan Qu, Ping Zheng Qu, Ba De Qu, Yang Mei Qu",
+    "districts": "Ping Zheng Qu, Ba De Qu, Yang Mei Qu",
     "publish": "Yes",
     "datestart": "2024-05-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
@@ -9382,7 +9382,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Xin Zhu County",
-    "districts": "Xin Zhu Shi",
+    "districts": "Xin Zhu Shi, Zhu Dong Zhen",
     "publish": "Yes",
     "datestart": "2024-03-11T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
@@ -9391,8 +9391,18 @@
     "country": "Taiwan",
     "code": "TW",
     "svspc": "SV",
+    "region": "Miao Li",
+    "districts": "Hou Loing Zen, Zhu Nan Shi",
+    "publish": "Yes",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "TW",
+    "svspc": "SV",
     "region": "Tai Chung",
-    "districts": "Xi Tou Qu, Bei Tou Qu, Da Li Qu",
+    "districts": "Feng Yuan Qu, Bei Tou Qu, Da Li Qu",
     "publish": "Yes",
     "datestart": "2024-05-08T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
@@ -9422,7 +9432,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Yun Lin County",
-    "districts": "Tai Xi Xiang",
+    "districts": "Dou Liu Zhen, Shui Lin Xiang",
     "publish": "Yes",
     "datestart": "2024-01-02T08:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
@@ -9442,7 +9452,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Kaohsiung",
-    "districts": "San Ming Qu, Nan Zhi Qu",
+    "districts": "Ren Wu Qu",
     "publish": "Yes",
     "datestart": "2024-05-08T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
@@ -9452,7 +9462,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Ping Dong County",
-    "districts": "Xin Yuan Xiang",
+    "districts": "Wan Dan Xiang",
     "publish": "Yes",
     "datestart": "2024-01-02T08:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
@@ -9472,10 +9482,10 @@
     "code": "TH",
     "svspc": "SV",
     "region": "Central, Northern, Northeastern, Southern ",
-    "districts": "Bangkok, Nonthaburi, Samut Prakarn, Pathum Thani, Nakhon pathom, Nakhon Sawan, Samut Sakhon, Tak, Chiang Mai, Trat, Lumphun, Chainat, Saraburi, Nakhonratchasima, Surat Thani, Rayong, Ubonratchathani, Mahasarakham, Nakhon Si Thammarat,  Narathiwat",
+    "districts": "Bangkok, Nonthaburi, Samut Prakarn, Pathum Thani, Nakhon pathom, Nakhon Sawan, Samut Sakhon, Tak, Chiang Mai, Saraburi, Nakhonratchasima, Rayong, Ubonratchathani, Mahasarakham, Khonkean, Nakhon Si Thammarat,  Narathiwat, Pattani",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
-    "dateend": "2024-10-01T07:00:00.000Z"
+    "dateend": "2024-09-30T07:00:00.000Z"
   },
   {
     "country": "Thailand",
