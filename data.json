@@ -2875,6 +2875,16 @@
   {
     "country": "France",
     "code": "FR",
+    "svspc": "SV",
+    "region": "Corsica",
+    "districts": "Corsica",
+    "publish": "Yes",
+    "datestart": "Juillet 2024",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "France",
+    "code": "FR",
     "region": "Var",
     "districts": "Provence-Alpes-Côte d'Azur",
     "publish": "No",
@@ -4446,9 +4456,9 @@
     "svspc": "SV",
     "region": "Kildare",
     "districts": "Naas, Newbridge",
-    "publish": "No",
-    "datestart": "2024-04-18T07:00:00.000Z",
-    "dateend": "2024-10-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -5774,20 +5784,20 @@
     "code": "LT",
     "svspc": "SV",
     "region": "Vilnius County",
-    "districts": "Ignalina,     Vilnius",
-    "publish": "No",
+    "districts": "Vilnius",
+    "publish": "Yes",
     "datestart": "2024-04-04T07:00:00.000Z",
-    "dateend": "2024-09-12T07:00:00.000Z"
+    "dateend": "2024-07-01T07:00:00.000Z"
   },
   {
     "country": "Lithuania",
     "code": "LT",
     "svspc": "SV",
     "region": "Šiauliai ",
-    "districts": "Joniškis, Telšiai",
-    "publish": "No",
+    "districts": "Joniškis",
+    "publish": "Yes",
     "datestart": "2024-04-04T07:00:00.000Z",
-    "dateend": "2024-09-12T07:00:00.000Z"
+    "dateend": "2024-07-01T07:00:00.000Z"
   },
   {
     "country": "Lithuania",
@@ -5804,10 +5814,10 @@
     "code": "LT",
     "svspc": "SV",
     "region": "Šiauliai County ",
-    "districts": "Kelmė",
-    "publish": "No",
+    "districts": "Maliai, Kuršėnai, Gruzdžiai",
+    "publish": "Yes",
     "datestart": "2024-04-04T07:00:00.000Z",
-    "dateend": "2024-09-12T07:00:00.000Z"
+    "dateend": "2024-07-01T07:00:00.000Z"
   },
   {
     "country": "Lithuania",
@@ -5825,7 +5835,7 @@
     "svspc": "SV",
     "region": "Marijampolė",
     "districts": "Marijampolė, Vilkaviškis",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-04-04T07:00:00.000Z",
     "dateend": "2024-07-01T07:00:00.000Z"
   },
@@ -5844,10 +5854,10 @@
     "code": "LT",
     "svspc": "SV",
     "region": "Utena County",
-    "districts": "Molėtai,     Švenčionys",
-    "publish": "No",
+    "districts": "Daugailiai, Aliai",
+    "publish": "Yes",
     "datestart": "2024-04-04T07:00:00.000Z",
-    "dateend": "2024-09-12T07:00:00.000Z"
+    "dateend": "2024-07-01T07:00:00.000Z"
   },
   {
     "country": "Lithuania",
@@ -5855,7 +5865,7 @@
     "svspc": "SV",
     "region": "Panevėžys",
     "districts": "Rokiškis",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-04-04T07:00:00.000Z",
     "dateend": "2024-07-01T07:00:00.000Z"
   },
@@ -5885,7 +5895,7 @@
     "svspc": "SV",
     "region": "Utena",
     "districts": "    Utena,     Visaginas",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-04-04T07:00:00.000Z",
     "dateend": "2024-07-01T07:00:00.000Z"
   },
@@ -5894,7 +5904,7 @@
     "code": "LT",
     "svspc": "SV",
     "districts": "Alytus, Druskininkai, Marijampolė, Palanga",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-04-04T07:00:00.000Z",
     "dateend": "2024-07-01T07:00:00.000Z"
   },
@@ -5903,7 +5913,7 @@
     "code": "LT",
     "svspc": "SV",
     "region": "  Kaunas County ",
-    "districts": "Raseiniai",
+    "districts": "Raseiniai, Garliava, Rumšiškės, Antakalnis, Kazlų Rūda",
     "publish": "Yes",
     "datestart": "2024-04-04T07:00:00.000Z",
     "dateend": "2024-07-01T07:00:00.000Z"
@@ -7142,21 +7152,21 @@
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Caraga",
-    "districts": "Butuan City",
+    "region": "Central Visayas",
+    "districts": "Dumaguete",
     "publish": "Yes",
     "datestart": "2024-07-31T07:00:00.000Z",
-    "dateend": "2024-07-31T07:00:00.000Z"
+    "dateend": "2024-08-31T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Caraga",
-    "districts": "Butuan City",
+    "region": "Central Visayas",
+    "districts": "Dumaguete",
     "publish": "Yes",
     "datestart": "2024-07-31T07:00:00.000Z",
-    "dateend": "2024-07-31T07:00:00.000Z"
+    "dateend": "2024-08-31T07:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -7172,11 +7182,11 @@
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Ilocos",
-    "districts": "Itogon, Baguio",
+    "region": "Calabarzon",
+    "districts": "San Pablo City",
     "publish": "Yes",
     "datestart": "2024-06-30T07:00:00.000Z",
-    "dateend": "2024-07-31T07:00:00.000Z"
+    "dateend": "2024-08-20T07:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -8371,7 +8381,7 @@
     "districts": "Singapore",
     "publish": "Yes",
     "datestart": "2024-02-08T08:00:00.000Z",
-    "dateend": "2024-10-30T07:00:00.000Z"
+    "dateend": "2024-08-30T07:00:00.000Z"
   },
   {
     "country": "Slovenija",
@@ -9348,7 +9358,7 @@
     "dateend": "2024-10-01T07:00:00.000Z"
   },
   {
-    "country": "2024-09-30T07:00:00.000Z",
+    "country": "Taiwan",
     "code": "TW",
     "svspc": "SV",
     "region": "New Taipei",
@@ -9363,16 +9373,16 @@
     "svspc": "SV",
     "region": "Kee Long",
     "districts": "Ren Ai Qu, Xi Yi Qu",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-03-02T08:00:00.000Z",
-    "dateend": "2024-10-01T07:00:00.000Z"
+    "dateend": "2024-08-01T07:00:00.000Z"
   },
   {
     "country": "Taiwan",
     "code": "TW",
     "svspc": "SV",
     "region": "Taoyuan",
-    "districts": "Ping Zheng Qu, Ba De Qu, Yang Mei Qu",
+    "districts": "Xian Wu Qu, Ba De Qu, Yang Mei Qu",
     "publish": "Yes",
     "datestart": "2024-05-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
@@ -9385,7 +9395,7 @@
     "districts": "Xin Zhu Shi, Zhu Dong Zhen",
     "publish": "Yes",
     "datestart": "2024-03-11T07:00:00.000Z",
-    "dateend": "2024-10-01T07:00:00.000Z"
+    "dateend": "2024-08-01T07:00:00.000Z"
   },
   {
     "country": "Taiwan",
@@ -9415,27 +9425,27 @@
     "districts": "Cao Wei Zhen, Ming Jin Xiang, Zhu Shan Zhen",
     "publish": "Yes",
     "datestart": "2024-03-25T07:00:00.000Z",
-    "dateend": "2024-10-01T07:00:00.000Z"
+    "dateend": "2024-08-01T07:00:00.000Z"
   },
   {
     "country": "Taiwan",
     "code": "TW",
     "svspc": "SV",
     "region": "Zhanghua County",
-    "districts": "Tian Zhang Xiang, Tian Wei Xiang",
+    "districts": "Fang Yuan Xiang, Fu Xing Xiang",
     "publish": "Yes",
     "datestart": "2024-01-15T08:00:00.000Z",
-    "dateend": "2024-10-01T07:00:00.000Z"
+    "dateend": "2024-08-01T07:00:00.000Z"
   },
   {
     "country": "Taiwan",
     "code": "TW",
     "svspc": "SV",
     "region": "Yun Lin County",
-    "districts": "Dou Liu Zhen, Shui Lin Xiang",
+    "districts": "Dou Liu Zhen, Shui Lin Xiang, Tai Xi Xiang",
     "publish": "Yes",
     "datestart": "2024-01-02T08:00:00.000Z",
-    "dateend": "2024-10-01T07:00:00.000Z"
+    "dateend": "2024-08-01T07:00:00.000Z"
   },
   {
     "country": "Taiwan",
@@ -9452,7 +9462,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Kaohsiung",
-    "districts": "Ren Wu Qu",
+    "districts": "Gong Shan Qu, Qiao Tou Qu",
     "publish": "Yes",
     "datestart": "2024-05-08T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
@@ -9463,9 +9473,9 @@
     "svspc": "SV",
     "region": "Ping Dong County",
     "districts": "Wan Dan Xiang",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-01-02T08:00:00.000Z",
-    "dateend": "2024-10-01T07:00:00.000Z"
+    "dateend": "2024-08-01T07:00:00.000Z"
   },
   {
     "country": "Taiwan",
@@ -9485,7 +9495,7 @@
     "districts": "Bangkok, Nonthaburi, Samut Prakarn, Pathum Thani, Nakhon pathom, Nakhon Sawan, Samut Sakhon, Tak, Chiang Mai, Saraburi, Nakhonratchasima, Rayong, Ubonratchathani, Mahasarakham, Khonkean, Nakhon Si Thammarat,  Narathiwat, Pattani",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
-    "dateend": "2024-09-30T07:00:00.000Z"
+    "dateend": "2024-07-31T07:00:00.000Z"
   },
   {
     "country": "Thailand",
@@ -11154,5 +11164,95 @@
     "publish": "Yes",
     "datestart": "2024-08-01T07:00:00.000Z",
     "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "San Marino",
+    "code": "SM",
+    "svspc": "SV",
+    "region": "Acquaviva",
+    "districts": "Cà Berlone, Canepa, Casole, Castellaro, Montalbo, Murata, Santa Mustiola",
+    "publish": "Yes",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-05-01T07:00:00.000Z"
+  },
+  {
+    "country": "San Marino",
+    "code": "SM",
+    "svspc": "SV",
+    "region": "Borgo Maggiore",
+    "districts": "Gualdicciolo, La Serra",
+    "publish": "Yes",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-05-01T07:00:00.000Z"
+  },
+  {
+    "country": "San Marino",
+    "code": "SM",
+    "svspc": "SV",
+    "region": "Chiesanuova",
+    "districts": "Cà Melone, Cà Rigo, Cailungo, San Giovanni sotto le Penne, Valdragone, Ventoso",
+    "publish": "Yes",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-05-01T07:00:00.000Z"
+  },
+  {
+    "country": "San Marino",
+    "code": "SM",
+    "svspc": "SV",
+    "region": "City of San Marino",
+    "districts": "Caladino, Confine, Galavotto, Molarini, Poggio Casalino, Poggio Chiesanuova, Teglio",
+    "publish": "Yes",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-05-01T07:00:00.000Z"
+  },
+  {
+    "country": "San Marino",
+    "code": "SM",
+    "svspc": "SV",
+    "region": "Domagnano",
+    "districts": "Cà Giannino, Fiorina, Piandivello, Spaccio Giannoni, Torraccia",
+    "publish": "Yes",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-05-01T07:00:00.000Z"
+  },
+  {
+    "country": "San Marino",
+    "code": "SM",
+    "svspc": "SV",
+    "region": "Faetano",
+    "districts": "Cà Chiavello, Calligaria, Corianino, Monte Pulito",
+    "publish": "Yes",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-05-01T07:00:00.000Z"
+  },
+  {
+    "country": "San Marino",
+    "code": "SM",
+    "svspc": "SV",
+    "region": "Fiorentino",
+    "districts": "Capanne, Crociale, Pianacci",
+    "publish": "Yes",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-05-01T07:00:00.000Z"
+  },
+  {
+    "country": "San Marino",
+    "code": "SM",
+    "svspc": "SV",
+    "region": "Montegiardino",
+    "districts": "Cerbaiola",
+    "publish": "Yes",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-05-01T07:00:00.000Z"
+  },
+  {
+    "country": "San Marino",
+    "code": "SM",
+    "svspc": "SV",
+    "region": "Serravalle",
+    "districts": "Cà Ragni, Cinque Vie, Dogana, Falciano, Lesignano, Ponte Mellini, Rovereta, Valgiurata",
+    "publish": "Yes",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-05-01T07:00:00.000Z"
   }
 ]
