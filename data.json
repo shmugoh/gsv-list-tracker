@@ -1728,7 +1728,7 @@
     "code": "ca",
     "region": "Newfoundland and Labrador",
     "districts": "Burin Peninsula-Marystown, South Coast-Channel-Port aux Basques, St. George’s-Stephenville, Humber District-Corner Brook, Central Newfoundland-Grand Falls-Windsor, Bonavista/Trinity-Clarenville, Notre Dame Bay-Lewisporte",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-07-01T07:00:00.000Z",
     "dateend": "2024-11-02T07:00:00.000Z"
   },
@@ -4278,7 +4278,7 @@
     "districts": "South Tangerang, Tangerang, Balaraja, Kotabumi",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
-    "dateend": "2024-08-31T07:00:00.000Z"
+    "dateend": "2024-09-30T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -4368,7 +4368,7 @@
     "districts": "Kendari, Ampana",
     "publish": "Yes",
     "datestart": "2024-05-01T07:00:00.000Z",
-    "dateend": "2024-08-31T07:00:00.000Z"
+    "dateend": "2024-09-30T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -8377,7 +8377,7 @@
     "svspc": "SV",
     "region": "Singapore",
     "districts": "Singapore",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-02-08T08:00:00.000Z",
     "dateend": "2024-08-28T07:00:00.000Z"
   },
@@ -8743,58 +8743,8 @@
     "country": "South Africa",
     "code": "ZA",
     "svspc": "SV",
-    "region": "Eastern Cape",
-    "districts": "Port Elizabeth, East London, Steytlerville, Aberdeen, Port Alfred, Jansenville, Willowmore, Makhanda, Barkly East, Adelaide, Bedford, Mount Fletcher",
-    "publish": "Yes",
-    "datestart": "2024-01-01T08:00:00.000Z",
-    "dateend": "2024-11-30T08:00:00.000Z"
-  },
-  {
-    "country": "South Africa",
-    "code": "ZA",
-    "svspc": "SV",
-    "region": "Free State",
-    "districts": "Bloemfontein, Kimberley, Colesberg, Bethulie, Trompsburg, Fauresmith, Kroonstad, Lindley, Petrus Steyn, Harrismith, Phuthaditjhaba And Eastern Hubs from the Northern Cape where we have the cities: Strydenburg and Britstown",
-    "publish": "Yes",
-    "datestart": "2024-01-01T08:00:00.000Z",
-    "dateend": "2024-11-30T08:00:00.000Z"
-  },
-  {
-    "country": "South Africa",
-    "code": "ZA",
-    "svspc": "SV",
-    "region": "Kwazulu-Natal",
-    "districts": "Vryheid, Richards Bay, Ladysmith, KwaDukuza, Dundee, Eshowe, Estcourt, Weenen",
-    "publish": "Yes",
-    "datestart": "2024-01-01T08:00:00.000Z",
-    "dateend": "2024-11-30T08:00:00.000Z"
-  },
-  {
-    "country": "South Africa",
-    "code": "ZA",
-    "svspc": "SV",
-    "region": "Mpumalanga",
-    "districts": "Bethal, Secunda, Ermelo, Nigel, Standerton, Mbombela, Evander, Delmas, Hazyview",
-    "publish": "No",
-    "datestart": "2024-01-01T08:00:00.000Z",
-    "dateend": "2024-11-30T08:00:00.000Z"
-  },
-  {
-    "country": "South Africa",
-    "code": "ZA",
-    "svspc": "SV",
-    "region": "North West",
-    "districts": "Morokweng, Rustenburg, Brits, Pomfret, Hartbeespoort, Potchefstroom, Mahikeng, Zeerust, Pampierstad, Lichtenburg, Goedehoop, Pella",
-    "publish": "No",
-    "datestart": "2024-01-01T08:00:00.000Z",
-    "dateend": "2024-11-30T08:00:00.000Z"
-  },
-  {
-    "country": "South Africa",
-    "code": "ZA",
-    "svspc": "SV",
     "region": "Gauteng",
-    "districts": "Bronkhorstspruit, Springs, Endicott, Vischkuil, Marievale, Krugersdorp, Soshanguve, Pretoria, Westonaria, Carletonville, Springs, Hartbeespoort, Randfontein, Midrand, Boksburb, Benoni",
+    "districts": "Johannesburg, Pretoria, Alberton, Boksburg, Edenvale, Germiston, Midrand, Sandton, Springs, Roodepoort, Benoni, Krugersdorp, Randburg, Bronkhorstspruit, Cullinan, Nigel, Centurion, Kyalami, Vanderbijlpark, Heidelberg, Sebokeng, Tembisa, Atteridgeville, Mamelodi, Lenasia",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
     "dateend": "2024-11-30T08:00:00.000Z"
@@ -8804,7 +8754,7 @@
     "code": "ZA",
     "svspc": "SV",
     "region": "Western Cape",
-    "districts": "City of Cape Town, Paarl, Klawer, Bittefontein, Concordia, La Motte, Robertsvlei, Lepelsfontein, Wolfberg, West Coast, Cape Winelands, Overberg, Eden, Central Karoo, Bredasdorp, Bonnivale, Napier, Klipdale, Riviersondere",
+    "districts": "Cape Town, Stellenbosch, George, Knysna, Mossel Bay, Hermanus, Paarl, Wellington, Ceres, Oudtshoorn, Malmesbury, Caledon, Grabouw, Langebaan, Saldanha Bay, Vredenburg, Beaufort West, Ladismith, Elim, Prince Albert, Tulbagh",
     "publish": "Yes",
     "datestart": "2024-01-24T08:00:00.000Z",
     "dateend": "2024-11-30T08:00:00.000Z"
@@ -8813,9 +8763,29 @@
     "country": "South Africa",
     "code": "ZA",
     "svspc": "SV",
-    "region": "Northern Cape",
-    "districts": "Namakwa, Pixley ka Seme, ZF Mgcawu, Frances Baard, John Taolo Gaetsewe, Upington, Rietfontein, Groblershoop",
-    "publish": "No",
+    "region": "Kwazulu-Natal",
+    "districts": "Durban, Pietermaritzburg, Richards Bay, Newcastle, Empangeni, Margate, Ulundi, Ladysmith, Greytown, Port Shepstone, Howick, Hilton, Ballito, Amanzimtoti, Hillcrest, Mooi River, Vryheid, Estcourt, Mtubatuba, Kokstad, Pinetown, Inanda, uMhlanga, Eshowe",
+    "publish": "Yes",
+    "datestart": "2024-01-01T08:00:00.000Z",
+    "dateend": "2024-11-30T08:00:00.000Z"
+  },
+  {
+    "country": "South Africa",
+    "code": "ZA",
+    "svspc": "SV",
+    "region": "Eastern Cape",
+    "districts": "Port Elizabeth, East London, Mthatha, Uitenhage, Queenstown, Grahamstown, Butterworth, Middelburg, Kirkwood, Addo, Bathurst, Humansdorp, Mt Frere, Bisho, Komani, Aliwal North, Stutterheim, Fort Beaufort, King William's Town, Port Alfred, Tsomo, Maclear, Lusikisiki",
+    "publish": "Yes",
+    "datestart": "2024-01-01T08:00:00.000Z",
+    "dateend": "2024-09-30T07:00:00.000Z"
+  },
+  {
+    "country": "South Africa",
+    "code": "ZA",
+    "svspc": "SV",
+    "region": "Limpopo",
+    "districts": "Polokwane, Tzaneen, Lebowakgomo, Thohoyandou, Makhado, Ba-Phalaborwa, Giyani, Louis Trichardt, Modimolle, Mokopane, Naboomspruit, Musina, Bela-Bela, Phalaborwa, Vhembe, Sekhukhune, Thabazimbi, Alldays, Dendron, Mookgophong, Haenertsburg, Tzaneen, Mookgophong, Naboomspruit",
+    "publish": "Yes",
     "datestart": "2024-01-24T08:00:00.000Z",
     "dateend": "2024-11-30T08:00:00.000Z"
   },
@@ -8823,9 +8793,39 @@
     "country": "South Africa",
     "code": "ZA",
     "svspc": "SV",
-    "region": "Limpopo",
-    "districts": "Bela-Bela, Lephalale, Mokerong, Polokwane, Louis Trichard, Thohoyandou, Mopani, Whembe, Capricorn, Waterberg, Sekhukhune",
-    "publish": "No",
+    "region": "Mpumalanga",
+    "districts": "Mbombela, Witbank, Nelspruit, Barberton, Lydenburg, Secunda, White River, Sabie, Hazyview, Bushbuckridge, Kriel, Piet Retief, Groblersdal, Komatipoort, Dullstroom, Schoemanskloof, Belfast, Badplaas, Mkhuhlu, Delmas, Machadodorp, Tzaneen, Elukwatini, Driefontein, Bethal",
+    "publish": "Yes",
+    "datestart": "2024-01-01T08:00:00.000Z",
+    "dateend": "2024-11-30T08:00:00.000Z"
+  },
+  {
+    "country": "South Africa",
+    "code": "ZA",
+    "svspc": "SV",
+    "region": "North West",
+    "districts": "Mahikeng, Klerksdorp, Potchefstroom, Rustenburg, Zeerust, Lichtenburg, Brits, Vryburg, Ganyesa, Ramatlabama, Mmabatho, Mafikeng, Ganyesa, Modimolle, Tlhakajeng, Bapong, Mokopane, Mafikeng, Mabopane, Letlhakeng, Bojanala, Zeerust, Gaborone, Jankarra, Mahlakeng, Bokone, Lekwa, Lethabong",
+    "publish": "Yes",
+    "datestart": "2024-01-01T08:00:00.000Z",
+    "dateend": "2024-11-30T08:00:00.000Z"
+  },
+  {
+    "country": "South Africa",
+    "code": "ZA",
+    "svspc": "SV",
+    "region": "Free State",
+    "districts": "Bloemfontein, Welkom, Sasolburg, Kroonstad, Harrismith, QwaQwa, Ficksburg, Petrusburg, Boshof, Ladybrand, Vrede, Clocolan, Twee Riviere, Parys, Odendaalsrus, Theunissen, Wesselsbron, Bothaville, Frankfort, Dewetsdorp, Gariepdam, Petrusburg, Bultfontein, Hertzogville, Jacobsdal, Koffiefontein, Koppies, Marquard, Norvalspont, Harrismith, Phuthaditjhaba",
+    "publish": "Yes",
+    "datestart": "2024-01-01T08:00:00.000Z",
+    "dateend": "2024-11-30T08:00:00.000Z"
+  },
+  {
+    "country": "South Africa",
+    "code": "ZA",
+    "svspc": "SV",
+    "region": "Northern Cape",
+    "districts": "Kimberley, Upington, Colesberg, De Aar, Springbok, Kuruman, Postmasburg, Griquatown, Hay, Loeriesfontein, Hotazel, Lutzville, Carnarvon, Pofadder, Vredendal, Hondeklipbaai, Calvinia, Prieska, Schmidt, Sutherland, Upington, Postmasburg, Griquatown, Kimberley, Colesberg, De Aar, Springbok, Kuruman, Hartswater",
+    "publish": "Yes",
     "datestart": "2024-01-24T08:00:00.000Z",
     "dateend": "2024-11-30T08:00:00.000Z"
   },
@@ -8838,69 +8838,91 @@
     "dateend": "2020-10-31T07:00:00.000Z"
   },
   {
-    "country": "Sverige",
-    "code": "se",
-    "svspc": "sv",
-    "region": "Norrland",
-    "districts": "Gallivare, Porjus, Hemavan, Laisaliden, Arvidsjaur, Alvsbyn, Boden, Kallax, Lulea, Gammelstaden, Rosvnik, Muksund, Pitea, Byske, Tame, Esrmark, Nolbyn, Kusmark, Savar, Bygdea, Umea, Vannas, Tavelsjo, Rundvik, Norrbyn, Hornea, Jarnasklubb, Baggard, Trehorningsjo, Byviken, Skademark, Bjorka, Sundsvall, Husum, Gavik, Nasaker, Hammarstrand, Ostersund, Myrviken, Duved, Undersaker, Bracke, Brenjo, Klovsjo, Vendalsskalet, Hudiksvall, Svedja, Delsbo, Edsbyn, Jarvso, Gavle, Sandviken, Valbo",
-    "publish": "No",
-    "datestart": "2020-06-16T07:00:00.000Z",
-    "dateend": "2021-01-01T08:00:00.000Z"
-  },
-  {
-    "country": "Sverige",
-    "code": "se",
-    "svspc": "sv",
-    "region": "Svealand",
-    "districts": "Stockholm, Borlange, Upsalla, Vasteras, Orebro, Karlstad, Salen, Transtrand, Talberg, Nikoping, Arno, Oxelosund, Norrtalje, Oregrund, Upssala, Grisslehamn, Sala, Herby, Skultuna, Arboga, Eskilstuna, Orebro, Karlstad, Amal, Hallsberg, Norrkoping, Skovde, Arjang, Karlskoga, Hova, ",
-    "publish": "No",
-    "datestart": "2020-06-16T07:00:00.000Z",
-    "dateend": "2021-01-01T08:00:00.000Z"
-  },
-  {
-    "country": "Sverige",
-    "code": "se",
-    "svspc": "sv",
-    "region": "Götaland ",
-    "districts": "Linkoping, Norrkoping, Gothenburg, Jenkoping, Gotland, Malmo, Helsingborg, Kalmar, Lidkoping, Boras, Skovde, Skara, Tidaholm, Larbro, Sanda, Karshamn, Vastervik, Vaxjo, Bastad, Kristianstad, Lund, Trelleberg, Simrishamn, Sandhammaren, Varberg, Vetlanda, Oskarshamn, Almhult, Hassleholm, Angelholm, Laholm, Halmstad, Hyltebruk, Falkerberk, Hoor, Karlskrona, Ystad, Svedala, Dalby, Horby, Ullared, Kungalv, Trollhattan, Lidkoping, Stenungsund, Hova, ",
-    "publish": "No",
-    "datestart": "2020-06-16T07:00:00.000Z",
-    "dateend": "2021-01-01T08:00:00.000Z"
-  },
-  {
-    "country": "Sverige",
-    "code": "se",
-    "svspc": "sv",
-    "publish": "No",
-    "datestart": "2021-03-10T08:00:00.000Z",
-    "dateend": "2021-10-01T07:00:00.000Z"
-  },
-  {
     "country": "Sweden",
     "code": "SE",
     "svspc": "SV",
-    "region": "Norrbotten",
-    "districts": "Överkalix, Gällivare, Kalix, Jokkmokk, Pajala, Övertorneå",
+    "region": "Stockholm",
+    "districts": "Stockholm, Solna, Sundbyberg, Täby, Nacka, Huddinge, Värmdö, Danderyd, Botkyrka, Lidingö, Haninge, Järfälla, Upplands Väsby, Vallentuna, Södertälje, Ekerö, Nynäshamn, Österåker, Tyresö, Skarpnäck\t",
     "publish": "Yes",
-    "datestart": "2024-05-01T07:00:00.000Z",
-    "dateend": "2024-08-01T07:00:00.000Z"
+    "datestart": "2024-04-09T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
     "svspc": "SV",
-    "region": "Västerbotten ",
-    "districts": "Vindeln, Åsele, Norsjö, Dorotea",
+    "region": "Västra Götaland",
+    "districts": "Gothenburg, Borås, Skövde, Uddevalla, Alingsås, Partille, Kungälv, Trollhättan, Lerum, Stenungsund, Mölndal, Vänersborg, Lidköping, Åmål, Lerum, Tanumshede, Kungsbacka, Strömstad, Lysekil, Sävedalen",
     "publish": "Yes",
-    "datestart": "2024-05-01T07:00:00.000Z",
-    "dateend": "2024-08-01T07:00:00.000Z"
+    "datestart": "2024-04-09T07:00:00.000Z",
+    "dateend": "2024-11-30T08:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
     "svspc": "SV",
-    "region": "Örebro",
-    "districts": "Askersund, Degerfors, Hallsberg, Hällefors, Karlskoga, Kumla, Laxå, Lekeberg, Lindesberg, Ljusnarsberg, Nora, Örebro.",
+    "region": "Östergötland",
+    "districts": "Linköping, Norrköping, Motala, Finspång, Söderköping, Vadstena, Mjölby, Boxholm, Åtvidaberg, Valdemarsvik, Kinda, Söderköping, Mjölby, Åtvidaberg, Valdemarsvik, Ödeshög, Söderköping, Tranås, Ödeshög, Mantorp\t",
+    "publish": "Yes",
+    "datestart": "2024-04-09T07:00:00.000Z",
+    "dateend": "2024-11-30T08:00:00.000Z"
+  },
+  {
+    "country": "Sweden",
+    "code": "SE",
+    "svspc": "SV",
+    "region": "Skåne",
+    "districts": "Malmö, Helsingborg, Lund, Kristianstad, Hässleholm, Ystad, Landskrona, Eslöv, Ängelholm, Simrishamn, Kävlinge, Staffanstorp, Trelleborg, Höör, Örkelljunga, Klippan, Perstorp, Svalöv, Sjöbo, Åstorp",
+    "publish": "Yes",
+    "datestart": "2024-04-09T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Sweden",
+    "code": "SE",
+    "svspc": "SV",
+    "region": "Jönköping",
+    "districts": "Jönköping, Huskvarna, Vetlanda, Nässjö, Värnamo, Mullsjö, Gislaved, Tranås, Eksjö, Anderstorp, Gränna, Sävsjö, Skillingaryd, Jönköping, Värnamo, Gislaved, Nässjö, Tranås, Habo, Tenhult",
+    "publish": "Yes",
+    "datestart": "2024-04-09T07:00:00.000Z",
+    "dateend": "2024-11-30T08:00:00.000Z"
+  },
+  {
+    "country": "Sweden",
+    "code": "SE",
+    "svspc": "SV",
+    "region": "Halland",
+    "districts": "Halmstad, Varberg, Kungsbacka, Falkenberg, Laholm, Hylte, Onsala, Vinberg, Särö, Trönninge, Veddige, Hyltebruk, Åsa, Torup, Källsjö, Oskarström, Steninge, Tvååker, Getinge, Slöinge",
+    "publish": "Yes",
+    "datestart": "2024-04-09T07:00:00.000Z",
+    "dateend": "2024-11-30T08:00:00.000Z"
+  },
+  {
+    "country": "Sweden",
+    "code": "SE",
+    "svspc": "SV",
+    "region": "Södermanland",
+    "districts": "Eskilstuna, Katrineholm, Nyköping, Strängnäs, Trosa, Gnesta, Oxelösund, Vingåker, Flen, Söderköping, Nyköping, Eskilstuna, Strängnäs, Trosa, Gnesta, Oxelösund, Vingåker, Flen, Katrineholm, Flen",
+    "publish": "Yes",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Sweden",
+    "code": "SE",
+    "svspc": "SV",
+    "region": "Värmland",
+    "districts": "Karlstad, Arvika, Kristinehamn, Filipstad, Hagfors, Munkfors, Torsby, Sunne, Säffle, Kil, Ekshärad, Grums, Väse, Molkom, Filipstad, Arvika, Kristinehamn, Torsby, Sunne, Munkfors\t",
+    "publish": "Yes",
+    "datestart": "2024-04-09T07:00:00.000Z",
+    "dateend": "2024-11-30T08:00:00.000Z"
+  },
+  {
+    "country": "Sweden",
+    "code": "SE",
+    "svspc": "SV",
+    "region": "Uppsala",
+    "districts": "Uppsala, Enköping, Västerås, Sala, Bålsta, Knivsta, Tierp, Heby, Östhammar, Håbo, Sigtuna, Almunge, Örsundsbro, Gimo, Uppsala, Bälinge, Vänge, Hammarby, Sävja, Faringe",
     "publish": "Yes",
     "datestart": "2024-03-31T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
@@ -8909,28 +8931,8 @@
     "country": "Sweden",
     "code": "SE",
     "svspc": "SV",
-    "region": "Jämtland",
-    "districts": "Härjedalen, Västra Fagelberget, Strömsund, Krokom, Hammarstrand",
-    "publish": "Yes",
-    "datestart": "2024-07-01T07:00:00.000Z",
-    "dateend": "2024-08-01T07:00:00.000Z"
-  },
-  {
-    "country": "Sweden",
-    "code": "SE",
-    "svspc": "SV",
-    "region": "Västernorrland",
-    "districts": "Kramfors",
-    "publish": "No",
-    "datestart": "2024-04-09T07:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
-  },
-  {
-    "country": "Sweden",
-    "code": "SE",
-    "svspc": "SV",
     "region": "Gävleborg",
-    "districts": "Ljusdal, Nordanstig",
+    "districts": "Gävle, Hudiksvall, Bollnäs, Ljusdal, Söderhamn, Ockelbo, Sandviken, Nordanstig, Älvkarleby, Hofors, Lingbo, Arbrå, Edsbyn, Iggesund, Bergsjö, Hedesunda, Järvsö, Norrala, Ockelbo, Ljusdal\t",
     "publish": "Yes",
     "datestart": "2024-06-01T07:00:00.000Z",
     "dateend": "2024-11-30T08:00:00.000Z"
@@ -8939,50 +8941,10 @@
     "country": "Sweden",
     "code": "SE",
     "svspc": "SV",
-    "region": "Stockholm",
-    "districts": "Haninge, Nykvarn, Nynäshamn, Salem, Södertälje, Tyresö",
+    "region": "Dalarna",
+    "districts": "Falun, Borlänge, Ludvika, Mora, Rättvik, Avesta, Hedemora, Säter, Orsa, Vansbro, Leksand, Gagnef, Malung, Mora, Borlänge, Ludvika, Rättvik, Avesta, Säter, Falun\t",
     "publish": "Yes",
-    "datestart": "2024-04-09T07:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
-  },
-  {
-    "country": "Sweden",
-    "code": "SE",
-    "svspc": "SV",
-    "region": "Uppsala",
-    "districts": "Enköping, Håbo, Knivsta, Tierp, Uppsala, Älvkarleby, Östhammar.",
-    "publish": "Yes",
-    "datestart": "2024-03-31T07:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
-  },
-  {
-    "country": "Sweden",
-    "code": "SE",
-    "svspc": "SV",
-    "region": "Södermanland",
-    "districts": "Strängnäs, Trosa, Gnesta",
-    "publish": "Yes",
-    "datestart": "2024-07-01T07:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
-  },
-  {
-    "country": "Sweden",
-    "code": "SE",
-    "svspc": "SV",
-    "region": "Östergötland",
-    "districts": "Finspång, Linköping, Norrköping, Valdemarsvik, Västervik, Ydre",
-    "publish": "Yes",
-    "datestart": "2024-04-09T07:00:00.000Z",
-    "dateend": "2024-11-30T08:00:00.000Z"
-  },
-  {
-    "country": "Sweden",
-    "code": "SE",
-    "svspc": "SV",
-    "region": "Jönköping",
-    "districts": "Nässjö, Gislaved, Gnosjö, Sävsjö, Vaggeryd",
-    "publish": "Yes",
-    "datestart": "2024-04-09T07:00:00.000Z",
+    "datestart": "2024-05-01T07:00:00.000Z",
     "dateend": "2024-08-01T07:00:00.000Z"
   },
   {
@@ -8990,7 +8952,7 @@
     "code": "SE",
     "svspc": "SV",
     "region": "Kronoberg",
-    "districts": "Alvesta, Lessebo, Ljungby, Markaryd, Tingsryd, Uppvidinge, Växjö, Älmhult.",
+    "districts": "Växjö, Ljungby, Alvesta, Tingsryd, Markaryd, Älmhult, Älmhult, Uppvidinge, Lessebo, Moheda, Lammhult, Hovmantorp, Rottne, Braås, Växjö, Ljungby, Alvesta, Tingsryd, Markaryd\t",
     "publish": "Yes",
     "datestart": "2024-05-01T07:00:00.000Z",
     "dateend": "2024-11-30T08:00:00.000Z"
@@ -8999,78 +8961,18 @@
     "country": "Sweden",
     "code": "SE",
     "svspc": "SV",
-    "region": "Kalmar",
-    "districts": "Västervik, Högsby, Mönsterås, Oskarshamn",
+    "region": "Örebro",
+    "districts": "Örebro, Karlskoga, Kumla, Hallsberg, Nora, Lekeberg, Askersund, Degerfors, Lindesberg, Örebro, Karlskoga, Kumla, Hallsberg, Nora, Lekeberg, Askersund, Degerfors, Lindesberg, Örebro, Kumla\t",
     "publish": "Yes",
-    "datestart": "2024-05-01T07:00:00.000Z",
-    "dateend": "2024-11-30T08:00:00.000Z"
-  },
-  {
-    "country": "Sweden",
-    "code": "SE",
-    "svspc": "SV",
-    "region": "Gotland",
-    "districts": "Gotland, Visby,",
-    "publish": "No",
     "datestart": "2024-03-31T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
-  },
-  {
-    "country": "Sweden",
-    "code": "SE",
-    "svspc": "SV",
-    "region": "Blekinge",
-    "districts": "Karlshamn, Karlskrona, Olofström, Ronneby, Sölvesborg.",
-    "publish": "No",
-    "datestart": "2024-03-31T07:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
-  },
-  {
-    "country": "Sweden",
-    "code": "SE",
-    "svspc": "SV",
-    "region": "Skåne",
-    "districts": "Båstad, Kristianstad, Simrishamn, Tomelilla, Ystad",
-    "publish": "No",
-    "datestart": "2024-04-09T07:00:00.000Z",
-    "dateend": "2024-06-01T07:00:00.000Z"
-  },
-  {
-    "country": "Sweden",
-    "code": "SE",
-    "svspc": "SV",
-    "region": "Halland",
-    "districts": "Halmstad, Hylte, Laholm, Falkenberg",
-    "publish": "Yes",
-    "datestart": "2024-04-09T07:00:00.000Z",
-    "dateend": "2024-11-30T08:00:00.000Z"
-  },
-  {
-    "country": "Sweden",
-    "code": "SE",
-    "svspc": "SV",
-    "region": "Västra Götaland",
-    "districts": "Borås, Ulricehamn, Jönköping, Gothenburg, Gislaved, Bengtsfors, Dals-Ed, Falköping, Färgelanda, Mellerud, Skövde, Svenljunga, Tidaholm, Tranemo, Åmål",
-    "publish": "Yes",
-    "datestart": "2024-04-09T07:00:00.000Z",
-    "dateend": "2024-11-30T08:00:00.000Z"
-  },
-  {
-    "country": "Sweden",
-    "code": "SE",
-    "svspc": "SV",
-    "region": "Värmland",
-    "districts": "Årjäng, Arvika, Eda, Grums, Säffle, Årjäng",
-    "publish": "Yes",
-    "datestart": "2024-04-09T07:00:00.000Z",
-    "dateend": "2024-11-30T08:00:00.000Z"
   },
   {
     "country": "Sweden",
     "code": "SE",
     "svspc": "SV",
     "region": "Västmanland",
-    "districts": "Arboga, Fagersta, Hallstahammar, Kungsör, Köping, Norberg, Sala, Skinnskatteberg, Surahammar, Västerås.",
+    "districts": "Västerås, Sala, Köping, Hallstahammar, Surahammar, Arboga, Fagersta, Västerås, Sala, Köping, Hallstahammar, Surahammar, Arboga, Fagersta, Västerås, Hallstahammar, Köping, Surahammar, Fagersta",
     "publish": "No",
     "datestart": "2024-03-31T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
@@ -9079,11 +8981,71 @@
     "country": "Sweden",
     "code": "SE",
     "svspc": "SV",
-    "region": "Dalarna",
-    "districts": "Falun, Leksand, Mora, Orsa, Rättvik",
+    "region": "Gotland",
+    "districts": "Visby, Slite, Roma, Hemse, Klintehamn, Fårö, Västergarn, Grogarn, Burs, Östergarn, Kräklingbo, Källunge, Burgsvik, Sproge, Ganthem, Halla, Lärbro, Själa, Väskinde, Lummelunda\t",
+    "publish": "No",
+    "datestart": "2024-03-31T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Sweden",
+    "code": "SE",
+    "svspc": "SV",
+    "region": "Norrbotten",
+    "districts": "Luleå, Boden, Kiruna, Piteå, Haparanda, Gällivare, Kalix, Jokkmokk, Överkalix, Arjeplog, Övertorneå, Älvsbyn, Haparanda, Luleå, Boden, Kiruna, Piteå, Gällivare, Kalix, Jokkmokk\t",
     "publish": "Yes",
     "datestart": "2024-05-01T07:00:00.000Z",
-    "dateend": "2024-07-01T07:00:00.000Z"
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Sweden",
+    "code": "SE",
+    "svspc": "SV",
+    "region": "Västernorrland",
+    "districts": "Sundsvall, Härnösand, Örnsköldsvik, Kramfors, Sollefteå, Timrå, Ånge, Härnösand, Örnsköldsvik, Kramfors, Sollefteå, Sundsvall, Timrå, Ånge, Kramfors, Örnsköldsvik, Sollefteå, Timrå, Härnösand, Sundsvall\t",
+    "publish": "No",
+    "datestart": "2024-04-09T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Sweden",
+    "code": "SE",
+    "svspc": "SV",
+    "region": "Jämtland",
+    "districts": "Östersund, Krokom, Strömsund, Åre, Hammerdal, Svenstavik, Bräcke, Funäsdalen, Offerdal, Hede, Sveg, Krokom, Strömsund, Åre, Hammerdal, Svenstavik, Bräcke, Funäsdalen, Offerdal, Hede\t",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Sweden",
+    "code": "SE",
+    "svspc": "SV",
+    "region": "Västerbotten ",
+    "districts": "Umeå, Skellefteå, Lycksele, Vilhelmina, Robertsfors, Bjurholm, Nordmaling, Åsele, Vännäs, Storuman, Dorotea, Malå, Norsjö, Sorsele, Bureå, Holmön, Sikeå, Sävar, Bjästa, Örnsköldsvik\t",
+    "publish": "Yes",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Sweden",
+    "code": "SE",
+    "svspc": "SV",
+    "region": "Kalmar",
+    "districts": "Kalmar, Västervik, Oskarshamn, Nybro, Borgholm, Mörbylånga, Högsby, Öland, Färjestaden, Löttorp, Mönsterås, Lindsdal, Torsås, Hultsfred, Kristvallabrunn, Södra Vi, Tvärskog, Högsby, Alsterbro, Mörbylånga",
+    "publish": "Yes",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-11-30T08:00:00.000Z"
+  },
+  {
+    "country": "Sweden",
+    "code": "SE",
+    "svspc": "SV",
+    "region": "Blekinge",
+    "districts": "Karlskrona, Ronneby, Olofström, Sölvesborg, Mörrum, Listerby, Åryd, Hällaryd, Kallinge, Asarum, Tving, Lönsboda, Killeberg, Torhamn, Fridlevstad, Sölvesborg, Eringsboda, Bräkne-Hoby, Hoby, Tvinge\t",
+    "publish": "No",
+    "datestart": "2024-03-31T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -9380,7 +9342,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Taoyuan",
-    "districts": "Xian Wu Qu, Ba De Qu, Yang Mei Qu",
+    "districts": "Zhong Li Qu, Ping Zhen Qu",
     "publish": "Yes",
     "datestart": "2024-05-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
@@ -9410,7 +9372,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Tai Chung",
-    "districts": "Feng Yuan Qu, Bei Tou Qu, Da Li Qu",
+    "districts": "Da Li Qu",
     "publish": "Yes",
     "datestart": "2024-05-08T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
@@ -9460,7 +9422,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Kaohsiung",
-    "districts": "Gong Shan Qu, Qiao Tou Qu",
+    "districts": "Xiao Gang Qu, Qian Zhen Qu",
     "publish": "Yes",
     "datestart": "2024-05-08T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
@@ -10209,37 +10171,68 @@
     "country": "Ελλάδα",
     "code": "GR",
     "svspc": "SV",
-    "region": "Θεσσαλία",
-    "districts": "Κάρυστος, Αλιβέρι, Λάρισα",
-    "publish": "No",
-    "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-11-30T08:00:00.000Z"
+    "region": "Αττική        ",
+    "districts": "Αχαρνές, Αγία Παρασκευή, Άγιος Δημήτριος, Αιγάλεω, Άλιμος, Αθήνα, Χαλάνδρι, Γαλάτσι, Γλυφάδα, Ίλιον, Ηλιούπολη, Καλλιθέα, Κερατσίνι, Κηφισιά, Κορυδαλλός, Μαρούσι, Νέα Ιωνία, Νέα Σμύρνη, Νίκαια, Παλαιό Φάληρο, Πειραιάς, Περιστέρι, Βύρωνας, Ζωγράφος",
+    "publish": "Yes",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-11-30T08:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
     "code": "GR",
     "svspc": "SV",
-    "region": "Δυτική Ελλάδα",
-    "districts": "Πάτρα",
-    "publish": "No",
-    "datestart": "2023-03-01T08:00:00.000Z"
+    "region": "Στερεά Ελλάδα",
+    "districts": "Θήβα, Λιβαδειά, Τανάγρα, Σχηματάρι, Ορχομενός, Οινόφυτα, Αλίαρτος, Πλαταιές, Θήβες, Βαγία, Δίστομο, Αράχωβα, Κορωνεία, Θίσβη, Κυριάκι Χαλκίδας, Καρύστου, Νέα Αρτάκη, Βασιλικό, Ερέτρια, Ψαχνά, Δροσιά, Ιστιαία, Αλιβέρι, Καρύστου, Λουτρά Αιδηψού, Βαθύ, Αμαρυνθός, Άγιος Νικόλαος, Παραλία Αυλίδας, Κύμη, Νέα Λάμψακος, Λίμνη, Γυμνό, Καρπενήσι, Αγρνά, Αμφισσα, Ιτέα, Λιδωρίκι, Τολόφων, Γαλαξίδι, Λαμία, Στυλίδα, Δομοκός, Αταλάντη, Μαλεσίνα, Μώλος, Υπάτη, Ροδίτσα, Αμφίκλεια, Άγιος Κωνσταντίνος, Καμένα Βούρλα, Σπερχειάδα, Λιβανατές, Σταυρός, Ελάτεια, Μακρακώμη",
+    "publish": "Yes",
+    "datestart": "2024-09-30T07:00:00.000Z",
+    "dateend": "2024-11-30T08:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
     "code": "GR",
     "svspc": "SV",
-    "region": "Μακεδονία",
-    "districts": "Χαλκιδική",
-    "publish": "No",
-    "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-11-30T08:00:00.000Z"
+    "region": "Κεντρική Μακεδονία",
+    "districts": "Αλεξάνδρεια, Αριδαία, Έδεσσα, Γιαννιτσά, Κατερίνη, Κιλκίς, Κουφάλια, Λαγκαδάς, Λιτόχωρο, Νάουσα, Νέα Καλλικράτεια, Νέα Μουδανιά, Πολύγυρος, Πολύκαστρο, Σέρρες, Σκύδρα, Μητροπολιτική περιοχή Θεσσαλονίκης, Επανομή, Ευόσμος, Δέλτα, Καλαμαριά, Ωραιόκαστρο, Πανόραμα, Πολίχνη, Πυλαία, Σταυρούπολη, Συκιές, Θέρμη, Θεσσαλονίκη, Βέροια",
+    "publish": "Yes",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-10T07:00:00.000Z"
+  },
+  {
+    "country": "Ελλάδα",
+    "code": "GR",
+    "svspc": "SV",
+    "region": "Κρήτη",
+    "districts": "Χανιά, Ηράκλειο, Ρέθυμνο, Άγιος Νικόλαος, Μάλια, Σητεία, Ελούντα, Ανώγεια, Χώρα Σφακίων, Ιεράπετρα, Παλαιόχωρα, Ηράκλειο, Λουτρό, Ρέθυμνο, Σπήλι, Κριτσά, Αρχάνες, Λασίθι",
+    "publish": "Yes",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-11-30T08:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
     "code": "GR",
     "svspc": "SV",
     "region": "Ανατολική Μακεδονία και Θράκη",
-    "districts": "Ορεστιάδα, Ρίζια, Καστανίες, Δίλοφος, Ασημένιο, Σοφικό, θούριο, Ρήγιο, Πετράδες, Κομοτηνή, Αλεξανδρούπολη, Καβάλα, Ξάνθη",
+    "districts": "Αλεξανδρούπολη, Καβάλα, Ξάνθη, Κομοτηνή, Δράμα, Αβδήρα, Χρυσούπολη, Διδυμότειχο, Δοξάτο, Ελευθεραί, Ελευθερούπολη, Ευλάλο, Φέρες, Φίλιπποι, Φιλύρα, Ιάσμος, Κάτω Νευροκόπι, Μαρώνεια, Μύκη, Ορεστιάδα, Προσοτσάνη, Σάπες, Σουφλί",
+    "publish": "Yes",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-10T07:00:00.000Z"
+  },
+  {
+    "country": "Ελλάδα",
+    "code": "GR",
+    "svspc": "SV",
+    "region": "Ήπειρος",
+    "districts": "Άρτα, Δωδώνη, Φιλιάτες, Ηγουμενίτσα, Ιωάννινα, Κόνιτσα, Μέτσοβο, Πάργα, Πωγώνι, Πρέβεζα, Ζαγόρι, Ζίτσα, \nΑθαμανία, Φιλιππιάδα, Παραμυθιά, Κομπότι, Πέρδικα, Πέτα, Πραμάντα, Σύβοτα, Τετράφυλλια",
+    "publish": "Yes",
+    "datestart": "2024-09-30T07:00:00.000Z",
+    "dateend": "2024-11-30T08:00:00.000Z"
+  },
+  {
+    "country": "Ελλάδα",
+    "code": "GR",
+    "svspc": "SV",
+    "region": "Ιόνιοι Νήσοι",
+    "districts": "Κέρκυρα, Ιθάκη, Κεφαλονιά, Λευκάδα, Ζάκυνθος",
     "publish": "No",
     "datestart": "2023-03-01T08:00:00.000Z",
     "dateend": "2023-11-30T08:00:00.000Z"
@@ -10249,57 +10242,7 @@
     "code": "GR",
     "svspc": "SV",
     "region": "Βορείου Αιγαίου",
-    "districts": "Χίος",
-    "publish": "Yes",
-    "datestart": "2024-09-30T07:00:00.000Z",
-    "dateend": "2024-11-30T08:00:00.000Z"
-  },
-  {
-    "country": "Ελλάδα",
-    "code": "GR",
-    "svspc": "SV",
-    "region": "Νοτίου Αιγαίου / Νησιά Αιγαίου",
-    "districts": "Άνδρος, Πάρος, Νάξος, Άμοργος, Ικαρία",
-    "publish": "Yes",
-    "datestart": "2024-08-01T07:00:00.000Z",
-    "dateend": "2024-09-30T07:00:00.000Z"
-  },
-  {
-    "country": "Ελλάδα",
-    "code": "GR",
-    "svspc": "SV",
-    "region": "Αττική",
-    "districts": "Πειραιάς, Μαρούσι, Αθήνα",
-    "publish": "Yes",
-    "datestart": "2024-08-01T07:00:00.000Z",
-    "dateend": "2024-11-30T08:00:00.000Z"
-  },
-  {
-    "country": "Ελλάδα",
-    "code": "GR",
-    "svspc": "SV",
-    "region": "Κρήτη",
-    "districts": "Χανιά, Κίσσαμος, Παλαιοχώρα, Αλικιανός, Ηράκλειο, Ιεράπετρα, Άγιος Νικόλαος, Ρέθυμνο, Παλιόχωρα, Πλακιάς",
-    "publish": "Yes",
-    "datestart": "2024-08-01T07:00:00.000Z",
-    "dateend": "2024-11-30T08:00:00.000Z"
-  },
-  {
-    "country": "Ελλάδα",
-    "code": "GR",
-    "svspc": "SV",
-    "region": "Ήπειρος",
-    "districts": "Ιωάννινα, Άρτα, Δωδώνη, Φιλιάτες, Γραμμένο, Μελάτες, Παγανία",
-    "publish": "Yes",
-    "datestart": "2024-09-30T07:00:00.000Z",
-    "dateend": "2024-11-30T08:00:00.000Z"
-  },
-  {
-    "country": "Ελλάδα",
-    "code": "GR",
-    "svspc": "SV",
-    "region": "Στερεά Ελλάδα",
-    "districts": "Λαμία, Λιβαδειά",
+    "districts": "Χίος, Καλλονή, Καρλόβασι, Μύρινα, Μυτιλήνη, Ομηρούπολη, Πυθαγόρειο, Σάμος",
     "publish": "Yes",
     "datestart": "2024-09-30T07:00:00.000Z",
     "dateend": "2024-11-30T08:00:00.000Z"
@@ -10309,67 +10252,7 @@
     "code": "GR",
     "svspc": "SV",
     "region": "Πελοπόννησος",
-    "districts": "Τρίπολη, Μολάοι, Σπάρτη",
-    "publish": "No",
-    "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-11-30T08:00:00.000Z"
-  },
-  {
-    "country": "Ελλάδα",
-    "code": "GR",
-    "svspc": "SV",
-    "region": "Δυτική Μακεδονία",
-    "districts": "Κοζάνη",
-    "publish": "No",
-    "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-11-30T08:00:00.000Z"
-  },
-  {
-    "country": "Ελλάδα",
-    "code": "GR",
-    "svspc": "SV",
-    "region": "Αττική",
-    "districts": "Πειραιάς, Μαρούσι, Αθήνα",
-    "publish": "No",
-    "datestart": "2024-01-01T08:00:00.000Z",
-    "dateend": "2024-08-31T07:00:00.000Z"
-  },
-  {
-    "country": "Ελλάδα",
-    "code": "GR",
-    "svspc": "SV",
-    "region": "Δυτική Ελλάδα",
-    "districts": "Πύργος, Αμαλιάδα, Κορυφή, Μαραθέα, Γαστούνη, Γλύφα, Καραβάκι, Καρδαμάς, Πάτρα",
-    "publish": "No",
-    "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-04-30T07:00:00.000Z"
-  },
-  {
-    "country": "Ελλάδα",
-    "code": "GR",
-    "svspc": "SV",
-    "region": "Αττική / Θεσσαλία",
-    "districts": "Ναύπακτος,  Άμφισσα, Καρπενήσι, Ιωάννινα, Τρίκαλα, Λάρισα, Αγ. Άννα Εύβοιας, Χαλκίδα, Κάλαμος, Καπανδρίτι, Μαλακάσα, Αγ. Απόστολοι, Βλαστός, Δήλεσι, Οινόφυτα, Αιδηψός",
-    "publish": "No",
-    "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-07-31T07:00:00.000Z"
-  },
-  {
-    "country": "Ελλάδα",
-    "code": "GR",
-    "svspc": "SV",
-    "region": "Δυτική Ελλάδα",
-    "districts": "Πόρος, Σπέτσες, Κόρφος, Ηλιόκαστρο, Πάτρα, Ναύπλιο, Άργος, Κρανίδι, Μέθανα, Ηλιόκαστρο, Στέρνα",
-    "publish": "No",
-    "datestart": "2024-05-01T07:00:00.000Z",
-    "dateend": "2024-07-01T07:00:00.000Z"
-  },
-  {
-    "country": "Ελλάδα",
-    "code": "GR",
-    "svspc": "SV",
-    "region": "Μακεδονία",
-    "districts": "Σαμοθράκη, Θεσσαλονίκη, Θάσος, Φλώρινα, Κιλκίς, Θάσος, Ροδόπολη, Λιβάδια, Μανδράκι, Κερκίνη, Βυρώνεια, θρακικό Ομαλό, Ακριτοχώρι",
+    "districts": "Καλαμάτα, Τρίπολη, Άργος, Κόρινθος, Σπάρτη, Ναύπλιο, Τριφυλία, Μεσσήνη, Μονεμβασιά, Ξυλόκαστρο",
     "publish": "Yes",
     "datestart": "2024-02-01T08:00:00.000Z",
     "dateend": "2024-08-10T07:00:00.000Z"
@@ -10378,21 +10261,41 @@
     "country": "Ελλάδα",
     "code": "GR",
     "svspc": "SV",
-    "region": "Μακεδονία",
-    "districts": "Βέροια, Έδεσσα, Γιαννιτσά, Θεσσαλονίκη, ",
-    "publish": "No",
-    "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-11-30T08:00:00.000Z"
+    "region": "Νοτίου Αιγαίου / Νησιά Αιγαίου",
+    "districts": "Άνδρος, Ιαλυσός, Καλλιθέα, Κάλυμνος, Κάρπαθος, Κως, Λέρος, Μήλος, Μύκονος, Νάξος, Πάρος, Πεταλούδες, Ρόδος, Σαντορίνη, Θήρα, Σύρος, Ερμούπολη",
+    "publish": "Yes",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-11-30T08:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
     "code": "GR",
     "svspc": "SV",
-    "region": "Νησιά Ιονίου",
-    "districts": "Κέρκυρα, Λευκάδα",
-    "publish": "No",
-    "datestart": "2023-03-01T08:00:00.000Z",
-    "dateend": "2023-11-30T08:00:00.000Z"
+    "region": "Θεσσαλία",
+    "districts": "Καλαμπάκα, Λάρισα, Βόλος, Τρίκαλα, Τέμπη, Καρδίτσα, Ελασσόνα, Πορταριά, Μηλιές, Αργιθέα, Ζαγορά-Μουρέσι, Σοφάδες, Ρήγας Φεραίος, Μουζάκι, Αγιά, Κίσσος, Νότιο Πήλιο, Λίμνη Πλαστήρα, Σκόπελος, Καστράκι, Φάρσαλα, Αλμυρός, Παλαμάς, Τύρναβος, Πύλη, Κιλελέρ, Φαρκαδόνα, Ζαγορά, Λιβάδι, Αργαλαστή, Αιγάνι, Ράψανη, Πηγαδάκια, Μακρινίτσα, Νέα Αγχίαλος, Αγριά, Φαλάνη, Γόμφοι, Πυργετός, Πύθιο, Σαραντάπορο, Μητρόπολη, Γόμφοι, Κρανιά, Πτελεός, Μεγάλα Καλύβια, Δολίχη, Ρεντίνα, Σπίλια, Καλλιπεύκη",
+    "publish": "Yes",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-10T07:00:00.000Z"
+  },
+  {
+    "country": "Ελλάδα",
+    "code": "GR",
+    "svspc": "SV",
+    "region": "Δυτική Ελλάδα",
+    "districts": "Αγρίνιο, Αίγιο, Αμαλιάδα, Αμφιλοχία, Αρχαία Ολυμπία, Φαρρές, Γαστούνη, Καλάβρυτα, Κάτω Αχαΐα, Μεσολόγγι, Ναύπακτος, Πάτρα, Πύργος, Βουπρασία, Ζαχάρω",
+    "publish": "Yes",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-05-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ελλάδα",
+    "code": "GR",
+    "svspc": "SV",
+    "region": "Δυτική Μακεδονία",
+    "districts": "Κοζάνη, Εορδαία, Βοΐο, Σερβία-Βελβεντό, Δεσκάτη, Γρεβενά, Νεστόριο, Άργος Ορεστικό, Καστοριά, Πρέσπες, Φλώρινα, Αμύνταιο",
+    "publish": "Yes",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-10T07:00:00.000Z"
   },
   {
     "country": "България",
