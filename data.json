@@ -360,7 +360,7 @@
     "code": "AU",
     "svspc": "SV",
     "region": "South Australia",
-    "districts": "Adelaide, Kangaroo Island, Mount Cooper, Nuriooppa, Gawler, Carrieton, whyalla",
+    "districts": "Adelaide, Kangaroo Island, Mount Cooper, Nuriooppa, Gawler, Carrieton, whyalla, Port lincoln",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
     "dateend": "2024-07-01T07:00:00.000Z"
@@ -1116,20 +1116,20 @@
     "code": "AR",
     "svspc": "SV",
     "region": "Buenos Aires",
-    "districts": "Ciudad de Buenos Aires, La Plata, Bahia Blanca, Mar del Plata, Lujan, San Miguel, Tandil, Villa Gessell, Pinamar, Morón, Merlo, Tigre, Monte Grande, San Justo, Los Polvorines, Moreno, San Martin, El Palomar, Pilar, otros.",
-    "publish": "No",
+    "districts": "Belen de Escobar, Benavidez, Berazategui, Campana, alrededores",
+    "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
-    "dateend": "2024-08-23T07:00:00.000Z"
+    "dateend": "2024-12-31T08:00:00.000Z"
   },
   {
     "country": "Argentina",
     "code": "AR",
     "svspc": "SV",
     "region": "Santa Fe",
-    "districts": "Rosario, Santa Fé Capital y alrededores.",
-    "publish": "No",
+    "districts": "Ciudad de Santa Fe",
+    "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
-    "dateend": "2024-08-13T07:00:00.000Z"
+    "dateend": "2024-12-31T08:00:00.000Z"
   },
   {
     "country": "Argentina",
@@ -1137,9 +1137,9 @@
     "svspc": "SV",
     "region": "Córdoba",
     "districts": "Córdoba Capital, alrededores.",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-01-01T08:00:00.000Z",
-    "dateend": "2024-12-31T08:00:00.000Z"
+    "dateend": "2024-09-26T07:00:00.000Z"
   },
   {
     "country": "Argentina",
@@ -1166,10 +1166,10 @@
     "code": "AR",
     "svspc": "SV",
     "region": "Corrientes",
-    "districts": "Corrientes capital, San Luis de Palmar, Paso de la Patria, Laguna Brava, Santa Ana, Campo grande, San Cosme, otros.",
-    "publish": "No",
+    "districts": "Curuzú Cuatiá, Mercedes, Resistencia",
+    "publish": "Yes",
     "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-08-13T07:00:00.000Z"
+    "dateend": "2024-09-26T07:00:00.000Z"
   },
   {
     "country": "Argentina",
@@ -1206,10 +1206,10 @@
     "code": "AR",
     "svspc": "SV",
     "region": "Mendoza",
-    "districts": "Mendoza y alrededores.",
-    "publish": "No",
+    "districts": "La Paz, Mendoza Capital, Santa Rosa",
+    "publish": "Yes",
     "datestart": "2024-05-01T07:00:00.000Z",
-    "dateend": "2024-08-13T07:00:00.000Z"
+    "dateend": "2024-09-26T07:00:00.000Z"
   },
   {
     "country": "Brasil",
@@ -4187,8 +4187,8 @@
     "region": "West Kalimantan",
     "districts": "Pontianak, Palangkaraya, Singkawang, Ketapang",
     "publish": "Yes",
-    "datestart": "2024-01-01T08:00:00.000Z",
-    "dateend": "2024-07-31T07:00:00.000Z"
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -4197,8 +4197,8 @@
     "region": "East Kalimantan",
     "districts": "Samarinda, Tenggarong, Bontang",
     "publish": "Yes",
-    "datestart": "2024-04-01T07:00:00.000Z",
-    "dateend": "2024-07-31T07:00:00.000Z"
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -4207,8 +4207,8 @@
     "region": "Central Kalimantan",
     "districts": "Sampit, Palangkaraya",
     "publish": "Yes",
-    "datestart": "2024-03-11T07:00:00.000Z",
-    "dateend": "2024-07-31T07:00:00.000Z"
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -4217,8 +4217,8 @@
     "region": "South Kalimantan",
     "districts": "Balikpapan, Banjarmasin",
     "publish": "Yes",
-    "datestart": "2024-04-01T07:00:00.000Z",
-    "dateend": "2024-07-31T07:00:00.000Z"
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -4278,7 +4278,7 @@
     "districts": "South Tangerang, Tangerang, Balaraja, Kotabumi",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
-    "dateend": "2024-10-30T07:00:00.000Z"
+    "dateend": "2024-12-31T08:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -4298,7 +4298,7 @@
     "districts": "Bekasi, Bogor, Depok, Garut, Banjar, Sukabumi,",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
-    "dateend": "2024-10-30T07:00:00.000Z"
+    "dateend": "2024-12-31T08:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -4308,7 +4308,7 @@
     "districts": "Purbalingga, Purwokerto, Semarang, Kendal, Solo, Salatiga, Temanggung, Klaten, Demak, Sragen, Magelang, Blora",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
-    "dateend": "2024-10-30T07:00:00.000Z"
+    "dateend": "2024-12-31T08:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -4318,7 +4318,7 @@
     "districts": "Surabaya, Malang, Sidoarjo,Tuban, Blitar, Kediri, Bojonegoro, Mojokerto",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
-    "dateend": "2024-09-30T07:00:00.000Z"
+    "dateend": "2024-12-31T08:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -4347,8 +4347,8 @@
     "region": "East Kalimantan",
     "districts": "Tenggarong, Samarinda",
     "publish": "Yes",
-    "datestart": "2024-01-01T08:00:00.000Z",
-    "dateend": "2024-07-31T07:00:00.000Z"
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -5081,8 +5081,7 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Miyagi",
-    "districts": "Sendai, Osaki, Ishinomaki",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-30T07:00:00.000Z",
     "dateend": "2024-09-30T07:00:00.000Z"
   },
@@ -5185,10 +5184,10 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Nagano",
-    "districts": "Nagano, Karuizawa, Hakuba",
+    "districts": "Nagano, Hakuba",
     "publish": "Yes",
     "datestart": "2024-04-30T07:00:00.000Z",
-    "dateend": "2024-09-30T07:00:00.000Z"
+    "dateend": "2024-10-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -5216,8 +5215,7 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Ishikawa",
-    "districts": "Nanao, Noto",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-05-01T07:00:00.000Z",
     "dateend": "2024-09-30T07:00:00.000Z"
   },
@@ -5229,7 +5227,7 @@
     "districts": "Minokamo, Tajimi, Kani, Komaki",
     "publish": "Yes",
     "datestart": "2024-04-30T07:00:00.000Z",
-    "dateend": "2024-09-30T07:00:00.000Z"
+    "dateend": "2024-10-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -5286,7 +5284,7 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Osaka",
-    "districts": "Yao, Higashi Osaka, Sakai, Hannan",
+    "districts": "Yao, Higashi Osaka, Sakai",
     "publish": "Yes",
     "datestart": "2024-04-30T07:00:00.000Z",
     "dateend": "2024-10-31T07:00:00.000Z"
@@ -5458,8 +5456,7 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Okinawa",
-    "districts": "Naha",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-04-30T07:00:00.000Z",
     "dateend": "2024-09-30T07:00:00.000Z"
   },
@@ -7141,20 +7138,20 @@
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Central Visayas",
-    "districts": "Cebu",
+    "region": "Davao",
+    "districts": "Tagum",
     "publish": "Yes",
-    "datestart": "2024-08-01T07:00:00.000Z",
+    "datestart": "2024-09-19T07:00:00.000Z",
     "dateend": "2024-09-13T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Central Visayas",
-    "districts": "Cebu",
+    "region": "Bicol",
+    "districts": "Legaspi",
     "publish": "Yes",
-    "datestart": "2024-08-01T07:00:00.000Z",
+    "datestart": "2024-09-24T07:00:00.000Z",
     "dateend": "2024-09-13T07:00:00.000Z"
   },
   {
@@ -9315,7 +9312,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "New Taipei",
-    "districts": "Xin Dian Qu, San Xiao Qu",
+    "districts": "Ban Qiao Qu, Xing Zhung Qu",
     "publish": "Yes",
     "datestart": "2024-01-02T08:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
@@ -9336,9 +9333,9 @@
     "svspc": "SV",
     "region": "Taoyuan",
     "districts": "Ying Gou Qu",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-05-01T07:00:00.000Z",
-    "dateend": "2024-10-01T07:00:00.000Z"
+    "dateend": "2024-09-16T07:00:00.000Z"
   },
   {
     "country": "Taiwan",
@@ -9365,7 +9362,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Tai Chung",
-    "districts": "Xi Tou Qu, Sha Lu Qu, Qian Shu Qu",
+    "districts": "Wu Zhi Qu, Sha Lu Qu, Long Jing Qu",
     "publish": "Yes",
     "datestart": "2024-05-08T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
@@ -9415,7 +9412,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Kaohsiung",
-    "districts": "Xiao Gang Qu, Qian Zhen Qu",
+    "districts": "Da Liao Qu, Feng Shan Qu",
     "publish": "Yes",
     "datestart": "2024-05-08T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
@@ -9445,7 +9442,7 @@
     "code": "TH",
     "svspc": "SV",
     "region": "Central, Northern, Northeastern, Southern",
-    "districts": "Samut Sakhon, Samut Songkharm, Ratchaburi",
+    "districts": "Samut Songkharm, Ratchaburi",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
     "dateend": "2024-12-31T08:00:00.000Z"
@@ -9455,7 +9452,7 @@
     "code": "TH",
     "svspc": "3W",
     "region": "Central",
-    "districts": "Parket, Nonthaburi, Nakhonpathum",
+    "districts": "Parket, Nonthaburi, Nakhonpathum,",
     "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-12-31T08:00:00.000Z"
@@ -10933,7 +10930,7 @@
     "districts": "Banja Luka, Bijeljina, Prijedor, Doboj, Gradiška, Trebinje",
     "publish": "Yes",
     "datestart": "2024-07-01T07:00:00.000Z",
-    "dateend": "2024-10-31T07:00:00.000Z"
+    "dateend": "2024-11-13T08:00:00.000Z"
   },
   {
     "country": "Bosnia and Herzegovina",
@@ -10943,7 +10940,7 @@
     "districts": "Sarajevo, Bihać, Tuzla, Mostar, Zenica, Živinice, Gračanica, Srebrenik, Gradačac, Visoko, Ljubuški, Čapljina, Derventa, Lukavac, Lukavac, Zavidovići, Konjic, Bosanska Krupa",
     "publish": "Yes",
     "datestart": "2024-04-22T07:00:00.000Z",
-    "dateend": "2024-10-31T07:00:00.000Z"
+    "dateend": "2024-11-13T08:00:00.000Z"
   },
   {
     "country": "Nepal",
