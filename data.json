@@ -160,7 +160,7 @@
     "code": "AR",
     "svspc": "SV",
     "region": "Entre Rios",
-    "districts": "Paraná",
+    "districts": "monaco",
     "publish": "No",
     "datestart": "2021-06-01T07:00:00.000Z",
     "dateend": "2021-12-01T08:00:00.000Z"
@@ -2317,7 +2317,7 @@
     "code": "ee",
     "svspc": "SV-SpC",
     "region": "Haapsalu, Kuressaare, Paide, Pärnu, Rakvere, Tallinn, Tartu, Viljandi",
-    "districts": "Haanja, Puurmani, Torma, Emmaste, Piila, Saarema, Mustjala, Abja-Pauloja, Voru, Perakula, Kullamaa, Manammaa",
+    "districts": "Haanja, Puurmani, Torma, Emmaste, Piila, Saarema, Mustjala, Abja-Pauloja, Voru,Perakula, Kullamaa, Manammaa",
     "publish": "No",
     "datestart": "2021-07-21T07:00:00.000Z",
     "dateend": "2021-09-01T07:00:00.000Z"
@@ -3243,9 +3243,9 @@
     "svspc": "SV",
     "region": "Biograd na Moru",
     "districts": "Šibenik-Knin County , Zadar County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3253,9 +3253,9 @@
     "svspc": "SV",
     "region": "Bjelovar-Bilogora",
     "districts": "Bjelovar, Daruvar, Čazma, Garešnica",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3263,9 +3263,9 @@
     "svspc": "SV",
     "region": "Blato",
     "districts": "Dubrovnik-Neretva, Split-Dalmatia",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3273,9 +3273,9 @@
     "svspc": "SV",
     "region": "Brezovo Polje, Hrvaška",
     "districts": "Sisak-Moslavina",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3283,9 +3283,9 @@
     "svspc": "SV",
     "region": "Comuna Brinje, Lika-Senj",
     "districts": "Lika-Senj",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3293,9 +3293,9 @@
     "svspc": "SV",
     "region": "Drežnica, Ogulin",
     "districts": "Primorje-Gorski Kotar",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3303,9 +3303,9 @@
     "svspc": "SV",
     "region": "Drežnik Grad",
     "districts": "Lika-Senj , Primorje-Gorski Kotar, Lika-Senj",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3313,9 +3313,9 @@
     "svspc": "SV",
     "region": "Drniš",
     "districts": "Šibenik-Knin",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3323,9 +3323,9 @@
     "svspc": "SV",
     "region": "Dubrovnik",
     "districts": "Dubrovnik-Neretva, Split-Dalmatia",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3333,9 +3333,9 @@
     "svspc": "SV",
     "region": "Glina",
     "districts": "Sisak-Moslavina",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3343,9 +3343,9 @@
     "svspc": "SV",
     "region": "Gospić",
     "districts": "Lika-Senj County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3353,9 +3353,9 @@
     "svspc": "SV",
     "region": "Goveđari",
     "districts": "Dubrovnik-Neretva",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3363,9 +3363,9 @@
     "svspc": "SV",
     "region": "Gračac",
     "districts": "Lika-Senj County,  Zadar County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3373,9 +3373,9 @@
     "svspc": "SV",
     "region": "Hvar",
     "districts": "Split-Dalmatia County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3383,9 +3383,9 @@
     "svspc": "SV",
     "region": "Jasenak, Ogulin",
     "districts": "Primorje-Gorski Kotar County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3393,9 +3393,9 @@
     "svspc": "SV",
     "region": "Jasenovac, Sisak-Moslavina County",
     "districts": "Sisak-Moslavina County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3403,9 +3403,9 @@
     "svspc": "SV",
     "region": "Karlovac",
     "districts": "Karlovac County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3413,9 +3413,9 @@
     "svspc": "SV",
     "region": "Knin",
     "districts": "Šibenik-Knin County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3423,9 +3423,9 @@
     "svspc": "SV",
     "region": "Komiža",
     "districts": "Split-Dalmatia County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3433,9 +3433,9 @@
     "svspc": "SV",
     "region": "Koprivnica",
     "districts": "Koprivnica-Križevci Count",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3443,9 +3443,9 @@
     "svspc": "SV",
     "region": "Kornati",
     "districts": "Šibenik-Knin County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3453,9 +3453,9 @@
     "svspc": "SV",
     "region": "Križevci",
     "districts": "Zagreb County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3463,9 +3463,9 @@
     "svspc": "SV",
     "region": "Krk",
     "districts": "Primorje-Gorski Kotar County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3473,9 +3473,9 @@
     "svspc": "SV",
     "region": "Kutina",
     "districts": "Bjelovar-Bilogora County, Sisak-Moslavina County, Bjelovar-Bilogora County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3483,9 +3483,9 @@
     "svspc": "SV",
     "region": "Makarska",
     "districts": "Split-Dalmatia County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3493,9 +3493,9 @@
     "svspc": "SV",
     "region": "Mali Losinj",
     "districts": "Primorje-Gorski Kotar County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3503,9 +3503,9 @@
     "svspc": "SV",
     "region": "Metković",
     "districts": "Dubrovnik-Neretva County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3513,9 +3513,9 @@
     "svspc": "SV",
     "region": "Novalja",
     "districts": "Lika-Senj County, Primorje-Gorski Kotar County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3523,9 +3523,9 @@
     "svspc": "SV",
     "region": "Ogulin",
     "districts": "Karlovac County, Primorje-Gorski Kotar County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3533,9 +3533,9 @@
     "svspc": "SV",
     "region": "Orahovica",
     "districts": "Osijek-Baranja County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3543,9 +3543,9 @@
     "svspc": "SV",
     "region": "Osijek",
     "districts": "Osijek-Baranja County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3553,9 +3553,9 @@
     "svspc": "SV",
     "region": "Pag",
     "districts": "Zadar County, Lika-Senj County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3563,9 +3563,9 @@
     "svspc": "SV",
     "region": "Pakrac",
     "districts": "Požega-Slavonia County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3573,9 +3573,9 @@
     "svspc": "SV",
     "region": "Pazin",
     "districts": "Istria County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3583,9 +3583,9 @@
     "svspc": "SV",
     "region": "Petrinja",
     "districts": "Sisak-Moslavina County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3593,9 +3593,9 @@
     "svspc": "SV",
     "region": "Pitomača",
     "districts": "Koprivnica-Križevci County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3603,9 +3603,9 @@
     "svspc": "SV",
     "region": "Plavno, Croatia",
     "districts": "Zadar County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3613,9 +3613,9 @@
     "svspc": "SV",
     "region": "Poreč",
     "districts": "Istria County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3623,9 +3623,9 @@
     "svspc": "SV",
     "region": "Požega",
     "districts": "Požega-Slavonia County, Brod-Posavina County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3633,9 +3633,9 @@
     "svspc": "SV",
     "region": "Pula",
     "districts": "Istria County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3643,9 +3643,9 @@
     "svspc": "SV",
     "region": "Rijeka",
     "districts": "Primorje-Gorski Kotar County, Istria County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3653,9 +3653,9 @@
     "svspc": "SV",
     "region": "Rovinj",
     "districts": "Istria County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3663,9 +3663,9 @@
     "svspc": "SV",
     "region": "Saborsko",
     "districts": "Lika-Senj County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3673,9 +3673,9 @@
     "svspc": "SV",
     "region": "Sali, Croatia",
     "districts": "Zadar County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3683,9 +3683,9 @@
     "svspc": "SV",
     "region": "Šibenik",
     "districts": "Šibenik-Knin County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3693,9 +3693,9 @@
     "svspc": "SV",
     "region": "Silba",
     "districts": "Zadar County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3703,9 +3703,9 @@
     "svspc": "SV",
     "region": "Sinj",
     "districts": "Split-Dalmatia",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3713,9 +3713,9 @@
     "svspc": "SV",
     "region": "Sisak",
     "districts": "Sisak-Moslavina County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3723,9 +3723,9 @@
     "svspc": "SV",
     "region": "Slatina",
     "districts": "Virovitica-Podravina County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3733,9 +3733,9 @@
     "svspc": "SV",
     "region": "Slavonski Brod",
     "districts": "Brod-Posavina County, Osijek-Baranja County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3743,9 +3743,9 @@
     "svspc": "SV",
     "region": "Slunj",
     "districts": "Karlovac County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3753,9 +3753,9 @@
     "svspc": "SV",
     "region": "Sošice",
     "districts": "Karlovac County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3763,9 +3763,9 @@
     "svspc": "SV",
     "region": "Split",
     "districts": "Split-Dalmatia County, Šibenik-Knin County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3773,9 +3773,9 @@
     "svspc": "SV",
     "region": "Trogir",
     "districts": "Split-Dalmatia County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3783,9 +3783,9 @@
     "svspc": "SV",
     "region": "Unije",
     "districts": "Primorje-Gorski Kotar County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3793,9 +3793,9 @@
     "svspc": "SV",
     "region": "Valpovo",
     "districts": "Osijek-Baranja County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3803,9 +3803,9 @@
     "svspc": "SV",
     "region": "Varaždin",
     "districts": "Varaždin County, Međimurje County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3813,9 +3813,9 @@
     "svspc": "SV",
     "region": "Vinišće",
     "districts": "Split-Dalmatia County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3823,9 +3823,9 @@
     "svspc": "SV",
     "region": "Vinkovci",
     "districts": "Osijek-Baranja County, Vukovar-Srijem County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3833,9 +3833,9 @@
     "svspc": "SV",
     "region": "Vir",
     "districts": "Zadar County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3843,9 +3843,9 @@
     "svspc": "SV",
     "region": "Virovitica",
     "districts": "Bjelovar-Bilogora County, Virovitica-Podravina County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3853,9 +3853,9 @@
     "svspc": "SV",
     "region": "Vis",
     "districts": "Split-Dalmatia County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3863,9 +3863,9 @@
     "svspc": "SV",
     "region": "Vodice",
     "districts": "Šibenik-Knin County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3873,9 +3873,9 @@
     "svspc": "SV",
     "region": "Vukovar",
     "districts": "Vukovar-Srijem County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3883,9 +3883,9 @@
     "svspc": "SV",
     "region": "Zabok",
     "districts": "Krapina-Zagorje County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3893,9 +3893,9 @@
     "svspc": "SV",
     "region": "Zadar",
     "districts": "Zadar County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3903,9 +3903,9 @@
     "svspc": "SV",
     "region": "Zagreb",
     "districts": "Varaždin County, Zagreb County, Krapina-Zagorje County, Varaždin County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3913,9 +3913,9 @@
     "svspc": "SV",
     "region": "Zmajevac",
     "districts": "Osijek-Baranja County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3923,9 +3923,9 @@
     "svspc": "SV",
     "region": "Županja",
     "districts": "Vukovar-Srijem County",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3933,9 +3933,9 @@
     "svspc": "SV",
     "region": "Istria",
     "districts": "Pazin, Pula, Poreč",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3943,9 +3943,9 @@
     "svspc": "SV",
     "region": "Slavonia",
     "districts": "Brod-Posavina, Osijek-Baranja, Požega-Slavonia, Virovitica-Podravina, Vukovar-Syrmia",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3953,9 +3953,9 @@
     "svspc": "SV",
     "region": "Dalmatia",
     "districts": "Split, Šibenik, Zadar, Dubrovnik",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3963,9 +3963,9 @@
     "svspc": "SV",
     "region": "Croatia proper",
     "districts": "Zagreb,  Lika, Gorski Kotar, Zagorje, Međimurje, the Croatian Littoral, Podravina, Posavina, Kordun, Banovina, Prigorje, Turopolje, Moslavina, Žumberak",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3973,9 +3973,9 @@
     "svspc": "SV",
     "region": "Bjelovar-Bilogora",
     "districts": "Bjelovar, Daruvar, Čazma, Garešnica",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3983,9 +3983,9 @@
     "svspc": "SV",
     "region": "Brod-Posavina",
     "districts": "Slavonski Brod, Nova Gradiška",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -3993,9 +3993,9 @@
     "svspc": "SV",
     "region": "Dubrovnik-Neretva",
     "districts": "Dubrovnik, Metković",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4003,9 +4003,9 @@
     "svspc": "SV",
     "region": "Karlovac",
     "districts": "Ogulin, Karlovac, Duga Resa",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4013,9 +4013,9 @@
     "svspc": "SV",
     "region": "Split-Dalmatia",
     "districts": "Hvar, Split, Kaštela, Sinj, Omiš, Trogir",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4023,9 +4023,9 @@
     "svspc": "SV",
     "region": "Lika-Senj",
     "districts": "Senj, Gospic, Otočac",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4033,9 +4033,9 @@
     "svspc": "SV",
     "region": "Varaždin",
     "districts": "Varaždin",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4043,9 +4043,9 @@
     "svspc": "SV",
     "region": "Osijek-Baranja",
     "districts": "Osijek, Đakovo, Beli Manastir",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4053,9 +4053,9 @@
     "svspc": "SV",
     "region": "Primorje-Gorski Kotar",
     "districts": "Rijeka",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4063,9 +4063,9 @@
     "svspc": "SV",
     "region": "Koprivnica-Križevci",
     "districts": "Koprivnica",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4073,9 +4073,9 @@
     "svspc": "SV",
     "region": "Krapina-Zagorje",
     "districts": "Krapina",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4083,9 +4083,9 @@
     "svspc": "SV",
     "region": "Međimurje",
     "districts": "Čakovec",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4093,9 +4093,9 @@
     "svspc": "SV",
     "region": "Požega-Slavonia",
     "districts": "Požega",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4103,9 +4103,9 @@
     "svspc": "SV",
     "region": "Šibenik-Knin",
     "districts": "Šibenik, Knin",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4113,9 +4113,9 @@
     "svspc": "SV",
     "region": "Sisak-Moslavina",
     "districts": "Sisak",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4123,9 +4123,9 @@
     "svspc": "SV",
     "region": "Virovitica-Podravina",
     "districts": "Slatina, Orahovica, Virovitica",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4133,9 +4133,9 @@
     "svspc": "SV",
     "region": "Vukovar-Srijem",
     "districts": "Vukovar, Vinkovci",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4143,9 +4143,9 @@
     "svspc": "SV",
     "region": "Zadar",
     "districts": "Zadar, Benkovac, Bibinje, Biograd, Nin, Obrovac and Pag.",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4153,9 +4153,9 @@
     "svspc": "SV",
     "region": "Zagreb county",
     "districts": "Zaprešić,  Samobor, Velika Gorica",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4163,9 +4163,9 @@
     "svspc": "SV",
     "region": "Zagreb",
     "districts": "Zagreb city",
-    "publish": "No",
-    "datestart": "2024-04-10T07:00:00.000Z",
-    "dateend": "2024-08-30T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Iceland",
@@ -5704,8 +5704,8 @@
     "code": "LV",
     "svspc": "SV",
     "region": "Latgale",
-    "districts": "Daugavpils, Ludza, Krāslava, Dagda",
-    "publish": "No",
+    "districts": "Varakļāni, Dricāni, Pērtnieki, Rogovka, Atašiene, Jekabpils, Līvāni",
+    "publish": "Yes",
     "datestart": "2024-04-04T07:00:00.000Z",
     "dateend": "2024-10-03T07:00:00.000Z"
   },
@@ -5725,7 +5725,7 @@
     "svspc": "SV",
     "region": "Vidzeme",
     "districts": "Valmiera, Alūksne, Krāslava",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-04-04T07:00:00.000Z",
     "dateend": "2024-10-03T07:00:00.000Z"
   },
@@ -7382,7 +7382,7 @@
     "districts": "Calheta, Câmara de Lobos, Funchal (capital), Machico, Ponta do Sol, Porto Moniz, Porto Santo, Ribeira Brava, Santa Cruz, Santana, São Vicente",
     "publish": "No",
     "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-11-28T08:00:00.000Z"
+    "dateend": "2024-12-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -7392,7 +7392,7 @@
     "districts": "Angra do Heroísmo, Horta, Lagoa, Lajes das Flores, Lajes do Pico, Madalena, Nordeste, Ponta Delgada, Povoação, Praia da Vitória, Ribeira Grande, Santa Cruz da Graciosa, Santa Cruz das Flores, São Roque do Pico, Velas, Vila do Corvo, Vila do Porto, Vila Franca do Campo.",
     "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
-    "dateend": "2024-11-28T08:00:00.000Z"
+    "dateend": "2024-12-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -7402,7 +7402,7 @@
     "districts": "Águeda, Albergaria-a-Velha, Anadia, Arouca, Aveiro, Castelo de Paiva, Espinho, Estarreja, Ílhavo, Mealhada, Murtosa, Oliveira de Azeméis, Oliveira do Bairro, Ovar, Santa Maria da Feira, São João da Madeira, Sever do Vouga, Vagos, Vale de Cambra",
     "publish": "Yes",
     "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-11-28T08:00:00.000Z"
+    "dateend": "2024-12-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -7412,7 +7412,7 @@
     "districts": "Odemira, Aljustrel, Almodôvar, Alvito, Barrancos, Beja, Castro Verde, Cuba, Ferreira do Alentejo, Mértola, Moura, Ourique, Serpa, Vidigueira",
     "publish": "Yes",
     "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-11-28T08:00:00.000Z"
+    "dateend": "2024-12-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -7422,7 +7422,7 @@
     "districts": "Cabeceiras de Basto, Celorico de Basto, Fafe, Guimarães, Póvoa de Lanhoso, Vieira do Minho, Vila Nova de Famalicão, Vizela, Amares, Barcelos, Braga, Esposende, Terras de Bouro, Vila Verde",
     "publish": "Yes",
     "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-11-28T08:00:00.000Z"
+    "dateend": "2024-12-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -7432,7 +7432,7 @@
     "districts": "Alfândega da Fé,Bragança,Carrazeda de Ansiães,Freixo de Espada à Cinta,Macedo de Cavaleiros,Miranda do Douro,Mirandela,Mogadouro,Moncorvo,Vila Flor,Vimioso,Vinhais",
     "publish": "Yes",
     "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-11-28T08:00:00.000Z"
+    "dateend": "2024-12-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -7442,7 +7442,7 @@
     "districts": "Belmonte, Castelo Branco, Covilhã, Fundão, Idanha-a-Nova, Oleiros, Penamacor, Proença-a-Nova, Sertã, Vila de Rei, Vila Velha de Ródão",
     "publish": "Yes",
     "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-11-28T08:00:00.000Z"
+    "dateend": "2024-12-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -7452,7 +7452,7 @@
     "districts": "Arganil,Cantanhede,Coimbra,Condeixa-a-Nova,Figueira da Foz,Góis,Lousã,Mira,Miranda do Corvo,Montemor-o-Velho,Oliveira do Hospital,Pampilhosa da Serra,Penacova,Penela,Soure,Tábua,Vila Nova de Poiares",
     "publish": "Yes",
     "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-11-28T08:00:00.000Z"
+    "dateend": "2024-12-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -7462,7 +7462,7 @@
     "districts": "Alandroal,Arraiolos,Borba,Estremoz,Évora,Montemor-o-Novo,Mora,Mourão,Olivença,Portel,Redondo,Reguengos de Monsaraz,Vendas Novas,Viana do Alentejo,Vila Viçosa",
     "publish": "Yes",
     "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-11-28T08:00:00.000Z"
+    "dateend": "2024-12-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -7472,7 +7472,7 @@
     "districts": "Albufeira,Faro,Lagoa,Lagos,Loulé,Olhão,Portimão,Quarteira (Loulé),Silves,Tavira,Vila Real de Santo António",
     "publish": "Yes",
     "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-11-28T08:00:00.000Z"
+    "dateend": "2024-12-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -7482,7 +7482,7 @@
     "districts": "Gouveia, Guarda, Meda, Pinhel, Sabugal, Trancoso.",
     "publish": "Yes",
     "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-11-28T08:00:00.000Z"
+    "dateend": "2024-12-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -7492,7 +7492,7 @@
     "districts": "Alcobaça,Caldas da Rainha,Leiria,Marinha Grande,Nazaré,Óbidos,Peniche,Pombal",
     "publish": "Yes",
     "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-11-28T08:00:00.000Z"
+    "dateend": "2024-12-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -7502,7 +7502,7 @@
     "districts": "Alenquer,Amadora,Arruda dos Vinhos,Azambuja,Cadaval,Cascais,Lisbon,Loures,Lourinhã,Mafra,Odivelas,Oeiras,Sintra,Sobral de Monte Agraço,Torres Vedras,Vila Franca de Xira",
     "publish": "Yes",
     "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-11-28T08:00:00.000Z"
+    "dateend": "2024-12-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -7512,7 +7512,7 @@
     "districts": "Alter do Chão,Arronches,Avis,Campo Maior,Castelo de Vide,Crato,Elvas,Fronteira,Gavião,Marvão,Monforte,Nisa,Ponte de Sor,Portalegre,Sousel,Summary of vot",
     "publish": "Yes",
     "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-11-28T08:00:00.000Z"
+    "dateend": "2024-12-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -7522,7 +7522,7 @@
     "districts": "Amarante,Baião,Felgueiras,Gondomar,Lousada,Maia,Marco de Canaveses,Matosinhos,Paços de Ferreira,Paredes,Penafiel,Porto,Póvoa de Varzim,Santo Tirso,Trofa,Valongo,Vila do Conde,Vila Nova de Gaia",
     "publish": "Yes",
     "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-11-28T08:00:00.000Z"
+    "dateend": "2024-12-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -7532,7 +7532,7 @@
     "districts": "Abrantes,Alcanena,Almeirim,Alpiarça,Benavente,Cartaxo,Chamusca,Constância,Coruche,Entroncamento,Ferreira do Zêzere,Golegã,Mação,Ourém,Rio Maior,Salvaterra de Magos,Santarém,Sardoal,Tomar,Torres Novas,Vila Nova da Barquinha",
     "publish": "Yes",
     "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-11-28T08:00:00.000Z"
+    "dateend": "2024-12-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -7542,7 +7542,7 @@
     "districts": "Alcochete,Almada,Barreiro,Moita,Montijo,Palmela,Seixal,Sesimbra,Setúbal,Alcácer do Sal,Grândola,Santiago do Cacém,Sines",
     "publish": "Yes",
     "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-11-28T08:00:00.000Z"
+    "dateend": "2024-12-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -7552,7 +7552,7 @@
     "districts": "Arcos de Valdevez,Caminha,Melgaço,Monção,Paredes de Coura,Ponte da Barca,Ponte de Lima,Valença,Viana do Castelo,Vila Nova de Cerveira",
     "publish": "Yes",
     "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-11-28T08:00:00.000Z"
+    "dateend": "2024-12-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -7562,7 +7562,7 @@
     "districts": "Alijó,Boticas,Chaves,Mesão Frio,Mondim de Basto,Montalegre,Murça,Peso da Régua,Ribeira de Pena,Sabrosa,Santa Marta de Penaguião,Valpaços,Vila Pouca de Aguiar,Vila Real",
     "publish": "Yes",
     "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-11-28T08:00:00.000Z"
+    "dateend": "2024-12-01T08:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -7572,7 +7572,7 @@
     "districts": "Armamar,Carregal do Sal,Castro Daire,Cinfães,Lamego,Mangualde,Moimenta da Beira,Mortágua,Nelas,Oliveira de Frades,Penalva do Castelo,Penedono,Resende,Santa Comba Dão,São João da Pesqueira,São Pedro do Sul,Sátão,Sernancelhe,Tabuaço,Tarouca,Tondela,Vila Nova de Paiva,Viseu,Vouzela",
     "publish": "Yes",
     "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-11-28T08:00:00.000Z"
+    "dateend": "2024-12-01T08:00:00.000Z"
   },
   {
     "country": "Puerto Rico",
@@ -9529,7 +9529,7 @@
     "districts": "Greater London",
     "publish": "Yes",
     "datestart": "2024-03-01T08:00:00.000Z",
-    "dateend": "2024-10-30T07:00:00.000Z"
+    "dateend": "2024-11-30T08:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -9539,7 +9539,7 @@
     "districts": "Poole, Bornemouth, Dorset, Somerset, Torquay, Exeter, Plymouth, Newquay, Weymouth, Poole, Bristol, Bath, Swindon, Gloucester",
     "publish": "Yes",
     "datestart": "2024-03-01T08:00:00.000Z",
-    "dateend": "2024-10-30T07:00:00.000Z"
+    "dateend": "2024-11-30T08:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -9549,7 +9549,7 @@
     "districts": "Winchester, Basingstoke, Isle of Wight, Wiltshire, New Forest NP, Brighton, Eastbourne, Canterbury, Folkestone, Newhaven, Portsmouth, Oxford, Dover, Ramsgate, Crawley, Southampton, Maidstone, Rochester",
     "publish": "Yes",
     "datestart": "2024-03-01T08:00:00.000Z",
-    "dateend": "2024-10-30T07:00:00.000Z"
+    "dateend": "2024-11-30T08:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -9559,7 +9559,7 @@
     "districts": "Lowestoft, Ipswich, Waltham Abbey, Cambridge, Norwich, Kings Lynn, Peterborough, Ely, Colchester, Braintree, Fakenham, Cromer, Chelmsford",
     "publish": "Yes",
     "datestart": "2024-03-01T08:00:00.000Z",
-    "dateend": "2024-10-30T07:00:00.000Z"
+    "dateend": "2024-11-30T08:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -9569,7 +9569,7 @@
     "districts": "Penzance, Truro, St Austell, Redruth, Newquay, Padstow",
     "publish": "Yes",
     "datestart": "2024-03-01T08:00:00.000Z",
-    "dateend": "2024-10-30T07:00:00.000Z"
+    "dateend": "2024-11-30T08:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -9579,7 +9579,7 @@
     "districts": "Newcastle, Middlesbrough, Durham, Corbridge, Sunderland",
     "publish": "Yes",
     "datestart": "2024-03-01T08:00:00.000Z",
-    "dateend": "2024-10-30T07:00:00.000Z"
+    "dateend": "2024-11-30T08:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -9589,7 +9589,7 @@
     "districts": "Chester, Manchester, Liverpool, Blackpool, Kendal, Blackburn",
     "publish": "Yes",
     "datestart": "2024-03-01T08:00:00.000Z",
-    "dateend": "2024-10-30T07:00:00.000Z"
+    "dateend": "2024-11-30T08:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -9599,7 +9599,7 @@
     "districts": "Leeds, York, Hull, Yorkshire Dales National Park",
     "publish": "Yes",
     "datestart": "2024-03-01T08:00:00.000Z",
-    "dateend": "2024-10-30T07:00:00.000Z"
+    "dateend": "2024-11-30T08:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -9609,7 +9609,7 @@
     "districts": "Swansea, Cardiff, Newport, Llanelli",
     "publish": "Yes",
     "datestart": "2024-03-01T08:00:00.000Z",
-    "dateend": "2024-10-30T07:00:00.000Z"
+    "dateend": "2024-11-30T08:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -9619,7 +9619,7 @@
     "districts": "Glasgow, Edinburgh, Dumfries, Dundee, Inverness, Aberdeen, Forres, Shetland Islands, Orkney Islands, Isle of Skey, Isle of Mull, Lewis and Harris",
     "publish": "Yes",
     "datestart": "2024-03-01T08:00:00.000Z",
-    "dateend": "2024-10-30T07:00:00.000Z"
+    "dateend": "2024-11-30T08:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -9629,7 +9629,7 @@
     "districts": "Derbyshire, Nottinghamshire, Leicestershire",
     "publish": "Yes",
     "datestart": "2024-03-01T08:00:00.000Z",
-    "dateend": "2024-10-30T07:00:00.000Z"
+    "dateend": "2024-11-30T08:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -9639,7 +9639,7 @@
     "districts": "Stoke-on-trent, Wolverhampton, Coventry, Hereford, Shrewsbury, Worcester, Birmingham",
     "publish": "Yes",
     "datestart": "2024-03-01T08:00:00.000Z",
-    "dateend": "2024-10-30T07:00:00.000Z"
+    "dateend": "2024-11-30T08:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -9649,7 +9649,7 @@
     "districts": "Belfast, Newry, Omagh, Moygashel, Muckamore",
     "publish": "Yes",
     "datestart": "2024-03-01T08:00:00.000Z",
-    "dateend": "2024-10-30T07:00:00.000Z"
+    "dateend": "2024-11-30T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -10125,9 +10125,9 @@
     "svspc": "SV",
     "region": "Washington DC",
     "districts": "DC",
-    "publish": "No",
-    "datestart": "2022-01-01T08:00:00.000Z",
-    "dateend": "2023-12-31T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-12-31T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -10503,7 +10503,7 @@
     "svspc": "SV",
     "region": "София",
     "districts": "София",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-08-01T07:00:00.000Z",
     "dateend": "2024-10-17T07:00:00.000Z"
   },
@@ -10930,7 +10930,7 @@
     "districts": "Banja Luka, Bijeljina, Prijedor, Doboj, Gradiška, Trebinje",
     "publish": "Yes",
     "datestart": "2024-07-01T07:00:00.000Z",
-    "dateend": "2024-11-13T08:00:00.000Z"
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Bosnia and Herzegovina",
@@ -10940,7 +10940,7 @@
     "districts": "Sarajevo, Bihać, Tuzla, Mostar, Zenica, Živinice, Gračanica, Srebrenik, Gradačac, Visoko, Ljubuški, Čapljina, Derventa, Lukavac, Lukavac, Zavidovići, Konjic, Bosanska Krupa",
     "publish": "Yes",
     "datestart": "2024-04-22T07:00:00.000Z",
-    "dateend": "2024-11-13T08:00:00.000Z"
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Nepal",
@@ -11146,5 +11146,4795 @@
     "publish": "No",
     "datestart": "2024-05-01T07:00:00.000Z",
     "dateend": "2024-05-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ecuador",
+    "code": "EC",
+    "svspc": "SV",
+    "region": "Pichincha",
+    "districts": "Quito",
+    "publish": "Yes",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ecuador",
+    "code": "EC",
+    "svspc": "SV",
+    "region": "Pichincha",
+    "districts": "Amaguana",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ecuador",
+    "code": "EC",
+    "svspc": "SV",
+    "region": "Pichincha",
+    "districts": "Tambillo",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ecuador",
+    "code": "EC",
+    "svspc": "SV",
+    "region": "Pichincha",
+    "districts": "Machachi",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ecuador",
+    "code": "EC",
+    "svspc": "SV",
+    "region": "Guayas",
+    "districts": "Guayaquil",
+    "publish": "Yes",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ecuador",
+    "code": "EC",
+    "svspc": "SV",
+    "region": "Guayas",
+    "districts": "Duran",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Costa Rica",
+    "code": "CR",
+    "svspc": "SV",
+    "region": "San José",
+    "districts": "San José",
+    "publish": "No",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Costa Rica",
+    "code": "CR",
+    "svspc": "SV",
+    "region": "Heredia",
+    "districts": "Heredia",
+    "publish": "No",
+    "datestart": "2024-06-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Costa Rica",
+    "code": "CR",
+    "svspc": "SV",
+    "region": "Alajuela",
+    "districts": "Alajuela",
+    "publish": "Yes",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Costa Rica",
+    "code": "CR",
+    "svspc": "SV",
+    "region": "Alajuela",
+    "districts": "Turrucares",
+    "publish": "Yes",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Costa Rica",
+    "code": "CR",
+    "svspc": "SV",
+    "region": "Alajuela",
+    "districts": "Atenas",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Costa Rica",
+    "code": "CR",
+    "svspc": "SV",
+    "region": "Alajuela",
+    "districts": "Grecia",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Costa Rica",
+    "code": "CR",
+    "svspc": "SV",
+    "region": "Alajuela",
+    "districts": "Palmares",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Costa Rica",
+    "code": "CR",
+    "svspc": "SV",
+    "region": "Alajuela",
+    "districts": "San Ramon",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Costa Rica",
+    "code": "CR",
+    "svspc": "SV",
+    "region": "Cartago",
+    "districts": "Cartago",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Costa Rica",
+    "code": "CR",
+    "svspc": "SV",
+    "region": "Cartago",
+    "districts": "Paraiso",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Asunción",
+    "districts": "Asunción",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Central",
+    "districts": "Luque",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Central",
+    "districts": "San Lorenzo",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Central",
+    "districts": "Capiatá",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Central",
+    "districts": "Fernando de la Mora",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Central",
+    "districts": "Lambaré",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Central",
+    "districts": "Mariano Roque Alonso",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Central",
+    "districts": "San Antonio",
+    "publish": "Yes",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Central",
+    "districts": "Villa Elisa",
+    "publish": "Yes",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Central",
+    "districts": "Itaugua",
+    "publish": "Yes",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Central",
+    "districts": "Limpio",
+    "publish": "Yes",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Central",
+    "districts": "Nemby",
+    "publish": "Yes",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Central",
+    "districts": "Areguá",
+    "publish": "Yes",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Central",
+    "districts": "Juan Augusto Saldívar",
+    "publish": "Yes",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Presidente Hayes",
+    "districts": "Villa Hayes",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Caaguazú",
+    "districts": "Coronel Oviedo",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Caaguazú",
+    "districts": "Caaguazú",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Amambay",
+    "districts": "Pedro Juan Caballero",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Itapúa",
+    "districts": "Encarnacion",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Guairá",
+    "districts": "Villarrica",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Alto Paraná",
+    "districts": "Ciudad del Este",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Alto Paraná",
+    "districts": "Presidente Franco",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Alto Paraná",
+    "districts": "Minga Guazú",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Rwanda",
+    "code": "RW",
+    "svspc": "SV",
+    "region": "Bicumbi",
+    "districts": "Bicumbi",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Rwanda",
+    "code": "RW",
+    "svspc": "SV",
+    "region": "Mwulire",
+    "districts": "Mwulire",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Rwanda",
+    "code": "RW",
+    "svspc": "SV",
+    "region": "Ngarama",
+    "districts": "Ngarama",
+    "publish": "No",
+    "datestart": "2024-01-01T08:00:00.000Z",
+    "dateend": "2024-02-01T08:00:00.000Z"
+  },
+  {
+    "country": "Rwanda",
+    "code": "RW",
+    "svspc": "SV",
+    "region": "Nyagatare",
+    "districts": "Nyagatare",
+    "publish": "No",
+    "datestart": "2024-03-01T08:00:00.000Z",
+    "dateend": "2024-05-01T07:00:00.000Z"
+  },
+  {
+    "country": "Rwanda",
+    "code": "RW",
+    "svspc": "SV",
+    "region": "Rukara",
+    "districts": "Rukara",
+    "publish": "No",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Rwanda",
+    "code": "RW",
+    "svspc": "SV",
+    "region": "Rutonde",
+    "districts": "Rutonde",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Rwanda",
+    "code": "RW",
+    "svspc": "SV",
+    "region": "Rwamagana",
+    "districts": "Rwamagana",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Akadyr",
+    "districts": "Akadyr",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Akkystau",
+    "districts": "Akkystau",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Aksu-Ayuly",
+    "districts": "Aksu-Ayuly",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Aktobe",
+    "districts": "Aktobe",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Almaty",
+    "districts": "Almaty",
+    "publish": "No",
+    "datestart": "2024-06-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Arshaly",
+    "districts": "Arshaly",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Astana",
+    "districts": "Astana",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Atbasar",
+    "districts": "Atbasar",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Atyrau",
+    "districts": "Atyrau",
+    "publish": "Yes",
+    "datestart": "2024-12-01T08:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Balkashino",
+    "districts": "Balkashino",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Balkhash",
+    "districts": "Balkhash",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Bayanaul",
+    "districts": "Bayanaul",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Beyneu",
+    "districts": "Beyneu",
+    "publish": "Yes",
+    "datestart": "2024-12-01T08:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "East Kounradskiy",
+    "districts": "East Kounradskiy",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Ekibastuz",
+    "districts": "Ekibastuz",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Ivanovka",
+    "districts": "Ivanovka",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Karabalyk",
+    "districts": "Karabalyk",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Karaganda",
+    "districts": "Karaganda",
+    "publish": "Yes",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Kaztalovka",
+    "districts": "Kaztalovka",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Kokshetau",
+    "districts": "Kokshetau",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Kostanay",
+    "districts": "Kostanay",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Krasilovka",
+    "districts": "Krasilovka",
+    "publish": "Yes",
+    "datestart": "2024-12-01T08:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Krasnoznamenskoe",
+    "districts": "Krasnoznamenskoe",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Labay",
+    "districts": "Labay",
+    "publish": "Yes",
+    "datestart": "2024-12-01T08:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Lisakovsk",
+    "districts": "Lisakovsk",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Makinsk",
+    "districts": "Makinsk",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Mikhaylovka",
+    "districts": "Mikhaylovka",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Molodezhnyy",
+    "districts": "Molodezhnyy",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Novotroitskoye",
+    "districts": "Novotroitskoye",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Oskemen",
+    "districts": "Oskemen",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Ozernoye",
+    "districts": "Ozernoye",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "P. Kachar",
+    "districts": "P. Kachar",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Pavlodar",
+    "districts": "Pavlodar",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Petropavl",
+    "districts": "Petropavl",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Poselok Ubagan",
+    "districts": "Poselok Ubagan",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Ridder",
+    "districts": "Ridder",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Rudny",
+    "districts": "Rudny",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Saykhin",
+    "districts": "Saykhin",
+    "publish": "Yes",
+    "datestart": "2024-12-01T08:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Semey",
+    "districts": "Semey",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Serebryansk",
+    "districts": "Serebryansk",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Shakhtinsk",
+    "districts": "Shakhtinsk",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Shapai",
+    "districts": "Shapai",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Shemonaikha",
+    "districts": "Shemonaikha",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Shetpe",
+    "districts": "Shetpe",
+    "publish": "Yes",
+    "datestart": "2024-12-01T08:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Shortandy",
+    "districts": "Shortandy",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Shyngyrlau",
+    "districts": "Shyngyrlau",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Suyindik",
+    "districts": "Suyindik",
+    "publish": "Yes",
+    "datestart": "2024-12-01T08:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Taldykorgan",
+    "districts": "Taldykorgan",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Tasqala",
+    "districts": "Tasqala",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Tauchik",
+    "districts": "Tauchik",
+    "publish": "Yes",
+    "datestart": "2024-12-01T08:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Uralsk",
+    "districts": "Uralsk",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Vvedenka",
+    "districts": "Vvedenka",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Zerenda",
+    "districts": "Zerenda",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Zhaksy",
+    "districts": "Zhaksy",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Zhalpaqtal",
+    "districts": "Zhalpaqtal",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Zhaltyr",
+    "districts": "Zhaltyr",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Zhanaozen",
+    "districts": "Zhanaozen",
+    "publish": "Yes",
+    "datestart": "2024-12-01T08:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Zhanaqala",
+    "districts": "Zhanaqala",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Zhanybek",
+    "districts": "Zhanybek",
+    "publish": "Yes",
+    "datestart": "2024-12-01T08:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Kazahkstan",
+    "code": "KZ",
+    "svspc": "SV",
+    "region": "Zharkent",
+    "districts": "Zharkent",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Kajiado County",
+    "districts": "Bisil",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Bomet County",
+    "districts": "Bomet",
+    "publish": "Yes",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Siaya",
+    "districts": "Bondo",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Bomet County",
+    "districts": "Bosta",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Busia County",
+    "districts": "Busia",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Tharaka-Nithi County",
+    "districts": "Chuka",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Uasin Gishu County",
+    "districts": "Eldoret",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Kajiado County",
+    "districts": "Emali",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Embu County",
+    "districts": "Embu",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Kitui County",
+    "districts": "Garissa",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Muranga County",
+    "districts": "Githumu",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Meru County",
+    "districts": "Isiolo",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Machakos County",
+    "districts": "Kaewa",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Kakamega County",
+    "districts": "Kakamega",
+    "publish": "Yes",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Bungoma County",
+    "districts": "Kapsokwony",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Nakuru County",
+    "districts": "Karagita",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Narok County",
+    "districts": "Kehancha",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Kericho County",
+    "districts": "Kericho",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Narok County",
+    "districts": "Keroka",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Kitui County",
+    "districts": "Kibwezi",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Narok County",
+    "districts": "Kilgoris",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Kilifi County",
+    "districts": "Kilifi",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Homa Bay County",
+    "districts": "Kisii",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Kisumu County",
+    "districts": "Kisumu",
+    "publish": "Yes",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Trans-Nzoia County",
+    "districts": "Kitale",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Machakos County",
+    "districts": "Kitui",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Kajiado County",
+    "districts": "Lipatimmro",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Machakos County",
+    "districts": "Machakos",
+    "publish": "Yes",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Machakos County",
+    "districts": "Makutano",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Kirinyaga County",
+    "districts": "Makuyu",
+    "publish": "Yes",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Kilifi County",
+    "districts": "Malindi",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Machakos County",
+    "districts": "Matuu",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Meru County",
+    "districts": "Maua",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Meru County",
+    "districts": "Meru",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Migori County",
+    "districts": "Migori",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Kilifi County",
+    "districts": "Mombasa",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Kitui County",
+    "districts": "Mtito Andei",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Kakamega County",
+    "districts": "Mumias",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Kitui County",
+    "districts": "Mutomo",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Kitui County",
+    "districts": "Mwingi",
+    "publish": "Yes",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Kajiado County",
+    "districts": "Nairobi",
+    "publish": "Yes",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Nakuru County",
+    "districts": "Nakuru",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Laikipia County",
+    "districts": "Nanyuki",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Narok County",
+    "districts": "Narok",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Machakos County",
+    "districts": "Nguluni",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Laikipia County",
+    "districts": "Nyahururu",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Homa Bay County",
+    "districts": "Nyamira",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Nyeri County",
+    "districts": "Nyeri",
+    "publish": "Yes",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Nakuru County",
+    "districts": "Olenguruone",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Kajiado County",
+    "districts": "Oloitokitok",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Narok County",
+    "districts": "Ololaimutiek Village",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Kajiado County",
+    "districts": "Olooloitikosh",
+    "publish": "Yes",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Kiambu County",
+    "districts": "Ruiru",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Busia County",
+    "districts": "Sega",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Siaya",
+    "districts": "Siaya",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Narok County",
+    "districts": "Siongiroi",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Narok County",
+    "districts": "Talek",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Taita-Taveta County",
+    "districts": "Taveta",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Kiambu County",
+    "districts": "Thika",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Taita-Taveta County",
+    "districts": "Voi",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Bungoma County",
+    "districts": "Webuye",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "svspc": "SV",
+    "region": "Kitui County",
+    "districts": "Wote",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Adana",
+    "districts": "Adana",
+    "publish": "Yes",
+    "datestart": "2024-06-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Adilcevaz",
+    "districts": "Adilcevaz",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Adıyaman",
+    "districts": "Adıyaman",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Ağrı",
+    "districts": "Ağrı",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Akçatekir",
+    "districts": "Akçatekir",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Akçay",
+    "districts": "Akçay",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Akhisar",
+    "districts": "Akhisar",
+    "publish": "No",
+    "datestart": "2024-04-01T07:00:00.000Z",
+    "dateend": "2024-04-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Akyazı",
+    "districts": "Akyazı",
+    "publish": "No",
+    "datestart": "2024-04-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Alaca",
+    "districts": "Alaca",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Alaşehir",
+    "districts": "Alaşehir",
+    "publish": "No",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-05-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Altinoluk",
+    "districts": "Altinoluk",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Ankara",
+    "districts": "Ankara",
+    "publish": "No",
+    "datestart": "2024-06-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Antakya",
+    "districts": "Antakya",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Antalya",
+    "districts": "Antalya",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Araç",
+    "districts": "Araç",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Aralık",
+    "districts": "Aralık",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Arapgir",
+    "districts": "Arapgir",
+    "publish": "No",
+    "datestart": "2024-06-01T07:00:00.000Z",
+    "dateend": "2024-06-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Ardahan",
+    "districts": "Ardahan",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Artvin",
+    "districts": "Artvin",
+    "publish": "No",
+    "datestart": "2024-06-01T07:00:00.000Z",
+    "dateend": "2024-06-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Avşa",
+    "districts": "Avşa",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Aydın",
+    "districts": "Aydın",
+    "publish": "No",
+    "datestart": "2024-04-01T07:00:00.000Z",
+    "dateend": "2024-05-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Ayrancı",
+    "districts": "Ayrancı",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Bartın",
+    "districts": "Bartın",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Batman",
+    "districts": "Batman",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Bayburt",
+    "districts": "Bayburt",
+    "publish": "No",
+    "datestart": "2024-06-01T07:00:00.000Z",
+    "dateend": "2024-06-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Bilecik",
+    "districts": "Bilecik",
+    "publish": "No",
+    "datestart": "2024-04-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Bitlis",
+    "districts": "Bitlis",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Boyabat",
+    "districts": "Boyabat",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Bozüyük",
+    "districts": "Bozüyük",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Bucak",
+    "districts": "Bucak",
+    "publish": "No",
+    "datestart": "2024-06-01T07:00:00.000Z",
+    "dateend": "2024-06-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Bulanık",
+    "districts": "Bulanık",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Bünyan",
+    "districts": "Bünyan",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Burdur",
+    "districts": "Burdur",
+    "publish": "No",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-06-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Bursa",
+    "districts": "Bursa",
+    "publish": "No",
+    "datestart": "2024-04-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Çaldıran",
+    "districts": "Çaldıran",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Çan",
+    "districts": "Çan",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Çanakkale",
+    "districts": "Çanakkale",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Çayırlı",
+    "districts": "Çayırlı",
+    "publish": "No",
+    "datestart": "2024-06-01T07:00:00.000Z",
+    "dateend": "2024-06-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Çerkezköy",
+    "districts": "Çerkezköy",
+    "publish": "No",
+    "datestart": "2024-06-01T07:00:00.000Z",
+    "dateend": "2024-06-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Çeşme",
+    "districts": "Çeşme",
+    "publish": "No",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-05-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Ceyhan",
+    "districts": "Ceyhan",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Cide",
+    "districts": "Cide",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Çınar",
+    "districts": "Çınar",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Çorum",
+    "districts": "Çorum",
+    "publish": "No",
+    "datestart": "2024-06-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Çukurca",
+    "districts": "Çukurca",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Demirköy",
+    "districts": "Demirköy",
+    "publish": "No",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-06-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Denizli",
+    "districts": "Denizli",
+    "publish": "No",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-06-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Divriği",
+    "districts": "Divriği",
+    "publish": "No",
+    "datestart": "2024-06-01T07:00:00.000Z",
+    "dateend": "2024-06-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Doğanşehir",
+    "districts": "Doğanşehir",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Doğubayazıt",
+    "districts": "Doğubayazıt",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Dörtyol",
+    "districts": "Dörtyol",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Elâzığ",
+    "districts": "Elâzığ",
+    "publish": "No",
+    "datestart": "2024-06-01T07:00:00.000Z",
+    "dateend": "2024-06-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Erbaa",
+    "districts": "Erbaa",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Erciş",
+    "districts": "Erciş",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Erdek",
+    "districts": "Erdek",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Ereğli",
+    "districts": "Ereğli",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Erzincan",
+    "districts": "Erzincan",
+    "publish": "No",
+    "datestart": "2024-06-01T07:00:00.000Z",
+    "dateend": "2024-06-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Eşme",
+    "districts": "Eşme",
+    "publish": "No",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-05-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Ezine",
+    "districts": "Ezine",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Gaziantep",
+    "districts": "Gaziantep",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Geyve",
+    "districts": "Geyve",
+    "publish": "No",
+    "datestart": "2024-04-01T07:00:00.000Z",
+    "dateend": "2024-06-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Gölcük",
+    "districts": "Gölcük",
+    "publish": "No",
+    "datestart": "2024-04-01T07:00:00.000Z",
+    "dateend": "2024-04-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Göle",
+    "districts": "Göle",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Gölpazarı",
+    "districts": "Gölpazarı",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Göynük",
+    "districts": "Göynük",
+    "publish": "No",
+    "datestart": "2024-04-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Hınıs",
+    "districts": "Hınıs",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Iğdır",
+    "districts": "Iğdır",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "İmamoğlu",
+    "districts": "İmamoğlu",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "İnebolu",
+    "districts": "İnebolu",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "İskenderun",
+    "districts": "İskenderun",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Isparta",
+    "districts": "Isparta",
+    "publish": "No",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-06-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "İspir",
+    "districts": "İspir",
+    "publish": "No",
+    "datestart": "2024-06-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "İstanbul",
+    "districts": "İstanbul",
+    "publish": "No",
+    "datestart": "2024-04-01T07:00:00.000Z",
+    "dateend": "2024-06-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "İzmir",
+    "districts": "İzmir",
+    "publish": "No",
+    "datestart": "2024-04-01T07:00:00.000Z",
+    "dateend": "2024-05-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Kadirli",
+    "districts": "Kadirli",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Kağızman",
+    "districts": "Kağızman",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Kahramanmaraş",
+    "districts": "Kahramanmaraş",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Kahta",
+    "districts": "Kahta",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Karaçoban",
+    "districts": "Karaçoban",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Karakoçan",
+    "districts": "Karakoçan",
+    "publish": "No",
+    "datestart": "2024-06-01T07:00:00.000Z",
+    "dateend": "2024-06-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Karamanlı",
+    "districts": "Karamanlı",
+    "publish": "No",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-06-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Karapınar",
+    "districts": "Karapınar",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Karayazı",
+    "districts": "Karayazı",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Kargı",
+    "districts": "Kargı",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Kars",
+    "districts": "Kars",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Kastamonu",
+    "districts": "Kastamonu",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Kayseri",
+    "districts": "Kayseri",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Kemah",
+    "districts": "Kemah",
+    "publish": "No",
+    "datestart": "2024-06-01T07:00:00.000Z",
+    "dateend": "2024-06-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Kemaliye",
+    "districts": "Kemaliye",
+    "publish": "No",
+    "datestart": "2024-06-01T07:00:00.000Z",
+    "dateend": "2024-06-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Kiğı",
+    "districts": "Kiğı",
+    "publish": "No",
+    "datestart": "2024-06-01T07:00:00.000Z",
+    "dateend": "2024-06-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Kilis",
+    "districts": "Kilis",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Kırklareli",
+    "districts": "Kırklareli",
+    "publish": "No",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-05-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Kızıltepe",
+    "districts": "Kızıltepe",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Kozan",
+    "districts": "Kozan",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Kozluk",
+    "districts": "Kozluk",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Kurtalan",
+    "districts": "Kurtalan",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Kütahya",
+    "districts": "Kütahya",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Malatya",
+    "districts": "Malatya",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Manisa",
+    "districts": "Manisa",
+    "publish": "No",
+    "datestart": "2024-04-01T07:00:00.000Z",
+    "dateend": "2024-04-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Mardin",
+    "districts": "Mardin",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Mersin",
+    "districts": "Mersin",
+    "publish": "Yes",
+    "datestart": "2024-06-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Mut",
+    "districts": "Mut",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Nazilli",
+    "districts": "Nazilli",
+    "publish": "No",
+    "datestart": "2024-04-01T07:00:00.000Z",
+    "dateend": "2024-05-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Niğde",
+    "districts": "Niğde",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Niksar",
+    "districts": "Niksar",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Ödemiş",
+    "districts": "Ödemiş",
+    "publish": "No",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-05-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Oltu",
+    "districts": "Oltu",
+    "publish": "No",
+    "datestart": "2024-06-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Osmaniye",
+    "districts": "Osmaniye",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Patnos",
+    "districts": "Patnos",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Pazaryolu",
+    "districts": "Pazaryolu",
+    "publish": "No",
+    "datestart": "2024-06-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Pınarbaşı",
+    "districts": "Pınarbaşı",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Pınarhisar",
+    "districts": "Pınarhisar",
+    "publish": "No",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-06-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Pozantı",
+    "districts": "Pozantı",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Pülümür",
+    "districts": "Pülümür",
+    "publish": "No",
+    "datestart": "2024-06-01T07:00:00.000Z",
+    "dateend": "2024-06-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Pütürge",
+    "districts": "Pütürge",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Reşadiye",
+    "districts": "Reşadiye",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Saimbeyli",
+    "districts": "Saimbeyli",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Sakarya",
+    "districts": "Sakarya",
+    "publish": "No",
+    "datestart": "2024-04-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Salihli",
+    "districts": "Salihli",
+    "publish": "No",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-05-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Samandağ",
+    "districts": "Samandağ",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Saray",
+    "districts": "Saray",
+    "publish": "No",
+    "datestart": "2024-06-01T07:00:00.000Z",
+    "dateend": "2024-06-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Saraydüzü",
+    "districts": "Saraydüzü",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Sarıkaya",
+    "districts": "Sarıkaya",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Selendi",
+    "districts": "Selendi",
+    "publish": "No",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-05-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Siirt",
+    "districts": "Siirt",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Söke",
+    "districts": "Söke",
+    "publish": "No",
+    "datestart": "2024-04-01T07:00:00.000Z",
+    "dateend": "2024-04-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Sorgun",
+    "districts": "Sorgun",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Sungurlu",
+    "districts": "Sungurlu",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Susuz",
+    "districts": "Susuz",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Tarsus",
+    "districts": "Tarsus",
+    "publish": "Yes",
+    "datestart": "2024-06-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Taşköprü",
+    "districts": "Taşköprü",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Tavşanlı",
+    "districts": "Tavşanlı",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Tekman",
+    "districts": "Tekman",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Tercan",
+    "districts": "Tercan",
+    "publish": "No",
+    "datestart": "2024-06-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Tokat",
+    "districts": "Tokat",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Tosya",
+    "districts": "Tosya",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Tunceli",
+    "districts": "Tunceli",
+    "publish": "No",
+    "datestart": "2024-06-01T07:00:00.000Z",
+    "dateend": "2024-06-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Turgutlu",
+    "districts": "Turgutlu",
+    "publish": "No",
+    "datestart": "2024-04-01T07:00:00.000Z",
+    "dateend": "2024-04-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Turhal",
+    "districts": "Turhal",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Tutak",
+    "districts": "Tutak",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Uşak",
+    "districts": "Uşak",
+    "publish": "No",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-06-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Viranşehir",
+    "districts": "Viranşehir",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Yalova",
+    "districts": "Yalova",
+    "publish": "No",
+    "datestart": "2024-04-01T07:00:00.000Z",
+    "dateend": "2024-04-01T07:00:00.000Z"
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "svspc": "SV",
+    "region": "Yusufeli",
+    "districts": "Yusufeli",
+    "publish": "No",
+    "datestart": "2024-06-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Namibia",
+    "code": "NA",
+    "svspc": "SV",
+    "region": "Caprivi",
+    "districts": "Caprivi",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Namibia",
+    "code": "NA",
+    "svspc": "SV",
+    "region": "Erongo",
+    "districts": "Erongo",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Namibia",
+    "code": "NA",
+    "svspc": "SV",
+    "region": "Hardap",
+    "districts": "Hardap",
+    "publish": "Yes",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Namibia",
+    "code": "NA",
+    "svspc": "SV",
+    "region": "Karas",
+    "districts": "Karas",
+    "publish": "Yes",
+    "datestart": "2024-01-01T08:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Namibia",
+    "code": "NA",
+    "svspc": "SV",
+    "region": "KavangoEast",
+    "districts": "KavangoEast",
+    "publish": "No",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-06-01T07:00:00.000Z"
+  },
+  {
+    "country": "Namibia",
+    "code": "NA",
+    "svspc": "SV",
+    "region": "KavangoWest",
+    "districts": "KavangoWest",
+    "publish": "No",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-05-01T07:00:00.000Z"
+  },
+  {
+    "country": "Namibia",
+    "code": "NA",
+    "svspc": "SV",
+    "region": "Kharas",
+    "districts": "Kharas",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Namibia",
+    "code": "NA",
+    "svspc": "SV",
+    "region": "Khomas",
+    "districts": "Khomas",
+    "publish": "Yes",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Namibia",
+    "code": "NA",
+    "svspc": "SV",
+    "region": "Kunene",
+    "districts": "Kunene",
+    "publish": "Yes",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Namibia",
+    "code": "NA",
+    "svspc": "SV",
+    "region": "Ohangwena",
+    "districts": "Ohangwena",
+    "publish": "No",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-05-01T07:00:00.000Z"
+  },
+  {
+    "country": "Namibia",
+    "code": "NA",
+    "svspc": "SV",
+    "region": "Okahandja",
+    "districts": "Okahandja",
+    "publish": "Yes",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Namibia",
+    "code": "NA",
+    "svspc": "SV",
+    "region": "Omaheke",
+    "districts": "Omaheke",
+    "publish": "Yes",
+    "datestart": "2024-01-01T08:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Namibia",
+    "code": "NA",
+    "svspc": "SV",
+    "region": "Omusati",
+    "districts": "Omusati",
+    "publish": "No",
+    "datestart": "2024-03-01T08:00:00.000Z",
+    "dateend": "2024-04-01T07:00:00.000Z"
+  },
+  {
+    "country": "Namibia",
+    "code": "NA",
+    "svspc": "SV",
+    "region": "Oshana",
+    "districts": "Oshana",
+    "publish": "No",
+    "datestart": "2024-04-01T07:00:00.000Z",
+    "dateend": "2024-04-01T07:00:00.000Z"
+  },
+  {
+    "country": "Namibia",
+    "code": "NA",
+    "svspc": "SV",
+    "region": "Oshikoto",
+    "districts": "Oshikoto",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-05-01T07:00:00.000Z"
+  },
+  {
+    "country": "Namibia",
+    "code": "NA",
+    "svspc": "SV",
+    "region": "Otjo",
+    "districts": "Otjo",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-02-01T08:00:00.000Z"
+  },
+  {
+    "country": "Namibia",
+    "code": "NA",
+    "svspc": "SV",
+    "region": "Otjozondjupa",
+    "districts": "Otjozondjupa",
+    "publish": "Yes",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Perak",
+    "districts": "Larut Matang, Manjung",
+    "publish": "No",
+    "datestart": "2024-04-01T07:00:00.000Z",
+    "dateend": "2024-04-01T07:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Selangor",
+    "districts": "Larut Matang, Manjung",
+    "publish": "No",
+    "datestart": "2024-04-01T07:00:00.000Z",
+    "dateend": "2024-04-01T07:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Negeri Sembilan",
+    "districts": "Klang, Kuala Lumpur, Kuala Selangor, Ulu Langat,  Ulu Selangor",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-02-01T08:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Pahang",
+    "districts": "Jelebu, Jempol, Tampin",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-02-01T08:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Perak",
+    "districts": "Bera, Kecil Muadzam Shah, Rompin, Temerloh",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-02-01T08:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Johor",
+    "districts": "Bagan Datok, Batang Padang, Perak Tengah",
+    "publish": "No",
+    "datestart": "2024-01-01T08:00:00.000Z",
+    "dateend": "2024-01-01T08:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Malacca",
+    "districts": "Jasin (Melaka), Kluang, Kota Tinggi, Kulai, Mersing, Segamat,Tangkak",
+    "publish": "No",
+    "datestart": "2024-01-01T08:00:00.000Z",
+    "dateend": "2024-01-01T08:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Kedah",
+    "districts": "Jasin",
+    "publish": "No",
+    "datestart": "2024-06-01T07:00:00.000Z",
+    "dateend": "2024-06-01T07:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Perak",
+    "districts": "Bandar Baharu, Kuala Muda, Pendang, Pokok Sena, Yan",
+    "publish": "No",
+    "datestart": "2024-03-01T08:00:00.000Z",
+    "dateend": "2024-03-01T08:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Selangor",
+    "districts": "Hulu Perak, Kuala Kangsar, Kinta, Kerian, Kampar",
+    "publish": "No",
+    "datestart": "2024-03-01T08:00:00.000Z",
+    "dateend": "2024-03-01T08:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Perak",
+    "districts": "Muallim (Perak)",
+    "publish": "No",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-05-01T07:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Selangor",
+    "districts": "Bandar Baharu (Kedah), Seberang Perai Selatan (Penang), Muallim",
+    "publish": "No",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-05-01T07:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Kedah",
+    "districts": "Gombak",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Penang",
+    "districts": "Kota Setar, Kulim, Seberang Perai Utara (Penang)",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Sarawak",
+    "districts": "Seberang Perai Tengah, Seberang Perai Utara",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Selangor",
+    "districts": "Daro, Kapit, Kuching, Limbang, Pusa, Serian, Simunjan, Song",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Kedah",
+    "districts": "Petaling",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Selangor",
+    "districts": "Kangar, Kubang Pasu, Seberang Perai Tengah (Penang)",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Kedah",
+    "districts": "Sepang",
+    "publish": "No",
+    "datestart": "2024-06-01T07:00:00.000Z",
+    "dateend": "2024-06-01T07:00:00.000Z"
+  },
+  {
+    "country": "Bangladesh",
+    "code": "BD",
+    "svspc": "SV",
+    "region": "Chittagong",
+    "districts": "Basurhat, Lohagara, Cumilla",
+    "publish": "No",
+    "datestart": "2024-04-01T07:00:00.000Z",
+    "dateend": "2024-04-01T07:00:00.000Z"
+  },
+  {
+    "country": "Bangladesh",
+    "code": "BD",
+    "svspc": "SV",
+    "region": "Dhaka",
+    "districts": "Dhaka, Faridpur, Gazipur, Kaliakair, Rajbari, Savar",
+    "publish": "No",
+    "datestart": "2024-02-01T08:00:00.000Z",
+    "dateend": "2024-02-01T08:00:00.000Z"
+  },
+  {
+    "country": "Bangladesh",
+    "code": "BD",
+    "svspc": "SV",
+    "region": "Chittagong",
+    "districts": "Chattogram, Cox's, Harbang, Manikpur, Noakhali, Pekua, Rangamati",
+    "publish": "No",
+    "datestart": "2024-04-01T07:00:00.000Z",
+    "dateend": "2024-04-01T07:00:00.000Z"
+  },
+  {
+    "country": "Bangladesh",
+    "code": "BD",
+    "svspc": "SV",
+    "region": "Dhaka",
+    "districts": "Tangil",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-07-01T07:00:00.000Z"
+  },
+  {
+    "country": "Bangladesh",
+    "code": "BD",
+    "svspc": "SV",
+    "region": "Dhaka",
+    "districts": "Gazipur, Savar, Faridpur",
+    "publish": "No",
+    "datestart": "2024-06-01T07:00:00.000Z",
+    "dateend": "2024-06-01T07:00:00.000Z"
+  },
+  {
+    "country": "Bangladesh",
+    "code": "BD",
+    "svspc": "SV",
+    "region": "Chittagong",
+    "districts": "Feni",
+    "publish": "No",
+    "datestart": "2024-03-01T08:00:00.000Z",
+    "dateend": "2024-03-01T08:00:00.000Z"
+  },
+  {
+    "country": "Bangladesh",
+    "code": "BD",
+    "svspc": "SV",
+    "region": "Dhaka",
+    "districts": "Madaripur, Shibchar, Assasuni, Khulna, Padma, Satkhira, Shantibagh, Sirajganj, Dinajpur",
+    "publish": "No",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-05-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
+    "districts": "Accra Metropolis",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
+    "districts": "Ablekuma Central",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
+    "districts": "Ablekuma West",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
+    "districts": "Okaikoi South",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
+    "districts": "Korle Klottey",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
+    "districts": "Ayawaso Central",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
+    "districts": "Ayawaso North",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
+    "districts": "Ledzokuku",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
+    "districts": "Okpoi Gonno",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "N6_Accra-Kumasi",
+    "districts": "National Highway - N6",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "Nhyiaeso",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "Adenyase",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "Odumasi",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "Tanoso",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "Suame",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "Bantama",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "Asrimaso",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "Atwima Boko",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "Kwadaso",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
+    "districts": "Ledzokuku Municipal",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
+    "districts": "Teshie",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
+    "districts": "Okaikoi North Municipal",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
+    "districts": "Ayawaso West Municipal",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
+    "districts": "Awutu Senya East Municipal",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
+    "districts": "Gomoa East",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "KMA-Nhyiaeso",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "Asokwa Municipal",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "Suame Municipal",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "KMA-Manhyia North",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "Asokore Mampong Municipal",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "Bekwai Municipal",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
+    "districts": "Tema West Municipal",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
+    "districts": "Krowor Municipal",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "Kwabre East",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "Afigya Kwabre South",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "Sekyere South",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "Juaben Municipal",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "Ejisu Municipal",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "Oforikrom Municipal",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
+    "districts": "Kpone Katamanso Municipal",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
+    "districts": "Adentan Municipal",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
+    "districts": "Akwapim South Municipal",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
+    "districts": "Ga East Municipal",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
+    "districts": "Ga West Municipal",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "Atwima Kwanwoma",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "Kwadaso Municipal",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "Afigya Kwabre North",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "Atwima Nwabiagya South Municipal",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "Atwima Nwabiagya North",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "Bosomtwi",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
+    "districts": "Ga Central Municipal",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
+    "districts": "Ga North Municipal",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
+    "districts": "Ga South Municipal",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
+    "districts": "Nsawam Adoagyiri Municipal",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Tema",
+    "districts": "Tema Metropolitan Area (TMA)",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Tema",
+    "districts": "Ningo-Prampram",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Tema",
+    "districts": "Shai-Osudoku",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "R62_juaso-nsawam",
+    "districts": "Juaso-Nsawam RD",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
+    "districts": "Upper West Akim",
+    "publish": "Yes",
+    "datestart": "2024-12-01T08:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
+    "districts": "Weija Gbawe Municipal",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Tema",
+    "districts": "Ashaiman Municipal",
+    "publish": "Yes",
+    "datestart": "2024-12-01T08:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
+    "districts": "Ablekuma North",
+    "publish": "No",
+    "datestart": "2024-07-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Serbia",
+    "code": "RS",
+    "svspc": "SV",
+    "region": "Šumadija",
+    "districts": "Šumadija and Western Serbia",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Serbia",
+    "code": "RS",
+    "svspc": "SV",
+    "region": "South Bačka District",
+    "districts": "Vojvodina",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Serbia",
+    "code": "RS",
+    "svspc": "SV",
+    "region": "New Belgrade",
+    "districts": "Belgrade",
+    "publish": "Yes",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Serbia",
+    "code": "RS",
+    "svspc": "SV",
+    "region": "Palilula",
+    "districts": "Belgrade",
+    "publish": "Yes",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Serbia",
+    "code": "RS",
+    "svspc": "SV",
+    "region": "Knic",
+    "districts": "Šumadija",
+    "publish": "Yes",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Serbia",
+    "code": "RS",
+    "svspc": "SV",
+    "region": "Kragujevac",
+    "districts": "Šumadija",
+    "publish": "Yes",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Serbia",
+    "code": "RS",
+    "svspc": "SV",
+    "region": "Vozdovac",
+    "districts": "Belgrade",
+    "publish": "Yes",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Serbia",
+    "code": "RS",
+    "svspc": "SV",
+    "region": "Novi Sad",
+    "districts": "Novi Sad",
+    "publish": "Yes",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Serbia",
+    "code": "RS",
+    "svspc": "SV",
+    "region": "Srbobran",
+    "districts": "South Bačka District",
+    "publish": "Yes",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Serbia",
+    "code": "RS",
+    "svspc": "SV",
+    "region": "Sremski Karlovci",
+    "districts": "Srem",
+    "publish": "Yes",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Serbia",
+    "code": "RS",
+    "svspc": "SV",
+    "region": "Temerin",
+    "districts": "South Bačka District",
+    "publish": "Yes",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Serbia",
+    "code": "RS",
+    "svspc": "SV",
+    "region": "Vrbas",
+    "districts": "South Bačka District",
+    "publish": "Yes",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Serbia",
+    "code": "RS",
+    "svspc": "SV",
+    "region": "Kraljevo",
+    "districts": "Raška District",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Serbia",
+    "code": "RS",
+    "svspc": "SV",
+    "region": "Batocina",
+    "districts": "Šumadija",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Serbia",
+    "code": "RS",
+    "svspc": "SV",
+    "region": "Novi Pazar",
+    "districts": "Novi Pazar",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Serbia",
+    "code": "RS",
+    "svspc": "SV",
+    "region": "Tutin",
+    "districts": "Raška District",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Serbia",
+    "code": "RS",
+    "svspc": "SV",
+    "region": "Bac",
+    "districts": "South Bačka District",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Serbia",
+    "code": "RS",
+    "svspc": "SV",
+    "region": "Backa Palanka",
+    "districts": "South Bačka District",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Serbia",
+    "code": "RS",
+    "svspc": "SV",
+    "region": "Titel",
+    "districts": "South Bačka District",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Serbia",
+    "code": "RS",
+    "svspc": "SV",
+    "region": "Arandelovac",
+    "districts": "Šumadija",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Serbia",
+    "code": "RS",
+    "svspc": "SV",
+    "region": "Raska",
+    "districts": "Raška District",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Serbia",
+    "code": "RS",
+    "svspc": "SV",
+    "region": "Vrnjacka Banja",
+    "districts": "Raška District",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Serbia",
+    "code": "RS",
+    "svspc": "SV",
+    "region": "Indija",
+    "districts": "Srem",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Serbia",
+    "code": "RS",
+    "svspc": "SV",
+    "region": "Topola",
+    "districts": "Šumadija",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Serbia",
+    "code": "RS",
+    "svspc": "SV",
+    "region": "Sid",
+    "districts": "Srem",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Serbia",
+    "code": "RS",
+    "svspc": "SV",
+    "region": "Cukarica",
+    "districts": "Belgrade",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Serbia",
+    "code": "RS",
+    "svspc": "SV",
+    "region": "Zemun",
+    "districts": "Belgrade",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Serbia",
+    "code": "RS",
+    "svspc": "SV",
+    "region": "Irig",
+    "districts": "Srem",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Serbia",
+    "code": "RS",
+    "svspc": "SV",
+    "region": "Pecinci",
+    "districts": "Srem",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Serbia",
+    "code": "RS",
+    "svspc": "SV",
+    "region": "Ruma",
+    "districts": "Srem",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Serbia",
+    "code": "RS",
+    "svspc": "SV",
+    "region": "Sremska Mitrovica",
+    "districts": "Srem",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Sabah",
+    "districts": "Ranau",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Sabah",
+    "districts": "Kuala Langat",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Selangor",
+    "districts": "Limbang",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Sarawak",
+    "districts": "Jambongan",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Sabah",
+    "districts": "Beluran",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Sabah",
+    "districts": "Sandakan",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Sabah",
+    "districts": "Kinabatangan",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Sabah",
+    "districts": "Pulau Sebatik",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Sabah",
+    "districts": "Pulau Semporna",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Sabah",
+    "districts": "Kota Marudu",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Sabah",
+    "districts": "Kudat",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Sabah",
+    "districts": "Keningau",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Sabah",
+    "districts": "Timor Laut",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Penang",
+    "districts": "Barat Daya",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Penang",
+    "districts": "Kuala Lumpur",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Selangor",
+    "districts": "Seremban (N.Sembilan)",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Selangor",
+    "districts": "Putrajaya",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Selangor",
+    "districts": "Petaling",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Selangor",
+    "districts": "Seremban",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Negeri Sembilan",
+    "districts": "Muar",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Johor",
+    "districts": "Batu Pahat",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Johor",
+    "districts": "Kluang",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Johor",
+    "districts": "Alor Gajah",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Malaysia",
+    "code": "MY",
+    "svspc": "SV",
+    "region": "Malacca",
+    "districts": "Melaka Tengah",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Monaco",
+    "code": "MC",
+    "svspc": "SV",
+    "region": "Monaco",
+    "districts": "Monte-Carlo/ Golden square",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Monaco",
+    "code": "MC",
+    "svspc": "SV",
+    "region": "Monaco",
+    "districts": "La Rousse – Saint Romain",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Monaco",
+    "code": "MC",
+    "svspc": "SV",
+    "region": "Monaco",
+    "districts": "La Condamine",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Monaco",
+    "code": "MC",
+    "svspc": "SV",
+    "region": "Monaco",
+    "districts": "Jardin Exotique",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Monaco",
+    "code": "MC",
+    "svspc": "SV",
+    "region": "Monaco",
+    "districts": "Fontvieille",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Monaco",
+    "code": "MC",
+    "svspc": "SV",
+    "region": "Monaco",
+    "districts": "Larvotto",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "country": "Monaco",
+    "code": "MC",
+    "svspc": "SV",
+    "region": "Monaco",
+    "districts": "Monaco-Ville",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-10-01T07:00:00.000Z"
   }
 ]
