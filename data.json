@@ -250,7 +250,7 @@
     "code": "AU",
     "svspc": "SV",
     "region": "Western Australia",
-    "districts": "Perth, WA , Nanga, Kulin, Windy harbour, Kondinin, Koorda, Menzies, Wiluna, Sir Samuel, Vindy Harbour, Lake Margarette, Mandurah, North burngup",
+    "districts": "Perth, WA , Nanga, Kulin, Windy harbour, Kondinin, Koorda, Menzies, Wiluna, Sir Samuel, Vindy Harbour, Lake Margarette, Mandurah, North burngup, Mount Sheila",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
     "dateend": "2024-07-01T07:00:00.000Z"
@@ -260,7 +260,7 @@
     "code": "AU",
     "svspc": "SV",
     "region": "Australian Capital Territory",
-    "districts": "Canberra, Darbalara, Bega, Argalong, Red Hill, Darbalara, Jerangle, West Wyalong",
+    "districts": "Canberra, Darbalara, Bega, Argalong, Red Hill, Darbalara, Jerangle, West Wyalong, Cooma",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
     "dateend": "2024-07-01T07:00:00.000Z"
@@ -280,7 +280,7 @@
     "code": "AU",
     "svspc": "SV",
     "region": "Queensland",
-    "districts": "Brisbane, Townsville, Toowoomba , Carins, Kelsey Creek, Theodore, Maryborough, Buckingham, Quilpie, THARGOMINDAH, basalt, Ipswich, Kingaroy , Bunya mountains , Gold Coast, croydon, Laura",
+    "districts": "Brisbane, Townsville, Toowoomba , Carins, Kelsey Creek, Theodore, Maryborough, Buckingham, Quilpie, THARGOMINDAH, basalt, Ipswich, Kingaroy , Bunya mountains , Gold Coast, croydon, Laura, Gymole",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
     "dateend": "2024-07-01T07:00:00.000Z"
@@ -290,7 +290,7 @@
     "code": "AU",
     "svspc": "SV",
     "region": "New South Wales",
-    "districts": "Goulburn, Port Macquarie, Sydney, Scotia, Mossgiel, Cowra, Eugowra, Mount hope, Melbourne, Dubbo, Broken Hill, Griffith, Canberra",
+    "districts": "Goulburn, Port Macquarie, Sydney, Scotia, Mossgiel, Cowra, Eugowra, Mount hope, Melbourne, Dubbo, Broken Hill, Griffith, Canberra, Berridale",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
     "dateend": "2024-07-01T07:00:00.000Z"
@@ -300,7 +300,7 @@
     "code": "AU",
     "svspc": "SV",
     "region": "Victoria",
-    "districts": "Surf Coast, South East Coast, Melbourne, Terrappee, Ross Creek, Barunah Plains, Tallangatta, Bright, Hamilton, Terang, Shepparton , Ballarat, chetwynd",
+    "districts": "Surf Coast, South East Coast, Melbourne, Terrappee, Ross Creek, Barunah Plains, Tallangatta, Bright, Hamilton, Terang, Shepparton , Ballarat, chetwynd, Dimboola",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
     "dateend": "2024-07-01T07:00:00.000Z"
@@ -6123,7 +6123,7 @@
     "svspc": "SV",
     "region": "Luxembourg",
     "districts": "Luxembourg City, Diekirch, Clervaux, Redange, Echternach, Esch-sur-Alzette, Capellen, Grevenmacher, Remich, Mersch, Vianden, Wiltz",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-10-16T07:00:00.000Z"
   },
@@ -6133,9 +6133,9 @@
     "svspc": "SV",
     "region": "Észak-Magyarország",
     "districts": "Borsod-Abaúj-Zemplén, Heves, Nógrád.",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-04-23T07:00:00.000Z",
-    "dateend": "2024-10-30T07:00:00.000Z"
+    "dateend": "2024-11-06T08:00:00.000Z"
   },
   {
     "country": "Magyarország",
@@ -6143,9 +6143,9 @@
     "svspc": "SV",
     "region": "Észak-Alföld",
     "districts": "Hajdú-Bihar, Jász-Nagykun-Szolnok, Szabolcs-Szatmár-Bereg.",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-04-23T07:00:00.000Z",
-    "dateend": "2024-10-30T07:00:00.000Z"
+    "dateend": "2024-11-06T08:00:00.000Z"
   },
   {
     "country": "Magyarország",
@@ -6153,9 +6153,9 @@
     "svspc": "SV",
     "region": "Dél-Alföld",
     "districts": "Bács-Kiskun megye, Csongrád-Csanád megye, Békés megye.",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-04-23T07:00:00.000Z",
-    "dateend": "2024-10-30T07:00:00.000Z"
+    "dateend": "2024-11-06T08:00:00.000Z"
   },
   {
     "country": "Magyarország",
@@ -6163,9 +6163,9 @@
     "svspc": "SV",
     "region": "Közép-Magyarország",
     "districts": "Budapest, Pest megye.",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-04-23T07:00:00.000Z",
-    "dateend": "2024-10-30T07:00:00.000Z"
+    "dateend": "2024-11-06T08:00:00.000Z"
   },
   {
     "country": "Magyarország",
@@ -6173,9 +6173,9 @@
     "svspc": "SV",
     "region": "Közép-Dunántúl",
     "districts": "Fejér megye, Komárom-Esztergom megye, Veszprém megye.",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-04-23T07:00:00.000Z",
-    "dateend": "2024-10-30T07:00:00.000Z"
+    "dateend": "2024-11-06T08:00:00.000Z"
   },
   {
     "country": "Magyarország",
@@ -6183,9 +6183,9 @@
     "svspc": "SV",
     "region": "Nyugat-Dunántúl",
     "districts": "Győr-Moson-Sopron megye, Vas megye, Zala megye.",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-04-23T07:00:00.000Z",
-    "dateend": "2024-10-30T07:00:00.000Z"
+    "dateend": "2024-11-06T08:00:00.000Z"
   },
   {
     "country": "Magyarország",
@@ -6193,9 +6193,9 @@
     "svspc": "SV",
     "region": "Dél-Dunántúl",
     "districts": "Baranya megye, Somogy megye, Tolna megye.",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-04-23T07:00:00.000Z",
-    "dateend": "2024-10-30T07:00:00.000Z"
+    "dateend": "2024-11-06T08:00:00.000Z"
   },
   {
     "country": "Malaysia",
@@ -9318,7 +9318,7 @@
     "districts": "Zürich, Winterthur, Uster, Wetzikon, Dübendorf, Dietikon, Affoltern am Albis, Schlieren, Horgen, Bülach",
     "publish": "Yes",
     "datestart": "2024-04-15T07:00:00.000Z",
-    "dateend": "2024-10-02T07:00:00.000Z"
+    "dateend": "2024-11-30T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -9328,7 +9328,7 @@
     "districts": "Bern, Biel/Bienne, Thun, Burgdorf, Langenthal, Interlaken, Olten, Neuchâtel, Fribourg.",
     "publish": "Yes",
     "datestart": "2024-04-15T07:00:00.000Z",
-    "dateend": "2024-10-02T07:00:00.000Z"
+    "dateend": "2024-11-30T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -9338,7 +9338,7 @@
     "districts": "Lucerne, Emmen, Sursee, Wolhusen, Hochdorf, Kriens, Hergiswil, Ebikon, Altdorf, Sarnen",
     "publish": "Yes",
     "datestart": "2024-04-15T07:00:00.000Z",
-    "dateend": "2024-10-02T07:00:00.000Z"
+    "dateend": "2024-11-30T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -9368,7 +9368,7 @@
     "districts": "Sarnen, Kerns, Alpnach, Sachseln, Engelberg, Giswil, Lungern, Stalden, Melchsee-Frutt, Grafenort, Alpnachstad",
     "publish": "Yes",
     "datestart": "2024-04-15T07:00:00.000Z",
-    "dateend": "2024-10-02T07:00:00.000Z"
+    "dateend": "2024-11-30T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -9388,7 +9388,7 @@
     "districts": "Glarus, Glarus Nord, Glarus Süd",
     "publish": "Yes",
     "datestart": "2024-04-15T07:00:00.000Z",
-    "dateend": "2024-10-02T07:00:00.000Z"
+    "dateend": "2024-11-30T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -9408,7 +9408,7 @@
     "districts": "Fribourg, Bulle, Murten, Morat, Payerne, Romont, Villars-sur-Glâne",
     "publish": "Yes",
     "datestart": "2024-04-15T07:00:00.000Z",
-    "dateend": "2024-10-02T07:00:00.000Z"
+    "dateend": "2024-11-30T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -9458,7 +9458,7 @@
     "districts": "Herisau, Trogen, Teufen, Gais, Urnäsch, Heiden, Appenzell, Lutzenberg, Rehetobel, Stein",
     "publish": "Yes",
     "datestart": "2024-04-15T07:00:00.000Z",
-    "dateend": "2024-10-02T07:00:00.000Z"
+    "dateend": "2024-11-30T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -9468,7 +9468,7 @@
     "districts": "Appenzell, Schwende, Rüte, Schlatt-Haslen, Brülisau, Gonten, Oberegg",
     "publish": "Yes",
     "datestart": "2024-04-15T07:00:00.000Z",
-    "dateend": "2024-10-02T07:00:00.000Z"
+    "dateend": "2024-11-30T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -9478,7 +9478,7 @@
     "districts": "St. Gallen, Rorschach, Wil, Gossau, Buchs",
     "publish": "Yes",
     "datestart": "2024-04-15T07:00:00.000Z",
-    "dateend": "2024-10-02T07:00:00.000Z"
+    "dateend": "2024-11-30T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -9488,7 +9488,7 @@
     "districts": "Chur, Davos, St. Moritz, Bellinzona, Brig, Thusis, Ilanz, Domat/Ems, Samedan, Laax, Churwalden, Flims",
     "publish": "Yes",
     "datestart": "2024-04-15T07:00:00.000Z",
-    "dateend": "2024-10-02T07:00:00.000Z"
+    "dateend": "2024-11-30T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -9508,7 +9508,7 @@
     "districts": "Frauenfeld, Kreuzlingen, Arbon, Weinfelden, Romanshorn, Amriswil, Diessenhofen, Aadorf, Münchwilen, Sulgen, Wängi",
     "publish": "Yes",
     "datestart": "2024-04-15T07:00:00.000Z",
-    "dateend": "2024-10-02T07:00:00.000Z"
+    "dateend": "2024-11-30T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -9528,7 +9528,7 @@
     "districts": "Lausanne, Vevey, Yverdon-les-Bains, Nyon, Morges, Montreux, Bulle, Payerne, La Tour-de-Peilz, Aigle, Echallens",
     "publish": "Yes",
     "datestart": "2024-04-15T07:00:00.000Z",
-    "dateend": "2024-10-02T07:00:00.000Z"
+    "dateend": "2024-11-30T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -9538,7 +9538,7 @@
     "districts": "Sion, Martigny, Monthey, Sierre, Brig-Glis",
     "publish": "Yes",
     "datestart": "2024-04-15T07:00:00.000Z",
-    "dateend": "2024-10-02T07:00:00.000Z"
+    "dateend": "2024-11-30T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -9548,7 +9548,7 @@
     "districts": "Neuchâtel, La Chaux-de-Fonds, Le Locle, Boudry, Yverdon-les-Bains",
     "publish": "Yes",
     "datestart": "2024-04-15T07:00:00.000Z",
-    "dateend": "2024-10-02T07:00:00.000Z"
+    "dateend": "2024-11-30T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -9558,7 +9558,7 @@
     "districts": "Geneva, Carouge, Vernier, Meyrin, Onex",
     "publish": "Yes",
     "datestart": "2024-04-15T07:00:00.000Z",
-    "dateend": "2024-10-02T07:00:00.000Z"
+    "dateend": "2024-11-30T08:00:00.000Z"
   },
   {
     "country": "Switzerland",
@@ -9715,7 +9715,7 @@
     "code": "TH",
     "svspc": "SV",
     "region": "Central",
-    "districts": "Nonthaburi, Bangkok",
+    "districts": "Nonthaburi, Bangkok, Samut Prakan",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
     "dateend": "2024-12-31T08:00:00.000Z"
