@@ -1049,7 +1049,7 @@
     "districts": "Capilla del Monte, Dean Funes, Morteros, Noetinger, Santiago Temple, Sebastian Elcano, Villa del Rosario, Villa Tulumba",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
-    "dateend": "2024-12-31T08:00:00.000Z"
+    "dateend": "2024-11-28T08:00:00.000Z"
   },
   {
     "country": "Argentina",
@@ -1149,7 +1149,7 @@
     "districts": "Santa Rosa del Conlara, Villa de Merlo",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
-    "dateend": "2024-12-31T08:00:00.000Z"
+    "dateend": "2024-11-28T08:00:00.000Z"
   },
   {
     "country": "Argentina",
@@ -1169,7 +1169,7 @@
     "districts": "San Guillermo",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
-    "dateend": "2024-12-31T08:00:00.000Z"
+    "dateend": "2024-11-28T08:00:00.000Z"
   },
   {
     "country": "Argentina",
@@ -1187,9 +1187,9 @@
     "svspc": "SV",
     "region": "Tucumán",
     "districts": "San Miguel de Tucumán,Rosario de la Frontera,Tafí del Valle,Concepción",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
-    "dateend": "2024-12-01T08:00:00.000Z"
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Brasil",
@@ -1329,7 +1329,7 @@
     "districts": "Belém, Marabá, Santarem",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
+    "dateend": "2024-12-31T08:00:00.000Z"
   },
   {
     "country": "Brasil",
@@ -1467,9 +1467,9 @@
     "svspc": "SV",
     "region": "Arica y Parinacota",
     "districts": "Arica",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-01-01T08:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
+    "dateend": "2024-12-01T08:00:00.000Z"
   },
   {
     "country": "Chile",
@@ -1639,7 +1639,7 @@
     "districts": "Tunja, Sogamoso, Diutama, Yopal",
     "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
+    "dateend": "2024-12-01T08:00:00.000Z"
   },
   {
     "country": "Colombia",
@@ -1659,7 +1659,7 @@
     "districts": "Popayán, alrededores",
     "publish": "Yes",
     "datestart": "2024-04-01T07:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
+    "dateend": "2024-12-01T08:00:00.000Z"
   },
   {
     "country": "Colombia",
@@ -1737,7 +1737,7 @@
     "svspc": "SV",
     "region": "Risaralda",
     "districts": "Pereira, Valle del Cauca, Armenia",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-02-01T08:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
   },
@@ -1949,7 +1949,7 @@
     "code": "ca",
     "region": "New Brunswick",
     "districts": "Madawaska, Restigouche, Gloucester, Victoria, Northumberland, Carleton, York, Charlotte",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-11-15T08:00:00.000Z"
   },
@@ -1985,7 +1985,7 @@
     "code": "ca",
     "region": "Québec",
     "districts": "Nord-du-Québec, Abitibi-Ouest, Abitibi, Rouyn-Noranda, Antoine-Labelle, Matawinie, Coaticook, Memphrémagog, Le Haut-Saint-François, Le Val-Saint-François, Sherbrooke, Le Granit, Beauce-Sartigan, Robert-Cliche, Les Etchemins, Montmagny, L’Islet, Mirabel, Argenteuil, La Rivière-du-Nord, Les Pays-d’en-Haut, Les Laurentides, Rivière-du-Loup, Kamouraska, Les Basques, Rimouski-Neigette, La Mitis, La Côte-de-Gaspé, Le Rocher-Perce, Bona-venture, Le Haut-Saint-Maurice, Le Domaine-du-Roy, Maria-Chapdelaine, Lac-Saint-Jean-Est, Le Fjord-du-Saguenay, La Haute-Côte-Nord, Manicouagan, Minganie – Basse-Côte-Nord",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-11-15T08:00:00.000Z"
   },
@@ -2030,7 +2030,7 @@
     "code": "ca",
     "region": "Prince Edward Island",
     "districts": "Charlottetown",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-06-01T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
   },
@@ -3304,11 +3304,6 @@
     "publish": "No",
     "datestart": "2024-03-01T08:00:00.000Z",
     "dateend": "2024-11-07T08:00:00.000Z"
-  },
-  {
-    "country": "Ghana",
-    "code": "gh",
-    "publish": "No"
   },
   {
     "country": "Gibraltar",
@@ -7155,9 +7150,9 @@
     "svspc": "SV",
     "region": "Hidalgo",
     "districts": "Huejutla, Tula, Tizayuca, Tunancilgo",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-01-01T08:00:00.000Z",
-    "dateend": "2024-12-01T08:00:00.000Z"
+    "dateend": "2024-11-08T08:00:00.000Z"
   },
   {
     "country": "México",
@@ -7255,9 +7250,9 @@
     "svspc": "SV",
     "region": "San Luis Potosí",
     "districts": "San Luis Potosi, Charcas, Soledad de Graciano Sanchez, alrededores",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2024-04-08T07:00:00.000Z",
-    "dateend": "2024-12-01T08:00:00.000Z"
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "México",
@@ -7365,7 +7360,7 @@
     "svspc": "SV",
     "region": "Piura",
     "districts": "Piura",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2022-07-01T07:00:00.000Z",
     "dateend": "2022-08-01T07:00:00.000Z"
   },
@@ -7395,7 +7390,7 @@
     "svspc": "SV",
     "region": "Chimbote",
     "districts": "Chimbote",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2023-05-01T07:00:00.000Z",
     "dateend": "2023-09-01T07:00:00.000Z"
   },
@@ -9207,7 +9202,7 @@
     "code": "SE",
     "svspc": "SV",
     "region": "Dalarna",
-    "districts": "Falun, Borlänge, Ludvika, Mora, Rättvik, Avesta, Hedemora, Säter, Orsa, Vansbro, Leksand, Gagnef, Malung, Mora, Borlänge, Ludvika, Rättvik, Avesta, Säter, Falun\t",
+    "districts": "Falun, Borlänge, Ludvika, Mora, Rättvik, Avesta, Hedemora, Säter, Orsa, Vansbro, Leksand, Gagnef, Malung, Mora, Borlänge, Ludvika, Rättvik, Avesta, Säter, Falun",
     "publish": "No",
     "datestart": "2024-05-01T07:00:00.000Z",
     "dateend": "2024-08-01T07:00:00.000Z"
@@ -9942,7 +9937,7 @@
     "svspc": "SV",
     "region": "Idaho",
     "districts": "Ada, Adams, Bannock, Bear Lake, Benewah, Bingham, Blaine, Boise, Bonner, Bonneville, Boundary, Butte, Camas, Canyon, Caribou, Cassia, Clark, Clearwater, Custer, Elmore, Franklin, Fremont, Gem, Gooding, Idaho, Jefferson, Jerome, Kootenai, Latah, Lemhi, Lewis, Lincoln, Madison, Minidoka, Nez Perce, Oneida, Owyhee, Payette, Power, Shoshone, Teton, Twin Falls, Valley, Washington, Idaho Falls, Burley, Lewiston",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-11-30T08:00:00.000Z"
   },
@@ -9962,7 +9957,7 @@
     "svspc": "SV",
     "region": "Montana",
     "districts": "Beaverhead, Big Horn, Blaine, Broadwater, Carbon, Carter, Cascade, Chouteau, Custer, Daniels, Dawson, Deer Lodge, Fallon, Fergus, Flathead, Gallatin, Garfield, Glacier, Golden Valley, Granite, Hill, Jefferson, Judith Basin, Lake, Lewis and Clark, Liberty, Lincoln, Madison, McCone, Meagher, Mineral, Missoula, Musselshell, Park, Petroleum, Phillips, Pondera, Powder River, Powell, Prairie, Ravalli, Richland, Roosevelt, Rosebud, Sanders, Sheridan, Silver Bow, Stillwater, Sweet Grass, Teton, Toole, Treasure, Valley, Wheatland, Wibaux, Yellowstone, Bozeman, Billings",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-05-01T07:00:00.000Z",
     "dateend": "2024-11-30T08:00:00.000Z"
   },
@@ -9982,7 +9977,7 @@
     "svspc": "SV",
     "region": "North Dakota",
     "districts": "Adams, Barnes, Benson, Billings, Bottineau, Bowman, Burke, Burleigh, Cass, Cavalier, Dickey, Divide, Dunn, Eddy, Emmons, Foster, Golden Valley, Grand Forks, Grant, Griggs, Hettinger, Kidder, LaMoure, Logan, McHenry, McIntosh, McKenzie, McLean, Mercer, Morton, Mountrail, Nelson, Oliver, Pembina, Pierce, Ramsey, Ransom, Renville, Richland, Rolette, Sargent, Sheridan, Sioux, Slope, Stark, Steele, Stutsman, Towner, Traill, Walsh, Ward, Wells, Williams, Bismarck",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-05-01T07:00:00.000Z",
     "dateend": "2024-11-30T08:00:00.000Z"
   },
@@ -10042,7 +10037,7 @@
     "svspc": "SV",
     "region": "Nebraska",
     "districts": "Sioux, Scotts Bluff, Banner, Kimball, Dawes, Box Butte, Morrill, Cheyenne, Sheridan, Garden, Deuel, Cherry, Grant, Arthur, Keith, Perkins, Chase, Dundy, Hayes, Hitchcock, Frontier, Red Willow, Keya Paha, Boyd, Brown, Rock, Holt, Garfield, Wheeler, Valley, Greeley, Thurston, Wayne, Stanton, Cuming, Burt, Boone, Nance, Merrick, Platte, Colfax, Dodge, Washington, Douglas, Sarpy, Cass Otoe, Lancaster, Richardson, Gage, Furnas, Hall, Hamilton, York, Seward, Clay, Fillmore, Saline, Webster, Franklin, Nuckolls, Thayer",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-11-30T08:00:00.000Z"
   },
@@ -10172,7 +10167,7 @@
     "svspc": "SV",
     "region": "Pennsylvania",
     "districts": "Erie, Crawford, Mercer, Lawrence, Butler, Beaver, Allegheny, Venango, Warren, Forest, Clarion, Jefferson, Elk, McKean, Cameron, Potter, Clinton, Tioga, Lycoming, Wayne, Pike, Lehigh, Northampton, Bucks, Philadelphia, Montgomery, Delaware, Chester, Lancaster, York, Adams, Cumberland, Franklin, Somerset, Westmoreland, Fayette",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-11-30T08:00:00.000Z"
   },
@@ -10262,7 +10257,7 @@
     "svspc": "SV",
     "region": "Utah",
     "districts": "Box Elder, Tooele, Juab, Millard, Beaver, Iron, Washington, Kane, Garfield, Piute, Wayne, Sevier, Emery, Sanpete, Carbon, Utah, Wasatch, Duchesne, San Juan, Uintah, Daggett, Summit, Salt Lake, Davis, Morgan, Weber, Cache",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-11-30T08:00:00.000Z"
   },
@@ -10282,7 +10277,7 @@
     "svspc": "SV",
     "region": "Missouri",
     "districts": "Atchison, Holt, Nodaway, Andrew, DeKalb, Gentry, Schuyler, Scotland, Clark, Adair, Knox, Lewis, Macon, Shelby, Marion, Monroe, Ralls, Audrain, Pike, Callaway, Montgomery, Lincoln, Warren, St. Charles, St. Louis, Franklin, Jefferson, Crawford, Washington, St. Francois, Ste. Genevieve, Perry, Iron, Madison, Reynolds, Wayne, Bollinger, Carter, Ripley, Butler, Stoddard, New Madrid, Dunklin, Pemiscot, Shannon, Texas, Pulaski, Phelps, Camden, Miller, Maries, Morgan, Jackson, Lafayette, Ray, Carroll, Clay, Platte, Cass, Johnson, Bates, Henry, St. Clair, Vernon, Cedar, Barton, Dade, Jasper, Lawrence, Newton, McDonald, Barry, Christian, Stone, Taney, Douglas, Ozark, Saline, Chariton, Linn, Livingston",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-11-30T08:00:00.000Z"
   },
@@ -10292,7 +10287,7 @@
     "svspc": "SV",
     "region": "Wyoming",
     "districts": "Albany, Big Horn, Campbell, Carbon, Converse, Crook, Fremont, Goshen, Hot Springs, Johnson, Laramie, Lincoln, Natrona, Niobrara, Park, Platte, Sheridan, Sublette, Sweetwater, Teton, Uinta, Washakie, Weston, Cheyenne",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-05-20T07:00:00.000Z",
     "dateend": "2024-11-30T08:00:00.000Z"
   },
@@ -10312,7 +10307,7 @@
     "svspc": "SV",
     "region": "Idaho",
     "districts": "Ada, Adams, Bannock, Bear Lake, Benewah, Bingham, Blaine, Boise, Bonner, Bonneville, Boundary, Butte, Camas, Canyon, Caribou, Cassia, Clark, Clearwater, Custer, Elmore, Franklin, Fremont, Gem, Gooding, Idaho, Jefferson, Jerome, Kootenai, Latah, Lemhi, Lewis, Lincoln, Madison, Minidoka, Nez Perce, Oneida, Owyhee, Payette, Power, Shoshone, Teton, Twin Falls, Valley, Washington,",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-11-30T08:00:00.000Z"
   },
@@ -10322,7 +10317,7 @@
     "svspc": "SV",
     "region": "South Dakota",
     "districts": "Aurora, Beadle, Bennett, Bon Homme, Brookings, Brown, Brule, Buffalo, Butte, Campbell, Charles Mix, Clark, Clay, Codington, Corson, Custer, Davison, Day, Deuel, Dewey, Douglas, Edmunds, Fall River, Faulk, Grant, Gregory, Haakon, Hamlin, Hand, Hanson, Harding, Hughes, Hutchinson, Hyde, Jackson, Jerauld, Jones, Kingsbury, Lake, Lawrence, Lincoln, Lyman, Marshall, McCook, McPherson, Meade, Mellette, Miner, Minnehaha, Moody, Oglala Lakota, Pennington, Perkins, Potter, Roberts, Sanborn, Spink, Stanley, Sully, Todd, Tripp, Turner, Union, Walworth, Yankton, Ziebach, Aberdeen, Sioux Falls",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-05-20T07:00:00.000Z",
     "dateend": "2024-11-30T08:00:00.000Z"
   },
@@ -10372,7 +10367,7 @@
     "svspc": "SV",
     "region": "Indiana",
     "districts": "Lake, Porter, Newton, Jasper, Benton, Warren, LaPorte, Franklin, Fayette, Union, Wayne, Henry, Randolph, Delaware, Jay, Blackford, Madison, Hancock, Marion, Hamilton, Boone, Clinton, Tipton, Howard, Shelby, Johnson, Brown, Bartholomew, Jackson, Hendricks, Morgan, Lawrence, Monroe, Martin, Grant",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-04-01T07:00:00.000Z",
     "dateend": "2024-11-30T08:00:00.000Z"
   },
@@ -11230,7 +11225,12 @@
   {
     "country": "Nepal",
     "code": "NP",
-    "svspc": "SV"
+    "svspc": "SV",
+    "region": "Bagmati",
+    "districts": "Bhaktapur,Chitawan,Kathmandu,Lalitpur",
+    "publish": "No",
+    "datestart": "2024-05-01T07:00:00.000Z",
+    "dateend": "2024-10-31T07:00:00.000Z"
   },
   {
     "country": "Liechtenstein",
@@ -11438,7 +11438,7 @@
     "svspc": "SV",
     "region": "Pichincha",
     "districts": "Quito",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-02-01T08:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -11468,7 +11468,7 @@
     "svspc": "SV",
     "region": "Pichincha",
     "districts": "Machachi",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -11518,7 +11518,7 @@
     "svspc": "SV",
     "region": "Alajuela",
     "districts": "Alajuela",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-08-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -11528,7 +11528,7 @@
     "svspc": "SV",
     "region": "Alajuela",
     "districts": "Turrucares",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-08-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -11538,7 +11538,7 @@
     "svspc": "SV",
     "region": "Alajuela",
     "districts": "Atenas",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -11548,7 +11548,7 @@
     "svspc": "SV",
     "region": "Alajuela",
     "districts": "Grecia",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -11558,7 +11558,7 @@
     "svspc": "SV",
     "region": "Alajuela",
     "districts": "Palmares",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -11568,7 +11568,7 @@
     "svspc": "SV",
     "region": "Alajuela",
     "districts": "San Ramon",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -11668,7 +11668,7 @@
     "svspc": "SV",
     "region": "Central",
     "districts": "San Antonio",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-07-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -11678,7 +11678,7 @@
     "svspc": "SV",
     "region": "Central",
     "districts": "Villa Elisa",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-07-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -11688,7 +11688,7 @@
     "svspc": "SV",
     "region": "Central",
     "districts": "Itaugua",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-07-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -11698,7 +11698,7 @@
     "svspc": "SV",
     "region": "Central",
     "districts": "Limpio",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-07-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -11708,7 +11708,7 @@
     "svspc": "SV",
     "region": "Central",
     "districts": "Nemby",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-07-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -11718,7 +11718,7 @@
     "svspc": "SV",
     "region": "Central",
     "districts": "Areguá",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-07-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -11728,7 +11728,7 @@
     "svspc": "SV",
     "region": "Central",
     "districts": "Juan Augusto Saldívar",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-07-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -11738,7 +11738,7 @@
     "svspc": "SV",
     "region": "Presidente Hayes",
     "districts": "Villa Hayes",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -11748,7 +11748,7 @@
     "svspc": "SV",
     "region": "Caaguazú",
     "districts": "Coronel Oviedo",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -11758,7 +11758,7 @@
     "svspc": "SV",
     "region": "Caaguazú",
     "districts": "Caaguazú",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -11838,7 +11838,7 @@
     "svspc": "SV",
     "region": "Mwulire",
     "districts": "Mwulire",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-10-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -11878,7 +11878,7 @@
     "svspc": "SV",
     "region": "Rutonde",
     "districts": "Rutonde",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-10-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -11898,7 +11898,7 @@
     "svspc": "SV",
     "region": "Akadyr",
     "districts": "Akadyr",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -11908,7 +11908,7 @@
     "svspc": "SV",
     "region": "Akkystau",
     "districts": "Akkystau",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-12-01T08:00:00.000Z"
   },
@@ -11918,7 +11918,7 @@
     "svspc": "SV",
     "region": "Aksu-Ayuly",
     "districts": "Aksu-Ayuly",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-12-01T08:00:00.000Z"
   },
@@ -11928,7 +11928,7 @@
     "svspc": "SV",
     "region": "Aktobe",
     "districts": "Aktobe",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-11-01T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
   },
@@ -11948,7 +11948,7 @@
     "svspc": "SV",
     "region": "Arshaly",
     "districts": "Arshaly",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-11-01T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
   },
@@ -11958,7 +11958,7 @@
     "svspc": "SV",
     "region": "Astana",
     "districts": "Astana",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -11968,7 +11968,7 @@
     "svspc": "SV",
     "region": "Atbasar",
     "districts": "Atbasar",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-10-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -11978,7 +11978,7 @@
     "svspc": "SV",
     "region": "Atyrau",
     "districts": "Atyrau",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-12-01T08:00:00.000Z",
     "dateend": "2024-12-01T08:00:00.000Z"
   },
@@ -11988,7 +11988,7 @@
     "svspc": "SV",
     "region": "Balkashino",
     "districts": "Balkashino",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-10-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -11998,7 +11998,7 @@
     "svspc": "SV",
     "region": "Balkhash",
     "districts": "Balkhash",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-12-01T08:00:00.000Z"
   },
@@ -12018,7 +12018,7 @@
     "svspc": "SV",
     "region": "Beyneu",
     "districts": "Beyneu",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-12-01T08:00:00.000Z",
     "dateend": "2024-12-01T08:00:00.000Z"
   },
@@ -12028,7 +12028,7 @@
     "svspc": "SV",
     "region": "East Kounradskiy",
     "districts": "East Kounradskiy",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -12058,7 +12058,7 @@
     "svspc": "SV",
     "region": "Karabalyk",
     "districts": "Karabalyk",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-10-01T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
   },
@@ -12068,7 +12068,7 @@
     "svspc": "SV",
     "region": "Karaganda",
     "districts": "Karaganda",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-08-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -12078,7 +12078,7 @@
     "svspc": "SV",
     "region": "Kaztalovka",
     "districts": "Kaztalovka",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-11-01T07:00:00.000Z",
     "dateend": "2024-12-01T08:00:00.000Z"
   },
@@ -12088,7 +12088,7 @@
     "svspc": "SV",
     "region": "Kokshetau",
     "districts": "Kokshetau",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-10-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -12098,7 +12098,7 @@
     "svspc": "SV",
     "region": "Kostanay",
     "districts": "Kostanay",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-10-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -12108,7 +12108,7 @@
     "svspc": "SV",
     "region": "Krasilovka",
     "districts": "Krasilovka",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-12-01T08:00:00.000Z",
     "dateend": "2024-12-01T08:00:00.000Z"
   },
@@ -12118,7 +12118,7 @@
     "svspc": "SV",
     "region": "Krasnoznamenskoe",
     "districts": "Krasnoznamenskoe",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-10-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -12128,7 +12128,7 @@
     "svspc": "SV",
     "region": "Labay",
     "districts": "Labay",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-12-01T08:00:00.000Z",
     "dateend": "2024-12-01T08:00:00.000Z"
   },
@@ -12138,7 +12138,7 @@
     "svspc": "SV",
     "region": "Lisakovsk",
     "districts": "Lisakovsk",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-11-01T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
   },
@@ -12148,7 +12148,7 @@
     "svspc": "SV",
     "region": "Makinsk",
     "districts": "Makinsk",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-10-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -12178,7 +12178,7 @@
     "svspc": "SV",
     "region": "Novotroitskoye",
     "districts": "Novotroitskoye",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-11-01T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
   },
@@ -12198,7 +12198,7 @@
     "svspc": "SV",
     "region": "Ozernoye",
     "districts": "Ozernoye",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-10-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -12208,7 +12208,7 @@
     "svspc": "SV",
     "region": "P. Kachar",
     "districts": "P. Kachar",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-10-01T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
   },
@@ -12228,7 +12228,7 @@
     "svspc": "SV",
     "region": "Petropavl",
     "districts": "Petropavl",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-10-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -12238,7 +12238,7 @@
     "svspc": "SV",
     "region": "Poselok Ubagan",
     "districts": "Poselok Ubagan",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-10-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -12258,7 +12258,7 @@
     "svspc": "SV",
     "region": "Rudny",
     "districts": "Rudny",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-10-01T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
   },
@@ -12268,7 +12268,7 @@
     "svspc": "SV",
     "region": "Saykhin",
     "districts": "Saykhin",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-12-01T08:00:00.000Z",
     "dateend": "2024-12-01T08:00:00.000Z"
   },
@@ -12298,7 +12298,7 @@
     "svspc": "SV",
     "region": "Shakhtinsk",
     "districts": "Shakhtinsk",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -12308,7 +12308,7 @@
     "svspc": "SV",
     "region": "Shapai",
     "districts": "Shapai",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-11-01T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
   },
@@ -12328,7 +12328,7 @@
     "svspc": "SV",
     "region": "Shetpe",
     "districts": "Shetpe",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-12-01T08:00:00.000Z",
     "dateend": "2024-12-01T08:00:00.000Z"
   },
@@ -12338,7 +12338,7 @@
     "svspc": "SV",
     "region": "Shortandy",
     "districts": "Shortandy",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-10-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -12348,7 +12348,7 @@
     "svspc": "SV",
     "region": "Shyngyrlau",
     "districts": "Shyngyrlau",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-11-01T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
   },
@@ -12358,7 +12358,7 @@
     "svspc": "SV",
     "region": "Suyindik",
     "districts": "Suyindik",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-12-01T08:00:00.000Z",
     "dateend": "2024-12-01T08:00:00.000Z"
   },
@@ -12378,7 +12378,7 @@
     "svspc": "SV",
     "region": "Tasqala",
     "districts": "Tasqala",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-11-01T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
   },
@@ -12388,7 +12388,7 @@
     "svspc": "SV",
     "region": "Tauchik",
     "districts": "Tauchik",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-12-01T08:00:00.000Z",
     "dateend": "2024-12-01T08:00:00.000Z"
   },
@@ -12398,7 +12398,7 @@
     "svspc": "SV",
     "region": "Uralsk",
     "districts": "Uralsk",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-11-01T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
   },
@@ -12408,7 +12408,7 @@
     "svspc": "SV",
     "region": "Vvedenka",
     "districts": "Vvedenka",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-10-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -12418,7 +12418,7 @@
     "svspc": "SV",
     "region": "Zerenda",
     "districts": "Zerenda",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-10-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -12428,7 +12428,7 @@
     "svspc": "SV",
     "region": "Zhaksy",
     "districts": "Zhaksy",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-10-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -12438,7 +12438,7 @@
     "svspc": "SV",
     "region": "Zhalpaqtal",
     "districts": "Zhalpaqtal",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-11-01T07:00:00.000Z",
     "dateend": "2024-12-01T08:00:00.000Z"
   },
@@ -12448,7 +12448,7 @@
     "svspc": "SV",
     "region": "Zhaltyr",
     "districts": "Zhaltyr",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-10-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -12458,7 +12458,7 @@
     "svspc": "SV",
     "region": "Zhanaozen",
     "districts": "Zhanaozen",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-12-01T08:00:00.000Z",
     "dateend": "2024-12-01T08:00:00.000Z"
   },
@@ -12468,7 +12468,7 @@
     "svspc": "SV",
     "region": "Zhanaqala",
     "districts": "Zhanaqala",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-11-01T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
   },
@@ -12478,7 +12478,7 @@
     "svspc": "SV",
     "region": "Zhanybek",
     "districts": "Zhanybek",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-12-01T08:00:00.000Z",
     "dateend": "2024-12-01T08:00:00.000Z"
   },
@@ -12548,7 +12548,7 @@
     "svspc": "SV",
     "region": "Tharaka-Nithi County",
     "districts": "Chuka",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-10-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -12788,7 +12788,7 @@
     "svspc": "SV",
     "region": "Kirinyaga County",
     "districts": "Makuyu",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-02-01T08:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -12888,7 +12888,7 @@
     "svspc": "SV",
     "region": "Kitui County",
     "districts": "Mwingi",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-02-01T08:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -12898,7 +12898,7 @@
     "svspc": "SV",
     "region": "Kajiado County",
     "districts": "Nairobi",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-02-01T08:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -13118,7 +13118,7 @@
     "svspc": "SV",
     "region": "Adana",
     "districts": "Adana",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-06-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -13238,7 +13238,7 @@
     "svspc": "SV",
     "region": "Antakya",
     "districts": "Antakya",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -13248,7 +13248,7 @@
     "svspc": "SV",
     "region": "Antalya",
     "districts": "Antalya",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -13308,7 +13308,7 @@
     "svspc": "SV",
     "region": "Avşa",
     "districts": "Avşa",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -13328,7 +13328,7 @@
     "svspc": "SV",
     "region": "Ayrancı",
     "districts": "Ayrancı",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -13518,7 +13518,7 @@
     "svspc": "SV",
     "region": "Ceyhan",
     "districts": "Ceyhan",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -13618,7 +13618,7 @@
     "svspc": "SV",
     "region": "Dörtyol",
     "districts": "Dörtyol",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -13658,7 +13658,7 @@
     "svspc": "SV",
     "region": "Erdek",
     "districts": "Erdek",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -13788,7 +13788,7 @@
     "svspc": "SV",
     "region": "İmamoğlu",
     "districts": "İmamoğlu",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -13858,7 +13858,7 @@
     "svspc": "SV",
     "region": "Kadirli",
     "districts": "Kadirli",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -13878,7 +13878,7 @@
     "svspc": "SV",
     "region": "Kahramanmaraş",
     "districts": "Kahramanmaraş",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -13928,7 +13928,7 @@
     "svspc": "SV",
     "region": "Karapınar",
     "districts": "Karapınar",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -14048,7 +14048,7 @@
     "svspc": "SV",
     "region": "Kozan",
     "districts": "Kozan",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -14118,7 +14118,7 @@
     "svspc": "SV",
     "region": "Mersin",
     "districts": "Mersin",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-06-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -14128,7 +14128,7 @@
     "svspc": "SV",
     "region": "Mut",
     "districts": "Mut",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -14188,7 +14188,7 @@
     "svspc": "SV",
     "region": "Osmaniye",
     "districts": "Osmaniye",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -14278,7 +14278,7 @@
     "svspc": "SV",
     "region": "Saimbeyli",
     "districts": "Saimbeyli",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -14408,7 +14408,7 @@
     "svspc": "SV",
     "region": "Tarsus",
     "districts": "Tarsus",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-06-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -14638,7 +14638,7 @@
     "svspc": "SV",
     "region": "Kunene",
     "districts": "Kunene",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-02-01T08:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -14987,7 +14987,27 @@
     "code": "GH",
     "svspc": "SV",
     "region": "Accra",
+    "districts": "Ablekuma North",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
     "districts": "Accra Metropolis",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "Kwadaso",
     "publish": "No",
     "datestart": "2024-08-01T07:00:00.000Z",
     "dateend": "2024-08-01T07:00:00.000Z"
@@ -15037,6 +15057,16 @@
     "code": "GH",
     "svspc": "SV",
     "region": "Accra",
+    "districts": "La Dade-Kotopon",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-08-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
     "districts": "Ayawaso Central",
     "publish": "No",
     "datestart": "2024-08-01T07:00:00.000Z",
@@ -15068,16 +15098,6 @@
     "svspc": "SV",
     "region": "Accra",
     "districts": "Okpoi Gonno",
-    "publish": "No",
-    "datestart": "2024-08-01T07:00:00.000Z",
-    "dateend": "2024-08-01T07:00:00.000Z"
-  },
-  {
-    "country": "Ghana",
-    "code": "GH",
-    "svspc": "SV",
-    "region": "N6_Accra-Kumasi",
-    "districts": "National Highway - N6",
     "publish": "No",
     "datestart": "2024-08-01T07:00:00.000Z",
     "dateend": "2024-08-01T07:00:00.000Z"
@@ -15156,21 +15176,21 @@
     "country": "Ghana",
     "code": "GH",
     "svspc": "SV",
-    "region": "Kumasi",
-    "districts": "Atwima Boko",
-    "publish": "No",
+    "region": "N6_Accra-Kumasi",
+    "districts": "National Highway - N6",
+    "publish": "Yes",
     "datestart": "2024-08-01T07:00:00.000Z",
-    "dateend": "2024-08-01T07:00:00.000Z"
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Ghana",
     "code": "GH",
     "svspc": "SV",
     "region": "Kumasi",
-    "districts": "Kwadaso",
-    "publish": "No",
+    "districts": "Atwima Boko",
+    "publish": "Yes",
     "datestart": "2024-08-01T07:00:00.000Z",
-    "dateend": "2024-08-01T07:00:00.000Z"
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Ghana",
@@ -15178,7 +15198,17 @@
     "svspc": "SV",
     "region": "Accra",
     "districts": "Ledzokuku Municipal",
-    "publish": "Yes",
+    "publish": "No",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
+    "districts": "Krowor Municipal",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -15190,7 +15220,17 @@
     "districts": "Teshie",
     "publish": "Yes",
     "datestart": "2024-09-01T07:00:00.000Z",
-    "dateend": "2024-09-01T07:00:00.000Z"
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
+    "districts": "Ga Central Municipal",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Ghana",
@@ -15200,57 +15240,17 @@
     "districts": "Okaikoi North Municipal",
     "publish": "Yes",
     "datestart": "2024-09-01T07:00:00.000Z",
-    "dateend": "2024-09-01T07:00:00.000Z"
-  },
-  {
-    "country": "Ghana",
-    "code": "GH",
-    "svspc": "SV",
-    "region": "Accra",
-    "districts": "Ayawaso West Municipal",
-    "publish": "Yes",
-    "datestart": "2024-09-01T07:00:00.000Z",
-    "dateend": "2024-09-01T07:00:00.000Z"
-  },
-  {
-    "country": "Ghana",
-    "code": "GH",
-    "svspc": "SV",
-    "region": "Accra",
-    "districts": "Awutu Senya East Municipal",
-    "publish": "Yes",
-    "datestart": "2024-09-01T07:00:00.000Z",
-    "dateend": "2024-09-01T07:00:00.000Z"
-  },
-  {
-    "country": "Ghana",
-    "code": "GH",
-    "svspc": "SV",
-    "region": "Accra",
-    "districts": "Gomoa East",
-    "publish": "Yes",
-    "datestart": "2024-09-01T07:00:00.000Z",
-    "dateend": "2024-09-01T07:00:00.000Z"
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Ghana",
     "code": "GH",
     "svspc": "SV",
     "region": "Kumasi",
-    "districts": "KMA-Nhyiaeso",
+    "districts": "Oforikrom Municipal",
     "publish": "Yes",
     "datestart": "2024-09-01T07:00:00.000Z",
-    "dateend": "2024-09-01T07:00:00.000Z"
-  },
-  {
-    "country": "Ghana",
-    "code": "GH",
-    "svspc": "SV",
-    "region": "Kumasi",
-    "districts": "Asokwa Municipal",
-    "publish": "Yes",
-    "datestart": "2024-09-01T07:00:00.000Z",
-    "dateend": "2024-09-01T07:00:00.000Z"
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Ghana",
@@ -15260,7 +15260,7 @@
     "districts": "Suame Municipal",
     "publish": "Yes",
     "datestart": "2024-09-01T07:00:00.000Z",
-    "dateend": "2024-09-01T07:00:00.000Z"
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Ghana",
@@ -15268,9 +15268,19 @@
     "svspc": "SV",
     "region": "Kumasi",
     "districts": "KMA-Manhyia North",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "Ejisu Municipal",
+    "publish": "Yes",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Ghana",
@@ -15280,37 +15290,7 @@
     "districts": "Asokore Mampong Municipal",
     "publish": "Yes",
     "datestart": "2024-09-01T07:00:00.000Z",
-    "dateend": "2024-09-01T07:00:00.000Z"
-  },
-  {
-    "country": "Ghana",
-    "code": "GH",
-    "svspc": "SV",
-    "region": "Kumasi",
-    "districts": "Bekwai Municipal",
-    "publish": "Yes",
-    "datestart": "2024-09-01T07:00:00.000Z",
-    "dateend": "2024-09-01T07:00:00.000Z"
-  },
-  {
-    "country": "Ghana",
-    "code": "GH",
-    "svspc": "SV",
-    "region": "Accra",
-    "districts": "Tema West Municipal",
-    "publish": "Yes",
-    "datestart": "2024-10-01T07:00:00.000Z",
-    "dateend": "2024-10-01T07:00:00.000Z"
-  },
-  {
-    "country": "Ghana",
-    "code": "GH",
-    "svspc": "SV",
-    "region": "Accra",
-    "districts": "Krowor Municipal",
-    "publish": "Yes",
-    "datestart": "2024-10-01T07:00:00.000Z",
-    "dateend": "2024-10-01T07:00:00.000Z"
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Ghana",
@@ -15319,68 +15299,18 @@
     "region": "Kumasi",
     "districts": "Kwabre East",
     "publish": "Yes",
-    "datestart": "2024-10-01T07:00:00.000Z",
-    "dateend": "2024-10-01T07:00:00.000Z"
-  },
-  {
-    "country": "Ghana",
-    "code": "GH",
-    "svspc": "SV",
-    "region": "Kumasi",
-    "districts": "Afigya Kwabre South",
-    "publish": "Yes",
-    "datestart": "2024-10-01T07:00:00.000Z",
-    "dateend": "2024-10-01T07:00:00.000Z"
-  },
-  {
-    "country": "Ghana",
-    "code": "GH",
-    "svspc": "SV",
-    "region": "Kumasi",
-    "districts": "Sekyere South",
-    "publish": "Yes",
-    "datestart": "2024-10-01T07:00:00.000Z",
-    "dateend": "2024-10-01T07:00:00.000Z"
-  },
-  {
-    "country": "Ghana",
-    "code": "GH",
-    "svspc": "SV",
-    "region": "Kumasi",
-    "districts": "Juaben Municipal",
-    "publish": "Yes",
-    "datestart": "2024-10-01T07:00:00.000Z",
-    "dateend": "2024-10-01T07:00:00.000Z"
-  },
-  {
-    "country": "Ghana",
-    "code": "GH",
-    "svspc": "SV",
-    "region": "Kumasi",
-    "districts": "Ejisu Municipal",
-    "publish": "Yes",
-    "datestart": "2024-10-01T07:00:00.000Z",
-    "dateend": "2024-10-01T07:00:00.000Z"
-  },
-  {
-    "country": "Ghana",
-    "code": "GH",
-    "svspc": "SV",
-    "region": "Kumasi",
-    "districts": "Oforikrom Municipal",
-    "publish": "Yes",
-    "datestart": "2024-10-01T07:00:00.000Z",
-    "dateend": "2024-10-01T07:00:00.000Z"
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Ghana",
     "code": "GH",
     "svspc": "SV",
     "region": "Accra",
-    "districts": "Kpone Katamanso Municipal",
-    "publish": "Yes",
-    "datestart": "2024-10-01T07:00:00.000Z",
-    "dateend": "2024-10-01T07:00:00.000Z"
+    "districts": "Ayawaso West Municipal",
+    "publish": "No",
+    "datestart": "2024-09-01T07:00:00.000Z",
+    "dateend": "2024-09-01T07:00:00.000Z"
   },
   {
     "country": "Ghana",
@@ -15389,18 +15319,8 @@
     "region": "Accra",
     "districts": "Adentan Municipal",
     "publish": "Yes",
-    "datestart": "2024-10-01T07:00:00.000Z",
-    "dateend": "2024-10-01T07:00:00.000Z"
-  },
-  {
-    "country": "Ghana",
-    "code": "GH",
-    "svspc": "SV",
-    "region": "Accra",
-    "districts": "Akwapim South Municipal",
-    "publish": "Yes",
-    "datestart": "2024-10-01T07:00:00.000Z",
-    "dateend": "2024-10-01T07:00:00.000Z"
+    "datestart": "2024-09-02T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Ghana",
@@ -15409,87 +15329,17 @@
     "region": "Accra",
     "districts": "Ga East Municipal",
     "publish": "Yes",
-    "datestart": "2024-10-01T07:00:00.000Z",
-    "dateend": "2024-10-01T07:00:00.000Z"
+    "datestart": "2024-09-03T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Ghana",
     "code": "GH",
     "svspc": "SV",
     "region": "Accra",
-    "districts": "Ga West Municipal",
+    "districts": "Weija Gbawe Municipal",
     "publish": "Yes",
     "datestart": "2024-10-01T07:00:00.000Z",
-    "dateend": "2024-10-01T07:00:00.000Z"
-  },
-  {
-    "country": "Ghana",
-    "code": "GH",
-    "svspc": "SV",
-    "region": "Kumasi",
-    "districts": "Atwima Kwanwoma",
-    "publish": "Yes",
-    "datestart": "2024-10-01T07:00:00.000Z",
-    "dateend": "2024-10-01T07:00:00.000Z"
-  },
-  {
-    "country": "Ghana",
-    "code": "GH",
-    "svspc": "SV",
-    "region": "Kumasi",
-    "districts": "Kwadaso Municipal",
-    "publish": "Yes",
-    "datestart": "2024-10-01T07:00:00.000Z",
-    "dateend": "2024-10-01T07:00:00.000Z"
-  },
-  {
-    "country": "Ghana",
-    "code": "GH",
-    "svspc": "SV",
-    "region": "Kumasi",
-    "districts": "Afigya Kwabre North",
-    "publish": "Yes",
-    "datestart": "2024-10-01T07:00:00.000Z",
-    "dateend": "2024-10-01T07:00:00.000Z"
-  },
-  {
-    "country": "Ghana",
-    "code": "GH",
-    "svspc": "SV",
-    "region": "Kumasi",
-    "districts": "Atwima Nwabiagya South Municipal",
-    "publish": "Yes",
-    "datestart": "2024-10-01T07:00:00.000Z",
-    "dateend": "2024-10-01T07:00:00.000Z"
-  },
-  {
-    "country": "Ghana",
-    "code": "GH",
-    "svspc": "SV",
-    "region": "Kumasi",
-    "districts": "Atwima Nwabiagya North",
-    "publish": "Yes",
-    "datestart": "2024-10-01T07:00:00.000Z",
-    "dateend": "2024-10-01T07:00:00.000Z"
-  },
-  {
-    "country": "Ghana",
-    "code": "GH",
-    "svspc": "SV",
-    "region": "Kumasi",
-    "districts": "Bosomtwi",
-    "publish": "Yes",
-    "datestart": "2024-10-01T07:00:00.000Z",
-    "dateend": "2024-10-01T07:00:00.000Z"
-  },
-  {
-    "country": "Ghana",
-    "code": "GH",
-    "svspc": "SV",
-    "region": "Accra",
-    "districts": "Ga Central Municipal",
-    "publish": "Yes",
-    "datestart": "2024-11-01T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
@@ -15499,7 +15349,7 @@
     "region": "Accra",
     "districts": "Ga North Municipal",
     "publish": "Yes",
-    "datestart": "2024-11-01T07:00:00.000Z",
+    "datestart": "2024-10-01T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
@@ -15508,6 +15358,186 @@
     "svspc": "SV",
     "region": "Accra",
     "districts": "Ga South Municipal",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "Atwima Kwanwoma",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "KMA-Nhyiaeso",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "Asokwa Municipal",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "Juaben Municipal",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "Sekyere South",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "Afigya Kwabre South",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "Afigya Kwabre North",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "Kwadaso Municipal",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "Atwima Nwabiagya North",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "Atwima Nwabiagya South Municipal",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "Bekwai Municipal",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Kumasi",
+    "districts": "Bosomtwi",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
+    "districts": "Tema West Municipal",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
+    "districts": "Ga West Municipal",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
+    "districts": "Awutu Senya East Municipal",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
+    "districts": "Gomoa East",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
+    "districts": "La Nkwantanang Madina Municipal",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
+    "districts": "Akwapim South Municipal",
     "publish": "Yes",
     "datestart": "2024-11-01T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
@@ -15537,7 +15567,7 @@
     "code": "GH",
     "svspc": "SV",
     "region": "Tema",
-    "districts": "Ningo-Prampram",
+    "districts": "Kpone Katamanso Municipal",
     "publish": "Yes",
     "datestart": "2024-11-01T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
@@ -15556,8 +15586,8 @@
     "country": "Ghana",
     "code": "GH",
     "svspc": "SV",
-    "region": "R62_juaso-nsawam",
-    "districts": "Juaso-Nsawam RD",
+    "region": "Tema",
+    "districts": "Ningo-Prampram",
     "publish": "Yes",
     "datestart": "2024-11-01T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
@@ -15566,41 +15596,11 @@
     "country": "Ghana",
     "code": "GH",
     "svspc": "SV",
-    "region": "Accra",
-    "districts": "Upper West Akim",
+    "region": "R62_juaso-nsawam",
+    "districts": "Juaso-Nsawam RD",
     "publish": "Yes",
-    "datestart": "2024-12-01T08:00:00.000Z",
-    "dateend": "2024-12-01T08:00:00.000Z"
-  },
-  {
-    "country": "Ghana",
-    "code": "GH",
-    "svspc": "SV",
-    "region": "Accra",
-    "districts": "Weija Gbawe Municipal",
-    "publish": "Yes",
-    "datestart": "2024-09-01T07:00:00.000Z",
-    "dateend": "2024-12-01T08:00:00.000Z"
-  },
-  {
-    "country": "Ghana",
-    "code": "GH",
-    "svspc": "SV",
-    "region": "Tema",
-    "districts": "Ashaiman Municipal",
-    "publish": "Yes",
-    "datestart": "2024-12-01T08:00:00.000Z",
-    "dateend": "2024-12-01T08:00:00.000Z"
-  },
-  {
-    "country": "Ghana",
-    "code": "GH",
-    "svspc": "SV",
-    "region": "Accra",
-    "districts": "Ablekuma North",
-    "publish": "No",
-    "datestart": "2024-07-01T07:00:00.000Z",
-    "dateend": "2024-08-01T07:00:00.000Z"
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Serbia",
@@ -15628,7 +15628,7 @@
     "svspc": "SV",
     "region": "New Belgrade",
     "districts": "Belgrade",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-08-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -15638,7 +15638,7 @@
     "svspc": "SV",
     "region": "Palilula",
     "districts": "Belgrade",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-08-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -15648,7 +15648,7 @@
     "svspc": "SV",
     "region": "Knic",
     "districts": "Šumadija",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-08-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -15658,7 +15658,7 @@
     "svspc": "SV",
     "region": "Kragujevac",
     "districts": "Šumadija",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-08-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -15668,7 +15668,7 @@
     "svspc": "SV",
     "region": "Vozdovac",
     "districts": "Belgrade",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-08-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -15678,7 +15678,7 @@
     "svspc": "SV",
     "region": "Novi Sad",
     "districts": "Novi Sad",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-08-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -15688,7 +15688,7 @@
     "svspc": "SV",
     "region": "Srbobran",
     "districts": "South Bačka District",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-08-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -15698,7 +15698,7 @@
     "svspc": "SV",
     "region": "Sremski Karlovci",
     "districts": "Srem",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-08-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -15708,7 +15708,7 @@
     "svspc": "SV",
     "region": "Temerin",
     "districts": "South Bačka District",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-08-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -15718,7 +15718,7 @@
     "svspc": "SV",
     "region": "Vrbas",
     "districts": "South Bačka District",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-08-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -15728,7 +15728,7 @@
     "svspc": "SV",
     "region": "Kraljevo",
     "districts": "Raška District",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -15738,7 +15738,7 @@
     "svspc": "SV",
     "region": "Batocina",
     "districts": "Šumadija",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -15748,7 +15748,7 @@
     "svspc": "SV",
     "region": "Novi Pazar",
     "districts": "Novi Pazar",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -15758,7 +15758,7 @@
     "svspc": "SV",
     "region": "Tutin",
     "districts": "Raška District",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -15768,7 +15768,7 @@
     "svspc": "SV",
     "region": "Bac",
     "districts": "South Bačka District",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -15778,7 +15778,7 @@
     "svspc": "SV",
     "region": "Backa Palanka",
     "districts": "South Bačka District",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -15788,7 +15788,7 @@
     "svspc": "SV",
     "region": "Titel",
     "districts": "South Bačka District",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -15806,8 +15806,8 @@
     "country": "Serbia",
     "code": "RS",
     "svspc": "SV",
-    "region": "Raska",
-    "districts": "Raška District",
+    "region": "Raška District",
+    "districts": "Raska",
     "publish": "Yes",
     "datestart": "2024-10-01T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
@@ -15816,8 +15816,8 @@
     "country": "Serbia",
     "code": "RS",
     "svspc": "SV",
-    "region": "Vrnjacka Banja",
-    "districts": "Raška District",
+    "region": "Raška District",
+    "districts": "Vrnjacka Banja",
     "publish": "Yes",
     "datestart": "2024-10-01T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
@@ -15826,8 +15826,8 @@
     "country": "Serbia",
     "code": "RS",
     "svspc": "SV",
-    "region": "Indija",
-    "districts": "Srem",
+    "region": "Srem",
+    "districts": "Indija",
     "publish": "Yes",
     "datestart": "2024-10-01T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
@@ -15846,8 +15846,8 @@
     "country": "Serbia",
     "code": "RS",
     "svspc": "SV",
-    "region": "Sid",
-    "districts": "Srem",
+    "region": "Srem",
+    "districts": "Sid",
     "publish": "Yes",
     "datestart": "2024-10-01T07:00:00.000Z",
     "dateend": "2024-11-01T07:00:00.000Z"
@@ -15877,7 +15877,7 @@
     "code": "RS",
     "svspc": "SV",
     "region": "Irig",
-    "districts": "Srem",
+    "districts": "Irig",
     "publish": "Yes",
     "datestart": "2024-11-01T07:00:00.000Z",
     "dateend": "2024-12-01T08:00:00.000Z"
@@ -15887,7 +15887,7 @@
     "code": "RS",
     "svspc": "SV",
     "region": "Pecinci",
-    "districts": "Srem",
+    "districts": "Pecinci",
     "publish": "Yes",
     "datestart": "2024-11-01T07:00:00.000Z",
     "dateend": "2024-12-01T08:00:00.000Z"
@@ -15897,7 +15897,7 @@
     "code": "RS",
     "svspc": "SV",
     "region": "Ruma",
-    "districts": "Srem",
+    "districts": "Ruma",
     "publish": "Yes",
     "datestart": "2024-11-01T07:00:00.000Z",
     "dateend": "2024-12-01T08:00:00.000Z"
@@ -15906,8 +15906,8 @@
     "country": "Serbia",
     "code": "RS",
     "svspc": "SV",
-    "region": "Sremska Mitrovica",
-    "districts": "Srem",
+    "region": "Srem",
+    "districts": "Sremska Mitrovica",
     "publish": "Yes",
     "datestart": "2024-11-01T07:00:00.000Z",
     "dateend": "2024-12-01T08:00:00.000Z"
@@ -15918,7 +15918,7 @@
     "svspc": "SV",
     "region": "Sabah",
     "districts": "Ranau",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -15928,7 +15928,7 @@
     "svspc": "SV",
     "region": "Sabah",
     "districts": "Kuala Langat",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -15938,7 +15938,7 @@
     "svspc": "SV",
     "region": "Selangor",
     "districts": "Limbang",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -15948,7 +15948,7 @@
     "svspc": "SV",
     "region": "Sarawak",
     "districts": "Jambongan",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -15958,7 +15958,7 @@
     "svspc": "SV",
     "region": "Sabah",
     "districts": "Beluran",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-09-01T07:00:00.000Z",
     "dateend": "2024-09-01T07:00:00.000Z"
   },
@@ -15968,7 +15968,7 @@
     "svspc": "SV",
     "region": "Sabah",
     "districts": "Sandakan",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-10-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -15978,7 +15978,7 @@
     "svspc": "SV",
     "region": "Sabah",
     "districts": "Kinabatangan",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-10-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -15988,7 +15988,7 @@
     "svspc": "SV",
     "region": "Sabah",
     "districts": "Pulau Sebatik",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-10-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -15998,7 +15998,7 @@
     "svspc": "SV",
     "region": "Sabah",
     "districts": "Pulau Semporna",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-10-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -16008,7 +16008,7 @@
     "svspc": "SV",
     "region": "Sabah",
     "districts": "Kota Marudu",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-10-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -16018,7 +16018,7 @@
     "svspc": "SV",
     "region": "Sabah",
     "districts": "Kudat",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-10-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -16028,7 +16028,7 @@
     "svspc": "SV",
     "region": "Sabah",
     "districts": "Keningau",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-10-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -16038,7 +16038,7 @@
     "svspc": "SV",
     "region": "Sabah",
     "districts": "Timor Laut",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-10-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -16048,7 +16048,7 @@
     "svspc": "SV",
     "region": "Penang",
     "districts": "Barat Daya",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-10-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -16058,7 +16058,7 @@
     "svspc": "SV",
     "region": "Penang",
     "districts": "Kuala Lumpur",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-10-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -16226,21 +16226,11 @@
     "country": "Nepal",
     "code": "NP",
     "svspc": "SV",
-    "region": "Bagmati",
-    "districts": "Bhaktapur,Chitwan,Lalitpur",
-    "publish": "Yes",
-    "datestart": "2024-08-01T07:00:00.000Z",
-    "dateend": "2024-10-31T07:00:00.000Z"
-  },
-  {
-    "country": "Nepal",
-    "code": "NP",
-    "svspc": "SV",
     "region": "Madhesh",
-    "districts": "Bara,Mahottari,Parsa,Rautahat,Dhanusa,Sarlahi,Siraha, Saptari",
-    "publish": "Yes",
+    "districts": "Bara,Dhanusa,Mahottari,Parsa,Rautahat,Sarlahi",
+    "publish": "No",
     "datestart": "2024-08-01T07:00:00.000Z",
-    "dateend": "2024-12-31T08:00:00.000Z"
+    "dateend": "2024-09-01T07:00:00.000Z"
   },
   {
     "country": "Nepal",
@@ -16248,7 +16238,7 @@
     "svspc": "SV",
     "region": "Gandaki",
     "districts": "Kaski",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2024-05-01T07:00:00.000Z",
     "dateend": "2024-10-01T07:00:00.000Z"
   },
@@ -16257,17 +16247,17 @@
     "code": "NP",
     "svspc": "SV",
     "region": "Koshi",
-    "districts": "Morang, Sunsari, Jhapa",
+    "districts": "Jhapa,Morang,Sunsari,Udayapur, Arun,Pauwa Dunma,Dharmadevi,Laligurans,Myanglung",
     "publish": "Yes",
     "datestart": "2024-05-01T07:00:00.000Z",
-    "dateend": "2024-12-31T08:00:00.000Z"
+    "dateend": "2024-11-12T08:00:00.000Z"
   },
   {
     "country": "Nepal",
     "code": "NP",
     "svspc": "SV",
     "region": "Lumbini",
-    "districts": "Kapilbastu",
+    "districts": "Banke,Kapilbastu,Rupandehi",
     "publish": "Yes",
     "datestart": "2024-05-01T07:00:00.000Z",
     "dateend": "2024-11-30T08:00:00.000Z"
@@ -16278,8 +16268,718 @@
     "svspc": "SV",
     "region": "Sudur Paschim",
     "districts": "Kailali, Kanchanpur",
+    "publish": "No",
+    "datestart": "2024-08-01T07:00:00.000Z",
+    "dateend": "2024-09-30T07:00:00.000Z"
+  },
+  {
+    "country": "Costa Rica",
+    "code": "CR",
+    "svspc": "SV",
+    "region": "Alajuela",
+    "districts": "Orotina",
     "publish": "Yes",
-    "datestart": "2024-05-01T07:00:00.000Z",
-    "dateend": "2024-12-31T08:00:00.000Z"
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Costa Rica",
+    "code": "CR",
+    "svspc": "SV",
+    "region": "Puntarenas",
+    "districts": "Puntarenas",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Costa Rica",
+    "code": "CR",
+    "svspc": "SV",
+    "region": "Puntarenas",
+    "districts": "Chacarita",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Costa Rica",
+    "code": "CR",
+    "svspc": "SV",
+    "region": "Puntarenas",
+    "districts": "El Roble",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Costa Rica",
+    "code": "CR",
+    "svspc": "SV",
+    "region": "Puntarenas",
+    "districts": "Esparza",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Costa Rica",
+    "code": "CR",
+    "svspc": "SV",
+    "region": "Puntarenas",
+    "districts": "MIramar",
+    "publish": "Yes",
+    "datestart": "2024-12-01T08:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Costa Rica",
+    "code": "CR",
+    "svspc": "SV",
+    "region": "Puntarenas",
+    "districts": "Jaco",
+    "publish": "Yes",
+    "datestart": "2024-12-01T08:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Costa Rica",
+    "code": "CR",
+    "svspc": "SV",
+    "region": "Puntarenas",
+    "districts": "Quepos",
+    "publish": "Yes",
+    "datestart": "2024-12-01T08:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Puerto Rico",
+    "code": "PR",
+    "svspc": "SV",
+    "region": "Caguas",
+    "districts": "Caguas",
+    "publish": "Yes",
+    "datestart": "November '24",
+    "dateend": "November '24"
+  },
+  {
+    "country": "Puerto Rico",
+    "code": "PR",
+    "svspc": "SV",
+    "region": "Caguas",
+    "districts": "Bairoa",
+    "publish": "Yes",
+    "datestart": "November '24",
+    "dateend": "November '24"
+  },
+  {
+    "country": "Puerto Rico",
+    "code": "PR",
+    "svspc": "SV",
+    "region": "Caguas",
+    "districts": "Bairoa la 25",
+    "publish": "Yes",
+    "datestart": "November '24",
+    "dateend": "November '24"
+  },
+  {
+    "country": "Puerto Rico",
+    "code": "PR",
+    "svspc": "SV",
+    "region": "Caguas",
+    "districts": "Beatriz",
+    "publish": "Yes",
+    "datestart": "November '24",
+    "dateend": "November '24"
+  },
+  {
+    "country": "Puerto Rico",
+    "code": "PR",
+    "svspc": "SV",
+    "region": "Caguas",
+    "districts": "Borinquen",
+    "publish": "Yes",
+    "datestart": "November '24",
+    "dateend": "November '24"
+  },
+  {
+    "country": "Puerto Rico",
+    "code": "PR",
+    "svspc": "SV",
+    "region": "Caguas",
+    "districts": "Cañabón",
+    "publish": "Yes",
+    "datestart": "November '24",
+    "dateend": "November '24"
+  },
+  {
+    "country": "Puerto Rico",
+    "code": "PR",
+    "svspc": "SV",
+    "region": "Caguas",
+    "districts": "Cañaboncito",
+    "publish": "Yes",
+    "datestart": "November '24",
+    "dateend": "November '24"
+  },
+  {
+    "country": "Puerto Rico",
+    "code": "PR",
+    "svspc": "SV",
+    "region": "Caguas",
+    "districts": "Río Cañas",
+    "publish": "Yes",
+    "datestart": "November '24",
+    "dateend": "November '24"
+  },
+  {
+    "country": "Puerto Rico",
+    "code": "PR",
+    "svspc": "SV",
+    "region": "Caguas",
+    "districts": "San Antonio",
+    "publish": "Yes",
+    "datestart": "November '24",
+    "dateend": "November '24"
+  },
+  {
+    "country": "Puerto Rico",
+    "code": "PR",
+    "svspc": "SV",
+    "region": "Caguas",
+    "districts": "San Salvador",
+    "publish": "Yes",
+    "datestart": "November '24",
+    "dateend": "November '24"
+  },
+  {
+    "country": "Puerto Rico",
+    "code": "PR",
+    "svspc": "SV",
+    "region": "Caguas",
+    "districts": "Tomás de Castro",
+    "publish": "Yes",
+    "datestart": "November '24",
+    "dateend": "November '24"
+  },
+  {
+    "country": "Puerto Rico",
+    "code": "PR",
+    "svspc": "SV",
+    "region": "Caguas",
+    "districts": "Turabo",
+    "publish": "Yes",
+    "datestart": "November '24",
+    "dateend": "November '24"
+  },
+  {
+    "country": "Puerto Rico",
+    "code": "PR",
+    "svspc": "SV",
+    "region": "San Juán",
+    "districts": "San Juán",
+    "publish": "Yes",
+    "datestart": "December ' 24",
+    "dateend": "February '24"
+  },
+  {
+    "country": "Uruguay",
+    "code": "UY",
+    "svspc": "SV",
+    "region": "Montevideo",
+    "districts": "Montevideo",
+    "publish": "Yes",
+    "datestart": "November '24",
+    "dateend": "January '25"
+  },
+  {
+    "country": "Albania",
+    "code": "AL",
+    "svspc": "SV",
+    "region": "Elbasan",
+    "districts": "Lushnje",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Albania",
+    "code": "AL",
+    "svspc": "SV",
+    "region": "Mjull Bathore",
+    "districts": "Kamëz",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Albania",
+    "code": "AL",
+    "svspc": "SV",
+    "region": "Sauk",
+    "districts": "Kamëz",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Albania",
+    "code": "AL",
+    "svspc": "SV",
+    "region": "Gjirokaster",
+    "districts": "Gjirokaster",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Albania",
+    "code": "AL",
+    "svspc": "SV",
+    "region": "Pogradec",
+    "districts": "Pogradec",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Albania",
+    "code": "AL",
+    "svspc": "SV",
+    "region": "Korçë",
+    "districts": "Korçë",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Albania",
+    "code": "AL",
+    "svspc": "SV",
+    "region": "Sarande",
+    "districts": "Sarande",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Cyprus",
+    "code": "CY",
+    "svspc": "SV",
+    "region": "Koili",
+    "districts": "Paphos",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Cyprus",
+    "code": "CY",
+    "svspc": "SV",
+    "region": "Paphos",
+    "districts": "Paphos",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Cyprus",
+    "code": "CY",
+    "svspc": "SV",
+    "region": "Lakatamia",
+    "districts": "Nicosia",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Cyprus",
+    "code": "CY",
+    "svspc": "SV",
+    "region": "Larnaca",
+    "districts": "Larnaca",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Cyprus",
+    "code": "CY",
+    "svspc": "SV",
+    "region": "Aradippou",
+    "districts": "Nicosia",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Cyprus",
+    "code": "CY",
+    "svspc": "SV",
+    "region": "Dali",
+    "districts": "Nicosia",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Cyprus",
+    "code": "CY",
+    "svspc": "SV",
+    "region": "Geri",
+    "districts": "Nicosia",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Cyprus",
+    "code": "CY",
+    "svspc": "SV",
+    "region": "Latsia",
+    "districts": "Nicosia",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Cyprus",
+    "code": "CY",
+    "svspc": "SV",
+    "region": "Aglantzia",
+    "districts": "Nicosia",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Cyprus",
+    "code": "CY",
+    "svspc": "SV",
+    "region": "KatoPolemidia",
+    "districts": "Limassol",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Cyprus",
+    "code": "CY",
+    "svspc": "SV",
+    "region": "Laneia",
+    "districts": "Limassol",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Cyprus",
+    "code": "CY",
+    "svspc": "SV",
+    "region": "Lofou",
+    "districts": "Limassol",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Cyprus",
+    "code": "CY",
+    "svspc": "SV",
+    "region": "Souni-Zanakia",
+    "districts": "Limassol",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Cyprus",
+    "code": "CY",
+    "svspc": "SV",
+    "region": "Kakopetria",
+    "districts": "Nicosia",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Cyprus",
+    "code": "CY",
+    "svspc": "SV",
+    "region": "Troodos",
+    "districts": "Limassol",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Cyprus",
+    "code": "CY",
+    "svspc": "SV",
+    "region": "Kyperounta",
+    "districts": "Limassol",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Cyprus",
+    "code": "CY",
+    "svspc": "SV",
+    "region": "Pareklisia",
+    "districts": "Limassol",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Cyprus",
+    "code": "CY",
+    "svspc": "SV",
+    "region": "AgiosTychon",
+    "districts": "Limassol",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Cyprus",
+    "code": "CY",
+    "svspc": "SV",
+    "region": "Mouttagiaka",
+    "districts": "Limassol",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Cyprus",
+    "code": "CY",
+    "svspc": "SV",
+    "region": "AgiosAthanasios",
+    "districts": "Limassol",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Cyprus",
+    "code": "CY",
+    "svspc": "SV",
+    "region": "MesaGeitonia",
+    "districts": "Limassol",
+    "publish": "Yes",
+    "datestart": "2024-10-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
+    "districts": "Awutu Senya",
+    "publish": "Yes",
+    "datestart": "2024-12-01T08:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Accra",
+    "districts": "Upper West Akim",
+    "publish": "Yes",
+    "datestart": "2024-12-01T08:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "svspc": "SV",
+    "region": "Tema",
+    "districts": "Ashaiman Municipal",
+    "publish": "Yes",
+    "datestart": "2024-12-01T08:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Canindeyu",
+    "districts": "Anahi",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Canindeyu",
+    "districts": "Katueté",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Canindeyu",
+    "districts": "Francisco A. Caballero",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Canindeyu",
+    "districts": "La Paloma Del Espíritu Santo",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Canindeyu",
+    "districts": "Ko'e Rory",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Canindeyu",
+    "districts": "Salto del Guairá",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Caaguazu",
+    "districts": "San José de los Arroyos",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Caaguazu",
+    "districts": "Doctor Juan Manuel Frutos",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Caaguazu",
+    "districts": "Doctor Juan Eulogio Estigarribia",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Caaguazu",
+    "districts": "José Domingo Ocampos",
+    "publish": "Yes",
+    "datestart": "2024-12-01T08:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Alto Parana",
+    "districts": "Juan Emilio O'Leary",
+    "publish": "Yes",
+    "datestart": "2024-12-01T08:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Alto Parana",
+    "districts": "Doctor Juan León Mallorquín",
+    "publish": "Yes",
+    "datestart": "2024-12-01T08:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Alto Parana",
+    "districts": "Yguazu",
+    "publish": "Yes",
+    "datestart": "2024-12-01T08:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Itapua",
+    "districts": "Coronel Bogado",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Misiones",
+    "districts": "San Ignacio",
+    "publish": "Yes",
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Misiones",
+    "districts": "Santa Rosa",
+    "publish": "Yes",
+    "datestart": "2024-12-01T08:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Itapua",
+    "districts": "Carmen del Parana",
+    "publish": "Yes",
+    "datestart": "2024-12-01T08:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "svspc": "SV",
+    "region": "Itapua",
+    "districts": "San Juan del Parana",
+    "publish": "Yes",
+    "datestart": "2024-12-01T08:00:00.000Z",
+    "dateend": "2024-12-01T08:00:00.000Z"
   }
 ]
